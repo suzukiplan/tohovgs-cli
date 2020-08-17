@@ -55,7 +55,7 @@ git pull
 ./tohovgs music.mml
 ```
 
-デフォルトでは無限にループ再生しますが、mml ファイルの後に数字を付与することで指定回数ループでコマンドラインに復帰します。
+デフォルトでは無限にループ再生しますが、mml ファイルの後に数字を付与することで指定回数ループ再生後コマンドラインに復帰します。
 
 ```bash
 ./tohovgs music.mml 3
@@ -63,7 +63,7 @@ git pull
 
 #### Customize playlist
 
-[プレイリスト](playlist.csv) のカスタマイズは中身は簡単に編集できます。
+[プレイリスト](playlist.csv) のカスタマイズは簡単にできます。
 
 #### Customize MML
 
