@@ -73,6 +73,7 @@ MML の仕様は[こんな感じ](https://github.com/suzukiplan/vgs-mml-compiler
 
 - [playlist-wtc1.csv](playlist-wtc1.csv): 平均律クラヴィーア曲集 第 1 巻（J.S.Bach）**未完成**
 - [playlist-goldberg.csv](playlist-goldberg.csv): ゴールベルク変奏曲（J.S.Bach）**未完成**
+- [playlist-suzuki.csv](playlist-suzuki.csv): 私の自作曲
 
 ## License
 
