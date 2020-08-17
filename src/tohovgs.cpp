@@ -114,6 +114,64 @@ static int parsePlayList(const char* filename)
     return 0;
 }
 
+static int addMML(const char* filename, int loop)
+{
+    struct PlayList* newRec = (struct PlayList*)malloc(sizeof(struct PlayList));
+    if (!newRec) {
+        puts("No memory");
+        return -1;
+    }
+    memset(newRec, 0, sizeof(struct PlayList));
+    strncpy(newRec->path, filename, sizeof(newRec->path) - 1);
+    strncpy(newRec->title, filename, sizeof(newRec->title) - 1);
+    newRec->loop = loop;
+    if (fs_listTail) {
+        fs_listTail->next = newRec;
+        fs_listTail = newRec;
+    } else {
+        fs_listHead = newRec;
+        fs_listTail = newRec;
+    }
+    return 0;
+}
+
+static struct PlayList* shuffle()
+{
+    struct PlayList* prevHead = fs_listHead;
+    struct PlayList* prevTail = fs_listTail;
+    struct PlayList* newHead = NULL;
+    struct PlayList* newTail = NULL;
+    while (1) {
+        int numberOfList = 0;
+        for (struct PlayList* cursor = fs_listHead; cursor; cursor = cursor->next) numberOfList++;
+        if (numberOfList < 1) break;
+        int targetNumber = rand() % numberOfList;
+        struct PlayList* cursor = fs_listHead;
+        struct PlayList* prev = NULL;
+        for (int i = 0; i < targetNumber; i++) {
+            prev = cursor;
+            cursor = cursor->next;
+        }
+        if (prev) {
+            prev->next = cursor->next;
+        } else {
+            fs_listHead = cursor->next;
+        }
+        //printf("%d %d %s\n", numberOfList, targetNumber, cursor->title);
+        cursor->next = NULL;
+        if (newHead) {
+            newTail->next = cursor;
+            newTail = cursor;
+        } else {
+            newHead = cursor;
+            newTail = cursor;
+        }
+    }
+    fs_listHead = newHead;
+    fs_listTail = newTail;
+    return fs_listHead;
+}
+
 static volatile bool playThreadFlag;
 static volatile int playThreadLoop;
 static volatile CFRunLoopRef playThreadRL;
@@ -175,18 +233,47 @@ static void play(struct PlayList* list)
 
 int main(int argc, char* argv[])
 {
+    srand((unsigned int)time(NULL));
     if (argc < 2) {
-        puts("usage: tohovgs playlist.csv");
+        puts("usage: tohovgs [-i] [-s] {playlist.csv | music.mml [loopCount]}...");
+        puts("-i: infinite play");
+        puts("-s: shuffle play");
         return 1;
     }
-    if (parsePlayList(argv[1])) return -1;
+    bool isInfinite = false;
+    bool isShuffle = false;
+    for (int i = 1; i < argc; i++) {
+        if (0 == strcmp(argv[i], "-i")) {
+            isInfinite = true;
+        } else if (0 == strcmp(argv[i], "-s")) {
+            isShuffle = true;
+        } else {
+            char* ext = strrchr(argv[i], '.');
+            if (ext) {
+                ext++;
+                if (0 == strcasecmp(ext, "csv")) {
+                    if (parsePlayList(argv[i])) return -1;
+                } else if (0 == strcasecmp(ext, "mml")) {
+                    char* filename = argv[i];
+                    int loop = 0;
+                    if (i + 1 < argc && isdigit(argv[i + 1][0])) loop = atoi(argv[++i]);
+                    if (addMML(filename, loop)) return -1;
+                } else {
+                    printf("Unsupported file: %s\n", argv[i]);
+                    return 1;
+                }
+            }
+        }
+    }
     fs_vgsdec = vgsdec_create_context();
     fs_sound = sound_create();
 
     struct PlayList* cursor = fs_listHead;
     while (cursor) {
+        if (isShuffle && cursor == fs_listHead) cursor = shuffle();
         play(cursor);
         cursor = cursor->next;
+        if (isInfinite && NULL == cursor) cursor = fs_listHead;
     }
 
     sound_destroy(fs_sound);
