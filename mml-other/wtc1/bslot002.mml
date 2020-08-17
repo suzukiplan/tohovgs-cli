@@ -1,0 +1,138 @@
+$Brass \s600 \e1500 @2 %50
+
+#-----------------------------------------------------------------------------
+# Initialize
+#-----------------------------------------------------------------------------
+Ch0 t152 m8 @1
+Ch1 v12 (Brass) o4l16
+Ch2 v12 (Brass) o4l16
+Ch3 v12 (Brass) o4l16
+Ch4 v12 (Brass) o4l16
+Ch5 v12 (Brass) o4l16
+
+#-----------------------------------------------------------------------------
+# No.1
+#-----------------------------------------------------------------------------
+Ch1 >c<e-de- ce-de- >c<e-de- ce-de-
+Ch1 a-fef cfef a-fef cfef
+Ch1 bfe-f dfe-f bfe-f dfe-f
+Ch1 >c<gfg e-gfg >c<gfg e-gfg
+Ch1 >e-<a-ga- e-a-ga- >e-<a-ga- e-a-ga-
+
+Ch1 >d<f+ef+ df+ef+ >d<f+ef+ df+ef+
+Ch1 >d<gf+g dgf+g >d<gf+g dgf+g
+Ch1 >c<ede cede >c<ede cede
+Ch1 >c<fef cfef >c<fef cfef
+Ch1 b-fe-f dfe-f b-fe-f dfe-f
+
+Ch1 b-gfge-gfg b-gfge-gfg
+Ch1 a-gfge-gfg a-gfge-gfg
+Ch1 a-dcd<b->dcd a-dcd<b->dcd
+Ch1 g<b-a-b->e-<b-a-b-> g<b-a-b->e-<b-a-b->
+Ch1 fc<b->c<a>c<b->c fc<b->c<a>c<b->c
+
+Ch1 fdcd<b>dcd fdcd<b>dcd
+Ch1 fdcd<b>dcd fdcd<b>dcd
+Ch1 e-c<b>c<g>c<b>c e-c<b>c<g>c<b>c
+Ch1 <f>e-de-fe-de- <f>e-de-fe-de-
+Ch1 <f+>c<b>ce-c<b>c <f+>c<b>ce-c<b>c
+
+Ch1 e-c<b>c<g>c<b>c e-c<b>c<g>c<b>c
+Ch1 f+c<b>c<a>c<b>c f+c<b>c<a>c<b>c
+Ch1 gc<b>cdc<b>c gc<b>cdc<b>c
+Ch1 a-c<b>cdc<b>c a-c<b>cdc<b>c
+Ch1 <<gb>df a-ded bf>d<b a-fef
+
+Ch1 <g>ce-g >c<gf+g >e-cge- c<a-ga-
+Ch1 <ga>f+>c e-c<b>c f+caf+ e-c<b>c
+
+Ch2 < cgfge-gfg cgfge-gfg
+Ch2 ca-ga-fa-ga- ca-ga-fa-ga-
+Ch2 ca-ga-fa-ga- ca-ga-fa-ga-
+Ch2 ce-de-ge-de- ce-de-ge-de-
+Ch2 c>c<b->c<a->c<b->c< c>c<b->c<a->c<b->c<
+
+Ch2 cagaf+aga cagaf+aga
+Ch2 <b->b-ab-gb-ab- <b->b-ab-gb-ab-
+Ch2 <b->gfgegfg <b->gfgegfg
+Ch2 <a->a-ga-fa-ga- <a->a-ga-fa-ga-
+Ch2 <a->dcdfdcd <a->dcdfdcd
+
+Ch2 <g>e-de-ge-de- <g>e-de-ge-de-
+Ch2 ce-de-a-e-de- ce-de-a-e-de-
+Ch2 dfe-da-de-d dfe-da-de-d
+Ch2 e-gfga-gfg e-gfga-gfg
+Ch2 e-agafaga e-agafaga
+
+Ch2 dfe-fa-de-f dfe-fa-de-f
+Ch2 cfefa-fef cfefa-fef
+Ch2 ce-de-fe-de- ce-de-fe-de-
+Ch2 <a->c<b>cdc<b>c <a->c<b>cdc<b>c
+Ch2 <a>e-de-ce-de- <a>e-de-ce-de-
+
+Ch2 <g>e-de-fe-de- <g>e-de-fe-de-
+Ch2 <g>e-de-ce-de- <g>e-de-ce-de-
+Ch2 <g>e-de-fe-de- <g>e-de-fe-de-
+Ch2 <g>e-de-fe-de- <g>e-de-fe-de-
+Ch2 v1r1
+
+Ch2 r1
+Ch2 r1v12
+
+Ch3 r1r1r1r1r1 r1r1r1r1r1 r1r1r1r1r1 r1r1r1r1r1 r1r1r1r1r1 r1r1
+Ch4 r1r1r1r1r1 r1r1r1r1r1 r1r1r1r1r1 r1r1r1r1r1 r1r1r1r1r1 r1r1
+Ch5 r1r1r1r1r1 r1r1r1r1r1 r1r1r1r1r1 r1r1r1r1r1 r1r1r1r1r1 r1r1
+
+#-----------------------------------------------------------------------------
+# Presto.
+#-----------------------------------------------------------------------------
+Ch0 t160
+Ch1 >rdcd e-c<b>c <a>c<b>c d<bab
+Ch1 gbab >c<aga f+aga bgf+g
+Ch1 d>gfg a-fe-f dfe-f ge-de-
+Ch1 ce-de- fdcd <b>dcd e-c<b>c
+Ch1 <g>c<b>c <a->fe-f- <g>e-de- <f>dcd
+Ch1 <e->c<b>c <a-fe-f ge-de- fdcd
+
+Ch2 \e22050 <g1^16 \e2205
+Ch2 >>dcd e-c<b>c <a>c<b>c d<bab
+Ch2 gbab >c<a-ga- faga bgfg
+Ch2 e->gfg a-fef dfe-f ge-de-
+Ch2 ce-de- fdcd e-c<b>c d<bab
+Ch2 >ce-de- <f>dcd <e->c<b>c <dbab
+
+Ch3 r1r1r1r1r1r1
+Ch4 r1r1r1r1r1r1
+Ch5 r1r1r1r1r1r1
+
+#-----------------------------------------------------------------------------
+# Adagio.
+#-----------------------------------------------------------------------------
+Ch0 t40
+
+Ch5 \e22050 <c2c2
+Ch4 \e22050 <r64 g2f4.^16^32^64
+Ch3 \e22050 <r32 b-2a-4.^16^32
+Ch2 \e22050 <r32. >c8 r16r64 r4
+Ch2 \e22050 <r32. >c8 r16r64 r4
+Ch1 \e22050 r16e16^32 l32 cde l64 fga-b->c<b-a-g f16g32e32 l16
+Ch1 \e22050 f128e128f8^64 l32 gfe fga-g l64 fe-de- fde-f l16
+
+#-----------------------------------------------------------------------------
+# Allegro.
+#-----------------------------------------------------------------------------
+Ch0 t173
+
+Ch1 o3 l16 b8.d fa-gfbf>d<f ba-gf
+Ch1 e>d-<b-g >c<a-fa- gb-ge a-fdf
+Ch1 egec fd<b>d  r8.  d egb-g
+Ch1 a->cfd fa->c<b >c<gfd e1r1
+
+Ch4 o2 r8b8^2.
+Ch4 r1
+Ch4 r2 r16 g16>c8^4^1
+
+Ch5 o2 r16c8.^2.
+Ch5 r1
+Ch5 r2c2^1
+

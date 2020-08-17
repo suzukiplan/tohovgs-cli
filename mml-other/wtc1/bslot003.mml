@@ -1,0 +1,140 @@
+$Brass \s600 \e12800 @2 %50
+
+#-----------------------------------------------------------------------------
+# Initialize
+#-----------------------------------------------------------------------------
+Ch0 v12t60 m8 @2
+Ch1 v12 (Brass) o4l16
+Ch2 v12 (Brass) o4l16
+Ch3 v12 (Brass) o4l16
+Ch4 v12 (Brass) o4l16
+Ch5 v12 (Brass) o4l16
+
+#-----------------------------------------------------------------------------
+Ch1 r1
+Ch1 r1
+Ch1 r8>gf+grc8e-r gf+gr a8
+Ch1 dr gf+g8a8 cde-4dc
+Ch1 <b-r>e-de-r <g8a-r >fe-fr<a8
+
+Ch1 b-r>gfgr<b8>c8de-f4^8
+Ch1 e-d c<b-a-g fr>a-8g8f8
+Ch1 e-8d8e-8f8<b8>c8d8<b8
+Ch1 >cr gf+g8d8e-4 r8e8
+Ch1 frfef8c8d4r8d8
+
+Ch1 e-re-de-r<b-8>cr e-de-rf8
+Ch1 <b-r>e-de-8f8<a-b->c4<b-a-
+Ch1 ge-fga-b->cde-dcde-fga
+Ch1 b-<fga- b->cde fe-de-fgab
+Ch1 >c8<bagfe-dcr e-8d8c8
+
+Ch1 <b-8a8b-8>c8<f+8g8a8f+8
+Ch1 gr>dcd8 r4 ede8 r8
+Ch1 r8 f+ef+8 r4<gfg8r8
+Ch1 r8 aga8 r4 bab8 r8
+Ch1 r8 >c<b>cr<g8a-8>c<b>crd8
+
+Ch1 <gr>c<b>c8d8 <fga-4gf
+Ch1 e-r>c<b>c8<g8a-4r8a8
+Ch1 b-rb-ab-8f8g4r8g8^8
+Ch1 a-b->c<b>c<a-f4 r4r8
+Ch1 >dcdr<f8e-r> e-de-r < g8
+
+Ch1 fr >fe-fr<a-8g>fe-d c<bag
+Ch1 >crf8e-8d8 r8<a-8g8f8
+Ch1 g8fe-f8dr a-8gr8. a8
+Ch1 b8>c8<fe-dc r8>c<b>c8<g8
+Ch1 a-r>c<b>crd8<gr >c<b>c8d8
+Ch1 <fga-4gf e1.
+
+#-----------------------------------------------------------------------------
+Ch2 r8>c<b>cr<g8a-r >c<b>crd8
+Ch2 <gr> c<b>cr d8<fga-4gf
+Ch2 e->c<bagfe-dcr>e-8d8c8
+Ch2 <b-8a8b-8>c8<f+8g8a8f+8
+Ch2 g4rcde- fga-8. de-f
+
+Ch2 gab-8. e-fga-gfe-dr >c<b
+Ch2 >c4r4r8f8e-8d8
+Ch2 r8<a-8g8f8g8fe-f8d8
+Ch2 g4r8b8>crc<b>cr<g8
+Ch2 a-4r8a8b-rb-ab-rf8
+
+Ch2 g4r8g8a-ra-8g8f8
+Ch2 r8<a-8b-8>c8r8<a-ga-rf8
+Ch2 b-r>c8<b-8a-8b-8g8f8e-8
+Ch2 fr>d-8c8<b-8>c8<a-8g8f8
+Ch2 gr>gf+grc8e-r gf+gra8
+
+Ch2 dr gf+g8a8 cde-4dc
+Ch2 <b-8>r8.def+gab-8.efg
+Ch2 ab->c8.<f+gab-8 e-de-r<g8
+Ch2 a-r>fe-fr<a8b-r>gfgr<b8
+Ch2 >cfe-dc<b-a-gf8>a-8g8f8
+
+Ch2 e-8d8e-8f8<b8>c8d8<b8
+Ch2 >c4r8e8frfef8c8
+Ch2 d4r8d8e-re-de-8<b-8
+Ch2 >c2^8de-fe-fd
+Ch2 <brr4b8 >crr4e-8
+
+Ch2 drr4f4r4f8
+Ch2 e-8a-8g8f8e-8d8e-8r8
+Ch2 <b8>c8d8<br b8>c8r8c8
+Ch2 fde-c8.<b8>c4r8e8
+
+Ch2 f4r8f8f8e-de-8f8
+Ch2 <b8r8b8r8g1.
+
+Ch4 r1r1r1r1r1
+Ch4 r1r1r1r1r1
+Ch4 r1r1r1r1r1
+Ch4 r1r1r1r1r1
+Ch4 r1r1r1r1r1
+Ch4 r1r1r1r1o4
+Ch4 r4.a-8r4.a-8
+Ch4 d8r8d8r8c1.
+
+#-----------------------------------------------------------------------------
+Ch3 r1
+Ch3 r1
+Ch3 r1
+Ch3 r1
+Ch3 r1
+
+Ch3 r1
+Ch3 r8c<b>cr<g8a-r >c<b>crd8
+Ch3 <gr>c<b>c8d8 <fga-4gf
+Ch3 e->c<ba gfe-d cde-dc<b-a-g
+Ch3 f>b-a-gfe-dc<b->cdc<b-a-gf
+
+Ch3 e->a-gfe-d-c<b-a-r>>c8<b-8a-8
+Ch3 g8f8g8a-8 d8e-8f8d8
+Ch3 e-ra-8g8f8 g8e-8d8c8
+Ch3 drb-8a-8g8 a-8f8e-8d8
+Ch3 e-rr2c8<b-8ar
+
+Ch3 r8>e-8d8c8dr c<b->crd8
+Ch3 <gr>b-ab-rd8e-r >c<b->cr<e8
+Ch3 fr>dcdr<f+8g4r<gab
+Ch3 >cde-8.<ab->cde-f8.<b>cd
+Ch3 e-8r4e8r8<f8e-8dr
+
+Ch3 r8a-8g8f8gr fe-frg8
+Ch3 >cde-dc<b-a-gf>b-a-gfe-dc
+Ch3 <b->cdc<b-a-gfe->a-gfe-dc<b-
+Ch3 a-b->c<b-a-gfe-d>gfe-dc<ba
+Ch3 g4r4rgab>cde-f
+
+Ch3 gfa-gfe-dc<br >c<b>cr<g8
+Ch3 a-r>c<b>crd8<gr>c<b>c8d8
+Ch3 <fga-4gfe-4r8>e-8
+Ch3 d8crg8<gr %80 c2^1^1^1
+
+Ch5 r1r1r1r1r1
+Ch5 r1r1r1r1r1
+Ch5 r1r1r1r1r1
+Ch5 r1r1r1r1r1
+Ch5 r1r1r1r1r1
+Ch5 r1r1r1r2o3 %80 c2^1^1^1

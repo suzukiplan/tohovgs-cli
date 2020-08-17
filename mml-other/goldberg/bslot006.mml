@@ -1,0 +1,47 @@
+$Init r1024 l16 \s220 \e4420 @2 %75 v14
+$Init2 r1024 l16 \s1102 \e8820 @2 %75 v14
+
+#-----------------------------------------------------------------------------
+Ch0 t112 m8 (Init2)
+Ch1         (Init2)
+Ch2         (Init)
+Ch3         (Init)
+Ch4         (Init)
+Ch5         (Init)
+
+#-----------------------------------------------------------------------------
+Ch0 o5
+Ch0 %80g2 %40f+edc <%80b2 %40agf+e
+Ch0 %80d2 %40c<bag %80a4.^16g %40bagf+
+Ch0 %30g8 %80>g4. a4.%40gf+ %80a+4%40ab>%80c4
+Ch0 <%40bagf+ %80e4.^16 %40dc+edc+ %80d4.
+
+Ch0 r4.>b2%40agf+e %30d+8%80d4.
+Ch0 %40c<bag %80f+4.^16 %40ed+f+ ed+ed c+<bag+
+Ch0 %80a8r4>d4.^16%40<b>c<a>ce %80f+4.^16
+Ch0 d+%40eceg %80a4.^16g %40f+agf+ %80g4.
+
+#-----------------------------------------------------------------------------
+Ch1 o5
+Ch1 r4.%80a2%40gf+ed%80c2
+Ch1 %40<bagf+ %80e2 %40dc<ba %80b4.^16
+Ch1 a%40>c<bag%30a8>%40f+edc <b>dra edc+e rgf+e
+Ch1 %80d4.^16c+%40<b>dc+<b >c+<bag f+e %80f+4.
+
+Ch1 >> a2%40gf+ed%30c+8%80c4.%40<bag+f+
+Ch1 %80e4.^16d+ %40c+ed+c+ d+c+<ba gf+%80g8r4
+Ch1 >c+4.^16<a %40bgb>d %80e4.^16c+ %40d<b>df+
+Ch1 %80g4.^16f+ %40egf+e f+edc+ <ba %80b4.
+
+#-----------------------------------------------------------------------------
+Ch2 o2%40
+Ch2 gf+ga ba>dc def+d gf+ef+ geag f+gaf+
+Ch2 baga bg>c<b agf+e f+ef+d ef+ge dc<ba
+Ch2 g>f+ed c<b>c+<a> def+d gf+ef+ geag f+gaf+
+Ch2 baga ba%60 g+8<%30g+8r8 %60a8<%30a8r8> %60d8%30f+8a8
+
+Ch2 %40> dc+de f+dgf+ ef+ge agf+g af+ba g+abg+
+Ch2 >c<bab >c<b %60a+8<%30a+8r8 %60b8<%30b8r8> %60e8%40>edc+<b
+Ch2 a>c+eg f+e %60f+8<%30g8r8> %60g8<%30a8r8> %60a8<%30b8r8>
+Ch2 %60b8%30c8r8 %60c+8<%30c+8>c+8 %60d8<%30d8>d8 %20<g8b8>g8
+

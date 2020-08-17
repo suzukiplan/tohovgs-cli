@@ -1,0 +1,121 @@
+$Init r1024 l16 \s220 \e4420 @2 %75 v14
+$Init2 r1024 l16 \s1102 \e8820 @2 %75 v14
+
+#-----------------------------------------------------------------------------
+Ch0 t96 m8 (Init)
+Ch1        (Init)
+Ch2        (Init)
+Ch3        (Init)
+Ch4        (Init)
+Ch5        (Init)
+
+#-----------------------------------------------------------------------------
+
+Ch0 o4
+Ch0 r8%20gf+ %80g8%40ab> c<bag
+Ch0 %20>d<%40ab>c+ %20def+g %80a8r8
+Ch0 r8%40gf+ %20edc+<b agf+g
+Ch0 %80g8f+64g64f+64g64%20e%80d8r4.
+Ch0 r>d4<b64>c64<b64>c64<%20agfedf
+Ch0 e%40g>cd%30e8<%80a4 a8.
+Ch0 %20b%40f+gag%20f+ >edc<ba
+Ch0 %80g4r2
+Ch0 r%20f+ga b>c+df+ edc+<b
+Ch0 agf+e%80d4r4.
+Ch0 >c+8.%20<b%40ab>c+def+
+Ch0 %80g8<%20gf+%80g4^16bag
+Ch0 f+%20ef+g %80f+%20agf+ %80e4
+Ch0 r8 >%75d8c+8<b8%40a8>%20f+8
+Ch0 %80<g4.f+8%40ea%40g4
+Ch0 %20f+ef+>%80d8%20c+%80d4
+
+Ch1 r2.
+Ch1 r8o4 %20de%80d8%40c<b ab>cd
+Ch1 %20<g>%40c<ba %20gf+ed %80c+8r8
+Ch1 r8.%20e f+gab> cded
+Ch1 %80d8%20ef+ %80g8r4.
+Ch1 r<g4%40b>%20cd ef+ge
+Ch1 f+d<ag %30f+8>%80c4c8.
+Ch1 %20<b%40>ed cd%20e<f+ gab>c
+Ch1 %80d4r2
+Ch1 r%20edc+ <bage f+gab
+Ch1 >c+def+ %80g8r2
+Ch1 <a8.%20b>c+<b agf+e
+Ch1 r8>%40de %80d4^16%20<b>c+d
+Ch1 ef+ed ec+de%80f+4.
+Ch1 <g8a8b8>%40c+8<%20e8
+Ch1 >%80d4.e8 %20f+c+%80d8
+
+Ch2 o3
+Ch2 %60g4g4g4
+Ch2 f+4f+4f+4
+Ch2 e4%80e8r8%60e4
+Ch2 %20d<d>%80d8 r8%40c<b %80a8>%20c8
+Ch2 <%60b4b4b4
+Ch2 >c4c4c4
+Ch2 d4d4d4
+Ch2 %80g8.%20<b %40>edce dc<ba
+Ch2 b8g8 r8%40>gf+ %80g8e8
+Ch2 f+8%20b8 r8<%40b>c+ d8<b8
+Ch2 >%40ef+gf+ %20e8%80f+8e8d8
+Ch2 %40c+ded %80c+8%20e8c+8<a8
+Ch2 >%80d4 r%20def+ gagf+
+Ch2 g8<g8> ref+g af+ed
+Ch2 b<b>ed c+<a>dg aec+<a
+Ch2 >dedc+ d8<a8d8r8
+
+#-----------------------------------------------------------------------------
+
+Ch0 o4
+Ch0 r2.
+Ch0 r8%20gf+%80g8 %20ab>c<bag
+Ch0 %80>g4^16%40f+%20agf+g%60e8
+Ch0 %80ef+16.f32f+32g32%20f+8<a8r8>%80f+8
+Ch0 gf+ga%20gf+ed c<bag
+Ch0 %80f+2.^8
+Ch0 %20f+gf+8%80f+8r8%20ga
+Ch0 %80g4r4e4^16
+Ch0 f+ge%20f+gg+a b>cde
+Ch0 %80d8r2.
+Ch0 <%60d%20edd+ %60f+%20gf+g %80a%20b
+Ch0 %80a2.^8
+Ch0 d8e8f+8%20gba>c
+Ch0 <b8%80a8b8>c8d64c64d64c64d8%20e
+Ch0 %80d4^16%20<b>cd ef+ga
+Ch0 bgd<b %80g8r4.
+
+Ch1 o4
+Ch1 r8%20de%80d8 %20c<b ab>cd
+Ch1 <%80d4^16%40e%20cded%60f8
+Ch1 %80fe16.g32e32d+32%20e8>c8r8<%80e8
+Ch1 d+ed+c+ %20d+ef+g ab>c+d+
+Ch1 %80e2.^8
+Ch1 %20ed+e8%80e8 e8%40d+c+
+Ch1 %80d+4^16r8.f+4^16
+Ch1 ed+%20f+ edc+c <bagf+
+Ch1 %80g8r2r8.
+Ch1 %20>ag+f+ g+fed edc<b
+Ch1 >c%80c8.^2^8
+Ch1 g8f+8e8%20d<b>c<a
+Ch1 b8%80>c8<b8a8g64a64g64a64g8%20f+
+Ch1 %80g4^16%20bag f+edc
+Ch1 rdgb >d8<%80g8.%20a%80f+8
+Ch1 g4r2
+
+Ch2 o3
+Ch2 %60d4d4c4
+Ch2 %80<b8>%20c8 <b8a8 g8ab
+Ch2 >c8%80<b8>c8 %20e8%80<a8>c8
+Ch2 <b4r2
+Ch2 r8>e8f+8g8a8b8
+Ch2 >%60c%20dc<b >%60c<%20bag %60a%20f+ga
+Ch2 %60b>%20c<ba %60b%20f+d+f+ <%60b>%20d+c+<b
+Ch2 >%60e%20c<ba %60g%20b>ed+ %80e8d8
+Ch2 %20c8>c8 r%20<edc dc<ba
+Ch2 g8>g8 rdc<b >c<bag+
+Ch2 a8>a8 rbag %60a%20gf+e
+Ch2 %60f+%20edc+ %60d%20c<ba %60b%20agf+
+Ch2 e>agf+ %60g%20f+ed+ %80e4^16
+Ch2 dced4.%20<a8
+Ch2 b8>r4%80e8c8d8
+Ch2 <g4^16%20b>df+%80g4

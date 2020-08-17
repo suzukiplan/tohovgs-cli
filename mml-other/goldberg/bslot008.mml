@@ -1,0 +1,82 @@
+$Init r1024 l16 \s220 \e4420 @2 %75 v14
+$Init2 r1024 l16 \s1102 \e8820 @2 %75 v14
+
+#-----------------------------------------------------------------------------
+Ch0 t128 m8 (Init)
+Ch1         (Init)
+Ch2         (Init)
+Ch3         (Init)
+Ch4         (Init)
+Ch5         (Init)
+
+#-----------------------------------------------------------------------------
+Ch0 o4%40
+Ch0 dgba gb>dc <b>dgr
+Ch0 < df+ag f+a>c<b a>cf+r
+Ch0 <<b>dgf+ egba g>c+er
+Ch0 <<a>df+e df+ag f+a>%80d8.%40
+Ch0 <bga bgde fd<br
+Ch0 >>ec<ab >c<aef+ gecr
+Ch0 >af+de f+d<ab >c<af+>c
+Ch0 <bgdf+ gd<b>c d<bga
+Ch0  %30b8>>%40ba gf+ed c+ede
+Ch0 <%30a8>%40ag f+edc+ <b>dc+d
+Ch0 <%30g8>%40gf+ edc+<b a>c+<b>d
+Ch0 c+e<ab >c+<aef+ gec+e
+Ch0 %60d8%30f+8a8>d8 r%80c<af+
+Ch0 %60g8%30b8>d8g8 r%80gf+g
+Ch0 <%60a8>%30c+8e8g8 r%80gac
+Ch0 df+a>c+ dc+32<b32a32g32f+32e32d4
+
+Ch0 %40<a>df+e df+ag f+a>cr
+Ch0 <<dgba gb>dc <b>dfr
+Ch0 ec<ab >c<af+g af+d+e
+Ch0 f+d+<b>c+ d+<bf+g af+d+f+
+Ch0 gb>ed+ egba gb>er
+Ch0 <ea>c<b a>ced cear
+Ch0 rc<b>f+ gd+e<g f+>eda
+Ch0 %80g32a32f+e8r<agf+e4.
+Ch0 >ed c<bag f+a+>c+e
+Ch0 d<f+>dc <bag+f+ eg+b>d
+Ch0 c<e>c<b a>ced ceag
+Ch0 f+a>c<b agf+e df+a>c
+Ch0 <b>d<ga bgde fd<b>d
+Ch0 egcd ec<ab >c<aeg
+Ch0 f+ade f+d<ab >c<af+a
+Ch0 b>d<gabgb>dg2
+
+#-----------------------------------------------------------------------------
+Ch1 o3
+Ch1 %60g8%30d8<b8g8>r%80gf+e
+Ch1 %60f+8%30d8<a8f+8>r%80f+ed
+Ch1 %60e8<%30b8g8e8>r%80edc+
+Ch1 %60d8<%30a8f+8d8>r%80c<ba
+Ch1 %60b8>%30d8g8b8r%80gfg
+Ch1 %60c8%30e8a8>c8r<%80aga
+Ch1 %60d8%30f+8a8>d8r<%80dcd
+Ch1 <%60g8>%30g8<b8>d8<g8r8
+Ch1 %40>gb>dc <b>dgf+ egbr
+Ch1 <f+a>c+<b a>c+f+e df+ar
+Ch1 %80<egba gb>ed c+egf+
+Ch1 eg>c+r <a>c+ed c+eag
+Ch1 f+ade f+d<ab >c<af+a
+Ch1 b>d<ga bgef+ ge<b>d
+Ch1 c+e<ab >c+<aef+ gec+e
+Ch1 f+ade f+df+a>d4
+
+Ch1 %60d8%30<a8f+8d8r>%80c<ba
+Ch1 %60g8%30d8<b8g8r%80>fed
+Ch1 ceag f+a>c<b a>crc+
+Ch1 <b>rf+e rf+ag f+a>c<a
+Ch1 bgrf+ ge<b>d+ e<bgb
+Ch1 >c<aeg+ aecd ec<a>c
+Ch1 <d+8>%30d+8e8c8<a8b8
+Ch1 %60e8%30g8b8>e8r%80dc<b
+Ch1 >%40cegf eg>c<b a+>c+f+r
+Ch1 <<b>df+e df+ba g+b>er
+Ch1 <<a>ced c<a>ce %80a>c<f+g
+Ch1 af+de f+d<ab >c<af+d
+Ch1 %60g8%30b8>d8f8 r%80fed
+Ch1 %60c8%30e8g8>c8 r%80c<b>c
+Ch1 <%60d8%30f+8a8>c8 r%80cd<f+
+Ch1 gb>df+ gf+32e32d32c32<b32a32g2

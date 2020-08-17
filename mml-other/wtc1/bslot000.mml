@@ -1,0 +1,111 @@
+$Brass \s600 \e22050 @2 %50
+Ch0 t60 m8 @1
+
+Ch3 v12 (Brass) o4l16
+Ch3 c2c2c2c2<b2b2>c2c2
+Ch3 c2c2c2c2<b2b2 b2b2
+Ch3 a2a2d2d2g2g2g2g2
+Ch3 f2f2f2f2e2e2e2e2
+Ch3 d2d2<g2g2>c2c2c2c2
+Ch3 <f2f2f+2f+2a-2a-2 
+Ch3 g2g2g2g2g2g2g2g2
+Ch3 g2g2g2g2g2g2c2c2
+Ch3 c2c2c1c1 c1.
+
+Ch2 v12 (Brass) o4l16
+Ch2 re8.^4re8.^4
+Ch2 rd8.^4rd8.^4
+Ch2 rd8.^4rd8.^4
+Ch2 re8.^4re8.^4
+
+Ch2 re8.^4re8.^4
+Ch2 rd8.^4rd8.^4
+Ch2 rd8.^4rd8.^4
+Ch2 rc8.^4rc8.^4
+
+Ch2 rc8.^4rc8.^4
+Ch2 <ra8.^4ra8.^4
+Ch2 rb8.^4rb8.^4
+Ch2 rb-8.^4rb-8.^4
+
+Ch2 ra8.^4ra8.^4
+Ch2 ra-8.^4ra-8.^4
+Ch2 rg8.^4rg8.^4
+Ch2 rf8.^4rf8.^4
+
+Ch2 rf8.^4rf8.^4
+Ch2 rd8.^4rd8.^4
+Ch2 re8.^4re8.^4
+Ch2 rg8.^4rg8.^4
+
+Ch2 rf8.^4rf8.^4
+Ch2 rc8.^4rc8.^4
+Ch2 rf8.^4rf8.^4
+Ch2 rf8.^4rf8.^4
+
+Ch2 re8.^4re8.^4
+Ch2 rd8.^4rd8.^4
+Ch2 rd8.^4rd8.^4
+Ch2 re-8.^4re-8.^4
+
+Ch2 re8.^4re8.^4
+Ch2 rd8.^4rd8.^4
+Ch2 rd8.^4rd8.^4
+Ch2 rc8.^4rc8.^4
+
+Ch2 rc8.^4^2
+Ch2 <rb8.^4^2
+Ch2 c1.
+
+Ch1 v12 (Brass) o4l16 \e8000
+Ch1 r8g>ce<g>ce< r8g>ce<g>ce<
+Ch1 r8a>df<a>df< r8a>df<a>df<
+Ch1 r8g>df<g>df< r8g>df<g>df<
+Ch1 r8g>ce<g>ce< r8g>ce<g>ce<
+
+Ch1 r8a>ea<a>ea< r8a>ea<a>ea<
+Ch1 r8f+a>d<f+a>d< r8f+a>d<f+a>d<
+Ch1 r8g>dg<g>dg< r8g>dg<g>dg<
+Ch1 r8eg>c<eg>c< r8eg>c<eg>c<
+
+Ch1 r8eg>c<eg>c< r8eg>c<eg>c<
+Ch1 r8df+>c<df+>c< r8df+>c<df+>c<
+Ch1 r8dgbdgb r8dgbdgb
+Ch1 r8eg>c+<eg>c+< r8eg>c+<eg>c+<
+
+Ch1 r8da>d<da>d< r8da>d<da>d<
+Ch1 r8dfbdfb r8dfbdfb
+Ch1 r8cg>c<cg>c< r8cg>c<cg>c<
+Ch1 r8<a>cf<a>cf r8<a>cf<a>cf
+
+Ch1 r8<a>cf<a>cf r8<a>cf<a>cf
+Ch1 r8<gb>f<gb>f r8<gb>f<gb>f
+Ch1 r8<g>ce<g>ce r8<g>ce<g>ce
+Ch1 r8<b->ce<b->ce r8<b->ce<b->ce
+
+Ch1 r8<a>ce<a>ce r8<a>ce<a>ce
+Ch1 r8<a>ce-<a>ce- r8<a>ce-<a>ce-
+Ch1 r8<b>cd<b>cd r8<b>cd<b>cd
+Ch1 r8<gb>d<gb>d r8<gb>d<gb>d
+
+Ch1 r8<g>ce<g>ce r8<g>ce<g>ce
+Ch1 r8<g>cf<g>cf r8<g>cf<g>cf
+Ch1 r8<gb>f<gb>f r8<gb>f<gb>f
+Ch1 r8<a>cf+<a>cf+ r8<a>cf+<a>cf+
+
+Ch1 r8<g>cg<g>cg r8<g>cg<g>cg
+Ch1 r8<g>cf<g>cf r8<g>cf<g>cf
+Ch1 r8<gb>f<gb>f r8<gb>f<gb>f
+Ch1 r8<gb->e<gb->e r8<gb->e<gb->e
+
+Ch1 r8<fa>cfc<a> c<afafdfd
+Ch1 r8>gb>dfd<b>d<bgb dfed \e22050
+Ch1 e1.
+
+Ch4 v12 (Brass) o4l16
+Ch4 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1
+Ch4 g1.
+
+Ch5 v12 (Brass) o5l16
+Ch5 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1r1r1 r1r1
+Ch5 c1.r4

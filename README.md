@@ -15,10 +15,64 @@ cd tohovgs-cli
 make
 ```
 
+## How to update
+
+```bash
+git pull
+```
+
 ## How to use
 
-- 現状、[プレイリスト](playlist.csv) の内容を一通りプレイすることしかできません
-- [プレイリスト](playlist.csv) のカスタマイズは中身を見れば簡単にできると思われます
+### Basic usage
+
+```bash
+./tohovgs playlist.csv
+```
+
+### Advanced usage
+
+#### (Infinite play)
+
+`-i` オプションを付ければ、リストの再生が全部終わると再びリストの先頭から再生します。
+
+```bash
+./tohovgs -i playlisgt.csv
+```
+
+#### (Shuffle play)
+
+`-s` オプションを付ければ、適当にバラけさせて再生します。
+
+```bash
+./tohovgs -s playlisgt.csv
+```
+
+> `-i` と `-s` の両方を指定すれば、リストが先頭に戻る都度毎回シャッフルが行われます。
+
+#### (Single MML file play)
+
+```bash
+./tohovgs music.mml
+```
+
+デフォルトでは無限にループ再生しますが、mml ファイルの後に数字を付与することで指定回数ループでコマンドラインに復帰します。
+
+```bash
+./tohovgs music.mml 3
+```
+
+#### Customize playlist
+
+[プレイリスト](playlist.csv) のカスタマイズは中身は簡単に編集できます。
+
+#### Customize MML
+
+MML の仕様は[こんな感じ](https://github.com/suzukiplan/vgs-mml-compiler/blob/master/MML-ja.md)です。
+
+## Omake
+
+- [playlist-wtc1.csv](playlist-wtc1.csv): 平均律クラヴィーア曲集 第 1 巻（J.S.Bach）**未完成**
+- [playlist-goldberg.csv](playlist-goldberg.csv): ゴールベルク変奏曲（J.S.Bach）**未完成**
 
 ## License
 
