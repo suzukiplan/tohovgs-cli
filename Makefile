@@ -6,8 +6,14 @@ SOURCE=src/miniz.c\
 	src/vgsdec.c\
 	src/vgsmml.c
 
-all: tohovgs
+all: build
 	./tohovgs playlist.csv
+
+build: tohovgs
+
+install: tohovgs
+	rm -f /usr/local/bin/tohovgs
+	ln -s `pwd`/tohovgs /usr/local/bin/tohovgs
 
 tohovgs: $(SOURCE)
 	clang -Os -o tohovgs $(SOURCE) -lstdc++ -framework Foundation -framework AudioToolbox
