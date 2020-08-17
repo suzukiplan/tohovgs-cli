@@ -1,0 +1,133 @@
+# CSVは次の仕様です:
+# - 1列目: 再生するmmlファイル名（相対パス）
+# - 2列目: ループ回数（0: 非ループ曲 or 無限ループ, 1以上: ループ回数）
+# - 3列目: 曲タイトル
+
+# 東方幻想郷
+mml/BSLOT079.mml, 1, 幻想郷　〜 Lotus Land Story
+mml/BSLOT080.mml, 1, Witching Dream
+mml/BSLOT081.mml, 1, Selene's Light
+mml/BSLOT082.mml, 1, 装飾戦　〜 Decoration Battle
+mml/BSLOT086.mml, 1, Break the Sabbath
+mml/BSLOT087.mml, 1, 紅響曲　〜 Scarlet Phoneme
+mml/BSLOT061.mml, 1, Bad Apple!!
+mml/BSLOT078.mml, 1, 霊戦　〜 Perdition crisis
+mml/BSLOT075.mml, 1, アリスマエステラ
+mml/BSLOT074.mml, 1, 少女綺想曲　〜 Capriccio
+mml/BSLOT073.mml, 1, 星の器　〜 Casket of Star
+mml/BSLOT105.mml, 1, Lotus Love
+mml/BSLOT106.mml, 1, 眠れる恐怖　〜 Sleeping Terror
+
+# 東方怪綺談
+mml/BSLOT062.mml, 1, 不思議の国のアリス
+mml/BSLOT063.mml, 1, the Grimoire of Alice
+
+# 東方幻想的音楽　〜 ZUN's Strange Works
+mml/BSLOT103.mml, 0, 宵闇の魔術師
+mml/BSLOT077.mml, 1, Plastic Space
+mml/BSLOT104.mml, 0, 蓬莱幻想　〜 far East
+
+# 蓬莱人形
+mml/BSLOT059.mml, 0, 蓬莱伝説
+
+# 東方紅魔郷
+mml/BSLOT000.mml, 1, 赤より紅い夢
+mml/BSLOT001.mml, 1, ほおずきみたいに紅い魂
+mml/BSLOT002.mml, 1, 妖魔夜行
+mml/BSLOT003.mml, 1, ルーネイトエルフ
+mml/BSLOT004.mml, 1, おてんば恋娘
+mml/BSLOT005.mml, 1, 上海紅茶館　〜 Chinese Tea
+mml/BSLOT006.mml, 1, 明治十七年の上海アリス
+mml/BSLOT007.mml, 1, ヴワル魔法図書館
+mml/BSLOT008.mml, 1, ラクトガール　〜 少女密室
+mml/BSLOT009.mml, 1, メイドと血の懐中時計
+mml/BSLOT010.mml, 1, 月時計　〜 ルナ・ダイアル 
+mml/BSLOT011.mml, 1, ツェペシュの幼き末裔
+mml/BSLOT012.mml, 1, 亡き王女の為のセプテット
+mml/BSLOT013.mml, 1, 魔法少女達の百年祭
+mml/BSLOT014.mml, 1, U.N.オーエンは彼女なのか？
+mml/BSLOT015.mml, 1, 紅より儚い永遠
+mml/BSLOT016.mml, 1, 紅楼　〜 Eastern Dream...
+
+# 東方妖々夢
+mml/BSLOT017.mml, 1, 妖々夢　〜 Snow or Cherry Petal
+mml/BSLOT018.mml, 1, 無何有の郷　〜 Deep Mountain
+mml/BSLOT019.mml, 1, クリスタライズシルバー
+mml/BSLOT020.mml, 1, 遠野幻想物語
+mml/BSLOT021.mml, 1, ティアオイエツォン（withered leaf）
+mml/BSLOT022.mml, 1, ブクレシュティの人形師
+mml/BSLOT023.mml, 1, 人形裁判　〜 人の形弄びし少女
+mml/BSLOT024.mml, 1, 天空の花の都
+mml/BSLOT025.mml, 1, 幽霊楽団　〜 Phantom Ensemble 
+mml/BSLOT026.mml, 1, 東方妖々夢　〜 Ancient Temple
+mml/BSLOT027.mml, 1, 広有射怪鳥事　〜 Till When?
+mml/BSLOT028.mml, 1, アルティメットトゥルース
+mml/BSLOT029.mml, 1, 幽雅に咲かせ、墨染の桜　〜 Border of Life
+mml/BSLOT030.mml, 1, ボーダーオブライフ
+mml/BSLOT031.mml, 1, 妖々跋扈
+mml/BSLOT032.mml, 1, 少女幻葬　〜 Necro-Fantasy
+mml/BSLOT033.mml, 1, 妖々跋扈　〜 Who done it!
+mml/BSLOT034.mml, 1, ネクロファンタジア
+mml/BSLOT035.mml, 1, 春風の夢
+mml/BSLOT036.mml, 1, さくらさくら　〜 Japanize Dream...
+mml/BSLOT037.mml, 1, 過去の花　〜 Fairy of Flower
+
+# 東方永夜抄
+mml/BSLOT038.mml, 1, 永夜抄　〜 Eastern Night.
+mml/BSLOT039.mml, 1, 幻視の夜　〜 Ghostly Eyes
+mml/BSLOT040.mml, 1, 蠢々秋月　〜 Mooned Insect
+mml/BSLOT041.mml, 1, 夜雀の歌声　〜 Night Bird
+mml/BSLOT042.mml, 1, もう歌しか聞こえない
+mml/BSLOT043.mml, 1, 懐かしき東方の血　〜 Old World
+mml/BSLOT044.mml, 1, プレインエイジア
+mml/BSLOT045.mml, 1, 永夜の報い　〜 Imperishable Night.
+mml/BSLOT046.mml, 1, 少女綺想曲　〜 Dream Battle
+mml/BSLOT047.mml, 1, 恋色マスタースパーク
+mml/BSLOT048.mml, 1, シンデレラケージ　〜 Kagome-Kagome
+mml/BSLOT049.mml, 1, 狂気の瞳　〜 Invisible Full Moon
+mml/BSLOT050.mml, 1, ヴォヤージュ1969
+mml/BSLOT051.mml, 1, 千年幻想郷　〜 History of the Moon
+mml/BSLOT052.mml, 1, 竹取飛翔　〜 Lunatic Princess
+mml/BSLOT053.mml, 1, ヴォヤージュ1970
+mml/BSLOT054.mml, 1, エクステンドアッシュ　〜 蓬莱人
+mml/BSLOT055.mml, 1, 月まで届け、不死の煙
+mml/BSLOT056.mml, 1, 月見草
+mml/BSLOT057.mml, 1, Eternal Dream　〜 幽玄の槭樹
+mml/BSLOT058.mml, 1, 東方妖怪小町
+
+# 東方花映塚
+mml/BSLOT070.mml, 1, 花映塚　〜 Higan Retour
+mml/BSLOT071.mml, 1, 春色小径　〜 Colorful Path
+mml/BSLOT076.mml, 1, オリエンタルダークフライト
+mml/BSLOT066.mml, 1, フラワリングナイト
+mml/BSLOT026.mml, 1, 東方妖々夢　〜 Ancient Temple
+mml/BSLOT049.mml, 1, 狂気の瞳　〜 Invisible Full Moon
+mml/BSLOT083.mml, 1, おてんば恋娘の冒険
+mml/BSLOT084.mml, 1, お宇佐さまの素い幡
+mml/BSLOT060.mml, 1, 風神少女 (ShortVersion)
+mml/BSLOT085.mml, 1, 六十年目の東方裁判　〜 Fate of Sixty Years
+
+# 東方風神録
+mml/BSLOT098.mml, 1, 封印されし神々
+mml/BSLOT088.mml, 1, 人恋し神様　〜 Romantic Fall
+mml/BSLOT069.mml, 1, 稲田姫様に叱られるから
+mml/BSLOT089.mml, 1, 厄神様の通り道　〜 Dark Road
+mml/BSLOT090.mml, 1, 運命のダークサイド
+mml/BSLOT064.mml, 1, 神々が恋した幻想郷
+mml/BSLOT065.mml, 1, 芥川龍之介の河童　〜 Candid Friend
+mml/BSLOT091.mml, 1, フォールオブフォール　〜 秋めく滝
+mml/BSLOT092.mml, 1, 妖怪の山　〜 Mysterious Mountain
+mml/BSLOT093.mml, 1, 少女が見た日本の原風景
+mml/BSLOT094.mml, 1, 信仰は儚き人間の為に
+mml/BSLOT095.mml, 1, 御柱の墓場　〜 Grave of Being
+mml/BSLOT096.mml, 1, 神さびた古戦場　〜 Suwa Foughten Field
+mml/BSLOT067.mml, 1, 明日ハレの日、ケの昨日
+mml/BSLOT068.mml, 1, ネイティブフェイス
+mml/BSLOT097.mml, 1, 麓の神社
+mml/BSLOT099.mml, 1, 神は恵みの雨を降らす　〜 Sylphid Dream
+mml/BSLOT100.mml, 1, プレイヤーズスコア
+
+# 東方地霊殿(0xB0)
+mml/BSLOT101.mml, 1, 緑眼のジェラシー
+mml/BSLOT072.mml, 1, 少女さとり　〜 3rd eye
+mml/BSLOT102.mml, 1, 死体旅行　〜 Be of good cheer!
