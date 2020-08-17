@@ -26,5 +26,4 @@ make
 - データ著作権: 楽曲データの著作権は Yoji Suzuki に帰属する東方 Project 二次創作物です
 - [vgs-bgm-decoder](https://github.com/suzukiplan/vgs-bgm-decoder): このプログラムの著作権は Yoji Suzuki に帰属します（2 箇条 BSD ライセンス）
 - [vgs-mml-compiler](https://github.com/suzukiplan/vgs-mml-compiler): このプログラムのの著作権は Yoji Suzuki に帰属します（2 箇条 BSD ライセンス）
-- [gamepad-osx](https://github.com/suzukiplan/gamepad-osx): このプログラムのの著作権は Yoji Suzuki に帰属します（MIT ライセンス）
 - tohovgs-cli: 本プログラムの著作権は Yoji Suzuki に帰属します（MIT ライセンス）
