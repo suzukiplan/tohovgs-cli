@@ -36,7 +36,7 @@ git pull
 `-i` オプションを付ければ、リストの再生が全部終わると再びリストの先頭から再生します。
 
 ```bash
-./tohovgs -i playlisgt.csv
+./tohovgs -i playlist.csv
 ```
 
 #### (Shuffle play)
@@ -44,7 +44,7 @@ git pull
 `-s` オプションを付ければ、適当にバラけさせて再生します。
 
 ```bash
-./tohovgs -s playlisgt.csv
+./tohovgs -s playlist.csv
 ```
 
 > `-i` と `-s` の両方を指定すれば、リストが先頭に戻る都度毎回シャッフルが行われます。
