@@ -7,7 +7,7 @@ SOURCE=src/miniz.c\
 	src/vgsmml.c
 
 all: build
-	./tohovgs playlist.csv
+	./tohovgs -s -i playlist.csv
 
 build: tohovgs
 
