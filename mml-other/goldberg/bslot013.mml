@@ -1,0 +1,69 @@
+$Init r1024 l16 \s66 \e4420 @2 %67 v14
+
+#-----------------------------------------------------------------------------
+Ch0 t43 m8 (Init)
+Ch1        (Init)
+Ch2        (Init)
+Ch3        (Init)
+Ch4        (Init)
+Ch5        (Init)
+
+#-----------------------------------------------------------------------------
+Ch0 o4 l32 %55 b>c<ba b8^32 f+gab16>c16 dc<b16a16g16 >dedc+d8^32c+def+16g16agf+16e16d16
+Ch0 gagf+g8^32f+ef+g16e16<\e221a16\e4420 >b16a16g16 g96f+64.ef+ed8^32 c+def+16g16a16b>c<b16a16
+Ch0 gfe16 \e2210f64e64\e4420f16.^32dgab>cd16c16<b16a16g16
+Ch0 fed16 \e221d\e4420e16.^32 dc<b>cde16\e221d16\e4420g16e16c16
+Ch0 <bag16a8^32 gab>c< f+ga df+ed agf+>c
+Ch0 c<ba16b8^32 agf+gb>df+gf+edf+ab>c
+Ch0 \e2210
+Ch0 <%20ba%67g16. %30f+%67e16. %30d+%67e16. %30f+%67g16. %30a%67b16. gf+e
+Ch0 %20ag%67f+16. %30e%67d16. %30c+%67d16. %30e%67f+16. %30g%67a16. f+ed
+Ch0 %80gaba%20g16f+16 %80ef+gf+%20e16d16 %80c+ded%20c+16<b16
+Ch0 \e4420 %67l64babababa64^4^32l32>c+<bab>c+de %20f+16\e2210g16
+Ch0 \e2210%20 a \e4420%70 dc+dedc+d \e2210%40 <a>d<g>d<f+>d<e>d <f+>d<a>d<f+>d<d>c
+Ch0 \e2210%20 <b> \e4420%70 dc+dedc+d \e2210%40 <b>d<a>d<g>d<f+>d <g>d<b>d<g>d<e>d
+Ch0 \e2210%20 c+< \e4420%70 gf+gagf+g \e4420%20 >e \e4420%70 c+<b>c+dc+<b>c+ \e2210%20 g \e4420%70 edeagf+e
+Ch0 l16 \e4420%70f+\e2210%20c+ \e4420%70c+\e2210%20d \e4420%70d\e2210%20<g \e4420%70g\e2210%20f+ \e4420%80 f+4
+
+Ch1 r2.r2.r2.r2.r2.r2.r2.r2.r2.r2.r2.r2.r2.r2.r2.
+Ch1 o4r4.\e2210%60c+8\e4420%80d4
+
+Ch2 o3 l16 %70
+Ch2 r8.b >d2^ 8.<a>d2^ 8.<b>c+2 r8.<f+a2 r8.dg2^ 8.f+g2^ 8.ef+2 r8.dg4r4
+Ch2 r8b8>e2^ 8<a8>d2^ 8<b8g2^16agf+g8r4.
+Ch2 r8a8>d4.<a8 g8b8>e4.<b8 a8>c+8g8e8c+4 d8<e8f+8b-8 %80a4
+
+Ch3 o3 l8 %60
+Ch3 g4.gf+e f+4.bab e4.aga d4.edc <b4.gab> c4.<ab>c d4.dcd <g4.gb>d g4.gf+e f+4.bab e4.f+ed c+4.e<ag
+Ch3 a>f+16.e32 f+adf+ <g>g16.f+32gbeg <a>a16.g32a4.a8 %80d2. 
+
+#-----------------------------------------------------------------------------
+Ch0 o5\e4420%55l32 f+gf+ef+8^ 32ef+g \e2210%20a16b16 \e4420%55 >c<ba16g16f+16
+Ch0 gagf+g8^32<f+ra \e2210%20b16>c16 \e4420%55 dc<b16a16r16
+Ch0 >ef+ed+ e8^16 g+16g+16 a16a16 b16b16> c16
+Ch0 <ed+c+16 \e2210d+64c+64\e4420d+16.^8^32d+ef+ ed+c+<baga>f+
+Ch0 \e2210%20 <b> \e4420%70 ed+efed+e \e2210%40 f+egeaebe>c<e>d<e>c<ebe
+Ch0 \e2210%20 >c< \e4420%70 ed+efed+e \e2210%40 >c<ebeaege f+egeaed+c+
+Ch0 \e2210%20 d+ \e4420%70 agabaga \e2210%20 <b> \e4420%70 gf+gagf+g \e2210%20 <a> \e4420%70 f+ef+gagf+
+Ch0 l16 \e4420%70g\e2210%20d+ \e4420%70d+\e2210%20e  \e4420%70e\e2210%20<a  \e4420%70a\e2210%20g l32 \e2210g64f+64\e4420%55g16.^32b>cd
+Ch0 efed+e8. <a16bag16 agf+16f+16>e16
+Ch0 dedc+d8. <g16agf16 gfe16e16>d16
+Ch0 %20c<b%67a16. %30g%67f+16. %30e%67d16. %30e%67f+16. %30g%67a16. %30b%67>c16.
+Ch0 %55 dc<b> cgf+e f+bag a>dc<b> c<bag f+edc
+Ch0 \e2210%20 <b> \e4420%70 gf+g agf+g \e2210%20 c \e4420%70 f+ef+ gf+ef+ \e2210%20 d \e4420%70 fef gfed
+Ch0 \e2210%20 e \e4420%70 c<b>c dc<b>c \e2210%20 d \e4420%70 <bab> c<bab \e2210%20 >c+< \e4420%70 b-ab- >c<b-ag
+Ch0 \e2210%20 f+ \e4420%70 >c<b>c dc<b>c \e2210%20 f+ \e4420%70 c<b>c dc<b>c \e2210%20 a \e4420%70 c<b>c dc<ba
+Ch0 l16 \e4420%70b\e2210%20f+ \e4420%70f+\e2210%20g \e4420%70g\e2210%20c \e4420%70c\e2210%20<b \e4420%80 b4
+
+Ch1 r2.r2.r2.r2.r2.r2.r2.
+Ch1 o4r4.\e2210%60d+8\e4420%80e8r8
+Ch1 r2.r2.r2.r2.r2.r2.r2.
+Ch1 o3r4.\e2210%60e-8\e4420%80d4
+
+Ch2 o4 l16 %70
+Ch2 r8.f+a2 r8.dg16g4.g16^ 8.g+a8d8e8g8^ 8f+ef+8r4. r8<b4a4g+8 r8>c4e8c8<a8 r8f+8g8>e4d+8 e8<f+8g8>c8<b8r8 
+Ch2 r8.g>cde8d8c+8 <b8.f+b>cd8c8<b8 a8e8a8>c8<a8f+8 %80d4r2 l8 %70r>ee-dg<b agf+b>c<a^8a16g16a4gf+ gabf+ %80g4
+
+Ch3 o4 l8 %60
+Ch3 d4.c16<b16>c<a b4.>d<gb >c4.<b>c<a b4.<b>c+d+ <e>g16a16gf+e4 <a>a16g16a>c<af+ <b>d+egb4 e2^8d8
+Ch3 c4r>c<ba+ r<br>bag+ r<ar2 radf+a>d <g>gabrg ceff+gf+16e16 d4.f+ed <g4r4%80g4
