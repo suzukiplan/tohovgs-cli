@@ -204,7 +204,7 @@ void* playThread(void* arg)
 
 static void play(struct PlayList* list)
 {
-    printf("Playing %s ... ", list->title);
+    printf("Playing %s %s ... ", list->path, list->title);
     VgsMmlErrorInfo err;
     VgsBgmData* bgm = vgsmml_compile_from_file(list->path, &err);
     if (!bgm) {
