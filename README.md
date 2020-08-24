@@ -15,6 +15,25 @@ cd tohovgs-cli
 make
 ```
 
+`make` を実行すると 東方 VGS のプレイリスト（[playlist.csv](playlist.csv)）を **シャッフル & 繰り返し** の設定で 1 曲づつ再生します。
+
+```bash
+% make
+./tohovgs -s -i playlist.csv
+Playing mml/BSLOT034.mml ネクロファンタジア ... OK
+Playing mml/BSLOT003.mml ルーネイトエルフ ... OK
+Playing mml/BSLOT062.mml 不思議の国のアリス ... OK
+Playing mml/BSLOT080.mml Witching Dream ... OK
+Playing mml/BSLOT004.mml おてんば恋娘 ... OK
+Playing mml/BSLOT082.mml 装飾戦　〜 Decoration Battle ... OK
+Playing mml/BSLOT090.mml 運命のダークサイド ... OK
+Playing mml/BSLOT047.mml 恋色マスタースパーク ... OK
+Playing mml/BSLOT026.mml 東方妖々夢　〜 Ancient Temple ... OK
+Playing mml/BSLOT045.mml 永夜の報い　〜 Imperishable Night. ... OK
+Playing mml/BSLOT101.mml 緑眼のジェラシー ... OK
+：
+```
+
 ## How to update
 
 ```bash
