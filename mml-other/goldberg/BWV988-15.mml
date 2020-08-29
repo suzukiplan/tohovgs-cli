@@ -1,0 +1,79 @@
+$Init r1024 l16 \s66 \e4420 @2 %67 v14
+
+#-----------------------------------------------------------------------------
+Ch0 t103 m8 (Init)
+Ch1        (Init)
+Ch2        (Init)
+Ch3        (Init)
+Ch4        (Init)
+Ch5        (Init)
+
+#-----------------------------------------------------------------------------
+Ch0 %55o2l32gf+g16 r8 >>> f+gag l64 agag agag agag agag agag l32f+g
+Ch0 a8r8 o3 l32f+ef+4l16agf+
+Ch0 e8r8 o5%75 e8d8c+8d%55e
+Ch0 <f+8r8 o3l32 <b>cdc l64 dcdc dcdc dcdc dcdc dcdc l32<b>c
+Ch0 %44l8<bgb>dg<b> ceg>c<eg f+adf+a>c< bgb>dgr
+Ch0 o5l32 r16%55ba%20b16r16 r16%55ed%20e16r16 <r16%55ag%20a16r16
+Ch0 o5l32 r16%55ag%20a16r16 r16%55dc+%20d16r16 <r16%55gf+%20g16r16
+Ch0 o5l32 r16%55gf+%20g16r16 r16%55<ba%20b16r16 r16%55ed%20e16r16
+Ch0 o3l32 r16%55gf+%20g16r16 r16%55c+<b>%20c+16r16 r16%55<gf+%20g16r16
+Ch0 o4l32%44 rdef+af+ed rdef+af+ed rdef+af+ed
+Ch0 %50l8 o4br <fr er
+Ch0 o4l32 r16 %44ed%20e16 %44ag%20a16 %44dc+%20d16 %44gf+%20g16 %44c+<b>%20c+16 %44f+g
+Ch0 %20f+16 l16%44 dc+d l32f+ed16 agf+16 >d8r8
+
+Ch1 %44o3l16 bgdg bg>d<b gbag
+Ch1 >d<af+a >d<a o4 af+ df+ed
+Ch1 ge<b>e gebg ebag
+Ch1 >d<af+a >d<a>af+ df+ed
+Ch1 gd<b>d gdbg dfed  ec<g>c ecge cdc<b  af+df+ af+>d<a f+agf+  gd<b>d gdbg >dc<ba
+Ch1 %55o4l32 g8 >r16%55gf+%20g16r16 r16%55c+<b>%20c+16r16 <r16%55f+e
+Ch1 %20o4l32 f+16r16 >r16%55f+e%20f+16r16 r16%55<ba%20b16r16 r16%55ed
+Ch1 %20o4l32 e16r16 >r16%55ed%20e16r16 r16%55<gf+%20g16r16 r16%55c+<b
+Ch1 %20o4l32 c+16r16 <r16%55ed%20e16r16 r16%55<ag%20a16r16 r16%55f+e
+Ch1 %50l8 o2f+ro5drcr
+Ch1 o3l32%44 rgab>d<bag rgab->d<b-ag rg+ab>d<bag+
+Ch1 o3l32 %44a16>c+<b %20>c+16<%44f+e %20f+16%44ba %20b16%44ed %20e16%44ag %20a16%44dc+
+Ch1 def+gagf+e l16 df+<a>d<d8r8
+
+#-----------------------------------------------------------------------------
+
+Ch0 %44o5l16
+Ch0 f+a>d<a f+adf+ af+ga
+Ch0 dgbg dg<b>d g<b>cd
+Ch0 <g>cec <a>c<f+a >c<f+ga
+Ch0 d+f+bf+ d+f+<b>d+ f+d+ef+
+Ch0 <b>ege <b>e<gb >ed+eg
+Ch0 cfaf cf<a>c fefa
+Ch0 d+f+af+ d+f+<r>d+ <f+agf+
+Ch0 gb>e<b gbef+ gegb
+Ch0 %20o4l32 e16r16 <r16%55ed%20e16r16 r16%55>c<b>%20c16r16 r16%55ag
+Ch0 %20a16r16 <r16%55dc%20d16r16 r16%55ba%20b16r16 >r16%55gf+
+Ch0 %20g16r16 <r16%55c<b>%20c16r16 r16%55ag%20a16r16 >r16%55f+e
+Ch0 %20f+16r16 >r16%55dc%20d16r16 r16%55gf+%20g16r16 r16%55ba
+Ch0 %50l8 o5br<drfr
+Ch0 o4l32%44 refg>c<gfe rf+ga>c<agf+ rgab->c+<b-ag
+Ch0 o5l32 %20d16%44c<b %20>c16<%44ba %20b16%44b-a %20b-%44ag %20a16%44>dc %20d16<%44gf+
+Ch0 gab>cdc<ba l16 gbdg<g8r8
+Ch0 r4
+
+
+Ch1 %55o3l32
+Ch1 d8r8 >>b>cdc l64 dcdc dcdc dcdc dcdc dcdc l32<b>c
+Ch1 l16 <b8r8 <f32e32f4 agf
+Ch1 e8r8 %75>f+8a8d+8e%55f+
+Ch1 <b8r8 o2l32 gaba l64 baba baba baba baba baba l32ga
+Ch1 %44l8 gegbge
+Ch1 a<a>a>c<ba
+Ch1 b>d+f+b<b o4l16ed+
+Ch1 e8g8b8>ed+e8r8
+Ch1 o3l32 r16%55c<b>%20c16r16 r16%55ag+%20a16r16 >r16%55ed%20e16r16
+Ch1 o2l32 r16%55ba%20b16r16 >r16%55gf+%20g16r16 >r16%55dc%20d16r16
+Ch1 o2l32 r16%55ag%20a16r16 >r16%55ed%20e16r16 r16%55>c<b%20>c16r16
+Ch1 l32 r16%55ag%20a16r16 >r16%55f+e%20f+16r16 r16%55ag%20a16r16
+Ch1 o4l32%44 rgab>d<bag rgab>d<bag rgab>d<bag
+Ch1 %50l8 o5cr<<arer
+Ch1 o3l32 %20f+16%44ag %20>a16>%44dc %20d16%44<gf+ %20g%44>c<b %20>c16%44<f+e %20f+16%44ba
+Ch1 l16%20 b %44 gf+g l32 bag16 >dc<b16> g8r8
+Ch1 r4
