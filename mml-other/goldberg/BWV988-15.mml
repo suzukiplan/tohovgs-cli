@@ -74,6 +74,6 @@ Ch1 o2l32 r16%55ag%20a16r16 >r16%55ed%20e16r16 r16%55>c<b%20>c16r16
 Ch1 l32 r16%55ag%20a16r16 >r16%55f+e%20f+16r16 r16%55ag%20a16r16
 Ch1 o4l32%44 rgab>d<bag rgab>d<bag rgab>d<bag
 Ch1 %50l8 o5cr<<arer
-Ch1 o3l32 %20f+16%44ag %20>a16>%44dc %20d16%44<gf+ %20g%44>c<b %20>c16%44<f+e %20f+16%44ba
-Ch1 l16%20 b %44 gf+g l32 bag16 >dc<b16> g8r8
+Ch1 o3l32 %20f+16%44ag %20a16>%44dc %20d16%44<gf+ %20g%44>c<b %20>c16%44<f+e %20f+16%44ba
+Ch1 l16%20 b %44 gf+g l32 bag16 >rc<b16> g8r8
 Ch1 r4
