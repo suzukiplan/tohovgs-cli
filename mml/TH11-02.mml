@@ -72,12 +72,12 @@ Ch0 \e22050%99 e-2^8 e64f64f+64g64g+64a64b-64 %90b64^2. \e200
 Ch1 o4l16v15\s123\e2550%75@2
 Ch1 b4>e4g8.f f+4<a8r4. b4>e4a4 g8r8 f+8r8 e8r8 e4g4b4 f+4g4a4 \e22050b2.^2.\e2550<
 Ch1 b4>e4g8.f f+4<a8r4. b4>e4a4 g8r8 f+8r8 e8r8 e4g4b4 f+4g4a4 \e22050e-2^8
-Ch1 (CG5)v14 f+b >d+f+d+f+ af+>d+<f+ bf+d+<b
+Ch1 (CG5)v14 f+b v- >d+f+ v- d+f+ v- af+ v- >d+<f+ v- bf+ v- d+<b
 
 Ch2 o4l16v0c8v9\s123\e2550%75@2
 Ch2 b4>e4g8.f f+4<a8r4. b4>e4a4 g8r8 f+8r8 e8r8 e4g4b4 f+4g4a4 \e22050b2.^2.\e2550<
 Ch2 b4>e4g8.f f+4<a8r4. b4>e4a4 g8r8 f+8r8 e8r8 e4g4b4 f+4g4a4 \e22050e-2
-Ch2 (CG5)v14 d+f+ b>d+<b>d+ f+d+f+d+ f+d+<bf+
+Ch2 (CG5)v14 d+f+ v- b>d+ v- <b>d+ v- f+d+ v- f+d+ v- f+d+ v- <bf+
 
 Ch3 (Pad2)o4v11@1
 Ch3 e2.^2.r2.d2. e2.d2.<b2.r2.>
@@ -194,7 +194,7 @@ Ch2 r4.
 
 Ch3 (Pad2)o3v13@0
 Ch3 g+1^1 a1^1 f+1^1 g+1^1
-Ch3 @1g+1^1 a1^1 f+1^1 g+1^1
+Ch3 @1g+1^1 a1^1 f+1^1 d+1^1
 Ch3 v0o1c2
 
 Ch4 (Pad2)o4v13@0
@@ -230,7 +230,7 @@ Ch5 cccc c8c8 cc(S2)c8 (S)c8c8
 Ch5 (B)c8(S)e8e8ee
 
 #-----------------------------------------------------------------------------
-# part B' - Refrain trasposto subject (3/4)
+# part B' - Refrain trasposto subject (3/4 B♭-Dur)
 #-----------------------------------------------------------------------------
 Ch0 (Bass)o2l8v15
 Ch0 d+a+d+a+d+a+ f>c<f>c<f>c< a>d<a>d<a>d< a>d<a>d<a>d<
@@ -296,7 +296,7 @@ Ch4 dfa>d efec <ar>c8
 Ch4 <g>df+af+d <g>df+af+d
 Ch4 l32 > d<baf+ ec+<b-a> d<baf+ ec+<g+f >d<baf+ ec+<b-g
 
-Ch4 (Sq)v12o2l16 b-2.>c2^16 (CG3)>>fa>c
+Ch4 (Sq)v12o2l16 b-2.>c2^16 (CG3)>fa>c
 Ch4 d<ab->c< gafg dc<b-a>
 Ch4 > ggag <b-b->g<b-gr8.
 Ch4 defg a>d<ag fede
