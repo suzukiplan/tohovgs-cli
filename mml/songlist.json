@@ -1,856 +1,854 @@
 {
   "version": "2022.01.09",
-  "list": {
-    "albums": [
-      {
-        "albumId": "th04",
-        "name": "東方幻想郷",
-        "formalName": "東方幻想郷　〜 Lotus Land Story",
-        "copyright": "(c)1997 ZUN Soft",
-        "compatColor": 35,
-        "defaultLocked": true,
-        "songs": [
-          {
-            "mml": "TH04-01",
-            "loop": 1,
-            "name": "幻想郷　〜 Lotus Land Story",
-            "english": "Gensokyo　〜 Lotus Land Story",
-            "french": "Gensokyo　〜 Histoire du Lotus Land"
-          },
-          {
-            "mml": "TH04-02",
-            "loop": 1,
-            "name": "Witching Dream",
-            "english": null,
-            "french": "Rêve de sorcière"
-          },
-          {
-            "mml": "TH04-03",
-            "loop": 1,
-            "name": "Selene's Light",
-            "english": null,
-            "french": "La lumière de Séléné"
-          },
-          {
-            "mml": "TH04-04",
-            "loop": 1,
-            "name": "装飾戦　〜 Decoration Battle",
-            "english": "Decoration Battle",
-            "french": "Bataille de décoration"
-          },
-          {
-            "mml": "TH04-05",
-            "loop": 1,
-            "name": "Break the Sabbath",
-            "english": null,
-            "french": "Brisez le sabbat"
-          },
-          {
-            "mml": "TH04-06",
-            "loop": 1,
-            "name": "紅響曲　〜 Scarlet Phoneme",
-            "english": "Scarlet Symphony　〜 Scarlet Phoneme",
-            "french": "Symphonie écarlate 〜 Phonème écarlate"
-          },
-          {
-            "mml": "TH04-07",
-            "loop": 1,
-            "name": "Bad Apple!!",
-            "english": null,
-            "french": "Mauvaise pomme !"
-          },
-          {
-            "mml": "TH04-08",
-            "loop": 1,
-            "name": "霊戦　〜 Perdition crisis",
-            "english": "Spirit Battle　〜 Perdition Crisis",
-            "french": "Spirit Battle　〜 Crise de la perdition"
-          },
-          {
-            "mml": "TH04-09",
-            "loop": 1,
-            "name": "アリスマエステラ",
-            "english": "Alice Maestra",
-            "french": "Alice Maestra"
-          },
-          {
-            "mml": "TH04-10",
-            "loop": 1,
-            "name": "少女綺想曲　〜 Capriccio",
-            "english": "Maiden's Capriccio",
-            "french": "Capriccio de la jeune fille"
-          },
-          {
-            "mml": "TH04-11",
-            "loop": 1,
-            "name": "星の器　〜 Casket of Star",
-            "english": "Casket of Star",
-            "french": "Cercueil d'étoile"
-          },
-          {
-            "mml": "TH04-12",
-            "loop": 1,
-            "name": "Lotus Love",
-            "english": null,
-            "french": "L'amour du lotus"
-          },
-          {
-            "mml": "TH04-13",
-            "loop": 1,
-            "name": "眠れる恐怖　〜 Sleeping Terror",
-            "english": "Sleeping Terror",
-            "french": "Terreur endormie"
-          }
-        ]
-      },
-      {
-        "albumId": "th05",
-        "name": "東方怪綺談",
-        "formalName": "東方怪綺談　〜 Mystic Square",
-        "copyright": "(c)1997 ZUN Soft,",
-        "compatColor": 196,
-        "defaultLocked": true,
-        "songs": [
-          {
-            "mml": "TH05-10",
-            "loop": 1,
-            "name": "不思議の国のアリス",
-            "english": "Alice in the Wonderland",
-            "french": "Alice au pays des merveilles"
-          },
-          {
-            "mml": "TH05-11",
-            "loop": 1,
-            "name": "the Grimoire of Alice",
-            "english": null,
-            "french": "le Grimoire d'Alice"
-          }
-        ]
-      },
-      {
-        "albumId": "zsw",
-        "name": "東方幻想的音楽",
-        "formalName": "東方幻想的音楽　〜 ZUN''s Strange Works",
-        "copyright": "(c)2000 ZUN",
-        "compatColor": 7,
-        "defaultLocked": true,
-        "songs": [
-          {
-            "mml": "ZSW-01",
-            "loop": 0,
-            "name": "宵闇の魔術師",
-            "english": "Magician of the Evening Darkness",
-            "french": "Magicien des ténèbres du soir"
-          },
-          {
-            "mml": "ZSW-03",
-            "loop": 1,
-            "name": "Plastic Space",
-            "english": null,
-            "french": "Espace plastique"
-          },
-          {
-            "mml": "ZSW-06",
-            "loop": 0,
-            "name": "蓬莱幻想　〜 far East",
-            "english": "Hourai Illusion　〜 far East",
-            "french": "Illusion Hourai　〜 Extrême-Orient"
-          }
-        ]
-      },
-      {
-        "albumId": "hourai",
-        "name": "蓬莱人形",
-        "formalName": "蓬莱人形　〜 Dolls in Pseudo Paradise",
-        "copyright": "(c)2002 上海アリス幻樂団",
-        "compatColor": 196,
-        "defaultLocked": true,
-        "songs": [
-          {
-            "mml": "HOURAI-01",
-            "loop": 0,
-            "name": "蓬莱伝説",
-            "english": "Legend of Hourai",
-            "french": "La légende de Hourai"
-          }
-        ]
-      },
-      {
-        "albumId": "th06",
-        "name": "東方紅魔郷",
-        "formalName": "東方紅魔郷　〜 the Embodiment of Scarlet Devil.",
-        "copyright": "(c)2002 上海アリス幻樂団",
-        "compatColor": 7,
-        "defaultLocked": false,
-        "songs": [
-          {
-            "mml": "TH06-01",
-            "loop": 1,
-            "name": "赤より紅い夢",
-            "english": "a Dream that is more Scarlet than Red",
-            "french": "un rêve qui est plus écarlate que rouge"
-          },
-          {
-            "mml": "TH06-02",
-            "loop": 1,
-            "name": "ほおずきみたいに紅い魂",
-            "english": "a Soul Red like Ground Cherry",
-            "french": "un Rouge Soul comme la cerise de terre"
-          },
-          {
-            "mml": "TH06-03",
-            "loop": 1,
-            "name": "妖魔夜行",
-            "english": "Mystics Night",
-            "french": "Nuit des mystiques"
-          },
-          {
-            "mml": "TH06-04",
-            "loop": 1,
-            "name": "ルーネイトエルフ",
-            "english": "Lunate Elf",
-            "french": "Elfe lunaire"
-          },
-          {
-            "mml": "TH06-05",
-            "loop": 1,
-            "name": "おてんば恋娘",
-            "english": "Beloved Tomboyish Daughter",
-            "french": "Fille bien-aimée de Tomboyish"
-          },
-          {
-            "mml": "TH06-06",
-            "loop": 1,
-            "name": "上海紅茶館　〜 Chinese Tea",
-            "english": "Shanghai Teahouse　〜 Chinese Tea",
-            "french": "Salon de thé de Shanghai　〜 Thé chinois"
-          },
-          {
-            "mml": "TH06-07",
-            "loop": 1,
-            "name": "明治十七年の上海アリス",
-            "english": "Shanghai Alice in 1884",
-            "french": "Shanghai Alice en 1884"
-          },
-          {
-            "mml": "TH06-08",
-            "loop": 1,
-            "name": "ヴワル魔法図書館",
-            "english": "Voile，the Magic Library",
-            "french": "Voile, la bibliothèque magique"
-          },
-          {
-            "mml": "TH06-09",
-            "loop": 1,
-            "name": "ラクトガール　〜 少女密室",
-            "english": "Locked Girl　〜 the Girl's Secret Room",
-            "french": "Fille enfermée　〜 la chambre secrète de la fille"
-          },
-          {
-            "mml": "TH06-10",
-            "loop": 1,
-            "name": "メイドと血の懐中時計",
-            "english": "the Maid and the Pocket Watch of Blood",
-            "french": "la jeune fille et la montre de poche de sang"
-          },
-          {
-            "mml": "TH06-11",
-            "loop": 1,
-            "name": "月時計　〜 ルナ・ダイアル",
-            "english": "Luna Dial",
-            "french": "Luna Dial"
-          },
-          {
-            "mml": "TH06-12",
-            "loop": 1,
-            "name": "ツェペシュの幼き末裔",
-            "english": "the Young Descendant of Tepes",
-            "french": "le jeune descendant de Tepes"
-          },
-          {
-            "mml": "TH06-13",
-            "loop": 1,
-            "name": "亡き王女の為のセプテット",
-            "english": "Septette pour une infante defunte",
-            "french": "Septette pour une infante défunte"
-          },
-          {
-            "mml": "TH06-14",
-            "loop": 1,
-            "name": "魔法少女達の百年祭",
-            "english": "the Centennial Festival for Magical Girls",
-            "french": "le Festival du Centenaire pour les filles magiques"
-          },
-          {
-            "mml": "TH06-15",
-            "loop": 1,
-            "name": "U.N.オーエンは彼女なのか？",
-            "english": "U.N.Owen was her?",
-            "french": "U.N.Owen, c'était elle ?"
-          },
-          {
-            "mml": "TH06-16",
-            "loop": 1,
-            "name": "紅より儚い永遠",
-            "english": "Crimson Beyond a Fleeting Eternity",
-            "french": "Cramoisi au-delà d'une éternité fugace"
-          },
-          {
-            "mml": "TH06-17",
-            "loop": 1,
-            "name": "紅楼　〜 Eastern Dream...",
-            "english": "Crimson Belvedere　〜 Eastern Dream...",
-            "french": "Belvédère cramoisi　〜 Rêve oriental..."
-          }
-        ]
-      },
-      {
-        "albumId": "th07",
-        "name": "東方妖々夢",
-        "formalName": "東方妖々夢　〜 Perfect Cherry Blossom.",
-        "copyright": "(c)2003 上海アリス幻樂団",
-        "compatColor": 35,
-        "defaultLocked": true,
-        "songs": [
-          {
-            "mml": "TH07-01",
-            "loop": 1,
-            "name": "妖々夢　〜 Snow or Cherry Petal",
-            "english": "Mystic Dream　〜 Snow or Cherry Petal",
-            "french": "Rêve mystique　〜 Pétale de neige ou de cerise"
-          },
-          {
-            "mml": "TH07-02",
-            "loop": 1,
-            "name": "無何有の郷　〜 Deep Mountain",
-            "english": "Paradise　〜 Deep Mountain",
-            "french": "Paradis　〜 Montagne Profonde"
-          },
-          {
-            "mml": "TH07-03",
-            "loop": 1,
-            "name": "クリスタライズシルバー",
-            "english": "Crystalize Silver",
-            "french": "Cristalliser l'argent"
-          },
-          {
-            "mml": "TH07-04",
-            "loop": 1,
-            "name": "遠野幻想物語",
-            "english": "the Fantastic Legend of Tohno",
-            "french": "la légende fantastique de Tohno"
-          },
-          {
-            "mml": "TH07-05",
-            "loop": 1,
-            "name": "ティアオイエツォン（withered leaf）",
-            "english": "Diao Ye Zong (Withered Leaf)",
-            "french": "Diao Ye Zong (Feuille flétrie)"
-          },
-          {
-            "mml": "TH07-06",
-            "loop": 1,
-            "name": "ブクレシュティの人形師",
-            "english": "the Doll Maker of Bucuresti",
-            "french": "le fabricant de poupées de Bucarest"
-          },
-          {
-            "mml": "TH07-07",
-            "loop": 1,
-            "name": "人形裁判　〜 人の形弄びし少女",
-            "english": "Doll Judgement",
-            "french": "Le procès des poupées　〜 La fille qui joue avec les formes humaines"
-          },
-          {
-            "mml": "TH07-08",
-            "loop": 1,
-            "name": "天空の花の都",
-            "english": "the Capital City of Flowers in the Sky",
-            "french": "la capitale des fleurs dans le ciel"
-          },
-          {
-            "mml": "TH07-09",
-            "loop": 1,
-            "name": "幽霊楽団　〜 Phantom Ensemble",
-            "english": "Phantom Ensemble",
-            "french": "Ensemble fantôme"
-          },
-          {
-            "mml": "TH07-10",
-            "loop": 1,
-            "name": "東方妖々夢　〜 Ancient Temple",
-            "english": "Mystic Oriental Dream　〜 Ancient Temple",
-            "french": "Rêve mystique oriental　〜 Temple antique"
-          },
-          {
-            "mml": "TH07-11",
-            "loop": 1,
-            "name": "広有射怪鳥事　〜 Till When?",
-            "english": "Hiroari Shoots a Strange Bird　〜 Till When?",
-            "french": "Hiroari tire sur un drôle d'oiseau　〜 Jusqu'à quand ?"
-          },
-          {
-            "mml": "TH07-12",
-            "loop": 1,
-            "name": "アルティメットトゥルース",
-            "english": "Ultimate Truth",
-            "french": "La vérité ultime"
-          },
-          {
-            "mml": "TH07-13",
-            "loop": 1,
-            "name": "幽雅に咲かせ、墨染の桜　〜 Border of Life",
-            "english": "Bloom Nobly，Ink-black Cherry Blossom",
-            "french": "Bloom Nobly, Fleur de cerisier noir d'encre"
-          },
-          {
-            "mml": "TH07-14",
-            "loop": 1,
-            "name": "ボーダーオブライフ",
-            "english": "Boarder of Life",
-            "french": "La frontière de la vie"
-          },
-          {
-            "mml": "TH07-15",
-            "loop": 1,
-            "name": "妖々跋扈",
-            "english": "Charming Domination",
-            "french": "Charmante Domination"
-          },
-          {
-            "mml": "TH07-16",
-            "loop": 1,
-            "name": "少女幻葬　〜 Necro-Fantasy",
-            "english": "a Maiden's Illusionary Funeral　〜 Necro-Fantasy",
-            "french": "Les funérailles illusoires d'une jeune fille　〜 Necro-Fantasy"
-          },
-          {
-            "mml": "TH07-17",
-            "loop": 1,
-            "name": "妖々跋扈　〜 Who done it!",
-            "english": "Charming Domination　〜 Who done it!",
-            "french": "Charmante Domination　〜 Qui a fait ça ?"
-          },
-          {
-            "mml": "TH07-18",
-            "loop": 1,
-            "name": "ネクロファンタジア",
-            "english": "Necro Fantasia",
-            "french": "Necro Fantasia"
-          },
-          {
-            "mml": "TH07-19",
-            "loop": 1,
-            "name": "春風の夢",
-            "english": "Dream of a Spring Breeze",
-            "french": "Rêve d'une brise de printemps"
-          },
-          {
-            "mml": "TH07-20",
-            "loop": 1,
-            "name": "さくらさくら　〜 Japanize Dream...",
-            "english": "Sakura Sakura　〜 Japanize Dream...",
-            "french": "Sakura Sakura　〜 Rêve Japonais..."
-          },
-          {
-            "mml": "TH07-21",
-            "loop": 1,
-            "name": "過去の花　〜 Fairy of Flower",
-            "english": "Flower of Past Days　〜 Fairy of Flower",
-            "french": "Fleur des jours passés　〜 Fée des fleurs"
-          }
-        ]
-      },
-      {
-        "albumId": "th08",
-        "name": "東方永夜抄",
-        "formalName": "東方永夜抄　〜 Imperishable Night.",
-        "copyright": "(c)2004 上海アリス幻樂団",
-        "compatColor": 196,
-        "defaultLocked": true,
-        "songs": [
-          {
-            "mml": "TH08-01",
-            "loop": 1,
-            "name": "永夜抄　〜 Eastern Night.",
-            "english": "Imperishable Night　〜 Eastern Night",
-            "french": "Nuit impérissable　〜 Nuit de l'Est"
-          },
-          {
-            "mml": "TH08-02",
-            "loop": 1,
-            "name": "幻視の夜　〜 Ghostly Eyes",
-            "english": "Illusionary Night　〜 Ghostly Eyes",
-            "french": "Nuit illusoire　〜 Yeux fantômes"
-          },
-          {
-            "mml": "TH08-03",
-            "loop": 1,
-            "name": "蠢々秋月　〜 Mooned Insect",
-            "english": "Stirring an Autumn Moon　〜 Mooned Insect",
-            "french": "Remuer une lune d'automne　〜 Insecte lunaire"
-          },
-          {
-            "mml": "TH08-04",
-            "loop": 1,
-            "name": "夜雀の歌声　〜 Night Bird",
-            "english": "Song of the Night Sparrow　〜 Night Bird",
-            "french": "Le chant du moineau de nuit　〜 Oiseau de nuit"
-          },
-          {
-            "mml": "TH08-05",
-            "loop": 1,
-            "name": "もう歌しか聞こえない",
-            "english": "Unwittingly，Distracted with her Song",
-            "french": "involontairement, distrait par sa chanson."
-          },
-          {
-            "mml": "TH08-06",
-            "loop": 1,
-            "name": "懐かしき東方の血　〜 Old World",
-            "english": "Nostalgic Blood of the Eastern　〜 Old World",
-            "french": "Le sang nostalgique de l'Est　〜 Ancien monde"
-          },
-          {
-            "mml": "TH08-07",
-            "loop": 1,
-            "name": "プレインエイジア",
-            "english": "Plain Asia",
-            "french": "Plaine d'Asie"
-          },
-          {
-            "mml": "TH08-08",
-            "loop": 1,
-            "name": "永夜の報い　〜 Imperishable Night.",
-            "english": "Retribution for the Imperishable Night",
-            "french": "La rétribution de la nuit impérissable"
-          },
-          {
-            "mml": "TH08-09",
-            "loop": 1,
-            "name": "少女綺想曲　〜 Dream Battle",
-            "english": "Maiden's Capriccio　〜 Dream Battle",
-            "french": "Capriccio de la jeune fille　〜 Bataille des rêves"
-          },
-          {
-            "mml": "TH08-11",
-            "loop": 1,
-            "name": "シンデレラケージ　〜 Kagome-Kagome",
-            "english": "Cinderella Cage　〜 Kagome-Kagome",
-            "french": "Cage de Cendrillon　〜 Kagome-Kagome"
-          },
-          {
-            "mml": "TH08-12",
-            "loop": 1,
-            "name": "狂気の瞳　〜 Invisible Full Moon",
-            "english": "Lunatic Eyes　〜 Invisible Full Moon",
-            "french": "Des yeux lunatiques　〜 Pleine Lune Invisible"
-          },
-          {
-            "mml": "TH08-13",
-            "loop": 1,
-            "name": "ヴォヤージュ1969",
-            "english": "Voyage 1969",
-            "french": "Voyage 1969"
-          },
-          {
-            "mml": "TH08-14",
-            "loop": 1,
-            "name": "千年幻想郷　〜 History of the Moon",
-            "english": "Gensokyo Millennium　〜 History of the Moon",
-            "french": "Le millénaire de Gensokyo　〜 Histoire de la Lune"
-          },
-          {
-            "mml": "TH08-15",
-            "loop": 1,
-            "name": "竹取飛翔　〜 Lunatic Princess",
-            "english": "Flight of the Bamboo Cutter　〜 Lunatic Princess",
-            "french": "Le vol du coupeur de bambou　〜 Princesse lunatique"
-          },
-          {
-            "mml": "TH08-16",
-            "loop": 1,
-            "name": "ヴォヤージュ1970",
-            "english": "Voyage 1970",
-            "french": "Voyage 1970"
-          },
-          {
-            "mml": "TH08-17",
-            "loop": 1,
-            "name": "エクステンドアッシュ　〜 蓬莱人",
-            "english": "Extend Ash　〜 Hourai Victim",
-            "french": "Prolonger le frêne　〜 Victime de Hourai"
-          },
-          {
-            "mml": "TH08-18",
-            "loop": 1,
-            "name": "月まで届け、不死の煙",
-            "english": "Reach for the Moon，Immortal Smoke",
-            "french": "Atteindre la lune, Fumée immortelle"
-          },
-          {
-            "mml": "TH08-19",
-            "loop": 1,
-            "name": "月見草",
-            "english": "Evening Primrose",
-            "french": "Onagre"
-          },
-          {
-            "mml": "TH08-20",
-            "loop": 1,
-            "name": "Eternal Dream　〜 幽玄の槭樹",
-            "english": "Eternal Dream　〜 Mystic Maple",
-            "french": "Rêve éternel　〜 Érable mystique"
-          },
-          {
-            "mml": "TH08-21",
-            "loop": 1,
-            "name": "東方妖怪小町",
-            "english": "Eastern Youkai Beauty",
-            "french": "Beauté orientale Youkai"
-          }
-        ]
-      },
-      {
-        "albumId": "th09",
-        "name": "東方花映塚",
-        "formalName": "東方花映塚　〜 Phantasmagoria of Flower View.",
-        "copyright": "(c)2005 上海アリス幻樂団",
-        "compatColor": 35,
-        "defaultLocked": true,
-        "songs": [
-          {
-            "mml": "TH09-01",
-            "loop": 1,
-            "name": "花映塚　〜 Higan Retour",
-            "english": "Kaeidzuka　〜 Higan Retour",
-            "french": "Kaeidzuka　〜 Higan Retour"
-          },
-          {
-            "mml": "TH09-02",
-            "loop": 1,
-            "name": "春色小径　〜 Colorful Path",
-            "english": "Spring Lane　〜 Colorful Path",
-            "french": "Spring Lane　〜 Chemin coloré"
-          },
-          {
-            "mml": "TH09-03",
-            "loop": 1,
-            "name": "オリエンタルダークフライト",
-            "english": "Oriental Dark Flight",
-            "french": "Vol brun oriental"
-          },
-          {
-            "mml": "TH09-04",
-            "loop": 1,
-            "name": "フラワリングナイト",
-            "english": "Flowering Knight",
-            "french": "Chevalier fleuri"
-          },
-          {
-            "mml": "TH09-07",
-            "loop": 1,
-            "name": "おてんば恋娘の冒険",
-            "english": "Adventure of the Lovestruck Tomboy",
-            "french": "L'aventure du garçon fou amoureux"
-          },
-          {
-            "mml": "TH09-10",
-            "loop": 1,
-            "name": "お宇佐さまの素い幡",
-            "english": "White Flag of the Usa Jingu",
-            "french": "Drapeau blanc de l'Usa-Jingu"
-          },
-          {
-            "mml": "TH09-11",
-            "loop": 1,
-            "name": "風神少女 (ShortVersion)",
-            "english": "Fujin Maiden (ShortVersion)",
-            "french": "Fujin Maiden (Version courte)"
-          },
-          {
-            "mml": "TH09-15",
-            "loop": 1,
-            "name": "六十年目の東方裁判　〜 Fate of Sixty Years",
-            "english": "Eastern Judgement　〜 Fate of Sixty Years",
-            "french": "Le jugement de l'Est　〜 Le destin de soixante ans"
-          }
-        ]
-      },
-      {
-        "albumId": "th10",
-        "name": "東方風神録",
-        "formalName": "東方風神録　〜 Mountain of Faith.",
-        "copyright": "(c)2007 上海アリス幻樂団",
-        "compatColor": 7,
-        "defaultLocked": true,
-        "songs": [
-          {
-            "mml": "TH10-01",
-            "loop": 1,
-            "name": "封印されし神々",
-            "english": "Sealed Gods",
-            "french": "Dieux scellés"
-          },
-          {
-            "mml": "TH10-02",
-            "loop": 1,
-            "name": "人恋し神様　〜 Romantic Fall",
-            "english": "The gods that miss people　〜 Romantic Fall",
-            "french": "Les dieux qui manquent les gens　〜 Automne romantique"
-          },
-          {
-            "mml": "TH10-03",
-            "loop": 1,
-            "name": "稲田姫様に叱られるから",
-            "english": "Because Princess Inada is Scolding Me",
-            "french": "Parce que la princesse Inada me gronde"
-          },
-          {
-            "mml": "TH10-04",
-            "loop": 1,
-            "name": "厄神様の通り道　〜 Dark Road",
-            "english": "the Road of an Apotropaic God　〜 Dark Road",
-            "french": "la route d'un Dieu apotropaïque　〜 Les chemins de l'obscurité"
-          },
-          {
-            "mml": "TH10-05",
-            "loop": 1,
-            "name": "運命のダークサイド",
-            "english": "Darkside of Fate",
-            "french": "Le côté obscur du destin"
-          },
-          {
-            "mml": "TH10-06",
-            "loop": 1,
-            "name": "神々が恋した幻想郷",
-            "english": "the Gensokyo the Gods Loved",
-            "french": "le Gensokyo que les Dieux ont aimé"
-          },
-          {
-            "mml": "TH10-07",
-            "loop": 1,
-            "name": "芥川龍之介の河童　〜 Candid Friend",
-            "english": "Akutagawa Ryuunosuke's \"Kappa\"　〜 Candid Friend",
-            "french": "Le \"Kappa\" d'Akutagawa Ryuunosuke　〜 Candidate Friend"
-          },
-          {
-            "mml": "TH10-08",
-            "loop": 1,
-            "name": "フォールオブフォール　〜 秋めく滝",
-            "english": "Fall of Fall　〜 Autumnal Waterfall",
-            "french": "Automne de l'automne　〜 Chute d'eau automnale"
-          },
-          {
-            "mml": "TH10-09",
-            "loop": 1,
-            "name": "妖怪の山　〜 Mysterious Mountain",
-            "english": "The Youkai Mountain　〜 Mysterious Mountain",
-            "french": "La montagne des Youkai　〜 Montagne mystérieuse"
-          },
-          {
-            "mml": "TH10-10",
-            "loop": 1,
-            "name": "少女が見た日本の原風景",
-            "english": "The Japanese Wilderness the Girl Saw",
-            "french": "La nature sauvage japonaise que la jeune fille a vue"
-          },
-          {
-            "mml": "TH10-11",
-            "loop": 1,
-            "name": "信仰は儚き人間の為に",
-            "english": "Faith is for the Transient People",
-            "french": "La foi est pour les gens de passage"
-          },
-          {
-            "mml": "TH10-12",
-            "loop": 1,
-            "name": "御柱の墓場　〜 Grave of Being",
-            "english": "Cemetery of Onbashira　〜 Grave of Being",
-            "french": "Cimetière d'Onbashira　〜 Grave de l'être"
-          },
-          {
-            "mml": "TH10-13",
-            "loop": 1,
-            "name": "神さびた古戦場　〜 Suwa Foughten Field",
-            "english": "VenerableAncientBattlefield 〜 SuwaFoughtenField",
-            "french": "Ancien champ de bataille vénérable 〜 Champ de Suwa Foughten"
-          },
-          {
-            "mml": "TH10-14",
-            "loop": 1,
-            "name": "明日ハレの日、ケの昨日",
-            "english": "Tomorrow will be Special，Yesterday was not",
-            "french": "Demain sera spécial, hier ne l'était pas."
-          },
-          {
-            "mml": "TH10-15",
-            "loop": 1,
-            "name": "ネイティブフェイス",
-            "english": "Native Faith",
-            "french": "La foi indigène"
-          },
-          {
-            "mml": "TH10-16",
-            "loop": 1,
-            "name": "麓の神社",
-            "english": "Shrine at the Foot of the Mountain",
-            "french": "Sanctuaire au pied de la montagne"
-          },
-          {
-            "mml": "TH10-17",
-            "loop": 1,
-            "name": "神は恵みの雨を降らす　〜 Sylphid Dream",
-            "english": "the Gods give us Blessed Rain　〜 Sylphid Dream",
-            "french": "les Dieux nous donnent une pluie bienfaisante　〜 Rêve sylphide"
-          },
-          {
-            "mml": "TH10-18",
-            "loop": 1,
-            "name": "プレイヤーズスコア",
-            "english": "Player's Score",
-            "french": "Score du joueur"
-          }
-        ]
-      },
-      {
-        "albumId": "th11",
-        "name": "東方地霊殿",
-        "formalName": "東方地霊殿　〜 Subterranean Animism.",
-        "copyright": "(c)2008 上海アリス幻樂団",
-        "compatColor": 196,
-        "defaultLocked": true,
-        "songs": [
-          {
-            "mml": "TH11-02",
-            "loop": 1,
-            "name": "暗闇の風穴",
-            "english": "The Wind Tunnel of Darkness",
-            "french": "La soufflerie des ténèbres"
-          },
-          {
-            "mml": "TH11-05",
-            "loop": 1,
-            "name": "緑眼のジェラシー",
-            "english": "Green-Eyed Jealousy",
-            "french": "Jalousie aux yeux verts"
-          },
-          {
-            "mml": "TH11-09",
-            "loop": 1,
-            "name": "少女さとり　〜 3rd eye",
-            "english": "Satori Maiden　〜 3rd eye",
-            "french": "Satori Maiden　〜 3ème oeil"
-          },
-          {
-            "mml": "TH11-11",
-            "loop": 1,
-            "name": "死体旅行　〜 Be of good cheer!",
-            "english": "Corpse Voyage　〜 Be of good cheer!",
-            "french": "Voyage du cadavre　〜 Soyez de bonne humeur !"
-          }
-        ]
-      }
-    ]
-  }
+  "albums": [
+    {
+      "albumId": "th04",
+      "name": "東方幻想郷",
+      "formalName": "東方幻想郷　〜 Lotus Land Story",
+      "copyright": "(c)1997 ZUN Soft",
+      "compatColor": 35,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "mml": "TH04-01",
+          "loop": 1,
+          "name": "幻想郷　〜 Lotus Land Story",
+          "english": "Gensokyo　〜 Lotus Land Story",
+          "french": "Gensokyo　〜 Histoire du Lotus Land"
+        },
+        {
+          "mml": "TH04-02",
+          "loop": 1,
+          "name": "Witching Dream",
+          "english": null,
+          "french": "Rêve de sorcière"
+        },
+        {
+          "mml": "TH04-03",
+          "loop": 1,
+          "name": "Selene's Light",
+          "english": null,
+          "french": "La lumière de Séléné"
+        },
+        {
+          "mml": "TH04-04",
+          "loop": 1,
+          "name": "装飾戦　〜 Decoration Battle",
+          "english": "Decoration Battle",
+          "french": "Bataille de décoration"
+        },
+        {
+          "mml": "TH04-05",
+          "loop": 1,
+          "name": "Break the Sabbath",
+          "english": null,
+          "french": "Brisez le sabbat"
+        },
+        {
+          "mml": "TH04-06",
+          "loop": 1,
+          "name": "紅響曲　〜 Scarlet Phoneme",
+          "english": "Scarlet Symphony　〜 Scarlet Phoneme",
+          "french": "Symphonie écarlate 〜 Phonème écarlate"
+        },
+        {
+          "mml": "TH04-07",
+          "loop": 1,
+          "name": "Bad Apple!!",
+          "english": null,
+          "french": "Mauvaise pomme !"
+        },
+        {
+          "mml": "TH04-08",
+          "loop": 1,
+          "name": "霊戦　〜 Perdition crisis",
+          "english": "Spirit Battle　〜 Perdition Crisis",
+          "french": "Spirit Battle　〜 Crise de la perdition"
+        },
+        {
+          "mml": "TH04-09",
+          "loop": 1,
+          "name": "アリスマエステラ",
+          "english": "Alice Maestra",
+          "french": "Alice Maestra"
+        },
+        {
+          "mml": "TH04-10",
+          "loop": 1,
+          "name": "少女綺想曲　〜 Capriccio",
+          "english": "Maiden's Capriccio",
+          "french": "Capriccio de la jeune fille"
+        },
+        {
+          "mml": "TH04-11",
+          "loop": 1,
+          "name": "星の器　〜 Casket of Star",
+          "english": "Casket of Star",
+          "french": "Cercueil d'étoile"
+        },
+        {
+          "mml": "TH04-12",
+          "loop": 1,
+          "name": "Lotus Love",
+          "english": null,
+          "french": "L'amour du lotus"
+        },
+        {
+          "mml": "TH04-13",
+          "loop": 1,
+          "name": "眠れる恐怖　〜 Sleeping Terror",
+          "english": "Sleeping Terror",
+          "french": "Terreur endormie"
+        }
+      ]
+    },
+    {
+      "albumId": "th05",
+      "name": "東方怪綺談",
+      "formalName": "東方怪綺談　〜 Mystic Square",
+      "copyright": "(c)1997 ZUN Soft,",
+      "compatColor": 196,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "mml": "TH05-10",
+          "loop": 1,
+          "name": "不思議の国のアリス",
+          "english": "Alice in the Wonderland",
+          "french": "Alice au pays des merveilles"
+        },
+        {
+          "mml": "TH05-11",
+          "loop": 1,
+          "name": "the Grimoire of Alice",
+          "english": null,
+          "french": "le Grimoire d'Alice"
+        }
+      ]
+    },
+    {
+      "albumId": "zsw",
+      "name": "東方幻想的音楽",
+      "formalName": "東方幻想的音楽　〜 ZUN''s Strange Works",
+      "copyright": "(c)2000 ZUN",
+      "compatColor": 7,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "mml": "ZSW-01",
+          "loop": 0,
+          "name": "宵闇の魔術師",
+          "english": "Magician of the Evening Darkness",
+          "french": "Magicien des ténèbres du soir"
+        },
+        {
+          "mml": "ZSW-03",
+          "loop": 1,
+          "name": "Plastic Space",
+          "english": null,
+          "french": "Espace plastique"
+        },
+        {
+          "mml": "ZSW-06",
+          "loop": 0,
+          "name": "蓬莱幻想　〜 far East",
+          "english": "Hourai Illusion　〜 far East",
+          "french": "Illusion Hourai　〜 Extrême-Orient"
+        }
+      ]
+    },
+    {
+      "albumId": "hourai",
+      "name": "蓬莱人形",
+      "formalName": "蓬莱人形　〜 Dolls in Pseudo Paradise",
+      "copyright": "(c)2002 上海アリス幻樂団",
+      "compatColor": 196,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "mml": "HOURAI-01",
+          "loop": 0,
+          "name": "蓬莱伝説",
+          "english": "Legend of Hourai",
+          "french": "La légende de Hourai"
+        }
+      ]
+    },
+    {
+      "albumId": "th06",
+      "name": "東方紅魔郷",
+      "formalName": "東方紅魔郷　〜 the Embodiment of Scarlet Devil.",
+      "copyright": "(c)2002 上海アリス幻樂団",
+      "compatColor": 7,
+      "defaultLocked": false,
+      "songs": [
+        {
+          "mml": "TH06-01",
+          "loop": 1,
+          "name": "赤より紅い夢",
+          "english": "a Dream that is more Scarlet than Red",
+          "french": "un rêve qui est plus écarlate que rouge"
+        },
+        {
+          "mml": "TH06-02",
+          "loop": 1,
+          "name": "ほおずきみたいに紅い魂",
+          "english": "a Soul Red like Ground Cherry",
+          "french": "un Rouge Soul comme la cerise de terre"
+        },
+        {
+          "mml": "TH06-03",
+          "loop": 1,
+          "name": "妖魔夜行",
+          "english": "Mystics Night",
+          "french": "Nuit des mystiques"
+        },
+        {
+          "mml": "TH06-04",
+          "loop": 1,
+          "name": "ルーネイトエルフ",
+          "english": "Lunate Elf",
+          "french": "Elfe lunaire"
+        },
+        {
+          "mml": "TH06-05",
+          "loop": 1,
+          "name": "おてんば恋娘",
+          "english": "Beloved Tomboyish Daughter",
+          "french": "Fille bien-aimée de Tomboyish"
+        },
+        {
+          "mml": "TH06-06",
+          "loop": 1,
+          "name": "上海紅茶館　〜 Chinese Tea",
+          "english": "Shanghai Teahouse　〜 Chinese Tea",
+          "french": "Salon de thé de Shanghai　〜 Thé chinois"
+        },
+        {
+          "mml": "TH06-07",
+          "loop": 1,
+          "name": "明治十七年の上海アリス",
+          "english": "Shanghai Alice in 1884",
+          "french": "Shanghai Alice en 1884"
+        },
+        {
+          "mml": "TH06-08",
+          "loop": 1,
+          "name": "ヴワル魔法図書館",
+          "english": "Voile，the Magic Library",
+          "french": "Voile, la bibliothèque magique"
+        },
+        {
+          "mml": "TH06-09",
+          "loop": 1,
+          "name": "ラクトガール　〜 少女密室",
+          "english": "Locked Girl　〜 the Girl's Secret Room",
+          "french": "Fille enfermée　〜 la chambre secrète de la fille"
+        },
+        {
+          "mml": "TH06-10",
+          "loop": 1,
+          "name": "メイドと血の懐中時計",
+          "english": "the Maid and the Pocket Watch of Blood",
+          "french": "la jeune fille et la montre de poche de sang"
+        },
+        {
+          "mml": "TH06-11",
+          "loop": 1,
+          "name": "月時計　〜 ルナ・ダイアル",
+          "english": "Luna Dial",
+          "french": "Luna Dial"
+        },
+        {
+          "mml": "TH06-12",
+          "loop": 1,
+          "name": "ツェペシュの幼き末裔",
+          "english": "the Young Descendant of Tepes",
+          "french": "le jeune descendant de Tepes"
+        },
+        {
+          "mml": "TH06-13",
+          "loop": 1,
+          "name": "亡き王女の為のセプテット",
+          "english": "Septette pour une infante defunte",
+          "french": "Septette pour une infante défunte"
+        },
+        {
+          "mml": "TH06-14",
+          "loop": 1,
+          "name": "魔法少女達の百年祭",
+          "english": "the Centennial Festival for Magical Girls",
+          "french": "le Festival du Centenaire pour les filles magiques"
+        },
+        {
+          "mml": "TH06-15",
+          "loop": 1,
+          "name": "U.N.オーエンは彼女なのか？",
+          "english": "U.N.Owen was her?",
+          "french": "U.N.Owen, c'était elle ?"
+        },
+        {
+          "mml": "TH06-16",
+          "loop": 1,
+          "name": "紅より儚い永遠",
+          "english": "Crimson Beyond a Fleeting Eternity",
+          "french": "Cramoisi au-delà d'une éternité fugace"
+        },
+        {
+          "mml": "TH06-17",
+          "loop": 1,
+          "name": "紅楼　〜 Eastern Dream...",
+          "english": "Crimson Belvedere　〜 Eastern Dream...",
+          "french": "Belvédère cramoisi　〜 Rêve oriental..."
+        }
+      ]
+    },
+    {
+      "albumId": "th07",
+      "name": "東方妖々夢",
+      "formalName": "東方妖々夢　〜 Perfect Cherry Blossom.",
+      "copyright": "(c)2003 上海アリス幻樂団",
+      "compatColor": 35,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "mml": "TH07-01",
+          "loop": 1,
+          "name": "妖々夢　〜 Snow or Cherry Petal",
+          "english": "Mystic Dream　〜 Snow or Cherry Petal",
+          "french": "Rêve mystique　〜 Pétale de neige ou de cerise"
+        },
+        {
+          "mml": "TH07-02",
+          "loop": 1,
+          "name": "無何有の郷　〜 Deep Mountain",
+          "english": "Paradise　〜 Deep Mountain",
+          "french": "Paradis　〜 Montagne Profonde"
+        },
+        {
+          "mml": "TH07-03",
+          "loop": 1,
+          "name": "クリスタライズシルバー",
+          "english": "Crystalize Silver",
+          "french": "Cristalliser l'argent"
+        },
+        {
+          "mml": "TH07-04",
+          "loop": 1,
+          "name": "遠野幻想物語",
+          "english": "the Fantastic Legend of Tohno",
+          "french": "la légende fantastique de Tohno"
+        },
+        {
+          "mml": "TH07-05",
+          "loop": 1,
+          "name": "ティアオイエツォン（withered leaf）",
+          "english": "Diao Ye Zong (Withered Leaf)",
+          "french": "Diao Ye Zong (Feuille flétrie)"
+        },
+        {
+          "mml": "TH07-06",
+          "loop": 1,
+          "name": "ブクレシュティの人形師",
+          "english": "the Doll Maker of Bucuresti",
+          "french": "le fabricant de poupées de Bucarest"
+        },
+        {
+          "mml": "TH07-07",
+          "loop": 1,
+          "name": "人形裁判　〜 人の形弄びし少女",
+          "english": "Doll Judgement",
+          "french": "Le procès des poupées　〜 La fille qui joue avec les formes humaines"
+        },
+        {
+          "mml": "TH07-08",
+          "loop": 1,
+          "name": "天空の花の都",
+          "english": "the Capital City of Flowers in the Sky",
+          "french": "la capitale des fleurs dans le ciel"
+        },
+        {
+          "mml": "TH07-09",
+          "loop": 1,
+          "name": "幽霊楽団　〜 Phantom Ensemble",
+          "english": "Phantom Ensemble",
+          "french": "Ensemble fantôme"
+        },
+        {
+          "mml": "TH07-10",
+          "loop": 1,
+          "name": "東方妖々夢　〜 Ancient Temple",
+          "english": "Mystic Oriental Dream　〜 Ancient Temple",
+          "french": "Rêve mystique oriental　〜 Temple antique"
+        },
+        {
+          "mml": "TH07-11",
+          "loop": 1,
+          "name": "広有射怪鳥事　〜 Till When?",
+          "english": "Hiroari Shoots a Strange Bird　〜 Till When?",
+          "french": "Hiroari tire sur un drôle d'oiseau　〜 Jusqu'à quand ?"
+        },
+        {
+          "mml": "TH07-12",
+          "loop": 1,
+          "name": "アルティメットトゥルース",
+          "english": "Ultimate Truth",
+          "french": "La vérité ultime"
+        },
+        {
+          "mml": "TH07-13",
+          "loop": 1,
+          "name": "幽雅に咲かせ、墨染の桜　〜 Border of Life",
+          "english": "Bloom Nobly，Ink-black Cherry Blossom",
+          "french": "Bloom Nobly, Fleur de cerisier noir d'encre"
+        },
+        {
+          "mml": "TH07-14",
+          "loop": 1,
+          "name": "ボーダーオブライフ",
+          "english": "Boarder of Life",
+          "french": "La frontière de la vie"
+        },
+        {
+          "mml": "TH07-15",
+          "loop": 1,
+          "name": "妖々跋扈",
+          "english": "Charming Domination",
+          "french": "Charmante Domination"
+        },
+        {
+          "mml": "TH07-16",
+          "loop": 1,
+          "name": "少女幻葬　〜 Necro-Fantasy",
+          "english": "a Maiden's Illusionary Funeral　〜 Necro-Fantasy",
+          "french": "Les funérailles illusoires d'une jeune fille　〜 Necro-Fantasy"
+        },
+        {
+          "mml": "TH07-17",
+          "loop": 1,
+          "name": "妖々跋扈　〜 Who done it!",
+          "english": "Charming Domination　〜 Who done it!",
+          "french": "Charmante Domination　〜 Qui a fait ça ?"
+        },
+        {
+          "mml": "TH07-18",
+          "loop": 1,
+          "name": "ネクロファンタジア",
+          "english": "Necro Fantasia",
+          "french": "Necro Fantasia"
+        },
+        {
+          "mml": "TH07-19",
+          "loop": 1,
+          "name": "春風の夢",
+          "english": "Dream of a Spring Breeze",
+          "french": "Rêve d'une brise de printemps"
+        },
+        {
+          "mml": "TH07-20",
+          "loop": 1,
+          "name": "さくらさくら　〜 Japanize Dream...",
+          "english": "Sakura Sakura　〜 Japanize Dream...",
+          "french": "Sakura Sakura　〜 Rêve Japonais..."
+        },
+        {
+          "mml": "TH07-21",
+          "loop": 1,
+          "name": "過去の花　〜 Fairy of Flower",
+          "english": "Flower of Past Days　〜 Fairy of Flower",
+          "french": "Fleur des jours passés　〜 Fée des fleurs"
+        }
+      ]
+    },
+    {
+      "albumId": "th08",
+      "name": "東方永夜抄",
+      "formalName": "東方永夜抄　〜 Imperishable Night.",
+      "copyright": "(c)2004 上海アリス幻樂団",
+      "compatColor": 196,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "mml": "TH08-01",
+          "loop": 1,
+          "name": "永夜抄　〜 Eastern Night.",
+          "english": "Imperishable Night　〜 Eastern Night",
+          "french": "Nuit impérissable　〜 Nuit de l'Est"
+        },
+        {
+          "mml": "TH08-02",
+          "loop": 1,
+          "name": "幻視の夜　〜 Ghostly Eyes",
+          "english": "Illusionary Night　〜 Ghostly Eyes",
+          "french": "Nuit illusoire　〜 Yeux fantômes"
+        },
+        {
+          "mml": "TH08-03",
+          "loop": 1,
+          "name": "蠢々秋月　〜 Mooned Insect",
+          "english": "Stirring an Autumn Moon　〜 Mooned Insect",
+          "french": "Remuer une lune d'automne　〜 Insecte lunaire"
+        },
+        {
+          "mml": "TH08-04",
+          "loop": 1,
+          "name": "夜雀の歌声　〜 Night Bird",
+          "english": "Song of the Night Sparrow　〜 Night Bird",
+          "french": "Le chant du moineau de nuit　〜 Oiseau de nuit"
+        },
+        {
+          "mml": "TH08-05",
+          "loop": 1,
+          "name": "もう歌しか聞こえない",
+          "english": "Unwittingly，Distracted with her Song",
+          "french": "involontairement, distrait par sa chanson."
+        },
+        {
+          "mml": "TH08-06",
+          "loop": 1,
+          "name": "懐かしき東方の血　〜 Old World",
+          "english": "Nostalgic Blood of the Eastern　〜 Old World",
+          "french": "Le sang nostalgique de l'Est　〜 Ancien monde"
+        },
+        {
+          "mml": "TH08-07",
+          "loop": 1,
+          "name": "プレインエイジア",
+          "english": "Plain Asia",
+          "french": "Plaine d'Asie"
+        },
+        {
+          "mml": "TH08-08",
+          "loop": 1,
+          "name": "永夜の報い　〜 Imperishable Night.",
+          "english": "Retribution for the Imperishable Night",
+          "french": "La rétribution de la nuit impérissable"
+        },
+        {
+          "mml": "TH08-09",
+          "loop": 1,
+          "name": "少女綺想曲　〜 Dream Battle",
+          "english": "Maiden's Capriccio　〜 Dream Battle",
+          "french": "Capriccio de la jeune fille　〜 Bataille des rêves"
+        },
+        {
+          "mml": "TH08-11",
+          "loop": 1,
+          "name": "シンデレラケージ　〜 Kagome-Kagome",
+          "english": "Cinderella Cage　〜 Kagome-Kagome",
+          "french": "Cage de Cendrillon　〜 Kagome-Kagome"
+        },
+        {
+          "mml": "TH08-12",
+          "loop": 1,
+          "name": "狂気の瞳　〜 Invisible Full Moon",
+          "english": "Lunatic Eyes　〜 Invisible Full Moon",
+          "french": "Des yeux lunatiques　〜 Pleine Lune Invisible"
+        },
+        {
+          "mml": "TH08-13",
+          "loop": 1,
+          "name": "ヴォヤージュ1969",
+          "english": "Voyage 1969",
+          "french": "Voyage 1969"
+        },
+        {
+          "mml": "TH08-14",
+          "loop": 1,
+          "name": "千年幻想郷　〜 History of the Moon",
+          "english": "Gensokyo Millennium　〜 History of the Moon",
+          "french": "Le millénaire de Gensokyo　〜 Histoire de la Lune"
+        },
+        {
+          "mml": "TH08-15",
+          "loop": 1,
+          "name": "竹取飛翔　〜 Lunatic Princess",
+          "english": "Flight of the Bamboo Cutter　〜 Lunatic Princess",
+          "french": "Le vol du coupeur de bambou　〜 Princesse lunatique"
+        },
+        {
+          "mml": "TH08-16",
+          "loop": 1,
+          "name": "ヴォヤージュ1970",
+          "english": "Voyage 1970",
+          "french": "Voyage 1970"
+        },
+        {
+          "mml": "TH08-17",
+          "loop": 1,
+          "name": "エクステンドアッシュ　〜 蓬莱人",
+          "english": "Extend Ash　〜 Hourai Victim",
+          "french": "Prolonger le frêne　〜 Victime de Hourai"
+        },
+        {
+          "mml": "TH08-18",
+          "loop": 1,
+          "name": "月まで届け、不死の煙",
+          "english": "Reach for the Moon，Immortal Smoke",
+          "french": "Atteindre la lune, Fumée immortelle"
+        },
+        {
+          "mml": "TH08-19",
+          "loop": 1,
+          "name": "月見草",
+          "english": "Evening Primrose",
+          "french": "Onagre"
+        },
+        {
+          "mml": "TH08-20",
+          "loop": 1,
+          "name": "Eternal Dream　〜 幽玄の槭樹",
+          "english": "Eternal Dream　〜 Mystic Maple",
+          "french": "Rêve éternel　〜 Érable mystique"
+        },
+        {
+          "mml": "TH08-21",
+          "loop": 1,
+          "name": "東方妖怪小町",
+          "english": "Eastern Youkai Beauty",
+          "french": "Beauté orientale Youkai"
+        }
+      ]
+    },
+    {
+      "albumId": "th09",
+      "name": "東方花映塚",
+      "formalName": "東方花映塚　〜 Phantasmagoria of Flower View.",
+      "copyright": "(c)2005 上海アリス幻樂団",
+      "compatColor": 35,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "mml": "TH09-01",
+          "loop": 1,
+          "name": "花映塚　〜 Higan Retour",
+          "english": "Kaeidzuka　〜 Higan Retour",
+          "french": "Kaeidzuka　〜 Higan Retour"
+        },
+        {
+          "mml": "TH09-02",
+          "loop": 1,
+          "name": "春色小径　〜 Colorful Path",
+          "english": "Spring Lane　〜 Colorful Path",
+          "french": "Spring Lane　〜 Chemin coloré"
+        },
+        {
+          "mml": "TH09-03",
+          "loop": 1,
+          "name": "オリエンタルダークフライト",
+          "english": "Oriental Dark Flight",
+          "french": "Vol brun oriental"
+        },
+        {
+          "mml": "TH09-04",
+          "loop": 1,
+          "name": "フラワリングナイト",
+          "english": "Flowering Knight",
+          "french": "Chevalier fleuri"
+        },
+        {
+          "mml": "TH09-07",
+          "loop": 1,
+          "name": "おてんば恋娘の冒険",
+          "english": "Adventure of the Lovestruck Tomboy",
+          "french": "L'aventure du garçon fou amoureux"
+        },
+        {
+          "mml": "TH09-10",
+          "loop": 1,
+          "name": "お宇佐さまの素い幡",
+          "english": "White Flag of the Usa Jingu",
+          "french": "Drapeau blanc de l'Usa-Jingu"
+        },
+        {
+          "mml": "TH09-11",
+          "loop": 1,
+          "name": "風神少女 (ShortVersion)",
+          "english": "Fujin Maiden (ShortVersion)",
+          "french": "Fujin Maiden (Version courte)"
+        },
+        {
+          "mml": "TH09-15",
+          "loop": 1,
+          "name": "六十年目の東方裁判　〜 Fate of Sixty Years",
+          "english": "Eastern Judgement　〜 Fate of Sixty Years",
+          "french": "Le jugement de l'Est　〜 Le destin de soixante ans"
+        }
+      ]
+    },
+    {
+      "albumId": "th10",
+      "name": "東方風神録",
+      "formalName": "東方風神録　〜 Mountain of Faith.",
+      "copyright": "(c)2007 上海アリス幻樂団",
+      "compatColor": 7,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "mml": "TH10-01",
+          "loop": 1,
+          "name": "封印されし神々",
+          "english": "Sealed Gods",
+          "french": "Dieux scellés"
+        },
+        {
+          "mml": "TH10-02",
+          "loop": 1,
+          "name": "人恋し神様　〜 Romantic Fall",
+          "english": "The gods that miss people　〜 Romantic Fall",
+          "french": "Les dieux qui manquent les gens　〜 Automne romantique"
+        },
+        {
+          "mml": "TH10-03",
+          "loop": 1,
+          "name": "稲田姫様に叱られるから",
+          "english": "Because Princess Inada is Scolding Me",
+          "french": "Parce que la princesse Inada me gronde"
+        },
+        {
+          "mml": "TH10-04",
+          "loop": 1,
+          "name": "厄神様の通り道　〜 Dark Road",
+          "english": "the Road of an Apotropaic God　〜 Dark Road",
+          "french": "la route d'un Dieu apotropaïque　〜 Les chemins de l'obscurité"
+        },
+        {
+          "mml": "TH10-05",
+          "loop": 1,
+          "name": "運命のダークサイド",
+          "english": "Darkside of Fate",
+          "french": "Le côté obscur du destin"
+        },
+        {
+          "mml": "TH10-06",
+          "loop": 1,
+          "name": "神々が恋した幻想郷",
+          "english": "the Gensokyo the Gods Loved",
+          "french": "le Gensokyo que les Dieux ont aimé"
+        },
+        {
+          "mml": "TH10-07",
+          "loop": 1,
+          "name": "芥川龍之介の河童　〜 Candid Friend",
+          "english": "Akutagawa Ryuunosuke's \"Kappa\"　〜 Candid Friend",
+          "french": "Le \"Kappa\" d'Akutagawa Ryuunosuke　〜 Candidate Friend"
+        },
+        {
+          "mml": "TH10-08",
+          "loop": 1,
+          "name": "フォールオブフォール　〜 秋めく滝",
+          "english": "Fall of Fall　〜 Autumnal Waterfall",
+          "french": "Automne de l'automne　〜 Chute d'eau automnale"
+        },
+        {
+          "mml": "TH10-09",
+          "loop": 1,
+          "name": "妖怪の山　〜 Mysterious Mountain",
+          "english": "The Youkai Mountain　〜 Mysterious Mountain",
+          "french": "La montagne des Youkai　〜 Montagne mystérieuse"
+        },
+        {
+          "mml": "TH10-10",
+          "loop": 1,
+          "name": "少女が見た日本の原風景",
+          "english": "The Japanese Wilderness the Girl Saw",
+          "french": "La nature sauvage japonaise que la jeune fille a vue"
+        },
+        {
+          "mml": "TH10-11",
+          "loop": 1,
+          "name": "信仰は儚き人間の為に",
+          "english": "Faith is for the Transient People",
+          "french": "La foi est pour les gens de passage"
+        },
+        {
+          "mml": "TH10-12",
+          "loop": 1,
+          "name": "御柱の墓場　〜 Grave of Being",
+          "english": "Cemetery of Onbashira　〜 Grave of Being",
+          "french": "Cimetière d'Onbashira　〜 Grave de l'être"
+        },
+        {
+          "mml": "TH10-13",
+          "loop": 1,
+          "name": "神さびた古戦場　〜 Suwa Foughten Field",
+          "english": "VenerableAncientBattlefield 〜 SuwaFoughtenField",
+          "french": "Ancien champ de bataille vénérable 〜 Champ de Suwa Foughten"
+        },
+        {
+          "mml": "TH10-14",
+          "loop": 1,
+          "name": "明日ハレの日、ケの昨日",
+          "english": "Tomorrow will be Special，Yesterday was not",
+          "french": "Demain sera spécial, hier ne l'était pas."
+        },
+        {
+          "mml": "TH10-15",
+          "loop": 1,
+          "name": "ネイティブフェイス",
+          "english": "Native Faith",
+          "french": "La foi indigène"
+        },
+        {
+          "mml": "TH10-16",
+          "loop": 1,
+          "name": "麓の神社",
+          "english": "Shrine at the Foot of the Mountain",
+          "french": "Sanctuaire au pied de la montagne"
+        },
+        {
+          "mml": "TH10-17",
+          "loop": 1,
+          "name": "神は恵みの雨を降らす　〜 Sylphid Dream",
+          "english": "the Gods give us Blessed Rain　〜 Sylphid Dream",
+          "french": "les Dieux nous donnent une pluie bienfaisante　〜 Rêve sylphide"
+        },
+        {
+          "mml": "TH10-18",
+          "loop": 1,
+          "name": "プレイヤーズスコア",
+          "english": "Player's Score",
+          "french": "Score du joueur"
+        }
+      ]
+    },
+    {
+      "albumId": "th11",
+      "name": "東方地霊殿",
+      "formalName": "東方地霊殿　〜 Subterranean Animism.",
+      "copyright": "(c)2008 上海アリス幻樂団",
+      "compatColor": 196,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "mml": "TH11-02",
+          "loop": 1,
+          "name": "暗闇の風穴",
+          "english": "The Wind Tunnel of Darkness",
+          "french": "La soufflerie des ténèbres"
+        },
+        {
+          "mml": "TH11-05",
+          "loop": 1,
+          "name": "緑眼のジェラシー",
+          "english": "Green-Eyed Jealousy",
+          "french": "Jalousie aux yeux verts"
+        },
+        {
+          "mml": "TH11-09",
+          "loop": 1,
+          "name": "少女さとり　〜 3rd eye",
+          "english": "Satori Maiden　〜 3rd eye",
+          "french": "Satori Maiden　〜 3ème oeil"
+        },
+        {
+          "mml": "TH11-11",
+          "loop": 1,
+          "name": "死体旅行　〜 Be of good cheer!",
+          "english": "Corpse Voyage　〜 Be of good cheer!",
+          "french": "Voyage du cadavre　〜 Soyez de bonne humeur !"
+        }
+      ]
+    }
+  ]
 }
