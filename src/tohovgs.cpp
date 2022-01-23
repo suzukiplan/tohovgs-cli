@@ -45,6 +45,7 @@ static struct PlayList* fs_listHead;
 static struct PlayList* fs_listTail;
 static void* fs_sound;
 static void* fs_vgsdec;
+static int fs_initialJump;
 
 static void trimstring(char* src)
 {
@@ -221,6 +222,9 @@ static void play(struct PlayList* list)
     playThreadFlag = true;
     playThreadLoop = list->loop;
     playThreadRL = CFRunLoopGetCurrent();
+    if (fs_initialJump) {
+        vgsdec_set_value(fs_vgsdec, VGSDEC_REG_TIME, fs_initialJump * 22050);
+    }
     pthread_create(&tid, NULL, playThread, NULL);
     struct sched_param param;
     memset(&param, 0, sizeof(param));
@@ -235,9 +239,10 @@ int main(int argc, char* argv[])
 {
     srand((unsigned int)time(NULL));
     if (argc < 2) {
-        puts("usage: tohovgs [-i] [-s] {playlist.csv | music.mml [loopCount]}...");
+        puts("usage: tohovgs [-i] [-s] [-j sec] {playlist.csv | music.mml [loopCount]}...");
         puts("-i: infinite play");
         puts("-s: shuffle play");
+        puts("-j: initial seek seconds");
         return 1;
     }
     bool isInfinite = false;
@@ -247,6 +252,14 @@ int main(int argc, char* argv[])
             isInfinite = true;
         } else if (0 == strcmp(argv[i], "-s")) {
             isShuffle = true;
+        } else if (0 == strcmp(argv[i], "-j")) {
+            i++;
+            if (i < argc) {
+                fs_initialJump = atoi(argv[i]);
+            } else {
+                printf("invalid -j option\n");
+                return 1;
+            }
         } else {
             char* ext = strrchr(argv[i], '.');
             if (ext) {
