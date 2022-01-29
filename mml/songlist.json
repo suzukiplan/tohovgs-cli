@@ -1,5 +1,5 @@
 {
-  "version": "2022.01.23",
+  "version": "2022.01.29",
   "albums": [
     {
       "albumId": "th04",
@@ -729,6 +729,12 @@
           "loop": 1,
           "name": "封じられた妖怪　～ Lost Place",
           "english": "Sealed Yokai　～ Lost Place"
+        },
+        {
+          "mml": "TH11-04",
+          "loop": 1,
+          "name": "渡る者の途絶えた橋",
+          "english": "The bridge with no survivors"
         },
         {
           "mml": "TH11-05",
