@@ -79,8 +79,8 @@ Ch2 <g4gr>dr<gr>dr<gr>dr< a4ar>fr<ar>fr<ar>fr<
 Ch2 b-4b-r>dr g8f8d8f8 d8g8b->d<b-8g8df<b->d<gb-
 
 Ch3 (Sq)@0v13o5
-Ch3 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050g1
-Ch3 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050g1
+Ch3 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050d1
+Ch3 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050d1
 
 Ch4 (CG5)v12o3l16
 Ch4 d4drb-rdgb-rd4 d4drb-rdgb-rc4 < 
@@ -200,8 +200,8 @@ Ch3 e-8g-8a-8>c-8<g-64g64a-32^16g-8e-8g-8
 Ch3 a-8r8>d-32e-32^8.<a-4g-4 a-8>c-8d-8e-8 <a-8g-8e-8g-8 a-1
 
 Ch4 (Sq)@0v13o5k+
-Ch4 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050@2g1@1
-Ch4 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050@2g1
+Ch4 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050@2d1@1
+Ch4 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050@2d1
 
 Ch5 (B)c8(H2)c8(S)c8(H)c8 (B)c8c(H2)c (S)c8(B)c(H2)c
 Ch5 (B)c8(H2)c8(S)c8(H)c(B)c c8c(H2)c (S)c8(B)c(H2)c
@@ -275,7 +275,7 @@ Ch3 >a-g-e-c-> c-d-e-d- <a->e-<g->d-< e->c-<e-b-
 Ch3 e-e-g-b- >e-c-e-c- e-c-<b-g- b-g-e-e-
 Ch3 a->e-c-e- <e->e-c-e- <a-b->d-<g- b->d-<g-b- a-1
 
-Ch4 @0\s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050@2g1@1
+Ch4 @0\s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050@2d1@1
 Ch4 @0\s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050@2g1@1
 
 Ch5 (H)c4 (S)c8(H2)c(B)c c(S2)cc(H2)c (S)c8(H)c8
