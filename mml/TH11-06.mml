@@ -244,7 +244,7 @@ Ch1 a-4.^16b->c-<b-g-a-c-d-e-r c-2^16d-g-a- b-a-b->d-<
 Ch1 a-8b-8>c-8e-8 c-8<b-8a-8b-8> e-c-<a-> g-e-c- e-c-<g-> d-<b-a-g-4
 Ch1 a-8>c-8d-8e-8< a-8g-8e-8g-8 a-1
 
-Ch2 (Sq)v12o4l16
+Ch2 (Brass)v12o4l16
 Ch2 e-8g-8a-8>c-8<a-4a-8g-8 a-1 e-8g-8a-8>c-8<a-4a-8g-8 e-1
 Ch2 e-8g-8a-8>c-8<g-64g64a-32^16g-8e-8g-8
 Ch2 a-8r8>d-32e-32^8.<a-4g-4 a-8>c-8d-8e-8 <a-8g-8e-8g-8 a-1
@@ -254,11 +254,10 @@ Ch2 a-4.^16b->c-<b-g-a-c-d-e-r c-2^16d-g-a- b-a-b->d-<
 Ch2 a-8b-8>c-8e-8 c-8<b-8a-8b-8> e-c-<a-> g-e-c- e-c-<g-> d-<b-a-g-4
 Ch2 a-8>c-8d-8e-8< a-8g-8e-8g-8 a-1
 
-Ch3 (Sq)v13o4l16
+Ch3 (Brass)v13o4l16
 Ch3 c-8e-8e-8a-8e-4c-8<b-8 >c-1< a-8b-8>c-8a-8e-4c-8<b-8>c-1
 Ch3 c-8e-8e-8a-8d-64d64e-32^16d-8<a-8b-8
 Ch3 >c-8r8g-32a-32^8.d-4<b-4 a-8>c-8d-8e-8<a-8g-8e-8g-8 a-1>
-
 Ch3 (CG3)v14o4
 #Ch3 a-e-a-b- a-e->c-<b- a->c-<e-b- d-a-e-b-
 #Ch3 a-b->c-e- c-e-c-<b- a-b-e-a- d-e-c-d-
