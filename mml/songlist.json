@@ -1,5 +1,5 @@
 {
-  "version": "2022.01.29",
+  "version": "2022.02.05",
   "albums": [
     {
       "albumId": "th04",
@@ -741,6 +741,12 @@
           "loop": 1,
           "name": "緑眼のジェラシー",
           "english": "Green-Eyed Jealousy"
+        },
+        {
+          "mml": "TH11-06",
+          "loop": 1,
+          "name": "旧地獄街道を行く",
+          "english": "Going along the Old Hell Road"
         },
         {
           "mml": "TH11-09",
