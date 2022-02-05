@@ -69,10 +69,10 @@ Ch1 d8f8g8b-8 f64f+64g32^16 f8d8f8 g8r8>c32d32^8.<g4f4 g8b-8>c8d8<g8f8d8f8 g1
 Ch1 d8f8g8b-8 g4g8f8 g1 d8f8g8b-8 g4g8f8 d1
 Ch1 d8f8g8b-8 f64f+64g32^16 f8d8f8 g8r8>c32d32^8.<g4f4 g8b-8>c8d8<g8f8d8f8 g1
 
-Ch2 (CG3)v13o3l16
+Ch2 (CG3)v13o4l16
 Ch2 d4dr8.dadrd4 d4drb-rdgb-rc4 <b-4b-r>gr<b->e-gr<b-r>gr <b-4b-r>gr<b->e-gr<b->e-ge-
 Ch2 <g4gr>dr<gr>dr<gr>dr< a4ar>fr<ar>fr<ar>fr<
-Ch2 b-4b-r>dr g8f8d8f8 \e22050 d1
+Ch2 <b-4b-r>dr g8f8d8f8 \e22050 d1
 Ch2 (CG3)v13o3l16
 Ch2 d4dr8.dadrd4 d4drb-rdgb-rc4 <b-4b-r>gr<b->e-gr<b-r>gr <b-4b-r>gr<b->e-gr<b->e-ge-
 Ch2 <g4gr>dr<gr>dr<gr>dr< a4ar>fr<ar>fr<ar>fr<
@@ -82,10 +82,13 @@ Ch3 (Sq)@0v13o5
 Ch3 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050g1
 Ch3 \s22050 d1. \s5000b-4a4 \s22050g1. \s5000g4f4 \s22050d1f1 \s11025g2f2 \s22050g1
 
-Ch4 (Brass)v11o4l16
-Ch4 d8f8g8b-8 g4g8f8 g1 d8f8g8b-8 g4g8f8 d1
-Ch4 d8f8g8b-8 f64f+64g32^16 f8d8f8 g8r8>c32d32^8.<g4f4 g8b-8>c8d8<g8f8d8f8 g1
-Ch4 v15o4(Brass)l16
+Ch4 (CG5)v12o3l16
+Ch4 d4drb-rdgb-rd4 d4drb-rdgb-rc4 < 
+Ch4 b-4b-r>gr<b->e-gr<b-4 b-4b-r>gr<b->e-gr<b-4 
+Ch4 g4gr>e-r<g>ce-r<g4 a4ar>fr<a>dfr<a4 
+Ch4 v13o4(Brass)l16
+Ch4 g8b-8>c8e-8<g8f8d8f8 g1
+Ch4 v14
 Ch4 b-8>d8d8g8 d4<b-8a8 b-1 g8a8b-8>g8d4<b-8a8 b-1
 Ch4 b-8>d8d8g8 c64c+64d32^16c8<g8a8b-8 r8>f32g32^8.c4<a4 g8b-8>c8e-8<g8f8d8f8 g1
 
