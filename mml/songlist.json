@@ -273,7 +273,7 @@
       "formalName": "東方妖々夢　〜 Perfect Cherry Blossom.",
       "copyright": "(c)2003 上海アリス幻樂団",
       "compatColor": 35,
-      "defaultLocked": true,
+      "defaultLocked": false,
       "songs": [
         {
           "mml": "TH07-01",
@@ -409,7 +409,7 @@
       "formalName": "東方永夜抄　〜 Imperishable Night.",
       "copyright": "(c)2004 上海アリス幻樂団",
       "compatColor": 196,
-      "defaultLocked": true,
+      "defaultLocked": false,
       "songs": [
         {
           "mml": "TH08-01",
