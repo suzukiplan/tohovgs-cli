@@ -1,5 +1,5 @@
 {
-  "version": "2022.02.05",
+  "version": "2022.02.06",
   "albums": [
     {
       "albumId": "th04",
@@ -464,6 +464,12 @@
           "loop": 1,
           "name": "少女綺想曲　〜 Dream Battle",
           "english": "Maiden's Capriccio　〜 Dream Battle"
+        },
+        {
+          "mml": "TH08-10a",
+          "loop": 1,
+          "name": "恋色マスタースパーク",
+          "english": "Love Colors Master Spark"
         },
         {
           "mml": "TH08-11",
