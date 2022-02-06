@@ -209,7 +209,7 @@ static void play(struct PlayList* list)
     VgsMmlErrorInfo err;
     VgsBgmData* bgm = vgsmml_compile_from_file(list->path, &err);
     if (!bgm) {
-        puts("MML compile error");
+        printf("MML compile error line:%d (%s)\n", err.line, err.message);
         return;
     }
     if (vgsdec_load_bgm_from_memory(fs_vgsdec, bgm->data, bgm->size)) {
