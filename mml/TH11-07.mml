@@ -1,0 +1,61 @@
+# 華のさかづき大江山
+
+$Brass \s600 \e22050 @1 %75
+$Bass \s100   \e200 @2 %90
+$CG3 \s30 \e8000 @1 %20
+$CG5 \s30 \e8000 @2 %60
+$Sq \s600 \e22050 @2 %75
+$Sq2 \s2000 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$G5 \s4000 \e22050 @1 %80
+
+#-----------------------------------------------------------------------------
+Ch0 t151 m8 r1024
+Ch1         r1024
+Ch2         r1024
+Ch3         r1024
+Ch4         r1024
+Ch5         r1024
+
+#-----------------------------------------------------------------------------
+# Intro (4/4 Tempo151 / D-Moll)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2l16
+Ch0 d8.d8.d4>d<dac+fd <b-8.b-8.br>c8.c8.cr d8.d8.d4d8d8dr <b-8.b-8.br>c8.c8.cr
+Ch0 <g8.g8.g4grg8gr a8.a8.ar>ec+ae>gec+<a<
+Ch0 b-8>b-r< b-8>b-r< b-8>b-r< b-8>b-r c8>cr< c8>cr< c+8>c+r< c+8>c+r<
+Ch0 r1
+
+Ch1 (Sq)v14o5l16
+Ch1 a2^8.b-64>c64d64e64f4 e8.c8.<g8 g8.f8.g8 d2.d8e8 f8.e8.dr c8.<g8.>cr d1
+Ch2 (Sq)v13o5l16
+Ch2 f2.>d4 c8.<g8.e8 e8.d8.e8 <a2.a8>c8 d8.c8.<ar g8.e8.gr g1
+Ch3 (Brass)v14o4l16
+Ch3 a1 f2g4^16^32.l64g+ aa+b>c c+dd+el16 f2a2 b-4.r8e4.r8 <b1
+
+Ch4 (Brass)v14o3l16
+Ch4 d1<b-2>c2d1<b-2>c2<g1
+
+Ch1 (Brass)o5 c+8.c+8.c+8c+2 d1 (Sq)o4e8r8>(Brass)e4 (Sq)<c+8r8>>(Brass)c+4
+Ch2 (Brass)o4 e8.e8.e8e2 f1 (Sq)o4c8r8>(Brass)c4< (Sq)<a8r8>>(Brass)a4
+Ch3 o3 a8.a8.a8a2 b-1 (Sq)o3g8r8>(Brass)g4(Sq)<e8r8>>(Brass)e4
+Ch4 (CG3)o2 a>c+ec+< a>c+ec+< a>c+ec+< a>c+ec+< b->dfd< b->dfd< b->dfd< b->dfd<
+Ch4 (Sq)o3e8r8>(Brass)e4(Sq)<c+8r8>>(Brass)c+4
+
+Ch5 l16
+Ch5 (H)c4.(S)<geg32g32fed>c4
+Ch5 c8.c8.c8 c4 v-----c32c32v+c32c32v+c32c32v+c32c32
+Ch5 (H)c4.(S)<geg32g32fed>c4
+Ch5 (B)cc(H2)c8 (S)c8(B)c(S2)c (S)c4 (B)cc(S)cc
+Ch5 (H)c4.(S)<geg32g32fed>c4
+Ch5 c8.c8.c8 c4 v-----c32c32v+c32c32v+c32c32v+c32c32
+Ch5 (B)c8(H)c8(S)c8<gf> (B)c(H2)c(S)c8 (B)c(H2)c(S)c8
+Ch5 (S)c8(B)c(H2)c(H)c8(B)cc (S)c8(B)c(H2)c(H)c4
+Ch5 (S)c4 (S2)c8.(B)c (S2)c32c32cc(B)c (S)<g32g32fed
+
+Ch0 r1r1r1r1
