@@ -1,5 +1,5 @@
 {
-  "version": "2022.02.06",
+  "version": "2022.02.10",
   "albums": [
     {
       "albumId": "th04",
@@ -753,6 +753,12 @@
           "loop": 1,
           "name": "旧地獄街道を行く",
           "english": "Going along the Old Hell Road"
+        },
+        {
+          "mml": "TH11-07",
+          "loop": 1,
+          "name": "華のさかづき大江山",
+          "english": "Petals sake cup Ohe Mountain"
         },
         {
           "mml": "TH11-09",
