@@ -184,12 +184,12 @@ Ch0 <b-8>f+r <b-8>f+r c8gr c8gr c+8gr c+8gr d8ar d8ar
 Ch0 e-8b-r e-8b-r f8>cr< f8>cr< f+8>cr< f+8>cr< g8>dr< g8>dr<
 Ch0 <b-8>b-r< b-8>b-r c8>cr< c8>cr< d2. dd>d<d
 
-Ch1 (Sq)o5v14
+Ch1 (CG5)o4v14
 Ch1 g4.a8b-8>e-32f16.<b-8a8 a8.g8.a8 b-2
 Ch1 d4.e8f8b-32>c16.<f8e8 e8.d8.<a8> f2
 Ch1 g4.a8b-8>e-32f16.<ab->c8 c32d16.<f+8g8b-8 a8.g8.gr
-Ch1 d4.e8f8b-32>c16.<f8e8 e2d2
-Ch1 g4.a8b-8>e-32f16.<b-8a8 a8.g8.a8 b-2
+Ch1 d4.e8f8b-32>c16.<f8e8 e2d2>
+Ch1 (Sq) g4.a8b-8>e-32f16.<b-8a8 a8.g8.a8 b-2
 Ch1 d4.e8f8b-32>c16.<f8e8 e8.d8.<a8> f2
 Ch1 g4.a8b-8>e-32f16.<ab->c8 c32d16.<f+8g8b-8 a8.g8.gr
 Ch1 d4.e8f8b-32>c16.<f8e8 e2r4d8f8
@@ -200,9 +200,9 @@ Ch2 e-4e-4f4f4f+4f+4g4g4 <b-4b-4>c4c4c+4c+4d4d4
 Ch2 e-4e-4f4f4f+4f+4g4g4 <b-4b-4>c4c4c+4c+4d4d4
 Ch2 e-4e-4f4f4f+4f+4g4g4 <b-4b-4>c4c4c2.r4
 
-Ch3 (Sq)@0o5v12r16 g4.a8b-8>e-32f16.<b-8a8 a8.g8.a8 b-4.^16
+Ch3 (Sq)@0o4v12r16 g4.a8b-8>e-32f16.<b-8a8 a8.g8.a8 b-4.^16
 Ch3 (CG3)o3 fb->dc d<b-fd g>ceg d32a32<a32>d32<a>d fd>ec+ ec+ec+ e32f32edc <ab-df8
-Ch3 (Sq)@0o5 g4.a8b-8>e-32f16.<ab->c8 c32d16.<f+8g8b-8 a8.g8.g
+Ch3 (Sq)@0o4 g4.a8b-8>e-32f16.<ab->c8 c32d16.<f+8g8b-8 a8.g8.g
 Ch3 (CG3)o4 fdd<b-> d<fb-d ceg>c e32g32ec<g c+eg>c+ eg>c+<g >d<f+df+ df+d<a
 Ch3 (Sq)o5v14 e-8.b-8.f4>c32d16.<g4v12
 Ch3 (CG3)o5 f+a>c<f+a>c<f+a b-gdb-gdb-g
@@ -280,13 +280,13 @@ Ch2 d2e2a2>d2
 Ch3 d4.e8 f8b-32>c16.<f8e8 e2d2
 Ch4 f4.g8 a8>d32e16.<a8g8 g2f+2
 
-Ch1 (Brass)v14o5 d4r8e8 g4r8g8 f+8.d8rf+r g2  d4.e8f8b-32>c16.<f8e8 e8rd8r<ar> f2
+Ch1 (Brass)v14o6 d4r8e8 g4r8g8 f+8.d8rf+r g2  <d4.e8f8b-32>c16.<f8e8 e8rd8r<ar> f2>
 #Ch2 (CG3)v13o4 d4.e8 g8>c32d16.<gff8 df+d<a f+a>c8 dg<b->d<gb-dg dfadfadf>c8e32f16.c8<b-8 b-8rb-8rfr dfa>d fd<af
 Ch2 (Brass)v13o4 g4.a8 b-8>e32f16.<b-8a8 a8.g8rar <b-2 d4.e8f8b-32>c16.<f8e8 e8rd8r<ar> f2
 Ch3 (Sq)v14o5 g4.a8 b-8>e32f16.<b-8a8 a8.g8rar b-2 <a4.>c8d4.c8< a8rg8rfr a2
 Ch4 (Sq)\s9999v14o3 e-2f2f+2g2 d2e2<a2>d2
 
-Ch1 d4r8f8 g4fga8 f+8c8d8f+r g4d4 d4.e8f8b-32.>c16.<f8e8 e2.r8eg
+Ch1 d4r8f8 g4fga8 f+8c8d8f+r g4d4 <d4.e8f8b-32.>c16.<f8e8 e2.r8eg
 Ch2 >>v14(Sq)g4r8a8 b-8>e32f16.<ab->c8 c32d16.c8<a8b-8 a8.g16^4 <<d4.e8f8b-32.>c16.<f8e8 e2.r8>a>c
 Ch3 (Brass)o3v13 b-4b-4>c4c4 c4c4d4d4 <g4g4a4a4 a2.r4
 Ch4 (Brass)o3v13 e-4e-4f4f4 f+4f+4g4g4 <b-4b-4>c4c4 c2.r4
