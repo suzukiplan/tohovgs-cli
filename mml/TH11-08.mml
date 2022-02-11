@@ -24,7 +24,7 @@ Ch4         r1024
 Ch5         r1024
 
 #-----------------------------------------------------------------------------
-# Intro
+# Intro1
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o2l16
 Ch0 f+4.f+8 r2 r8c+8f+8>c+8< f+8>c+8<ag+8.
@@ -41,6 +41,38 @@ Ch2 f+8>c+r< f+8>c+r< b8>c+r< f+8>c+r<  f+8>c+r< b8>c+r< a8>c+r< g+8>c+<
 Ch3 (Brass)\s12999v11o4 c+1c+1c+1c+1
 Ch4 (Brass)\s10999v12o3 b1a1g+1a1
 
-Ch5 (B)c4.c8r2 r1 c4c8c4c8(S2)c4 (B)c2c8c8c32c32c32c32c32c32c32c32
+Ch5 l16(B)c4.c8r2 r1 c4c8c4c8(S2)c4 (B)c2c8c8c32c32c32c32c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Intro2 (loop start position)
+#-----------------------------------------------------------------------------
+Ch0 o1
+Ch0 a8>f+r< a8>f+r< a8>f+r< a8>f+r<  a8>f+r< a8>f+r< a8>f+r< a8>f+r
+Ch0 c+8ar c+8ar c+8ar c+8ar  c+8ar c+8ar c+8c+r c+8ar<
+Ch0 a8>f+r< a8>f+r< a8>f+r< a8>f+r<  a8>f+r< a8>f+r< a8>f+r< a8>f+r
+Ch0 c+8ar c+8ar c+8ar c+8ar  c+8ar c+8ar c+2
+
+Ch1 (CG5)v13o4
+Ch2 (CG5)v13o4
+Ch1 f+8>c+r< f+8>c+r< b8>c+r< f+8>c+r<  f+8>c+r< b8>c+r< a8>c+r< g+8>c+r
+Ch2 c+8ar c+8ar g+8ar c+8ar  c+8ar g+8ar f+8ar e8ar
+Ch1 c+8ar c+8ar g+8ar c+8ar  c+8ar g+8ar f+8ar e8ar
+Ch2 f+8>c+r< f+8>c+r< b8>c+r< f+8>c+r<  f+8>c+r< b8>c+r< a8>c+r< g+8>c+r
+Ch1 f+8>c+r< f+8>c+r< b8>c+r< f+8>c+r<  f+8>c+r< b8>c+r< a8>c+r< g+8>c+r<
+Ch2 c+8ar c+8ar g+8ar c+8ar  c+8ar g+8ar f+8ar e8ar
+Ch1 f+8>c+r< f+8>c+r< b8>c+r< f+8>c+r<  f+8>c+r< b8>c+r (Sq)v+<<f+4f+8a8
+Ch2 c+8ar c+8ar g+8ar c+8ar  c+8ar g+8ar r2
+
+Ch3 (Brass)\s12999v11o4 d1^1c+1^1d1^1c+1^1
+Ch4 (Brass)\s10999v12o3 a1^1a1^1a1^1a1^1
+
+Ch5 (B)c8(S)c8(H)c8(S2)c8(S)c8(H2)c8(B)c32c32c32c32c32c32c32c32
+Ch5 (S)c4(H2)c8(S2)c8 (B)c8(S)cc (B)c8(S)c8
+Ch5 (B)c8(S)c8(H)c8(S2)c8(S)c8(H2)c8(B)c32c32c32c32c32c32c32c32
+Ch5 (S)c4(H2)c8(S2)c8 (B)c8(S)cc (B)c8(S)c8
+Ch5 (B)c8(S)c8(H)c8(S2)c8(S)c8(H2)c8(B)c32c32c32c32c32c32c32c32
+Ch5 (S)c4(H2)c8(S2)c8 (B)c8(S)cc (B)c8(S)c8
+Ch5 (B)c8(S)c8(H)c8(S2)c8 eedd(S)<g32g32f32f32e32e32d32d32
+Ch5 (S2)c4c4c4.(B)c32c32c32c32
 
 Ch0 r1r1r1r1
