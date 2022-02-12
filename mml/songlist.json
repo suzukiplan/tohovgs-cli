@@ -11,78 +11,91 @@
       "songs": [
         {
           "mml": "TH04-01",
+          "ver": 0,
           "loop": 1,
           "name": "幻想郷　〜 Lotus Land Story",
           "english": "Gensokyo　〜 Lotus Land Story"
         },
         {
           "mml": "TH04-02",
+          "ver": 0,
           "loop": 1,
           "name": "Witching Dream",
           "english": null
         },
         {
           "mml": "TH04-03",
+          "ver": 0,
           "loop": 1,
           "name": "Selene's Light",
           "english": null
         },
         {
           "mml": "TH04-04",
+          "ver": 0,
           "loop": 1,
           "name": "装飾戦　〜 Decoration Battle",
           "english": "Decoration Battle"
         },
         {
           "mml": "TH04-05",
+          "ver": 0,
           "loop": 1,
           "name": "Break the Sabbath",
           "english": null
         },
         {
           "mml": "TH04-06",
+          "ver": 0,
           "loop": 1,
           "name": "紅響曲　〜 Scarlet Phoneme",
           "english": "Scarlet Symphony　〜 Scarlet Phoneme"
         },
         {
           "mml": "TH04-07",
+          "ver": 0,
           "loop": 1,
           "name": "Bad Apple!!",
           "english": null
         },
         {
           "mml": "TH04-08",
+          "ver": 0,
           "loop": 1,
           "name": "霊戦　〜 Perdition crisis",
           "english": "Spirit Battle　〜 Perdition Crisis"
         },
         {
           "mml": "TH04-09",
+          "ver": 0,
           "loop": 1,
           "name": "アリスマエステラ",
           "english": "Alice Maestra"
         },
         {
           "mml": "TH04-10",
+          "ver": 0,
           "loop": 1,
           "name": "少女綺想曲　〜 Capriccio",
           "english": "Maiden's Capriccio"
         },
         {
           "mml": "TH04-11",
+          "ver": 0,
           "loop": 1,
           "name": "星の器　〜 Casket of Star",
           "english": "Casket of Star"
         },
         {
           "mml": "TH04-12",
+          "ver": 0,
           "loop": 1,
           "name": "Lotus Love",
           "english": null
         },
         {
           "mml": "TH04-13",
+          "ver": 0,
           "loop": 1,
           "name": "眠れる恐怖　〜 Sleeping Terror",
           "english": "Sleeping Terror"
@@ -99,12 +112,14 @@
       "songs": [
         {
           "mml": "TH05-10",
+          "ver": 0,
           "loop": 1,
           "name": "不思議の国のアリス",
           "english": "Alice in the Wonderland"
         },
         {
           "mml": "TH05-11",
+          "ver": 0,
           "loop": 1,
           "name": "the Grimoire of Alice",
           "english": null
@@ -121,18 +136,21 @@
       "songs": [
         {
           "mml": "ZSW-01",
+          "ver": 0,
           "loop": 0,
           "name": "宵闇の魔術師",
           "english": "Magician of the Evening Darkness"
         },
         {
           "mml": "ZSW-03",
+          "ver": 0,
           "loop": 1,
           "name": "Plastic Space",
           "english": null
         },
         {
           "mml": "ZSW-06",
+          "ver": 0,
           "loop": 0,
           "name": "蓬莱幻想　〜 far East",
           "english": "Hourai Illusion　〜 far East"
@@ -149,6 +167,7 @@
       "songs": [
         {
           "mml": "HOURAI-01",
+          "ver": 0,
           "loop": 0,
           "name": "蓬莱伝説",
           "english": "Legend of Hourai"
@@ -165,102 +184,119 @@
       "songs": [
         {
           "mml": "TH06-01",
+          "ver": 0,
           "loop": 1,
           "name": "赤より紅い夢",
           "english": "a Dream that is more Scarlet than Red"
         },
         {
           "mml": "TH06-02",
+          "ver": 0,
           "loop": 1,
           "name": "ほおずきみたいに紅い魂",
           "english": "a Soul Red like Ground Cherry"
         },
         {
           "mml": "TH06-03",
+          "ver": 0,
           "loop": 1,
           "name": "妖魔夜行",
           "english": "Mystics Night"
         },
         {
           "mml": "TH06-04",
+          "ver": 0,
           "loop": 1,
           "name": "ルーネイトエルフ",
           "english": "Lunate Elf"
         },
         {
           "mml": "TH06-05",
+          "ver": 0,
           "loop": 1,
           "name": "おてんば恋娘",
           "english": "Beloved Tomboyish Daughter"
         },
         {
           "mml": "TH06-06",
+          "ver": 0,
           "loop": 1,
           "name": "上海紅茶館　〜 Chinese Tea",
           "english": "Shanghai Teahouse　〜 Chinese Tea"
         },
         {
           "mml": "TH06-07",
+          "ver": 0,
           "loop": 1,
           "name": "明治十七年の上海アリス",
           "english": "Shanghai Alice in 1884"
         },
         {
           "mml": "TH06-08",
+          "ver": 0,
           "loop": 1,
           "name": "ヴワル魔法図書館",
           "english": "Voile，the Magic Library"
         },
         {
           "mml": "TH06-09",
+          "ver": 0,
           "loop": 1,
           "name": "ラクトガール　〜 少女密室",
           "english": "Locked Girl　〜 the Girl's Secret Room"
         },
         {
           "mml": "TH06-10",
+          "ver": 0,
           "loop": 1,
           "name": "メイドと血の懐中時計",
           "english": "the Maid and the Pocket Watch of Blood"
         },
         {
           "mml": "TH06-11",
+          "ver": 0,
           "loop": 1,
           "name": "月時計　〜 ルナ・ダイアル",
           "english": "Luna Dial"
         },
         {
           "mml": "TH06-12",
+          "ver": 0,
           "loop": 1,
           "name": "ツェペシュの幼き末裔",
           "english": "the Young Descendant of Tepes"
         },
         {
           "mml": "TH06-13",
+          "ver": 0,
           "loop": 1,
           "name": "亡き王女の為のセプテット",
           "english": "Septette for the Dead Princess"
         },
         {
           "mml": "TH06-14",
+          "ver": 0,
           "loop": 1,
           "name": "魔法少女達の百年祭",
           "english": "the Centennial Festival for Magical Girls"
         },
         {
           "mml": "TH06-15",
+          "ver": 0,
           "loop": 1,
           "name": "U.N.オーエンは彼女なのか？",
           "english": "U.N.Owen was her?"
         },
         {
           "mml": "TH06-16",
+          "ver": 0,
           "loop": 1,
           "name": "紅より儚い永遠",
           "english": "Crimson Beyond a Fleeting Eternity"
         },
         {
           "mml": "TH06-17",
+          "ver": 0,
           "loop": 1,
           "name": "紅楼　〜 Eastern Dream...",
           "english": "Crimson Belvedere　〜 Eastern Dream..."
@@ -277,126 +313,147 @@
       "songs": [
         {
           "mml": "TH07-01",
+          "ver": 0,
           "loop": 1,
           "name": "妖々夢　〜 Snow or Cherry Petal",
           "english": "Mystic Dream　〜 Snow or Cherry Petal"
         },
         {
           "mml": "TH07-02",
+          "ver": 0,
           "loop": 1,
           "name": "無何有の郷　〜 Deep Mountain",
           "english": "Paradise　〜 Deep Mountain"
         },
         {
           "mml": "TH07-03",
+          "ver": 0,
           "loop": 1,
           "name": "クリスタライズシルバー",
           "english": "Crystalize Silver"
         },
         {
           "mml": "TH07-04",
+          "ver": 0,
           "loop": 1,
           "name": "遠野幻想物語",
           "english": "the Fantastic Legend of Tohno"
         },
         {
           "mml": "TH07-05",
+          "ver": 0,
           "loop": 1,
           "name": "ティアオイエツォン（withered leaf）",
           "english": "Diao Ye Zong (Withered Leaf)"
         },
         {
           "mml": "TH07-06",
+          "ver": 0,
           "loop": 1,
           "name": "ブクレシュティの人形師",
           "english": "the Doll Maker of Bucuresti"
         },
         {
           "mml": "TH07-07",
+          "ver": 0,
           "loop": 1,
           "name": "人形裁判　〜 人の形弄びし少女",
           "english": "Doll Judgement"
         },
         {
           "mml": "TH07-08",
+          "ver": 0,
           "loop": 1,
           "name": "天空の花の都",
           "english": "the Capital City of Flowers in the Sky"
         },
         {
           "mml": "TH07-09",
+          "ver": 0,
           "loop": 1,
           "name": "幽霊楽団　〜 Phantom Ensemble",
           "english": "Phantom Ensemble"
         },
         {
           "mml": "TH07-10",
+          "ver": 0,
           "loop": 1,
           "name": "東方妖々夢　〜 Ancient Temple",
           "english": "Mystic Oriental Dream　〜 Ancient Temple"
         },
         {
           "mml": "TH07-11",
+          "ver": 0,
           "loop": 1,
           "name": "広有射怪鳥事　〜 Till When?",
           "english": "Hiroari Shoots a Strange Bird　〜 Till When?"
         },
         {
           "mml": "TH07-12",
+          "ver": 0,
           "loop": 1,
           "name": "アルティメットトゥルース",
           "english": "Ultimate Truth"
         },
         {
           "mml": "TH07-13",
+          "ver": 0,
           "loop": 1,
           "name": "幽雅に咲かせ、墨染の桜　〜 Border of Life",
           "english": "Bloom Nobly，Ink-black Cherry Blossom"
         },
         {
           "mml": "TH07-14",
+          "ver": 0,
           "loop": 1,
           "name": "ボーダーオブライフ",
           "english": "Boarder of Life"
         },
         {
           "mml": "TH07-15",
+          "ver": 0,
           "loop": 1,
           "name": "妖々跋扈",
           "english": "Charming Domination"
         },
         {
           "mml": "TH07-16",
+          "ver": 0,
           "loop": 1,
           "name": "少女幻葬　〜 Necro-Fantasy",
           "english": "a Maiden's Illusionary Funeral　〜 Necro-Fantasy"
         },
         {
           "mml": "TH07-17",
+          "ver": 0,
           "loop": 1,
           "name": "妖々跋扈　〜 Who done it!",
           "english": "Charming Domination　〜 Who done it!"
         },
         {
           "mml": "TH07-18",
+          "ver": 0,
           "loop": 1,
           "name": "ネクロファンタジア",
           "english": "Necro Fantasia"
         },
         {
           "mml": "TH07-19",
+          "ver": 0,
           "loop": 1,
           "name": "春風の夢",
           "english": "Dream of a Spring Breeze"
         },
         {
           "mml": "TH07-20",
+          "ver": 0,
           "loop": 1,
           "name": "さくらさくら　〜 Japanize Dream...",
           "english": "Sakura Sakura　〜 Japanize Dream..."
         },
         {
           "mml": "TH07-21",
+          "ver": 0,
           "loop": 1,
           "name": "過去の花　〜 Fairy of Flower",
           "english": "Flower of Past Days　〜 Fairy of Flower"
@@ -413,96 +470,112 @@
       "songs": [
         {
           "mml": "TH08-01",
+          "ver": 0,
           "loop": 1,
           "name": "永夜抄　〜 Eastern Night.",
           "english": "Imperishable Night　〜 Eastern Night"
         },
         {
           "mml": "TH08-02",
+          "ver": 0,
           "loop": 1,
           "name": "幻視の夜　〜 Ghostly Eyes",
           "english": "Illusionary Night　〜 Ghostly Eyes"
         },
         {
           "mml": "TH08-03",
+          "ver": 0,
           "loop": 1,
           "name": "蠢々秋月　〜 Mooned Insect",
           "english": "Stirring an Autumn Moon　〜 Mooned Insect"
         },
         {
           "mml": "TH08-04",
+          "ver": 0,
           "loop": 1,
           "name": "夜雀の歌声　〜 Night Bird",
           "english": "Song of the Night Sparrow　〜 Night Bird"
         },
         {
           "mml": "TH08-05",
+          "ver": 0,
           "loop": 1,
           "name": "もう歌しか聞こえない",
           "english": "Unwittingly，Distracted with her Song"
         },
         {
           "mml": "TH08-06",
+          "ver": 0,
           "loop": 1,
           "name": "懐かしき東方の血　〜 Old World",
           "english": "Nostalgic Blood of the Eastern　〜 Old World"
         },
         {
           "mml": "TH08-07",
+          "ver": 0,
           "loop": 1,
           "name": "プレインエイジア",
           "english": "Plain Asia"
         },
         {
           "mml": "TH08-08",
+          "ver": 0,
           "loop": 1,
           "name": "永夜の報い　〜 Imperishable Night.",
           "english": "Retribution for the Imperishable Night"
         },
         {
           "mml": "TH08-09",
+          "ver": 0,
           "loop": 1,
           "name": "少女綺想曲　〜 Dream Battle",
           "english": "Maiden's Capriccio　〜 Dream Battle"
         },
         {
           "mml": "TH08a-10",
+          "ver": 0,
           "loop": 1,
           "name": "恋色マスタースパーク",
           "english": "Love Colors Master Spark"
         },
         {
           "mml": "TH08-11",
+          "ver": 0,
           "loop": 1,
           "name": "シンデレラケージ　〜 Kagome-Kagome",
           "english": "Cinderella Cage　〜 Kagome-Kagome"
         },
         {
           "mml": "TH08-12",
+          "ver": 0,
           "loop": 1,
           "name": "狂気の瞳　〜 Invisible Full Moon",
           "english": "Lunatic Eyes　〜 Invisible Full Moon"
         },
         {
           "mml": "TH08-13",
+          "ver": 0,
           "loop": 1,
           "name": "ヴォヤージュ1969",
           "english": "Voyage 1969"
         },
         {
           "mml": "TH08-14",
+          "ver": 0,
           "loop": 1,
           "name": "千年幻想郷　〜 History of the Moon",
           "english": "Gensokyo Millennium　〜 History of the Moon"
         },
         {
           "mml": "TH08-15",
+          "ver": 0,
           "loop": 1,
           "name": "竹取飛翔　〜 Lunatic Princess",
           "english": "Flight of the Bamboo Cutter　〜 Lunatic Princess"
         },
         {
           "mml": "TH08-16",
+          "ver": 0,
           "loop": 1,
           "name": "ヴォヤージュ1970",
           "english": "Voyage 1970",
@@ -510,30 +583,35 @@
         },
         {
           "mml": "TH08-17",
+          "ver": 0,
           "loop": 1,
           "name": "エクステンドアッシュ　〜 蓬莱人",
           "english": "Extend Ash　〜 Hourai Victim"
         },
         {
           "mml": "TH08-18",
+          "ver": 0,
           "loop": 1,
           "name": "月まで届け、不死の煙",
           "english": "Reach for the Moon，Immortal Smoke"
         },
         {
           "mml": "TH08-19",
+          "ver": 0,
           "loop": 1,
           "name": "月見草",
           "english": "Evening Primrose"
         },
         {
           "mml": "TH08-20",
+          "ver": 0,
           "loop": 1,
           "name": "Eternal Dream　〜 幽玄の槭樹",
           "english": "Eternal Dream　〜 Mystic Maple"
         },
         {
           "mml": "TH08-21",
+          "ver": 0,
           "loop": 1,
           "name": "東方妖怪小町",
           "english": "Eastern Youkai Beauty"
@@ -550,48 +628,56 @@
       "songs": [
         {
           "mml": "TH09-01",
+          "ver": 0,
           "loop": 1,
           "name": "花映塚　〜 Higan Retour",
           "english": "Kaeidzuka　〜 Higan Retour"
         },
         {
           "mml": "TH09-02",
+          "ver": 0,
           "loop": 1,
           "name": "春色小径　〜 Colorful Path",
           "english": "Spring Lane　〜 Colorful Path"
         },
         {
           "mml": "TH09-03",
+          "ver": 0,
           "loop": 1,
           "name": "オリエンタルダークフライト",
           "english": "Oriental Dark Flight"
         },
         {
           "mml": "TH09-04",
+          "ver": 0,
           "loop": 1,
           "name": "フラワリングナイト",
           "english": "Flowering Knight"
         },
         {
           "mml": "TH09-07",
+          "ver": 0,
           "loop": 1,
           "name": "おてんば恋娘の冒険",
           "english": "Adventure of the Lovestruck Tomboy"
         },
         {
           "mml": "TH09-10",
+          "ver": 0,
           "loop": 1,
           "name": "お宇佐さまの素い幡",
           "english": "White Flag of the Usa Jingu"
         },
         {
           "mml": "TH09-11",
+          "ver": 0,
           "loop": 1,
           "name": "風神少女 (ShortVersion)",
           "english": "Fujin Maiden (ShortVersion)"
         },
         {
           "mml": "TH09-15",
+          "ver": 0,
           "loop": 1,
           "name": "六十年目の東方裁判　〜 Fate of Sixty Years",
           "english": "Eastern Judgement　〜 Fate of Sixty Years"
@@ -608,108 +694,126 @@
       "songs": [
         {
           "mml": "TH10-01",
+          "ver": 0,
           "loop": 1,
           "name": "封印されし神々",
           "english": "Sealed Gods"
         },
         {
           "mml": "TH10-02",
+          "ver": 0,
           "loop": 1,
           "name": "人恋し神様　〜 Romantic Fall",
           "english": "The gods that miss people　〜 Romantic Fall"
         },
         {
           "mml": "TH10-03",
+          "ver": 0,
           "loop": 1,
           "name": "稲田姫様に叱られるから",
           "english": "Because Princess Inada is Scolding Me"
         },
         {
           "mml": "TH10-04",
+          "ver": 0,
           "loop": 1,
           "name": "厄神様の通り道　〜 Dark Road",
           "english": "the Road of an Apotropaic God　〜 Dark Road"
         },
         {
           "mml": "TH10-05",
+          "ver": 0,
           "loop": 1,
           "name": "運命のダークサイド",
           "english": "Darkside of Fate"
         },
         {
           "mml": "TH10-06",
+          "ver": 0,
           "loop": 1,
           "name": "神々が恋した幻想郷",
           "english": "the Gensokyo the Gods Loved"
         },
         {
           "mml": "TH10-07",
+          "ver": 0,
           "loop": 1,
           "name": "芥川龍之介の河童　〜 Candid Friend",
           "english": "Akutagawa Ryuunosuke's \"Kappa\"　〜 Candid Friend"
         },
         {
           "mml": "TH10-08",
+          "ver": 0,
           "loop": 1,
           "name": "フォールオブフォール　〜 秋めく滝",
           "english": "Fall of Fall　〜 Autumnal Waterfall"
         },
         {
           "mml": "TH10-09",
+          "ver": 0,
           "loop": 1,
           "name": "妖怪の山　〜 Mysterious Mountain",
           "english": "The Youkai Mountain　〜 Mysterious Mountain"
         },
         {
           "mml": "TH10-10",
+          "ver": 0,
           "loop": 1,
           "name": "少女が見た日本の原風景",
           "english": "The Japanese Wilderness the Girl Saw"
         },
         {
           "mml": "TH10-11",
+          "ver": 0,
           "loop": 1,
           "name": "信仰は儚き人間の為に",
           "english": "Faith is for the Transient People"
         },
         {
           "mml": "TH10-12",
+          "ver": 0,
           "loop": 1,
           "name": "御柱の墓場　〜 Grave of Being",
           "english": "Cemetery of Onbashira　〜 Grave of Being"
         },
         {
           "mml": "TH10-13",
+          "ver": 0,
           "loop": 1,
           "name": "神さびた古戦場　〜 Suwa Foughten Field",
           "english": "VenerableAncientBattlefield 〜 SuwaFoughtenField"
         },
         {
           "mml": "TH10-14",
+          "ver": 0,
           "loop": 1,
           "name": "明日ハレの日、ケの昨日",
           "english": "Tomorrow will be Special，Yesterday was not"
         },
         {
           "mml": "TH10-15",
+          "ver": 0,
           "loop": 1,
           "name": "ネイティブフェイス",
           "english": "Native Faith"
         },
         {
           "mml": "TH10-16",
+          "ver": 0,
           "loop": 1,
           "name": "麓の神社",
           "english": "Shrine at the Foot of the Mountain"
         },
         {
           "mml": "TH10-17",
+          "ver": 0,
           "loop": 1,
           "name": "神は恵みの雨を降らす　〜 Sylphid Dream",
           "english": "the Gods give us Blessed Rain　〜 Sylphid Dream"
         },
         {
           "mml": "TH10-18",
+          "ver": 0,
           "loop": 1,
           "name": "プレイヤーズスコア",
           "english": "Player's Score"
@@ -726,48 +830,56 @@
       "songs": [
         {
           "mml": "TH11-02",
+          "ver": 0,
           "loop": 1,
           "name": "暗闇の風穴",
           "english": "The Wind Tunnel of Darkness"
         },
         {
           "mml": "TH11-03",
+          "ver": 0,
           "loop": 1,
           "name": "封じられた妖怪　～ Lost Place",
           "english": "Sealed Yokai　～ Lost Place"
         },
         {
           "mml": "TH11-04",
+          "ver": 0,
           "loop": 1,
           "name": "渡る者の途絶えた橋",
           "english": "The bridge with no survivors"
         },
         {
           "mml": "TH11-05",
+          "ver": 0,
           "loop": 1,
           "name": "緑眼のジェラシー",
           "english": "Green-Eyed Jealousy"
         },
         {
           "mml": "TH11-06",
+          "ver": 0,
           "loop": 1,
           "name": "旧地獄街道を行く",
           "english": "Going along the Old Hell Road"
         },
         {
           "mml": "TH11-07",
+          "ver": 0,
           "loop": 1,
           "name": "華のさかづき大江山",
           "english": "Petals sake cup Ohe Mountain"
         },
         {
           "mml": "TH11-09",
+          "ver": 0,
           "loop": 1,
           "name": "少女さとり　〜 3rd eye",
           "english": "Satori Maiden　〜 3rd eye"
         },
         {
           "mml": "TH11-11",
+          "ver": 0,
           "loop": 1,
           "name": "死体旅行　〜 Be of good cheer!",
           "english": "Corpse Voyage　〜 Be of good cheer!"
