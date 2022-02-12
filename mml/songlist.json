@@ -1,5 +1,5 @@
 {
-  "version": "2022.02.10",
+  "version": "2022.02.12",
   "albums": [
     {
       "albumId": "th04",
@@ -184,7 +184,7 @@
       "songs": [
         {
           "mml": "TH06-01",
-          "ver": 0,
+          "ver": 1,
           "loop": 1,
           "name": "赤より紅い夢",
           "english": "a Dream that is more Scarlet than Red"
