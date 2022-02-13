@@ -105,7 +105,7 @@ Ch3 f+8a8>c+8f+8 e8<b8g+8e8  f+8a8>c+8f+8 c+8<a8f+8c+8
 
 Ch4 (Bass)@0v11l16 c+4^8.r r2 c+4^8.r r2 < b4^8.r r2 b4^8.r r2 f+4^8.r r2 g+4^8.r r2
 Ch4 (CG3)v7o3l16r f+8a8>c+8f+8 e8<b8g+8e8  f+8a8>c+8f+8 c+8<a8f+8c+
-Ch4 (Brass)v13o4 b1a1a1g+1 b1>c+1<f+1^1
+Ch4 (Brass)v13o4\s8000 b1a1a1g+1 b1>c+1<f+1^1
 
 $H4h \s1 \e10 p-80  @3 %50 v10 o2 v-------- c32v+c32v+c32v+c32 v+c32v+c32v+c32v+c32 v+c32c32c32c32
 $H4 \s1 \e10 p-80  @3 %60 v10 o2 c32c32c32c32 c32c32c32c32
