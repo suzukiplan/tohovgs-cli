@@ -81,19 +81,19 @@ Ch5 (S2)c4c4c4.(B)c32c32c32c32
 Ch0 f+4^8.r f+8>c+8f+8c+r<  f+4^8.r f+8>c+8a8c+r<
 Ch0 e4^8.r b8>e8<b8>er<  e4^8.re8b8>e8<br<
 Ch0 b4^8.r >f+8b8>er<br  c+4^8.r g+8>c+8g+rc+r<
-Ch0 f+8a8>f+8ar< g+8b8>g+8br  c+8ar <b8>g+r <a8>f+r <f+4
+Ch0 f+8a8>f+8ar< g+8b8>g+8br  c+8ar <b8>g+r <a8>f+r <f+8>er
 
 Ch1 b2a2 >c+2<a2 a2g+2 b2.b8>c+8 d2d8.e8.f+8 e4c+4e4g+4 f+8e8c+8f+8 e8<b8g+4 a2.a4
-Ch2 (Sq)\s1200v11 f+2f+2 f+2f+2 e2e2 e2.g+8a8 b2b8.b8.>d8 c+4<g+4>c+4e4 d8c+8<a8>c+8<b8g+8e4 f+2.f+4
+Ch2 (Sq)\s2400v11 f+2f+2 f+2f+2 e2e2 e2.g+8a8 b2b8.b8.>d8 c+4<g+4>c+4e4 d8c+8<a8>c+8<b8g+8e4 f+2.f+4
 
 Ch3 v12(CG3)o4l16
 Ch3 f+8c+8f+8c+8 <a8>c+8f+8c+8  <a8>c+8f+8c+8 a8c+8f+8<a8>
 Ch3 e8<b8>e8<b8> g+8e8<b8g+8  g+8b8>e8<b8>g+8<b8>e8<b8
 Ch3 f+8b8>f+8<b8> b8e8f+8<b8>  c+8e8g+8c+8  >c+8<e8g+8c+8<
-Ch3 f+8a8>c+8f+8 e8<b8g+8e8  f+8a8>c+8f+8 c+8<a8f+8a8
+Ch3 f+8a8>c+8f+8 e8<b8g+8e8  f+8a8>c+8f+8 c+8<a8f+8c+8
 
 Ch4 (Bass)@0v11l16 c+4^8.r r2 c+4^8.r r2 < b4^8.r r2 b4^8.r r2 f+4^8.r r2 g+4^8.r r2
-Ch4 (CG3)v7o3l16r f+8a8>c+8f+8 e8<b8g+8e8  f+8a8>c+8f+8 c+8<a8f+8a
+Ch4 (CG3)v7o3l16r f+8a8>c+8f+8 e8<b8g+8e8  f+8a8>c+8f+8 c+8<a8f+8c+
 
 $H4h \s1 \e10 p-80  @3 %50 v10 o2 v-------- c32v+c32v+c32v+c32 v+c32v+c32v+c32v+c32 v+c32c32c32c32
 $H4 \s1 \e10 p-80  @3 %60 v10 o2 c32c32c32c32 c32c32c32c32
