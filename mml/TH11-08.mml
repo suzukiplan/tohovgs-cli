@@ -107,8 +107,8 @@ Ch4 (Bass)@0v11l16 c+4^8.r r2 c+4^8.r r2 < b4^8.r r2 b4^8.r r2 f+4^8.r r2 g+4^8.
 Ch4 (CG3)v7o3l16r f+8a8>c+8f+8 e8<b8g+8e8  f+8a8>c+8f+8 c+8<a8f+8c+
 Ch4 (Brass)v13o4\s8000 b1a1a1g+1 b1>c+1<f+1^1
 
-$H4h \s1 \e10 p-80  @3 %50 v10 o2 v-------- c32v+c32v+c32v+c32 v+c32v+c32v+c32v+c32 v+c32c32c32c32
-$H4 \s1 \e10 p-80  @3 %60 v10 o2 c32c32c32c32 c32c32c32c32
+$H4h \s1 \e10 p-80  @3 %50 v7 o2 c32c32c32c32 c32c32c32c32 c32c32c32c32
+$H4 \s1 \e10 p-80  @3 %60 v7 o2 c32c32c32c32 c32c32c32c32
 
 Ch5 (B)c8(H4h) (S)c8(H4)(B)c8  (B)c8(H4h) (S)c8(H4)(B)c8
 Ch5 (B)c8(H4h) (S)c8(H4)(B)c8  (B)c8(H4h) (S)c8(H2)c8(S2)c8(H)c8
@@ -140,12 +140,12 @@ Ch2 r1(Sq)f+8.f+8.f+rf+r2 (CG5)v8>f+8b8>c+8< g+8b8>c+8< f+8b8>c+8< d+8<a+8>d+8e+
 Ch2 o4(Sq)v13a2r8(CG5)a8>d8e8(Sq)f+2r8(CG5)f+8g+8(Sq)a+2r8>c2(CG5)c8<e+8f+8c+8<(Sq)a8^2
 
 Ch1 (Brass)v14o5c+8d+8
-Ch2 (Brass)v14o4a+8b+8
+Ch2 (Brass)v14o4a+8b+8>
 
 Ch3 v12(CG3)o4l8
 Ch3 c+<a>f+c+af+c+<a b-f+>e-<b->f+2
 Ch3 f+b>c+< g+b>c+< f+b>c+< e-<b->e-f d<a> f+df+df+d <b->c+f+c+ <b->f+c+<b-
-Ch3 c+f+c+f+ d+g+d+g+ fafa (Brass)\s22050f1
+Ch3 c+f+c+f+ d+g+d+g+ fafa (Brass)\s22050f2.^8
 
 Ch4 a1b-1a4.g+4.a4.b-2a1>c+1.d+2e+4.^1
 
@@ -154,6 +154,68 @@ Ch5 (S)c4.<g4.>c4.<g2>
 Ch5 (H)c2.(B)c8c8
 Ch5 (H)c1
 Ch5 (S)c2c4.(B)c32c32c32c32(S)c2
-Ch5 (B)c4.c4.cccc
+Ch5 (B)c4.c4cccc
+
+#-----------------------------------------------------------------------------
+# Main Theme
+#-----------------------------------------------------------------------------
+Ch0 o2v13\s8000\e22050%75@2 b-1b-1a-1a-1g1^1f+1e+1 b-1b-1a-1a-1g1^1f+1e+1
+Ch3 o3v12\s8000\e22050%75@2 f1f1e-1e-1e-1^1d-1c1 f1f1e-1e-1e-1^1d-1c1
+
+Ch1 \s2222f1^1e-2a-2e-2.d-8c8d-4<f2>d-1<b-8>c8d-2e-2<a2a8.b-8.>c8<
+Ch2 \s2222d-1^1c2e-2c2.<b-8a-8b-4d-2b-1f8a-8b-2>c2<f2f8.f8.f8
+Ch1 b-1^1^1a-1b-2.b-8>c8d-4e-4f4a-4b-2b-8.>c8.d-8<a2f2
+Ch2 e-1d-1^1e-1f2.f8a-8b-4>c4d-4e-4f2f8.g8.b-8f2c2
+
+Ch4 (CG5)v10
+Ch4 o4 frb-r>fr<b-r >e-r<b-r b->d-e-f  b-ra-rfrd-8c8<b-8f8b-8
+Ch4 a-r>fre-rfr cre-r e-fa-b-  >cr<a-re-r c8<b-8a-8f8a-8
+Ch4 b-r>d-r<b-rfr b-r>d-rfrd-r  e-rfr d-re-r <b-r>d-r <fra-r
+Ch4 g-8>d-rc8d-r<b-8>cr<a-8b-r  a8>fre-8frd-8frc8fr
+Ch4 o4 frb-r>fr<b-r >e-r<b-r b->d-e-f  b-ra-rfrd-8c8<b-8f8b-8
+Ch4 a-r>fre-rfr cre-r e-fa-b-  >cr<a-re-r c8<b-8a-8f8a-8
+Ch4 b-r>d-r<b-rfr b-r>d-rfrd-r  e-rfr d-re-r <b-r>d-r <fra-r
+Ch4 v+ g-8>d-rc8d-r<b-8>cr<a-8b-r  v+ a8>fre-8frd-8frc8fr
+
+Ch5 (B)c(H2)c(B)c8(H)c8(B)c(H2)c (S)c4 (B)c33c32c32c32c32c32c32c32
+Ch5 (S)c8(H2)cc(B)c8(S2)c8 c32c32cc8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(B)c8(H)c8(B)c(H2)c (S)c4 (B)c33c32c32c32c32c32c32c32
+Ch5 (S)c8(H2)cc(B)c8(S2)c8 c32c32cc8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(B)c8(H)c8(B)c(H2)c (S)c4 (B)c33c32c32c32c32c32c32c32
+Ch5 (S)c8(H2)cc(B)c8(S2)c8 c32c32cc8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(B)c8(H)c8(B)c(H2)c (S)c4 (B)c33c32c32c32c32c32c32c32
+Ch5 (S)c8(H2)cc(B)c8(S2)c8 (S)c(B)cc (S)c(B)cc (S)c(B)c
+
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c32c32c32c32(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (S)ccc(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c32c32c32c32(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (S)ccc(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c32c32c32c32(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (S)ccc(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c32c32c32c32(S)c(H)c
+Ch5 (S)v------- c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Half Coda (Transposition to subdominant)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2l16
+Ch0 b-4.b-8 r2 r8f8b->f8.<b-8>f8d-c8.<
+Ch0 b-4.b-8 r2 r2>b-fcd-<b->c<b-a
+
+Ch1 b-1^1^1^2r2
+Ch2 f1^1^1^2r2
+
+Ch3 (CG5)v13o4l16
+Ch3 b-8>fr<b-8>fre-8fr<b-8>fr <b-8>fr e-8frd-8frc8fr<
+Ch3 b-8>fr<b-8>fre-8fr<b-8>fr <b-8>fr e-8frd-8frc8fr<
+
+Ch4 (CG3)v9o2l16
+Ch4 f4.f8 r2 >r8f8b->f8.<b-8>f8d-c8.<<
+Ch4 f4.f8 r2 >r2>b-fcd-<b->c<b-a<
+
+Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(S2)c8
+Ch5 (B)c(H2)c(H)c8 (S)c(H2)c(H)c8 (B)c(H2)c(H)c8 (S)c(H2)c(H)c8
+Ch5 (B)c(H2)c(H)c8 (S)c(H2)c(H)c8 (B)c(H2)c(H)c8 (S)c(H2)c(H)c8
 
 Ch0 r1r1r1r1
