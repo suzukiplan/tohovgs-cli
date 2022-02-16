@@ -89,7 +89,7 @@ Ch0 f+8a8>f+8ar< g+8b8>g+8br  c+8ar <b8>g+r <a8>f+r <f+8>er<
 
 Ch1 \s4000 b2a2 >c+2<a2 a2g+2 b2.b8>c+8 d2d8.e8.f+8 e4c+4e4g+4 f+8e8c+8f+8 e8<b8g+4 a2.a4
 Ch2 (Sq)v13@0 f+2f+2 f+2f+2 e2e2 e2.g+8a8 b2b8.b8.>d8 c+4<g+4>c+4e4 d8c+8<a8>c+8<b8g+8e4 f+2.f+4
-Ch1 b2a2 >c+2<a2 a2g+2 b2.b8>c+8 d2d8.e8.f+8 e4c+4e4g+4 f+8g+8ab8.g+8e8c+4 f+1
+Ch1 b2a2 >c+2<a2 a2g+2 b2.b8>c+8 d2d8.e8.f+8 e4c+4e4g+4 \s2000f+8g+8ab8.g+8e8\s4000c+4 \s8000f+1
 Ch2 (Sq)\s2400v11 f+2f+2 f+2f+2 e2e2 e2.g+8a8 b2b8.b8.>d8 c+4<g+4>c+4e4 d8e8f+g+8.e8c+8<a4 a1
 
 Ch3 v13(CG3)o4l16
@@ -238,10 +238,10 @@ Ch1 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
 Ch2 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr d-8fr c8fr
 Ch1 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr d-8fr c8fr
 Ch2 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
-Ch1 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr (Sq)<<v15b-4b-8>d-8
-Ch2 < f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-rr2
-Ch1 (CG5)o4v13
-Ch2 o4
+Ch1 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr (Sq)<<v14b-4b-8>d-8
+Ch2 < f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r (Sq)<<v15@0f4f8a-8
+Ch1 (CG5)o4v12
+Ch2 (CG5)o4v13
 Ch1 b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr d-8fr c8fr
 Ch2 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
 Ch1 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
@@ -288,7 +288,7 @@ Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (B)c(H2)c(H)c8 (S)c8(H)c8
 Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (S)cccc c4
 
 #-----------------------------------------------------------------------------
-# Main Theme 2' (Coda)
+# Main Theme 2' (Coda in Fis-moll)
 #-----------------------------------------------------------------------------
 
 Ch0 r1r1r1r1
