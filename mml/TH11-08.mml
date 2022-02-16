@@ -1,5 +1,5 @@
 # ハートフェルトファンシー
-# 4/4 Tempo160 in Fis-Moll
+# 4/4 Tempo160 in Ais-Moll
 
 $Brass \s600 \e22050 @1 %75
 $Bass \s100   \e200 @2 %90
@@ -24,7 +24,7 @@ Ch4         r1024
 Ch5         r1024
 
 #-----------------------------------------------------------------------------
-# Intro1
+# Intro
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o2l16
 Ch0 f+4.f+8 r2 r8c+8f+8>c+8< f+8>c+8<ag+8.
@@ -38,13 +38,13 @@ Ch2 (CG3)v9o5l16r16
 Ch2 f+8>c+r< f+8>c+r< b8>c+r< f+8>c+r<  f+8>c+r< b8>c+r< a8>c+r< g+8>c+r<
 Ch2 f+8>c+r< f+8>c+r< b8>c+r< f+8>c+r<  f+8>c+r< b8>c+r< a8>c+r< g+8>c+<
 
-Ch3 (Brass)\s12999v11o4 c+1c+1c+1c+1
-Ch4 (Brass)\s10999v12o3 b1a1g+1a1
+Ch3 (Brass)\s22050v11o5 c+1c+1c+1c+1
+Ch4 (Brass)\s22050v12o4 b1a1g+1a1
 
 Ch5 l16(B)c4.c8r2 r1 c4c8c4c8(S2)c4 (B)c2c8c8c32c32c32c32c32c32c32c32
 
 #-----------------------------------------------------------------------------
-# Intro2 (loop start position)
+# Main Theme 1
 #-----------------------------------------------------------------------------
 Ch0 o1
 Ch0 a8>f+r< a8>f+r< a8>f+r< a8>f+r<  a8>f+r< a8>f+r< a8>f+r< a8>f+r
@@ -87,7 +87,7 @@ Ch0 e8g+8b8>e8g+r<b8>e8<g+8  e8g+8b8>e8g+r<b8>e8<g+8 <
 Ch0 b4^8.r >f+8b8>er<br  c+4^8.r g+8>c+8g+rc+r<
 Ch0 f+8a8>f+8ar< g+8b8>g+8br  c+8ar <b8>g+r <a8>f+r <f+8>er<
 
-Ch1 b2a2 >c+2<a2 a2g+2 b2.b8>c+8 d2d8.e8.f+8 e4c+4e4g+4 f+8e8c+8f+8 e8<b8g+4 a2.a4
+Ch1 \s4000 b2a2 >c+2<a2 a2g+2 b2.b8>c+8 d2d8.e8.f+8 e4c+4e4g+4 f+8e8c+8f+8 e8<b8g+4 a2.a4
 Ch2 (Sq)v13@0 f+2f+2 f+2f+2 e2e2 e2.g+8a8 b2b8.b8.>d8 c+4<g+4>c+4e4 d8c+8<a8>c+8<b8g+8e4 f+2.f+4
 Ch1 b2a2 >c+2<a2 a2g+2 b2.b8>c+8 d2d8.e8.f+8 e4c+4e4g+4 f+8g+8ab8.g+8e8c+4 f+1
 Ch2 (Sq)\s2400v11 f+2f+2 f+2f+2 e2e2 e2.g+8a8 b2b8.b8.>d8 c+4<g+4>c+4e4 d8e8f+g+8.e8c+8<a4 a1
@@ -157,7 +157,7 @@ Ch5 (S)c2c4.(B)c32c32c32c32(S)c2
 Ch5 (B)c4.c4cccc
 
 #-----------------------------------------------------------------------------
-# Main Theme
+# Main Theme 2
 #-----------------------------------------------------------------------------
 Ch0 o2v13\s8000\e22050%75@2 b-1b-1a-1a-1g1^1f+1e+1 b-1b-1a-1a-1g1^1f+1e+1
 Ch3 o3v12\s8000\e22050%75@2 f1f1e-1e-1e-1^1d-1c1 f1f1e-1e-1e-1^1d-1c1
@@ -196,7 +196,7 @@ Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c32c32c32c32(S)c(H)
 Ch5 (S)v------- c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32 v+ c32c32c32c32
 
 #-----------------------------------------------------------------------------
-# Half Coda (Transposition to subdominant)
+# Half Coda (Transposition to B-moll)
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o2l16
 Ch0 b-4.b-8 r2 r8f8b->f8.<b-8>f8d-c8.<
@@ -217,5 +217,78 @@ Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
 Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(S2)c8
 Ch5 (B)c(H2)c(H)c8 (S)c(H2)c(H)c8 (B)c(H2)c(H)c8 (S)c(H2)c(H)c8
 Ch5 (B)c(H2)c(H)c8 (S)c(H2)c(H)c8 (B)c(H2)c(H)c8 (S)c(H2)c(H)c8
+
+#-----------------------------------------------------------------------------
+# Main Theme 1'
+#-----------------------------------------------------------------------------
+Ch0 g-8>d-r< g-8>d-r< g-8>d-r< g-8>d-r<  g-8>d-r< g-8>d-r< g-8>d-r< g-8>d-r<
+Ch0 b-8>fr< b-8>fr< b-8>fr< b-8>fr<   b-8>fr< b-8>fr< b-8b-r b-8>fr<
+Ch0 g-8>d-r< g-8>d-r< g-8>d-r< g-8>d-r<  g-8>d-r< g-8>d-r< g-8>d-r< g-8>d-r<
+Ch0 b-8>fr< b-8>fr< b-8>fr< b-8>fr<   b-8>fr< b-8>fr< b-2
+Ch0 g-8>d-r< g-8>d-r< g-8>d-r< g-8>d-r<  g-8>d-r< g-8>d-r< g-8>d-r< g-8>d-r<
+Ch0 b-8>fr< b-8>fr< b-8>fr< b-8>fr<   b-8>fr< b-8>fr< b-8b-r b-8>fr<
+Ch0 g-8>d-r< g-8>d-r< g-8>d-r< g-8>d-r<  g-8>d-r< g-8>d-r< g-8>d-r< g-8>d-r<
+Ch0 b-8>fr< b-8>fr< b-8>fr< b-8>fr<   b-8>fr< b-8>fr< r2
+
+Ch1 (CG5)v13o4
+Ch2 (CG5)v13o4
+Ch1 b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr d-8fr c8fr
+Ch2 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
+Ch1 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
+Ch2 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr d-8fr c8fr
+Ch1 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr d-8fr c8fr
+Ch2 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
+Ch1 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr (Sq)<<v15b-4b-8>d-8
+Ch2 < f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-rr2
+Ch1 (CG5)o4v13
+Ch2 o4
+Ch1 b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr d-8fr c8fr
+Ch2 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
+Ch1 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
+Ch2 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr d-8fr c8fr
+Ch1 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8fr d-8fr c8fr
+Ch2 f8>d-r< f8>d-r c8d-r <f8>d-r <f8>d-r c8d-r <b-8>d-r <a-8>d-r
+Ch1 < b-8>fr< b-8>fr e-8fr <b-8>fr  <b-8>fr e-8 r8r2
+Ch2 < f8>d-r< f8>d-r c8d-r <f8>d-r  <f8>d-r c8 r8r2
+
+Ch3 (CG3)v13o4l16 r1160
+Ch3 fb->d-8< fb->d-<b- fr>d-<b- frb-8  fb->d-8< fb->d-<b- fr>d-<b- frb-8
+Ch3 b->d-f8< b->d-fd-< b-r>fd-< b-r>d-8<  b->d-f8< b->d-fd-< b-r>fd-< b-r>d-8
+Ch3 d-fb-8 d-fb-f d-rb-f d-rf8  d-fb-8 d-fb-f d-rb-f d-rf8  d-fb-8 d-fb-f d-rb-f d-rf8
+Ch3 d-fb-f d-fb-f d-f<b->d- <fb-d-f
+Ch3 o4
+Ch3 fb->d-8< fb->d-<b- fr>d-<b- frb-8  fb->d-8< fb->d-<b- fr>d-<b- frb-8
+Ch3 b->d-f8< b->d-fd-< b-r>fd-< b-r>d-8<  b->d-f8< b->d-fd-< b-r>fd-< b-r>d-8
+Ch3 d-fb-8 d-fb-f d-rb-f d-rf8  d-fb-8 d-fb-f d-rb-f d-rf8  d-fb-8 d-fb-f d-rb-f d-rf8
+Ch3 d-fb-f d-fb-f
+
+Ch4 (Brass)\s22050v12o4
+Ch4 f1^1 b-1^1 \s44100 >d-1^1^1^1
+Ch4 \s600l16<
+Ch4 b-8>f8< b-8>f8 e-8f8 <b-8>f8  <b-8>f8 e-8f8 d-8f8 c8f8
+Ch4 f8>d-8< f8>d-8 c8d-8 <f8>d-8  <f8>d-8 c8d-8 <b-8>d-8 <a-8>d-8
+Ch4 < b-8>f8< b-8>f8 e-8f8 <b-8>f8  <b-8>f8 e-8f8 d-8f8 c8f8
+Ch4 < b-8>f8< b-8>f8 e-8f8 <b-8>f8  <b-8>f8 e-8r8 r2
+
+Ch5 (B)c8(S)c8(H)c8(S2)c8(S)c8(H2)c8(B)c32c32c32c32c32c32c32c32
+Ch5 (S)c4(H2)c8(S2)c8 (B)c8(S)cc (B)c8(S)c8
+Ch5 (B)c8(S)c8(H)c8(S2)c8(S)c8(H2)c8(B)c32c32c32c32c32c32c32c32
+Ch5 (S)c4(H2)c8(S2)c8 (B)c8(S)cc (B)c8(S)c8
+Ch5 (B)c8(S)c8(H)c8(S2)c8(S)c8(H2)c8(B)c32c32c32c32c32c32c32c32
+Ch5 (S)c4(H2)c8(S2)c8 (B)c8(S)cc (B)c8(S)c8
+Ch5 (B)c8(S)c8(H)c8(S2)c8 eedd(S)<g32g32f32f32e32e32d32d32
+Ch5 (S2)c4c4c4.(B)c32c32c32c32
+Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (B)c(H2)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (B)c(H2)c(B)c(H)c (S)c8(H)c(B)c
+Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (B)c(H2)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (B)c(H2)c(B)c(H)c (S)c8(H)c(B)c
+Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (B)c(H2)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (B)c(H2)c(B)c(H)c (S)c8(H)c(B)c
+Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (B)c(H2)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H2)c(H)c8 (S2)c(H2)c(S2)c8 (S)cccc c4
+
+#-----------------------------------------------------------------------------
+# Main Theme 2' (Coda)
+#-----------------------------------------------------------------------------
 
 Ch0 r1r1r1r1
