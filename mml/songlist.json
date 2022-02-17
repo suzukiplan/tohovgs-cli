@@ -1,5 +1,5 @@
 {
-  "version": "2022.02.10",
+  "version": "2022.02.17",
   "albums": [
     {
       "albumId": "th04",
@@ -869,6 +869,13 @@
           "loop": 1,
           "name": "華のさかづき大江山",
           "english": "Petals sake cup Ohe Mountain"
+        },
+        {
+          "mml": "TH11-08",
+          "ver": 0,
+          "loop": 1,
+          "name": "ハートフェルトファンシー",
+          "english": "Heartfelt Fancy"
         },
         {
           "mml": "TH11-09",
