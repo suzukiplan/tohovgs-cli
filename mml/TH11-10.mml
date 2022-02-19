@@ -2,7 +2,8 @@
 # 3/4 Tempo156 in Fis-Moll
 
 $Brass \s600 \e22050 @1 %75
-$Bass \s100   \e200 @2 %90
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
 $CG3 \s30 \e8000 @1 %20
 $CG5 \s30 \e8000 @2 %20
 $Sq \s600 \e22050 @2 %75
@@ -37,10 +38,10 @@ Ch1 (CG3)v12o4 l16
 Ch1 r8f+4g+4>c+8< r8f+4c+4b8  r8f+4g+4>c+8< r8f+4c+4b8 
 Ch1 r8f+4g+4>c+8< r8f+4c+4b8  r8f+4g+4>c+8< r8f+4c+4b8 
 
-Ch2 (CG3)v12o2l16 f+4r2         c+4r4.         f+4>a4g+4c+8<   f+4r2
-Ch3 (CG3)v12o2l16 r32a4r4.r16.  r32f+4r4.r16.  a4>c+4f+4<      r32a4r4.r16.
-Ch4 (CG3)v12o3l16 r16c+4r4.r    r16<a4>r4.r    r2.             r16c+4r4.r
-Ch5 (CG3)v12o3l16 r16.a4r4.r32  r16.c+4r4.r32  r2.             r16.a4r4.r32
+Ch2 (CG3)v11o2l16 f+4r2         c+4r4.         f+4>a4g+4c+8<   f+4r2
+Ch3 (CG3)v11o2l16 r32a4r4.r16.  r32f+4r4.r16.  a4>c+4f+4<      r32a4r4.r16.
+Ch4 (CG3)v11o3l16 r16c+4r4.r    r16<a4>r4.r    r2.             r16c+4r4.r
+Ch5 (CG3)v11o3l16 r16.a4r4.r32  r16.c+4r4.r32  r2.             r16.a4r4.r32
 Ch2 o2 f+4r2           c+4r4.            f+4>a4g+4c+8<  f+4r2
 Ch3 o2 r32a4r4.r16.    r32f+4r4.r16.     a4>c+4f+4<     r32a4r4.r16.
 Ch4 o3 r16c+32a4r4.r32 r16<a32>c+4r4.r32 r2.            r16c+32a4r4.r32
@@ -54,5 +55,59 @@ Ch5 (H)c4 (S2)c4c4
 # Main Theme 1
 #-----------------------------------------------------------------------------
 
+Ch0 (Bass2)o2v16
+Ch0 f+2>c+8f+8 c+4<f+r8.f+4 d4f+8b8>d8f+8 <b4er8.e4 
+Ch0 f+2>c+8f+8 c+4<f+r8.f+4 a2>c+8e8 <b4br8.b4> c+4e+4c+4 c+4<c+8e8g+8>c+8
+Ch0 <a4c+8e8a4 b4d+r8.d+4 f+4>c+4<f+4 >c+4<e+8g+8>c+8e+8
+Ch0 d4<a4>d4 <e4er8.e4 f+4f+r8.f+4 f+2f+8f+r
+
+Ch1 (Sq)@0o4v19
+Ch1 f+2f+8g+8 a4a8b8>c+4 <b4.>c+8<a4 g+4.a8g+4
+Ch1 f+2f+8g+8 a4>c+4e4 f+4.g+8e4 d+4.e8d+4 c+2. r4c+4e4
+Ch1 f+4.g+8e4 d+4.c+8<b4 >c+4.<f+8>c+4 <b4a4g+4
+Ch1 f+2a8>c+8 <b2b4 a+4.g+8a+4 f+2.
+
+Ch2 o3v12 r4f+r8.f+4         f+r8.f+r8.f+4        
+Ch3 o4v11 r4c+r8.r32c+8.^32  c+r8.c+r8.r32c+8.^32
+Ch4 o4v10 r4f+r8.r16f+8.     r4f+r8.r16f+8.
+
+Ch2 a4a4.a8         g+4g+4.g+8
+Ch3 r32d16.d4d4.   <r32b16.b4b4.
+Ch4 r16f+8.^4<f+4>  r16e8.^4<e4>
+
+Ch2 o3 r4f+r8.f+4         f+r8.f+r8.f+4        
+Ch3 o4 r4c+r8.r32c+8.^32  c+r8.c+r8.r32c+8.^32
+Ch4 o4 r4f+r8.r16f+8.     r4f+r8.r16f+8.
+
+Ch2 a4a4a8ar       b4b4b8br       rc+8.c+2           c+4c+4.c+8
+Ch3 r8c+2r32c+r32  r8d+2r32d+r32  r32<g+r32r4g+4g+8  r32>e16.e4e4^32g+16.
+Ch4 r4.<e4>re      r4.<f+4>rf+    <f8>f4.<f4         r16>c+8.^4<g+8.>>c+
+
+Ch2 o3 a4.a4a8        f+4.f+4f+8     c+4.c+4c+8      c+4.c+4e+8
+Ch3 o4 r4c+4.r32c+16. r4<b4.r32b16.  r4f+4.r32f+16.  r4g+4.r32g+16.
+Ch4 o4 r8e4.<e8.>e    r8d+4.<d+8.>d+ r8<a4.<a8.>a>   r8c+4c+8<e+8.>c+
+
+Ch2 o3 f+4.f+4f+8   g+4.g+4g+8   a+4.a+4a+8      f+4f+4.f+8
+Ch3 o3 r4a4.r32a16. r4b4.r32b16. r4>c+4.r32c+16. r4.c+4rc+
+Ch4 o4 r8d4.<d8.>d  r8e4.<e8.>e  r8f+4.<f+8.>f+  r8f+4.<a+8>r32a+16.
+
+Ch5 (H)c2 (S)c8(H)c8
+Ch5 (B)c8(H)c8 (H2)crcr (S)c8(H)c8
+Ch5 (B)c8(H)c8 (S2)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H)c8 (S2)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H)c8 (H2)crcr (S)c8(H)c8
+Ch5 (H2)crcrcrcr (S)c8(H)c8
+Ch5 (B)c8(H)c8 (S2)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H)c8 (S2)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H)c8 (S2)c8(H2)c8 (S)c8(H)c8
+Ch5 (S2)c8(H)c8 (B)c8c8 (S)c8(H)c8
+Ch5 (H)c4 (B)c8c8 (S)c8(H)c8
+Ch5 (B)c8(H2)c8 (B)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H2)c8 (B)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H2)c8 (B)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H2)c8 (B)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H2)c8 (B)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H)c8 (S2)c8(H2)c8 (S)c8(H)c8
+Ch5 (B)c8(H)c8 (S2)c8(H2)c8 (S)c8<g32g32f32e32
 
 Ch0 r1.
