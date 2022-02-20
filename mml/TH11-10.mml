@@ -5,6 +5,7 @@ $Brass \s600 \e22050 @1 %75
 $Bass  \s100 \e200 @2 %90
 $Bass2 \s100 \e200 @0 %90
 $CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e48000 @1 %20
 $CG5 \s30 \e8000 @2 %20
 $Sq \s600 \e22050 @2 %75
 $B  \s10 \e1000 p-128 @0 %10 v35 o3
@@ -316,5 +317,68 @@ Ch5 (H3)cv--cv--cv--c (H3)cc(H2)c8 (H3)cc(H)c8
 Ch5 (H3)cv--cv--cv--c (H3)cc(H2)c8 (H3)cc(H)c8
 Ch5 (H3)cv--cv--cv--c (H3)cc(H2)c8 (H3)cc(H)c8
 Ch5 (H3)cv--cv--cv--c (H3)cc(H2)c8 (H3)cc(H)c8
+
+#-----------------------------------------------------------------------------
+# Main Theme #6 (final)
+#-----------------------------------------------------------------------------
+Ch0 o1
+Ch0 f+2>c+8f+8 c+4<f+r8.f+4 d4f+8b8>d8f+8 <b4er8.e4 
+Ch0 f+2>c+8f+8 c+4<f+r8.f+4 a2>c+8e8 <b4br8.b4> c+4e+4c+4 c+4<c+8e8g+8>c+8
+Ch0 <a4c+8e8a4 b4d+r8.d+4 f+4>c+4<f+4 >c+4<e+8g+8>c+8e+8
+Ch0 d4<a4>d4 <e4er8.e4 f+2.^2
+Ch0 (Sq)v13o4k-
+Ch0 g8a8
+
+Ch1 (Brass)o4v14 k---
+Ch1 b-2b-8>c8 d-4d-8e-8f4 e-4.f8d-4 c4.d-8c4
+Ch1 <b-2b-8>c8 d-4f4a-4 b-4.>c8<a-4 g4.a-8g4 f2. r4f4a-4
+Ch1 b-4.>c8<a-4 g4.f8e-4 f4.<b-8>f4 e-4d-4c4 <b-2>d-8f8 e-4d-4c4 <b-1r4.r
+Ch1 k+++
+Ch1 (CG4)v13o3e-2.
+
+Ch2 (Brass)o4v14 k---
+Ch2 f2f8a-8 b-4b-8>c8d-4 c4.d-8<b-4 a-4.b-8a-4
+Ch2 f2f8a-8 b-4>d-4f4 g-4.a-8f4 e-4.f8e-4 c2. r4c4f4
+Ch2 f4.a-8f4 e-4.d-8<b-4> d-4.<f8>d-4 <a4f4f4 g-2b-8>d-8 c4<g-4g-4 f1r4.r16.
+Ch2 k+++
+Ch2 (CG4)v12o3b-2.
+
+Ch3 (Sq)@0o5v16
+Ch3 b-2b-8>c8 d-4d-8e-8f4 e-4.f8d-4 c4.d-8c4
+Ch3 <b-2b-8>c8 d-4f4a-4 b-4.>c8<a-4 g4.a-8g4 f2. r4f4a-4
+Ch3 b-4.>c8<a-4 g4.f8e-4 f4.<b-8>f4 e-4d-4c4 <b-2>d-8f8 e-4d-4c4 <b-1r2
+Ch3 k+++
+
+Ch4 (CG3)v12o4 r4fr8.f4 <b->r8.fr8.f4
+Ch4 d-32g-32b-g-8d-8g-8<b-8>d-8 c32e-32a-e-8c8e-8<a-8>c8
+Ch4 o4 r4fr8.f4 <b->r8.fr8.f4
+Ch4 f8a-8<a-8>d-8<f8f32a-32>d- e-8g8<g8b-8e-8e-32g32b->
+Ch4 f8a8<a8>c8<f8f32a32>c f8>c8<c8f8<a8f32a32>c
+Ch4 f8a-8<a-8>d-8<f8f32a-32>d- e-8g8<g8b-8e-8e-32g32b->
+Ch4 d-8f8<f8b-8d-8d-32g32b-> c8f8<f8a8c8c32f32a
+Ch4 b-2b-8>d-8 <a-8r8a-8r8a-8r8 b-32>d-32f8.r2 r2.
+Ch4 k+++
+
+Ch5 (H)c4(S2)c8(H2)c8(S2)c8(H)c8 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c
+Ch5 (B)c8(H)c8(S2)c8(H2)c(S2)cc8(H)c8 (B)c8(H)c8(S2)c8(H2)c8(S2)c8(H)c8
+Ch5 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c
+Ch5 (B)c8(H)c8(S2)c8(H2)c(S2)cc8(H)c8 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c
+Ch5 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c (B)c4(S2)c(H2)c(S2)c(H2)c(S2)c(H2)c(S2)c(H2)c
+Ch5 (B)c8(H)c8(S2)c8(H2)c(S2)cc8(H)c8 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c
+Ch5 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c (B)c8(H)c8(S2)c8(H)c(B)c(S)cccc
+Ch5 (H)c2.(S2)c4c4c4(H)c2.r2.
+
+#-----------------------------------------------------------------------------
+# Coda
+#-----------------------------------------------------------------------------
+
+Ch0 b-2b-8>d8 c4<b-4a4 g2.^4r4 <g8a8 b-2.b-8.>d8. c4.<b-4.a4. g1^1^1
+Ch3 (CG4)v11o4e-2.
+Ch4 (CG4)v10o4r32g2.
+
+Ch1 <f2.g1.> e-2.^8.^8.<f4.^4.^4.g1^1^1^1
+Ch2 c2.<b-1.> b-2.^8.^8.c4.^4.^4.<b-1^1^1^1
+Ch3 f2.g1. e-2.^8.^8.f4.^4.^4.g1^1^1^1
+Ch4 c2.d1. g2.^8.^8.c4.^4.^4.d1^1^1^1
 
 Ch0 r1.
