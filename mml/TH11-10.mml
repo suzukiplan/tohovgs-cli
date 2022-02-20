@@ -366,13 +366,16 @@ Ch5 (B)c8(H)c8(S2)c8(H2)c(S2)cc8(H)c8 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c
 Ch5 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c (B)c4(S2)c(H2)c(S2)c(H2)c(S2)c(H2)c(S2)c(H2)c
 Ch5 (B)c8(H)c8(S2)c8(H2)c(S2)cc8(H)c8 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c
 Ch5 (B)c8(H)c8(S2)c8(H2)c8(S2)c(H)c(S2)c(H)c (B)c8(H)c8(S2)c8(H)c(B)c(S)cccc
-Ch5 (H)c2.(S2)c4c4c4(H)c2.r2.
+Ch5 (H)c2.(S2)c4c4c4(H)c2.r2r16
+Ch5 (Brass)v13o4p-0@0
+Ch5 g8a8
 
 #-----------------------------------------------------------------------------
 # Coda
 #-----------------------------------------------------------------------------
 
 Ch0 b-2b-8>d8 c4<b-4a4 g2.^4r4 <g8a8 b-2.b-8.>d8. c4.<b-4.a4. g1^1^1
+Ch5 b-2b-8>d8 c4<b-4a4 g2.^4r4 <g8a8 b-2.b-8.>d8. c4.<b-4.a4. g1^1^1
 Ch3 (CG4)v11o4e-2.
 Ch4 (CG4)v10o4r32g2.
 
