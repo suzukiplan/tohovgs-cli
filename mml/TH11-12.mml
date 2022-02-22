@@ -9,6 +9,7 @@ $CG4 \s30 \e48000 @1 %20
 $CG5 \s30 \e8000 @2 %20
 $Sq \s600 \e22050 @2 %75
 $Sq2 \s600 \e6666 @2 %66
+$Pad \s8000 \e22050 @2 %66
 $B  \s10 \e1000 p-128 @0 %10 v35 o3
 $S  \s1  \e1000 p-128 @3 %20 v20 o4
 $S2 \s1  \e1000 p-96  @3 %10 v18 o4
@@ -104,11 +105,47 @@ Ch5 c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(S2)c32c32
 
 # F-Moll
 Ch0 fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f  fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f
-Ch1 f4f8f8f4g8r8g8r8        a-4a-8a-8a-4 (Sq)e2
+Ch1 f4f8f8f4g8r8g8r8        a-4a-8a-8a-4 (Sq)e4 (Brass)o5c8e-8
 Ch2 c4c8c8c4e-8r8e-8r8      f4f8f8f4 (Sq)c2
 Ch3 a-4a-8a-8a-4b-8r8b-8r8  >c4c8c8c4 <(Sq)g2
 Ch4 f1^1.
 Ch5 (H)c4 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c(B)c
 Ch5 c(H2)c(H)c8 (S)cccc cccc c32c32c32c32c32c32c32c32 g32g32f32f32e32e32d32d32
+
+#-----------------------------------------------------------------------------
+# Part B - 3/4 in F-Moll
+#-----------------------------------------------------------------------------
+Ch0 a-4a-8r8a-4 b-4b-8r8b-4 >c4c8r8c4< b-4b-8r8b-4
+Ch0 a-4a-8r8a-4 b-4b-8r8b-4 >c4c8r8c4< b-4b-8r8b-4
+Ch0 a-4a-8r8a-4 b-4b-8r8b-4 >c4c8r8c4< b-4b-8r8b-4
+Ch0 a-4a-8r8a-4 b-4b-8r8b-4 >c4c8r8c4< b-4b-8r8b-4
+
+Ch1 f4f8f8f4 g8r8c8r8g4 a-8r8c8r8a-4 g8r8f8r8e-4 f8r8>c8r8<f4 f8r8e-8r8f4 c1.
+Ch1 o5 f4f8f8f4 g8r8c8r8g4 a-8r8c8r8a-4 g8r8f8r8e-4 f8r8>c8r8<f4 f8r8e-8r8f4 f1.
+Ch2 (Brass)o4 a-4a-8a-8a-4 b-8r8f8r8b-4 >c8r8<f8r8>c4< b-8r8a-8r8g4 a-8r8>f8r8<a-4 a-8r8g8r8a-4 f1.
+Ch2 o4 a-4a-8a-8a-4 b-8r8f8r8b-4 >c8r8<f8r8>c4< b-8r8a-8r8g4 a-8r8>f8r8<a-4 a-8r8g8r8a-4 a-1.
+
+Ch3 (Pad)o3 f2.g2.a-2.g2. f2.g2.a-2.g2. f2.g2.a-2.g2. f2.g2.a-2.g2.
+Ch4 (Pad)o2 a-2.b-2.>c2.<b-2. a-2.>>b-2.a-2.g2.< a-2.b-2.>c2.<b-2. a-2.>b-2.a-2.g2.
+
+Ch5 (H)c4 (B)c8(H2)cc (B)c8(H2)cc
+Ch5 (B)c(H2)c(H)c8 (B)c8(H2)cc (B)c8(H2)cc
+Ch5 (B)c8(H2)cc (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c8(H2)cc
+
+Ch5 (B)c8(H2)cc (B)c8(H2)cc (B)c8(H2)cc
+Ch5 (B)c(H2)c(H)c8 (B)c8(H2)cc (B)c8(H2)cc
+Ch5 (B)c8(H2)cc (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c8(H2)cc
+
+Ch5 (B)c8(H2)cc (B)c8(H2)cc (B)c8(H2)cc
+Ch5 (B)c(H2)c(H)c8 (B)c8(H2)cc (B)c8(H2)cc
+Ch5 (B)c8(H2)cc (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c8(H2)cc
+
+Ch5 (B)c8(H2)cc (B)c8(H2)cc (B)c8(H2)cc
+Ch5 (B)c(H2)c(H)c8 (B)c8(H2)cc (B)c8(H2)cc
+Ch5 (B)c8(H2)cc (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c8(H2)cc
 
 Ch0 r1.
