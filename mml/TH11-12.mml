@@ -1,0 +1,114 @@
+# 業火マントル
+# 5/4 -> 3/4 Tempo 187 in D-Moll
+
+$Brass \s600 \e22050 @1 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e48000 @1 %20
+$CG5 \s30 \e8000 @2 %20
+$Sq \s600 \e22050 @2 %75
+$Sq2 \s600 \e6666 @2 %66
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$G5 \s4000 \e22050 @1 %80
+
+#-----------------------------------------------------------------------------
+Ch0 t187 m8 r1024
+Ch1         r1024
+Ch2         r1024
+Ch3         r1024
+Ch4         r1024
+Ch5         r1024
+
+#-----------------------------------------------------------------------------
+# Part A - 5/4: Transpose every 2 measures: {Dm -> Fm -> F#m -> Fm} x 2
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2l16
+Ch1 (Sq2)v14o4l16
+Ch2 (Sq2)v14o3l16
+Ch3 (Sq2)v14o3l16
+Ch4 \s22050 \e22050 @1 %60 v14 o3l16
+Ch5 l16
+
+# ----- 1st -----
+
+# D-Moll
+Ch0 dfa>d< dfa>d< dfa>d< df>f<a>d<fad  dfa>d< dfa>d< dfa>d< df>f<a>d<fad
+Ch1 d4d8d8d4e8r8e8r8  f4f8f8g8r8f8r8d8r8
+Ch2 a4a8a8a4>c8r8c8r8 d4d8d8e8r8d8r8<a8r8>
+Ch3 f4f8f8f4g8r8g8r8  a4a8a8>c8r8<a8r8f8r8
+Ch4 d1^1.
+Ch5 (H)c4 (H3)cccc cccc (B)c8(H2)c8 (B)c8(H2)c8
+Ch5 (H3)cccc cccc (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+
+# F-Moll
+Ch0 fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f  fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f
+Ch1 f4f8f8f4g8r8g8r8        a-4a-8a-8b-8r8a-8r8f8r8
+Ch2 c4c8c8c4e-8r8e-8r8      f4f8f8g8r8f8r8c8r8
+Ch3 a-4a-8a-8a-4b-8r8b-8r8  >c4c8c8e-8r8c8r8<a-8r8
+Ch4 f1^1.
+Ch5 (H)c4 (H3)cccc cccc (B)c8(H2)c8 (B)c8(H2)c8
+Ch5 (H3)cccc cccc (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+
+# fis-Moll
+Ch0 f+a>c+f+< f+a>c+f+< f+a>c+f+< f+a>ac+f+<a>c+<f+  f+a>c+f+< f+a>c+f+< f+a>c+f+< f+a>ac+f+<a>c+<f+
+Ch1 f+4f+8f+8f+4g+8r8g+8r8  a4a8a8g+8(CG3)a8(Sq2)f+8(CG3)g+8(Sq2)e8(CG3)f+8(Sq2)
+Ch2 c+4c+8c+8c+4e8r8e8r8    f+4f+8f+8e8r8c+8r8<a8r8
+Ch3 a4a8a8a4>c+8r8c+8r8     c+4c+8c+8<b8r8a8r8f+8r8
+Ch4 f+1^1.
+Ch5 (H)c4 (H3)cccc cccc (B)c8(H2)c8 (B)c8(H2)c8
+Ch5 (H3)cccc cccc (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+
+# F-Moll
+Ch0 fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f  fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f
+Ch1 f4f8f8f4g8r8g8r8        a-4a-8a-8a-4 (Sq)e2(Sq2)
+Ch2 c4c8c8c4e-8r8e-8r8      f4f8f8f4 (Sq)c2(Sq2)
+Ch3 a-4a-8a-8a-4b-8r8b-8r8  >c4c8c8c4 <(Sq)g2(Sq2)
+Ch4 f1^1.
+Ch5 (H)c4 (H3)cccc cccc (B)c8(H2)c8 (B)c8(H2)c8
+Ch5 (H3)cccc cccc (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+
+# ----- 2nd -----
+
+# D-Moll
+Ch0 dfa>d< dfa>d< dfa>d< df>f<a>d<fad  dfa>d< dfa>d< dfa>d< df>f<a>d<fad
+Ch1 d4d8d8d4e8r8e8r8  f4f8f8g8r8f8r8d8r8
+Ch2 a4a8a8a4>c8r8c8r8 d4d8d8e8r8d8r8<a8r8>
+Ch3 f4f8f8f4g8r8g8r8  a4a8a8>c8r8<a8r8f8r8
+Ch4 d1^1.
+Ch5 (H)c4 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c(B)c
+Ch5 c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(H)c8
+
+# F-Moll
+Ch0 fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f  fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f
+Ch1 f4f8f8f4g8r8g8r8        a-4a-8a-8b-8r8a-8r8f8r8
+Ch2 c4c8c8c4e-8r8e-8r8      f4f8f8g8r8f8r8c8r8
+Ch3 a-4a-8a-8a-4b-8r8b-8r8  >c4c8c8e-8r8c8r8<a-8r8
+Ch4 f1^1.
+Ch5 (H)c4 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c(B)c
+Ch5 c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(S2)c32c32c32c32
+
+# fis-Moll
+Ch0 f+a>c+f+< f+a>c+f+< f+a>c+f+< f+a>ac+f+<a>c+<f+  f+a>c+f+< f+a>c+f+< f+a>c+f+< f+a>ac+f+<a>c+<f+
+Ch1 f+4f+8f+8f+4g+8r8g+8r8  a4a8a8g+8(CG3)a8(Sq2)f+8(CG3)g+8(Sq2)e8(CG3)f+8(Sq2)
+Ch2 c+4c+8c+8c+4e8r8e8r8    f+4f+8f+8e8r8c+8r8<a8r8
+Ch3 a4a8a8a4>c+8r8c+8r8     c+4c+8c+8<b8r8a8r8f+8r8
+Ch4 f+1^1.
+Ch5 (H)c4 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c(B)c
+Ch5 c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(S2)c32c32c32c32
+
+# F-Moll
+Ch0 fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f  fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f
+Ch1 f4f8f8f4g8r8g8r8        a-4a-8a-8a-4 (Sq)e2
+Ch2 c4c8c8c4e-8r8e-8r8      f4f8f8f4 (Sq)c2
+Ch3 a-4a-8a-8a-4b-8r8b-8r8  >c4c8c8c4 <(Sq)g2
+Ch4 f1^1.
+Ch5 (H)c4 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c(B)c
+Ch5 c(H2)c(H)c8 (S)cccc cccc c32c32c32c32c32c32c32c32 g32g32f32f32e32e32d32d32
+
+Ch0 r1.
