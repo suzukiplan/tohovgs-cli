@@ -174,7 +174,7 @@ Ch5 (B)c(H2)c(S2)c(H2)c (B)c(H2)c(S)c(H2)c (B)c(H2)c(S2)c(H2)c
 Ch5 (S)cccc c8(H)c8 (B)c(H2)c(S2)c(H)c
 Ch5 (B)c(H2)c(S2)c(H)c (B)c(H2)c(S2)c(H)c (B)c(H2)c(S2)c(H)c
 Ch5 (H)c4 (B)c(H2)c(S2)c(H2)c (B)c(H2)c(S2)c(H2)c
-Ch5 (B)c(H2)c(S2)c(H2)c (B)c(H2)c(S)c(H2) (B)c(H2)c(S2)c(H2)c
+Ch5 (B)c(H2)c(S2)c(H2)c (B)c(H2)c(S)c(H2)c (B)c(H2)c(S2)c(H2)c
 Ch5 (S)cccc c(H2)c(S)c(H2)c (B)c(H2)c(H)c8 (S) cccc c32c32ccc <gfed
 
 #-----------------------------------------------------------------------------
@@ -255,12 +255,12 @@ Ch5 (H)c4 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c(B)c
 Ch5 c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(H)c8 (B)c(H2)c(H)c(B)c c(H2)c(S2)c32c32c32c32
 
 # F-Moll
-Ch0 fa->cf a-fc<a- fa->cf< fa->a-cf<a->c<f  fa->cf< fa->cf< fa->cf< fa->a-cf<a->c<f
-Ch1 f4f8f8f4g8r8g8r8        a-4a-8a-8a-4 (Sq)e4 (Brass)o5c8e-8
+Ch0 fa->cf a-fc<a- fa->cf< fa->a-c f<a->c<f  fa->cf< fa->cf< fa->cf< fa->a-c f<a->c<f
+Ch1 f4f8f8f4g8r8g8r8        a-4a-8a-8a-4 (Sq)e2
 Ch2 c4c8c8c4e-8r8e-8r8      f4f8f8f4 (Sq)c2
 Ch3 a-4a-8a-8a-4b-8r8b-8r8  >c4c8c8e-8r8c8r8<a-8r8
 Ch4 f1^1.
 Ch5 (H)c4 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c(B)c
-Ch5 c(H2)c(H)c8 (S)cccc cccc c32c32c32c32c32c32c32c32 g32g32f32f32e32e32d32d32
+Ch5 c(H2)c(H)c8 (S)cccc cccc c32c32c32c32c32c32c32c32 <g32g32f32f32e32e32d32d32
 
 Ch0 r1.
