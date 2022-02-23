@@ -182,8 +182,8 @@ Ch5 (S)cccc c(H2)c(S)c(H2)c (B)c(H2)c(H)c8 (S) cccc c32c32ccc <gfed
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o2l16
 Ch1 (Sq2)v14o5l16
-Ch2 (Sq2)v14o3l16
-Ch3 (CG3)v14o3l16
+Ch2 (Sq2)v13o4l16
+Ch3 (CG3)v13o2l16
 Ch4 \s22050 \e22050 @3 %60 v14 o2l16
 Ch5 l16
 
@@ -262,7 +262,7 @@ Ch3 a-4a-8a-8a-4b-8r8b-8r8
 Ch4 f1^4
 Ch5 (H)c4 (S)c(H2)c(H)c(S2)c (B)c(S2)c(H)c8 (S)c(H2)c(S2)cc (B)c(S2)c(H)c(B)c
 
-Ch5 t173
+Ch5 t168
 Ch0 fa->cf< fa->cf< fa->cf< fa->a-c f<a->c<f
 Ch1 a-4a-8a-8a-4 (Sq)e2
 Ch2 f4f8f8f4 (Sq)c2
