@@ -1,5 +1,5 @@
 {
-  "version": "2022.02.20",
+  "version": "2022.02.23",
   "albums": [
     {
       "albumId": "th04",
@@ -897,6 +897,13 @@
           "loop": 1,
           "name": "死体旅行　〜 Be of good cheer!",
           "english": "Corpse Voyage　〜 Be of good cheer!"
+        },
+        {
+          "mml": "TH11-12",
+          "ver": 0,
+          "loop": 1,
+          "name": "業火マントル",
+          "english": "Hellfire Mantle"
         }
       ]
     }
