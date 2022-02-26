@@ -1,0 +1,133 @@
+# 霊知の太陽信仰
+# 4/4 Tempo 175 in C-Moll
+
+$Brass \s600 \e11025 @1 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e48000 @1 %20
+$CG5 \s30 \e8000 @2 %20
+$Sq \s600 \e22050 @2 %75
+$Sq2 \s600 \e6666 @2 %66
+$Pad \s8000 \e22050 @2 %66
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+
+#-----------------------------------------------------------------------------
+Ch0 t175 m8 r1024
+Ch1         r1024
+Ch2         r1024
+Ch3         r1024
+Ch4         r1024
+Ch5         r1024
+
+#-----------------------------------------------------------------------------
+# Part A
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2l16
+Ch0 c4.r8e4.e-4.d4.c4.
+Ch0 c4c8r8e4e8e-4e-8d4d8c4.
+Ch0 c4c8r8e4e8e-4e-8d4d8c4.
+Ch0 c4c8r8e4e8e-4e-8d4d8c4.
+Ch0 c4c8r8e4e8e-4e-8d4d8c4.
+Ch0 c4c8r8e4e8e-4e-8d4d8c4.
+Ch0 c4c8r8e4e8e-4e-8d4d8c4.
+
+Ch1 (Brass)v14o4l16
+Ch1 c4.r8e4e8e-4e-8d4d8c4.
+Ch1 c4.r8e4e8e-4e-8d4d8c4.
+Ch1 c4.r8e4e8e-4e-8d4d8c4.
+Ch1 c4.r8e4e8e-4e-8d4d8c4.
+Ch1 c4.r8e4e8e-4e-8d4d8c4.
+Ch1 c4.r8e4e8e-4e-8d4d8c4. >
+Ch1 c4.r8e4e8e-4e-8d4d8c4.
+
+Ch2 (Brass)v13o3l16
+Ch2 g4.r8>c4c8<b4b8b-4b-8g4.
+Ch2 g4.r8>c4c8<b4b8b-4b-8g4.
+Ch2 g4.r8>c4c8<b4b8b-4b-8g4.
+Ch2 g4.r8>c4c8<b4b8b-4b-8g4.
+Ch2 g4.r8>c4c8<b4b8b-4b-8g4.
+Ch2 g4.r8>c4c8<b4b8b-4b-8g4. >
+Ch2 g4.r8>c4c8<b4b8b-4b-8g4.
+
+Ch3 (CG5)v13o4l16
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch3 >
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+
+Ch4 (CG5)v12o3l16
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch4 >
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+
+Ch5 l16
+Ch5 (H)c2(S2)c4.c4.c4.c4.
+Ch5 (H)c2(S2)c4.c4.c4.(B)c8(S)c8(B)c8
+Ch5 (H)c4(S)c4 (B)c8(H2)c8(S2)c8(B)c8 (B)c8c8 (S)c8(H2)c8 (B)c8(H)c8(S)c8(B)c8
+Ch5 (H)c4(S)c4 (B)c8(H2)c8(S2)c8(B)c8 (B)c8c8 (S2)c32c32c(H2)c8 (B)c8(H)c8 (S2)c32c32c(B)c8
+Ch5 (H)c4(S)c4 (B)c8(H2)c8(S2)c8(B)c8 (B)c8c8 (S)c8(H2)c8 (B)c8(H)c8(S)c8(B)c8
+Ch5 (H)c4(S)c4 (B)c8(H2)c8(S2)c8(B)c8 (B)c8c8 (S2)c32c32c(H2)c8 (B)c8(H)c8 (S2)c32c32c(B)c8
+Ch5 (H)c4(S)c4 (B)c8(H2)c8(S2)c8(B)c8 (B)c8c8 (S)c8(H2)c8 (B)c8(H)c8(S)c8(B)c8
+
+# rit
+Ch5 t172
+Ch0 c4c8r8
+Ch1 c4.r8
+Ch2 g4.r8
+Ch3 c8g8f+8d8
+Ch4 c8g8f+8d8 
+Ch5 (H)c4(S)c4
+
+Ch5 t169
+Ch0 e4e8
+Ch1 e4e8
+Ch2 >c4c8
+Ch3 a8g+8e8
+Ch4 a8g+8e8
+Ch5 (B)c8(H2)c8(S2)c8
+
+Ch5 t166
+Ch0 e-4e-8
+Ch1 e-4e-8
+Ch2 <b4b8
+Ch3 g8f+8d8 
+Ch4 g8f+8d8 
+Ch5 (B)c8 (B)c8c8 
+
+Ch5 t163
+Ch0 d4d8
+Ch1 d4d8
+Ch2 b-4b-8
+Ch3 f+8e+8c+8 
+Ch4 f+8e+8c+8 
+Ch5 (S2)c32c32c(H2)c8 (B)c8
+
+Ch5 t160
+Ch0 c4.
+Ch1 e-4.
+Ch2 b4.
+Ch3 f8b8<b8>
+Ch4 f8b8<b8>
+Ch5 (H)c8 (S2)c32c32c(B)c8
+
+#-----------------------------------------------------------------------------
+# Part B
+#-----------------------------------------------------------------------------
+Ch5 t175
+
+Ch0 r1.
