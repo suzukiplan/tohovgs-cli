@@ -1,7 +1,7 @@
 # 霊知の太陽信仰　～ Nuclear Fusion
 # 4/4 Tempo 175 in C-Moll
 
-$Brass \s66 \e7777 @1 %75
+$Brass \s66 \e9999 @1 %75
 $Bass  \s100 \e200 @2 %90
 $Bass2 \s100 \e200 @0 %90
 $CG3 \s30 \e8000 @1 %20
@@ -93,7 +93,7 @@ Ch3 c8g8f+8d8
 Ch4 c8g8f+8d8 
 Ch5 (H)c4(S)c4
 
-Ch5 t167
+Ch5 t169
 Ch0 e4e8
 Ch1 e4e8
 Ch2 >c4c8
@@ -101,7 +101,7 @@ Ch3 a8g+8e8
 Ch4 a8g+8e8
 Ch5 (B)c8(H2)c8(S2)c8
 
-Ch5 t162
+Ch5 t164
 Ch0 e-4e-8
 Ch1 e-4e-8
 Ch2 <b4b8
@@ -109,7 +109,7 @@ Ch3 g8f+8d8
 Ch4 g8f+8d8 
 Ch5 (B)c8 (B)c8c8 
 
-Ch5 t157
+Ch5 t160
 Ch0 d4d8
 Ch1 d4d8
 Ch2 b-4b-8
@@ -117,7 +117,7 @@ Ch3 f+8e+8c+8
 Ch4 f+8e+8c+8 
 Ch5 (S2)c32c32c(H2)c8 (B)c8
 
-Ch5 t152
+Ch5 t157
 Ch0 c4.
 Ch1 e-4.
 Ch2 b4.
