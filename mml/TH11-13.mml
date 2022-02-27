@@ -1,7 +1,7 @@
-# 霊知の太陽信仰
+# 霊知の太陽信仰　～ Nuclear Fusion
 # 4/4 Tempo 175 in C-Moll
 
-$Brass \s600 \e11025 @1 %75
+$Brass \s66 \e7777 @1 %75
 $Bass  \s100 \e200 @2 %90
 $Bass2 \s100 \e200 @0 %90
 $CG3 \s30 \e8000 @1 %20
@@ -56,7 +56,7 @@ Ch2 g4.r8>c4c8<b4b8b-4b-8g4.
 Ch2 g4.r8>c4c8<b4b8b-4b-8g4 a-32b-32>e-32f32
 Ch2 g4.r8>c4c8<b4b8b-4b-8g4.
 
-Ch3 (CG5)v11o4l16
+Ch3 (CG5)v12o4l16
 Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
@@ -66,7 +66,7 @@ Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 
-Ch4 (CG5)v11o3l16
+Ch4 (CG5)v12o3l16
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
@@ -93,7 +93,7 @@ Ch3 c8g8f+8d8
 Ch4 c8g8f+8d8 
 Ch5 (H)c4(S)c4
 
-Ch5 t169
+Ch5 t167
 Ch0 e4e8
 Ch1 e4e8
 Ch2 >c4c8
@@ -101,7 +101,7 @@ Ch3 a8g+8e8
 Ch4 a8g+8e8
 Ch5 (B)c8(H2)c8(S2)c8
 
-Ch5 t166
+Ch5 t162
 Ch0 e-4e-8
 Ch1 e-4e-8
 Ch2 <b4b8
@@ -109,7 +109,7 @@ Ch3 g8f+8d8
 Ch4 g8f+8d8 
 Ch5 (B)c8 (B)c8c8 
 
-Ch5 t163
+Ch5 t157
 Ch0 d4d8
 Ch1 d4d8
 Ch2 b-4b-8
@@ -117,7 +117,7 @@ Ch3 f+8e+8c+8
 Ch4 f+8e+8c+8 
 Ch5 (S2)c32c32c(H2)c8 (B)c8
 
-Ch5 t160
+Ch5 t152
 Ch0 c4.
 Ch1 e-4.
 Ch2 b4.
@@ -277,13 +277,13 @@ Ch2 g4.r8>c4.<b4.b-4.g4 a-32b-32>e-32f32
 Ch2 g4.r8>c4.<b4.b-4.g4.
 Ch2 g4.r8>c4.<b4.b-4.b4.
 
-Ch3 (CG5)v11o4l16 k+++++
+Ch3 (CG5)v12o4l16 k+++++
 Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 
-Ch4 (CG5)v11o3l16 k+++++
+Ch4 (CG5)v12o3l16 k+++++
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
@@ -398,21 +398,21 @@ Ch5 (S)c8(H)c8 (S2)c8(S)c8 (S2)c8(B)c8 (S)c8(H3)cc
 Ch5 (S2)c8(H3)cc (S)c8(H2)c(B)c (S2)c(H2)c(S)c(H2)c (S2)c8(H3)cc
 Ch5 (S)cccc cccc cccc cccc
 
-Ch5 (H)c4.(S2)cc(B)c(S2)c(B)c(S2)c(S)c8(S2)c32c32c
-Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
-Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
-Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
-Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
-Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
-Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
-Ch5 (S)c8(S2)c32c32c (S)c8(S2)c32c32c (S)c8(S2)c32c32c (S)<g32g32f32f32e32e32d32d32
-Ch5 (H)c4.(S2)cc(B)c(S2)c(B)c(S2)c(S)c8(S2)c32c32c
-Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
-Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
-Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
-Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
-Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
-Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
+Ch5 (H)c4.(S2)cc(B)c(S2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (B)c(H2)c(S2)c32c32c(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)cc
+Ch5 (B)c(H2)c(S2)cc(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (B)c(H2)c(S2)c32c32c(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)cc
+Ch5 (B)c(H2)c(S2)cc(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (B)c(H2)c(S2)c32c32c(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)cc
+Ch5 (B)c(H2)c(S2)cc(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (S)c(H2)c(S2)c32c32c (S)c(H2)c(S2)c32c32c (S)c(H2)c(S2)c32c32c (S)<g32g32f32f32e32e32d32d32
+Ch5 (H)c4.(S2)cc(B)c(S2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (B)c(H2)c(S2)c32c32c(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)cc
+Ch5 (B)c(H2)c(S2)cc(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (B)c(H2)c(S2)c32c32c(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)cc
+Ch5 (B)c(H2)c(S2)cc(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (B)c(H2)c(S2)c32c32c(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)cc
+Ch5 (B)c(H2)c(S2)cc(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
 Ch5 (S)cccc cccc cccc cccc
 
 #-----------------------------------------------------------------------------
@@ -479,11 +479,11 @@ Ch5 (B)c8(H)c8(S)c8(H2)c(B)cc8c(H2)c(S)c8(H)c8
 Ch5 (B)c8(H)c8(S)c8(H2)c(B)cc8c(H2)c(S)c8(H)c8
 Ch5 (B)c8(H)c8(S)c8(H2)c(B)cc8c(H2)c(S)c8(H)c8
 Ch5 (B)c8(H)c8(S)c8(H2)c(B)cc8c(H2)c(S)c8(S2)c32c32c
-Ch5 (H)c4.(S2)cc(B)c(S2)c(B)c(S2)c(S)c8(S2)c32c32c
-Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
-Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
-Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
-Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
-Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
-Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
+Ch5 (H)c4.(S2)cc(B)c(S2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (B)c(H2)c(S2)c32c32c(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)cc
+Ch5 (B)c(H2)c(S2)cc(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (B)c(H2)c(S2)c32c32c(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)cc
+Ch5 (B)c(H2)c(S2)cc(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
+Ch5 (B)c(H2)c(S2)c32c32c(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)cc
+Ch5 (B)c(H2)c(S2)cc(S)c(H2)c(S2)c(B)cc(H2)c(B)c(S2)c(S)c(H2)c(S2)c32c32c
 Ch5 (S)c8(S2)c32c32c (S)c8(S2)c32c32c (S)c8(S2)c32c32c (S)<g32g32f32f32e32e32d32d32
