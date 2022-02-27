@@ -456,9 +456,9 @@ Ch0 o1 f8>c8f8<fr f8fr>f8<fr e-8>c8e-8<e-r e-8e-r>e-8<e-r d8b-8>d8<dr d8dr>d8<dr
 Ch1 o2 f4a-8cr c8cra-8cr e-4g8cr c8crg8cr d4f8<b-r b-8b-r>f8<b-r> c+4e+8c+r c4e8cr
 Ch0 o1 f8>c8f8<fr f8fr>f8<fr e-8>c8e-8<e-r e-8e-r>e-8<e-r d8b-8>d8<dr d8dr>d8<dr c+8g+8>e+8<g+r e8a-8>c8<a-r
 Ch1 o2 f4a-8cr c8cra-8cr e-4g8cr c8crg8cr d4f8<b-r b-8b-r>f8<b-r> c+4e+8c+r c4e8cr
-Ch0 o1 f8>c8f8<fr f8fr>f8<fr e-8>c8e-8<e-r e-8e-r>e-8<e-r d8b-8>d8<dr d8dr>d8<dr c+8g+8>e+8<g+r e8a-8>c8<a-r
+Ch0 o1 ff>ccff<fr fffr>ff<fr e-e->cce-e-<e-r e-e-e-r>e-e-<e-r ddb-b->dd<dr dddr>dd<dr c+c+g+g+>e+e+<g+r eea-a->cc<a-r
 Ch1 o2 f4a-8cr c8cra-8cr e-4g8cr c8crg8cr d4f8<b-r b-8b-r>f8<b-r> c+4e+8c+r c4e8cr
-Ch0 o1 f8>c8f8<fr f8fr>f8<fr e-8>c8e-8<e-r e-8e-r>e-8<e-r d8b-8>d8<dr d8dr>d8<dr c+2 e2
+Ch0 o1 ff>ccff<fr fffr>ff<fr e-e->cce-e-<e-r e-e-e-r>e-e-<e-r ddb-b->dd<dr dddr>dd<dr c+c+>c+c+<c+c+>c+c+< ee>ee<ee>ee
 Ch1 o2 f4a-8cr c8cra-8cr e-4g8cr c8crg8cr d4f8<b-r b-8b-r>f8<b-r a-2>c2
 
 Ch2 (Brass)v14
