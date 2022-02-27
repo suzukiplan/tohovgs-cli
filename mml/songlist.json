@@ -1,5 +1,5 @@
 {
-  "version": "2022.02.23",
+  "version": "2022.02.27",
   "albums": [
     {
       "albumId": "th04",
@@ -904,6 +904,13 @@
           "loop": 1,
           "name": "業火マントル",
           "english": "Hellfire Mantle"
+        },
+        {
+          "mml": "TH11-13",
+          "ver": 0,
+          "loop": 1,
+          "name": "霊知の太陽信仰　～ Nuclear Fusion",
+          "english": "Heliolithic of Mystic Wisdom　～ Nuclear Fusion"
         }
       ]
     }
