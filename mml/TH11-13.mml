@@ -71,7 +71,6 @@ Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
-Ch4 >
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
 Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
@@ -256,5 +255,50 @@ Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
 Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
 Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
 Ch5 (S)c8(S2)c32c32c (S)c8(S2)c32c32c (S)c8(S2)c32c32c (S)<g32g32f32f32e32e32d32d32
+
+#-----------------------------------------------------------------------------
+# Part A' in F-Moll (+5)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2l16 k+++++
+Ch0 c4.r8e4.e-4.d4.c4.
+Ch0 c4c8r8e4e8e-4e-8d4d8c4.
+Ch0 c4c8r8e4e8e-4e-8d4d8c4.
+Ch0 c4c8r8e4e8e-4e-8d4d8e-4.
+
+Ch1 (Brass)v15o4l16 k+++++
+Ch1 c4.r8e4.e-4.d4.c4.
+Ch1 c4.r8e4.e-4.d4.c4 e-32g32a-32b-32>
+Ch1 c4.r8e4.e-4.d4.c4.
+Ch1 c4.r8e4.e-4.d4.e-4.
+
+Ch2 (Brass)v13o3l16 k+++++
+Ch2 g4.r8>c4.<b4.b-4.g4.
+Ch2 g4.r8>c4.<b4.b-4.g4 a-32b-32>e-32f32
+Ch2 g4.r8>c4.<b4.b-4.g4.
+Ch2 g4.r8>c4.<b4.b-4.b4.
+
+Ch3 (CG5)v11o4l16 k+++++
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch3 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+
+Ch4 (CG5)v11o3l16 k+++++
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+Ch4 c8g8f+8d8 a8g+8e8 g8f+8d8 f+8e+8c+8 f8e8<b8>
+
+Ch5 (H)c2(S2)c4.c4.c4.c4.
+Ch5 (H)c4(S)c4 (B)c8(H2)c8(S2)c8(B)c8 (B)c8c8 (S2)c8(H2)c8 (B)c8(H)c8 (S2)c32c32c(B)c8
+Ch5 (H)c4(S)c4 (B)c8(H2)c8(S2)c8(B)c8 (B)c8c8 (S2)c8(H2)c8 (B)c8(H)c8 (S2)cccc
+Ch5 (H)c4(S)c4 (B)c8(H2)c8(S2)c8(B)c8 (S)c8(B)c8c8 (S)c8(B)c8c8 (S)c8cc
+
+Ch0 k----- r1
+Ch1 k----- r2. v14o5d8f8
+Ch2 k----- r2. v14o4d8f8
+Ch3 k----- r1
+Ch4 k----- r2 l32o6 fee-d d-c<bb- aa-gg- fee-d l16
+Ch5 r1
 
 Ch0 r1.
