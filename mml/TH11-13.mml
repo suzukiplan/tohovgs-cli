@@ -257,7 +257,7 @@ Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
 Ch5 (S)c8(S2)c32c32c (S)c8(S2)c32c32c (S)c8(S2)c32c32c (S)<g32g32f32f32e32e32d32d32
 
 #-----------------------------------------------------------------------------
-# Part A' in F-Moll (+5)
+# Part A' in F-Moll
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o2l16 k+++++
 Ch0 c4.r8e4.e-4.d4.c4.
@@ -302,7 +302,7 @@ Ch4 k----- r2 l32o6 fee-d d-c<bb- aa-gg- fee-d l16 k+++++++
 Ch5 r1
 
 #-----------------------------------------------------------------------------
-# Part B' in G-Moll (+2)
+# Part B' in G-Moll
 #-----------------------------------------------------------------------------
 Ch0 c4c8r8 <b-64r32.rb-8r8 >c64r32.rc8r8 <b-64r32.rb-8r8 >c64r32.rc4
 Ch0 <a-4a-8r8a-r>e-4<a-8 b-8b-8b-r>b-8<b-4b-8b-8>
@@ -414,5 +414,38 @@ Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
 Ch5 (B)c8(S2)c32c32c(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)cc
 Ch5 (B)c8(S2)cc(S)c8(S2)c(B)cc8c(S2)c(S)c8(S2)c32c32c
 Ch5 (S)cccc cccc cccc cccc
+
+#-----------------------------------------------------------------------------
+# Part C' in G-Moll
+#-----------------------------------------------------------------------------
+Ch0 c8gr c8gr <b-8>fr <b-8>fr <a-8>e-r <a-8>e-r <b-8>fr <b-8>fr
+Ch0 c8gr c8gr <b-8>fr <b-8>fr <a-8>e-r <a-8>e-r <b8>fr <b8>fr
+Ch0 c8gr c8gr d8ar d8ar e8br e8br d8ar d8ar 
+Ch0 c+8g+r c+8g+r e-8b-r e-8b-r e8>c<r e8>c<r e8>c<r e8>c<r
+
+Ch1 (Brass)o4v15 e-4e-8r4d8r4c8r4c8r4d4 e-4e-8r4d8r4c8r4c8r4d4
+Ch2 (Brass)o4v14 c4c8r4<b-8r4a-8r4a-8r4b-4> c4c8r4<b-8r4a-8r4a-8r4b-4>
+Ch3 (Brass)o3v13 e-4e-8r4d8r4c8r4c8r4d4 e-4e-8r4d8r4c8r4c8r4d4
+
+Ch1 e-4e-8r4f+8r4 g8f+8gr f+8e8f+r g8f+8 f4f8r4g8r4 g2>c2
+Ch2 c4c8r4d8r4 e8d8er d8<b8>dr e8d8 c+4c+8r4e-8r4 e2g2
+Ch3 e-4e-8r4f+8r4 g8f+8gr f+8e8f+r g8f+8 f4f8r4g8r4 g2>c2
+
+Ch4 (CG3)v13o4l16
+Ch4 g<g>v-f<f>>v-c<c><v-f<f> v+g<g>v+f<f>v+b-<b->v-f<f>v+
+Ch4 g<g>v-f<g>>v-c<c><v-f<f> v+g<g>v+f<f>v+b-<b->v-f<f>v+
+Ch4 g<g>v-f<g>>v-c<c><v-f<f> v+g<g>v+f<f>v+b-<b->v-f<f>v+
+Ch4 g<g>v-f<g>>v-c<c><v-f<f> v+g<g>v+f<f>v+b+++<b+++>v-f<f>v+
+Ch4 g<g>v-f<f>>v-c<c><v-f<f> v+a<a>v+g<g>>v+d<d><v-g<g>v+
+Ch4 b<g>v-a<a>>v-e<e><v-a<a> v+b<b>v+a<a>>v+e<e><v-a<a>v+>
+Ch4 c<c>v-<b-<b->>v-f<f><v-b-<b->> v+c<c><v+b-<b->>v+g<g><v-b-<b->v+>
+Ch4 c<c>v-<g<g>>v-g<g>v-c<c> v+e<e>v+c<c>>v+c<c><v+g<g>
+
+Ch5 (H)c2 (B)c32c32c8. c4 c4c4c4c8c8
+Ch5 c4c4c8(S2)c8(B)c8(S2)c8 (B)c8(H2)c8(S2)c8(B)c8 (S2)v--------c32v++c32v++c32v++c32(S2)c8c8(H)c8
+Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8 (B)c32c32c(H)c8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(S2)v--------c32v++c32v++c32v++c32 (S)c(H)c8(S2)c (B)b(S2)cc8 c32c32ccc
+Ch5 (B)c(H2)c(H)c8 (B)c(H2)c(S2)v--------c32v++c32v++c32v++c32 (S)c8(H)c8 (S)c(H2)c(S2)<gf>
+Ch5 (B)c(S)ccc (S2)c32c32ccc (S)c32c32ccc <g32g32f32f32e32e32d32d32
 
 Ch0 r1.
