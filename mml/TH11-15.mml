@@ -1,0 +1,105 @@
+# ハルトマンの妖怪少女
+
+$Bass  \s100 \e200 @2 %90
+$Brass \s66 \e6666 @1 %75
+$CG3 \s30 \e8000 @1 %20
+$CG5 \s30 \e8000 @2 %20
+$Pad \s2000 \e22050 @1 %66
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+
+#-----------------------------------------------------------------------------
+Ch0 t168 m8 r1024
+Ch1         r1024
+Ch2         r1024
+Ch3         r1024
+Ch4         r1024
+Ch5         r1024
+
+#-----------------------------------------------------------------------------
+# Part A 
+#-----------------------------------------------------------------------------
+Ch0 (Bass)o2l16v13
+Ch1 (CG5)o4l16v14
+Ch2 (CG5)o4l16v13
+Ch3 (Pad)o3l16v11
+Ch4 (Pad)o2l16v11
+Ch5 l16
+
+Ch0 t168
+Ch0 e4.f8.f8.f8 e4.d+4.e8
+Ch1 b8g8e8>d8.c8.d8< b8g8e8b-8g8e-8b-8
+Ch2 g8e8<b8>b8.a8.b8 g8e8<b8>g8e-8<b-8>g-8
+Ch3 e4.f8.f8.f8 e4.e-2
+Ch4 b4.>c8.c8.c8< b4.b-2
+Ch5 (H)c4(B)cc(S2)c8.c8.c8 (S)c4(B)cc(S2)c4.c8
+
+Ch0 t167
+Ch0 e4.f8.f8.f8 e4.d+4.e8
+Ch1 b8g8e8>d8.c8.d8< b8g8e8b-8g8e-8g-8
+Ch2 g8e8<b8>b8.a8.b8 g8e8<b8>g8e-8<b-8>e-8
+Ch3 e4.f8.f8.f8 e4.e-2
+Ch4 b4.>c8.c8.c8< b4.b-2
+Ch5 (H)c4(B)cc(S2)c8.c8.c8 (S)c4(B)cc(S2)c4.(H3)cc
+
+Ch0 t166
+Ch0 c4.c8.c8.c8 c4.<b-4.b-8>
+Ch1 g8e8c8b8.a8.b8    g8e8<b8>g-8e-8<b-8>g-8
+Ch2 e8c8<g8>g8.f+8.g8 e8c8<g8>e-8<b-8g-8>e-8
+Ch3 g4.g8.g8.g8 g4.g-2
+Ch4 c4.c8.c8.c8 c4.<b-2>
+Ch5 (H)c4(B)cc(S2)c(H3)cc(S2)c(H3)cc(S2)c(H3)c (S)c(H3)c(H)c8(B)cc(S2)c8(H3)c8c8(S2)c8
+
+Ch0 t165
+Ch0 c4.c8.c8.c8 c4.<b-4.b-8>
+Ch1 g8e8c8b8.a8.b8    g8e8<b8>g-8e-8<b-8>g-8
+Ch2 e8c8<g8>g8.f+8.g8 e8c8<g8>e-8<b-8g-8>e-8
+Ch3 g4.g8.g8.g8 g4. (Brass)v14o5 e-8.r<(CG3)b-r>e-r
+Ch4 c4.c8.c8.c8 c4. (Brass)v13o4 b-8.r (CG3)g-r b-r
+Ch5 (H)c4(B)cc(S2)c(H3)cc(S2)c(H3)cc(S2)c(H3)c (S)c(H3)c(H)c8(B)cc(S2)c8(H3)c8c8(S2)c8
+
+Ch0 t164
+Ch0 (Bass)egb gab gb (CG3)>a>c<fc<a>c<
+Ch0 (Bass)egb eab (CG3)e-b->e-<b->e-<b->e-<b-
+Ch1 b8g8e8>d8.c8.d8< b8g8e8b-8g8e-8b-8
+Ch2 g8e8<b8>b8.a8.b8 g8e8<b8>g8e-8<b-8>g-8
+Ch3 erbrarar>crfrcr< grbrargrb-r>e-rg-r<
+Ch4 br>grf+rfrar>cr<ar ergrf+re-rgrb-r>e-r<<
+Ch5 (H)c4(B)c(H2)c (B)c8(H2)cc(S)c8(H3)cc
+Ch5 (B)c8(S)c8(S2)c8(B)c(H2)c(S)c8(B)c(H2)c(S)c8
+
+Ch0 t165
+Ch0 (Bass)egb gab gb (CG3)>a>c<fc<a>c<
+Ch0 (Bass)egb eab (CG3)e-b->e-<b->e-<b->e-<b-
+Ch1 b8g8e8>d8.c8.d8< b8g8e8b-8g8e-8g-8
+Ch2 g8e8<b8>b8.a8.b8 g8e8<b8>g8e-8<b-8>e-8
+Ch3 erbrarar>crfrcr< grbrargrb-r>e-rg-r<
+Ch4 br>grf+rfrar>cr<ar ergrf+re-rgrb-r>e-r<
+Ch5 (H)c4(B)c(H2)c (B)c8(H2)cc(S)c8(H3)cc
+Ch5 (B)c8(S)c8(S2)c8(B)c(H2)c(S)c8(B)c(H2)c(S)c8
+
+Ch0 t166
+Ch0 (Bass)egb gab gb (CG3)>a>c<fc<a>c<
+Ch0 (Bass)egb eab (CG3)e-b->e-<b->e-<b->e-<b-
+Ch1 g8e8c8b8.a8.b8    g8e8<b8>g-8e-8<b-8>g-8
+Ch2 e8c8<g8>g8.f+8.g8 e8c8<g8>e-8<b-8g-8>e-8
+Ch3 grbrarar>crfrar ergrere-rg-rb-r>e-r<<
+Ch4 ergrf+rfrar>crfr crercr<b-r>e-rg-rb-r<
+Ch5 (H)c4(B)c(H2)c (B)c8(H2)cc(S)c8(H3)cc
+Ch5 (S)c8(B)c8(S)c8(B)c8(S)c8(B)c8(S)c8
+
+Ch0 t167
+Ch0 (Bass)egb gab gb (CG3)>a>c<fa<b>f<
+Ch0 (Bass)egb eab (CG3)e-g-b-g-b-g-e-<b-
+Ch1 g8e8c8b8.a8.b8    g8e8<b8>g-8e-8<b-8>g-8
+Ch2 e8c8<g8>g8.f+8.g8 e8c8<g8>e-8<b-8g-8>e-8
+Ch3 grbrarar>crfrar ergrere-rg-rb-g-e-<b-
+Ch4 ergrf+rfrar>crfr crercr<b-r>e-rg-e-<b-g-
+Ch5 (H)c4(B)c(H2)c (B)c8(H2)cc(S)c8(H3)cc
+Ch5 (S)c32c32cc8c8 (B)c(S)ccc c8c8
+
+Ch0 r1
