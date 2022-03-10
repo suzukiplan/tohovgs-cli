@@ -64,7 +64,7 @@ Ch5 (H)c4(B)cc(S2)c(H3)cc(S2)c(H3)cc(S2)c(H3)c (S)c(H3)c(H)c8(B)cc(S2)c8(H3)c8c8
 
 Ch0 t164
 Ch0 egb gab gb a>c<fc<a>c
-Ch0 egb eab <e-b->e-<b->e-<b->e-<b->
+Ch0 egb eab e-b->e-<b->e-<b->e-<b-
 Ch1 b8g8e8>d8.c8.d8< b8g8e8b-8g8e-8b-8
 Ch2 g8e8<b8>b8.a8.b8 g8e8<b8>g8e-8<b-8>g-8
 Ch3 erbrarar>crfrcr< grbrargrb-r>e-rg-r<
@@ -73,8 +73,8 @@ Ch5 (H)c4(B)c(H2)c (B)c8(H2)cc(S)c8(H3)cc
 Ch5 (B)c8(S)c8(S2)c8(B)c(H2)c(S)c8(B)c(H2)c(S)c8
 
 Ch0 t165
-Ch0 egb gab gb >a>c<fc<a>c<
-Ch0 egb eab <e-b->e-<b->e-<b->e-<b->
+Ch0 egb gab gb a>c<fc<a>c
+Ch0 egb eab e-b->e-<b->e-<b->e-<b-
 Ch1 b8g8e8>d8.c8.d8< b8g8e8b-8g8e-8g-8
 Ch2 g8e8<b8>b8.a8.b8 g8e8<b8>g8e-8<b-8>e-8
 Ch3 erbrarar>crfrcr< grbrargrb-r>e-rg-r<
@@ -93,7 +93,7 @@ Ch5 (H)c4(B)c(H2)c (B)c8(H2)cc(S)c8(H3)cc
 Ch5 (S)c8(B)c8(S)c8(B)c8(S)c8(B)c8(S)c8
 
 Ch0 t167
-Ch0 egb gab gb >a>c<fc<a>c<
+Ch0 egb gab gb a>c<fc<a>c
 Ch0 egb eab e-b->e-<b->e-<b->e-<b-
 Ch1 g8e8c8b8.a8.b8    g8e8<b8>g-8e-8<b-8>g-8
 Ch2 e8c8<g8>g8.f+8.g8 e8c8<g8>e-8<b-8g-8>e-8
