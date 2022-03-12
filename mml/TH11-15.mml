@@ -315,7 +315,7 @@ Ch4 k+
 # Part C
 #-----------------------------------------------------------------------------
 Ch0 t164
-Ch0 f2.g8>dr< ar>e8^2d4< 
+Ch0 v17@0f2.g8>dr< ar>e8^2d4< 
 Ch1 (CG5)v14o5    a8g8are8 c8<b8>c8<ab>       c8.r >c4<b4g4
 Ch2 r(CG5)v10o5 @0a8g8are8 c8<b8>c8<a   v13@2 a8.r >a4 g4e4
 Ch3 a1^1
@@ -360,7 +360,7 @@ Ch3 >c2.<b4
 Ch4 f2.d4
 Ch5 r1
 
-Ch0 ar>e8^2<a8>er<
+Ch0 ar>e8^2<v13@2a8>er<
 Ch1 a8g8e8g8 a4b4
 Ch2 e8e8c8e8 c4d4
 Ch3 a1
