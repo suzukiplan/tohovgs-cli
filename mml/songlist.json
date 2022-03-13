@@ -1,5 +1,5 @@
 {
-  "version": "2022.03.05",
+  "version": "2022.03.13",
   "albums": [
     {
       "appleId": "1438613504",
@@ -1045,6 +1045,14 @@
           "loop": 1,
           "name": "ラストリモート",
           "english": "Last Remote"
+        },
+        {
+          "appleId": "1581358342",
+          "mml": "TH11-15",
+          "ver": 0,
+          "loop": 1,
+          "name": "ハルトマンの妖怪少女",
+          "english": "Hartmann's Specter Girl"
         }
       ]
     }
