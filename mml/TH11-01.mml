@@ -23,7 +23,7 @@ $H2 \s1  \e1000 p-80  @3 %50 v10 o2
 $H3 \s1  \e10   p-80  @3 %25 v11 o3
 
 #-----------------------------------------------------------------------------
-Ch0 t160 m8 r1024
+Ch0 t154 m8 r1024
 Ch1         r1024
 Ch2         r1024
 Ch3         r1024
@@ -58,11 +58,11 @@ Ch1 er8.er8.er8. er8.er8.df+ec cr8.cr8.cr8. dr8.dr8.(Bass)<d32d32d>d<d
 Ch2 (CG5)v14o5 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 <b4>g4<a4 >d4<g4b4>
 Ch3 (CG5)v13o4 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8 e4b4d4 f+4<b4>d4<
 Ch2 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 (Sq)e2 cgf+d e>d<ab a32a-32g32g-32g32a-32a32b-32 c<b>d8
-Ch3 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8<(Pad)@1e2^16> v10(Sq) cgf+d e>d<ab a32a-32g32g-32g32a-32a32b-32 c<b>d
+Ch3 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8<(Pad)g2^16> v10(Sq) cgf+d e>d<ab a32a-32g32g-32g32a-32a32b-32 c<b>d
 Ch2 (CG5)   o5 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 e4b4d4 f+4<b4>d4
 Ch3 (CG5)v13o5 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8 <b4>g4<a4 >d4<g4b4
-Ch2 o5v14 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 (Sq)e1.
-Ch3 o5v13 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8 (Pad)<<e1.
+Ch2 o5v14 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 (Pad)e1.
+Ch3 o5v13 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8<(Sq)g1.
 
 Ch4 (Pad2)v10
 Ch4 o3a1.>e2.d2.<a1.>c2.d2.<a1.>c2.d2.e1.c2.<b2.
@@ -105,11 +105,11 @@ Ch1 ge>gc <ac>ed <be>ge  <bg>gd <b>bge d<bgd  >c<a>cg c<a>cg ce<ae  dgb>d gb>dg 
 Ch2 (Sq)v14o5 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 <b4>g4<a4 >d4<g4b4>
 Ch3 (Sq)v13o4 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8 e4b4d4 f+4<b4>d4<
 Ch2 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 (Sq)e2 cgf+d e>d<ab a32a-32g32g-32g32a-32a32b-32 c<b>d8
-Ch3 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8<(Pad)@1e2^16> v10(Sq) cgf+d e>d<ab a32a-32g32g-32g32a-32a32b-32 c<b>d
+Ch3 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8<(Pad)@1g2^16> v10(Sq) cgf+d e>d<ab a32a-32g32g-32g32a-32a32b-32 c<b>d
 Ch2 (Sq)   o5 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 e4b4d4 f+4<b4>d4
 Ch3 (Sq)v13o5 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8 <b4>g4<a4 >d4<g4b4
-Ch2 o5v14 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 e1.
-Ch3 o5v13 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8 <<(Pad)e1.
+Ch2 o5v14 e8r8 a8r8 b8r8 >d8r8< b8r8 a8r8 (Pad)e1.
+Ch3 o5v13 a8r8>d8r8 e8r8  g8r8  e8r8 d8r8 <g1.
 
 Ch4 (Pad2)v10
 Ch4 o3a1.>e2.d2.<a1.>c2.d2.<a1.>c2.d2.e1.c2.<b2.
