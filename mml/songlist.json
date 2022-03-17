@@ -1,5 +1,5 @@
 {
-  "version": "2022.03.13",
+  "version": "2022.03.16",
   "albums": [
     {
       "appleId": "1438613504",
@@ -942,6 +942,14 @@
       "compatColor": 196,
       "defaultLocked": true,
       "songs": [
+        {
+          "appleId": "1581358328",
+          "mml": "TH11-01",
+          "ver": 0,
+          "loop": 1,
+          "name": "地霊達の起床",
+          "english": "Waking the Earth Spirits"
+        },
         {
           "appleId": "1581358329",
           "mml": "TH11-02",
