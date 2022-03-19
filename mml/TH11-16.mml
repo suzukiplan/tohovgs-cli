@@ -48,7 +48,7 @@ Ch4 r2.r4  o6(CG5)v10l16@0 d+e8d+4<f+8
 Ch3 r8r32     c+16.d+8e8. d+8c+4 d+8c+4d+8.
 Ch4  rr32@2v++ b16.a8 f+8.c+8f+4 c+8f+4b8. r v--@0
 Ch3 g+8.f+8g+4f+8g+4b8>d+4f+8. (Sq)  d+16.e16.d+<b16. f+8.^32e8f+8.^32e8d+32^8.<(CG5)  b4
-Ch4 g+8.f+8g+4f+8g+4b8>d+4f+8. (Sq)@0d+16.e16.d+<b16. f+8.^32e8f+8.^32e8d+32^8.<(CG5)@0b4
+Ch4 g+8.f+8g+4f+8g+4b8>d+4f+8. (Sq)@0d+16.e16.d+<b16. f+8.^32e8f+8.^32e8d+32^8.<(CG5)@0b8.
 
 Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
 Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
@@ -77,7 +77,48 @@ Ch4 r4 c+16.d+16.e4c+8 d+4<g+8f+4b8
 Ch3 g+4.>c+4<f+8 g+4b8>d+4f+8 d+16.e16.d+16.<b16.g+4>e8
 Ch4 g+4.>c+4<f+8 g+4b8>d+4f+8 d+16.e16.d+16.<b16.g+4>e8
 Ch3 d+4e8<b4g+8
-Ch4 d+4e8<b4g+8
+Ch4 d+4e8<b4g+
+Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
+Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
+Ch5 (H)c2. r4.(S2)c4c8
+
+#-----------------------------------------------------------------------------
+# C
+#-----------------------------------------------------------------------------
+Ch0   v13o3 g+4.       o5c+8.e8r
+Ch1 @2v12o4 c+4.  v16@0o4c+8.e8r
+Ch0   v13o3 f+4.       o4f+8.>d+8r
+Ch1 @2v12o3 b4.   v16@0o3f+8.>d+8r
+Ch0   v13o3 c+4.  r4.
+Ch1 @2v12o3 e4.   r4.
+Ch0   v13o3 b4.        o4g+8.>d+8r
+Ch1 @2v12o2 b4.   v16@0o3g+8.>d+8r
+Ch0   v13o3 g+4.       o5c+8.e8r
+Ch1 @2v12o4 c+4.  v16@0o4c+8.e8r
+Ch0   v13o3 f+4.       o4g+8.>d+8r
+Ch1 @2v12o3 b4.   v16@0o3g+8.>d+8r
+Ch0   v13o3 e1r8       o4g+8.>d+8r
+Ch1 @2v12o3 a1r8  v16@0o3g+8.>d+8r
+
+Ch2 r4(CG3)l16v13o5 f+8g+4b8 g+4f+8c+4f+8 g+4b8g+4f+8 g+4f+8g+4b8 
+Ch2 >c+4<b8 >c+4<b8 >c+4e8< >c+4<b8 v11 <
+Ch2 av-<a> >v-c+<v-c+> v-e<v-e v+++
+Ch2 av-<a> >v-c+<v-c+> v-e<v-e v+++
+Ch2 av-<a> >v-c+<v-c+> v-e<v-e v+++
+Ch2 av-<a> >v-c+<v-c+> v-e<v-e
+
+Ch3 r2.r8. o6(CG5)v14l16   d+e8d+4<f+8
+Ch4 r2.r4  o6(CG5)v10l16@0 d+e8d+4<f+
+Ch3 r8r32     c+16.d+8e8. d+8c+4 d+8c+4d+8.
+Ch4 r8r32@2v++ b16.a8 f+8.c+8f+4 c+8f+4b8. r v--@0
+Ch3 c+4<b8g+4f+8 >
+Ch4 c+4<b8g+4f+  >@2v++
+Ch3 g+4>c+8d+4f+8
+Ch4 e4  g+8b4>d+8 v--@0
+Ch3 d+16.e16.d+<b8f+8.e8f+8.^32e8d+4^32<b8.
+Ch4 d+16.e16.d+<b8f+8.e8f+8.^32e8d+4^32<b8
+
+Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
 Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
 Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
 Ch5 (H)c2. r4.(S2)c4c8
