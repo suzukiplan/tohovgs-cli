@@ -68,7 +68,7 @@ Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
 
 Ch0 t168
 Ch0 e4.>c+8.<r8. f+4.>g+8.<r8. g+4.>e8.<r8. f+4.>d+8.<r8. g+1^8    @2o4b4>d+8
-Ch1 g+4.r4.      b4.r4.        >c+4.r4.<    b4.r4.        b1^8  v16@0o3b4>d+8
+Ch1 a4. r4.      b4.r4.        >c+4.r4.<    b4.r4.        b1^8  v16@0o3b4>d+8
 Ch2 g+4b8g+4f+8 g+4f+8g+4b8 g+4f+8e4f+8 g+4b8g+4f+8
 Ch2 g+8v---g+8 v---g+8v---g+8 v--g+8v13g+8
 Ch2 f+4g+8d+4f+8
@@ -114,7 +114,7 @@ Ch4 r8r32@2v++ b16.a8 f+8.c+8f+4 c+8f+4b8. r v--@0
 Ch3 c+4<b8g+4f+8 >
 Ch4 c+4<b8g+4f+  >@2v++
 Ch3 g+4>c+8d+4f+8
-Ch4 e4  g+8b4>d+8 v--@0
+Ch4 e4  g+8b4>d+8 v--@0r
 Ch3 d+16.e16.d+<b8f+8.e8f+8.^32e8d+4^32<b8.
 Ch4 d+16.e16.d+<b8f+8.e8f+8.^32e8d+4^32<b8
 
@@ -123,4 +123,43 @@ Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
 Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
 Ch5 (H)c2. r4.(S2)c4c8
 
-Ch0 r1
+#-----------------------------------------------------------------------------
+# D
+#-----------------------------------------------------------------------------
+Ch0   v13o3 g+4.         g+8.>e8r
+Ch1 @2v12o4 c+4.  v16@0  g+8.>e8r
+Ch0   v13o3 f+4.         f+8.>d+8r
+Ch1 @2v12o3 b4.   v16@0 >f+8.>d+8r
+Ch2 o5v13 g+4b8>c+4d+8 c+4<b8g+4b8
+Ch3 r2.o5(CG5)v14  b8 >d+16 e8.d+8.f+8.
+Ch4 r2.o5(CG5)v12  g+8>r    c+8.<b8.>d+8.
+Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
+
+Ch0 t180
+Ch0   v13o3 e4.        >r8.c+8r
+Ch1 @2v12o3 a4. v16@0 >>r8.c+8r
+Ch0   v13o3 f+4.        f+8.>d+8r
+Ch1 @2v12o3 b4. v16@0  >f+8.>d+8r
+CH2 r8b8g+4^16f+8. b4g+8f+4>c+8
+Ch3 r8.     c+16.d+16.e4c+8 d+4<g+8f+4b8
+Ch4 r4v--@0 c+16.d+16.e4c+8 d+4<g+8f+4b
+Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
+
+Ch0 t168
+Ch0   v13o3 g+4.         g+8.>e8r
+Ch1 @2v12o4 c+4.  v16@0  g+8.>e8r
+Ch0   v13o3 f+4.         f+8.>d+8r
+Ch1 @2v12o3 b4.   v16@0 >f+8.>d+8r
+Ch0   v13o3 a1  r8        g+4>d+8
+Ch1 @2v12o4 c+1 r8  v16@0 g+4>d+8
+Ch2 c+4<b8g+4b8> c+4e8c+4<b8 r1.
+Ch3 g+4.>c+4<f+8       g+4b8>d+4f+8
+Ch4 rg+4.>c+4<f+ v++@2 e4 g+8b4>d+8. v--@0
+Ch3 d+16.e16.d+16.<b16.g+4>e8
+Ch4 d+16.e16.d+16.<b16.g+4>e8
+Ch3 d+4e8<b4g+8
+Ch4 d+4e8<b4g+
+Ch5 l16 (B)c4.(S2)c4c8 (B)c4.(S2)c4(H2)c8
+Ch5 (H)c2. r4.(S2)c4c8
+
+Ch3 r1
