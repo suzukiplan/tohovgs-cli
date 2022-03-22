@@ -1,0 +1,80 @@
+# エネルギー黎明 〜 Future Dream...
+
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s66 \e16000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e48000 @1 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s600 \e22050 @2 %75
+$Sq2 \s600 \e6666 @2 %66
+$Sq3 \s30 \e6666 @2 %75
+$Pad \s8000 \e22050 @2 %66
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+
+#-----------------------------------------------------------------------------
+Ch0 t142 m8 r1024
+Ch1         r1024
+Ch2         r1024
+Ch3         r1024
+Ch4         r1024
+Ch5         r1024
+
+#-----------------------------------------------------------------------------
+# Part A
+#-----------------------------------------------------------------------------
+Ch0 r4
+Ch1 r4
+Ch2 r4
+Ch3 r4
+Ch4 r4
+Ch5 l16 (S)c8(B)cc
+
+Ch0 (Bass)v13o2l16
+Ch0 d+1^1 <b1.>d2
+Ch0 d+c+<a+>c+ d+c+g+a+ g+d+c+d+ c+a+<a+>c+
+Ch0 d+c+<a+>c+ e+d+g+a+ g+d+c+f+ c+d+f+c+
+Ch0 <bg+>d+c+ f+d+c+f+ bg+d+<b> d+<b>f+d+
+Ch0 d+<b>d+f+ bf+g+d+ >df+d<b> df+b>d
+
+Ch1 (Brass)v14o5l16
+Ch2 (Brass)v13o4l16
+Ch3 (Brass2)v12o3l16
+Ch4 (Brass2)v12o3l16
+Ch1 r8d+rd+rd+r d+8.<a+> r8d+e+ f+8.e+8.c+8 d+2
+Ch2 r8a+ra+ra+r a+8. f+  r8f+g+ a+8.g+8.e+8 f+2
+Ch3 a+1^1
+Ch4 d+1^1
+Ch1 r8d+rd+rd+r d+8.<a+> r8d+e+ f+8.g+8.e+8 f+8.e+8.d8
+Ch2 r8a+ra+ra+r a+8. f+  r8f+g+ a+8.>c+8.<g+8 a+8.g+8.e+8
+Ch3 f+1.g+2
+Ch4 <b1.>d2
+Ch1 r8d+rd+rd+r d+8.<a+> r8d+e+ f+8.e+8.c+8 d+2
+Ch2 r8a+ra+ra+r a+8. f+  r8f+g+ a+8.g+8.e+8 f+2
+Ch3 a+1^1
+Ch4 d+1^1
+Ch1 r8d+rd+rd+r d+8. e+  r8d+e+ f+8.g+8.e+8 f+8.e+8.d8
+Ch2 r8a+ra+ra+r a+8. f+  r8f+g+ a+8.>c+8.<g+8 a+8.g+8.e+8
+Ch3 f+1^1
+Ch4 <b1^1>
+
+Ch5 (H)c4 (H3)c(H2)c(H3)c(H2)c (S)c8(H3)c(H2)c (H3)c(H2)c(B)cc
+Ch5 (B)c(H3)cc (B)c(H3)cc (B)c(H3)c (S)c8(H3)cc (B)ccc(H)c
+Ch5 (H)c4 (H3)c(H2)c(H3)c(H2)c (S)c8(H3)c(H2)c (H3)c(H2)c(B)cc
+Ch5 (B)c(H3)cc (B)c(H3)cc (B)c(H3)c (S)c(H3)c(S)cc (B)ccc(H)c
+Ch5 (H)c4 (B)c(H2)c(S)c(H)c c8(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c c8(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c c8(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c c8(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+
+Ch0 r1
