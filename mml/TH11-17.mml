@@ -38,7 +38,7 @@ Ch1 r4
 Ch2 r4
 Ch3 r4
 Ch4 r4
-Ch5 l16 (S)c8(B)cc
+Ch5 l16 (S)c(B)cc(H2)c32c32
 
 Ch0 (Bass)v13o2l16
 Ch0 d+1^1 <b1.>d2
@@ -46,6 +46,16 @@ Ch0 d+c+<a+>c+ d+c+g+a+ g+d+c+d+ c+a+<a+>c+
 Ch0 d+c+<a+>c+ e+d+g+a+ g+d+c+f+ c+d+f+c+
 Ch0 <bg+>d+c+ f+d+c+f+ bg+d+<b> d+<b>f+d+
 Ch0 d+<b>d+f+ bf+g+d+ >df+d<b> df+b>d
+
+Ch0 <<
+Ch0 <b>d+f+d+ bf+>d+<b <b>d+f+d+ f+d+>d+<f+
+Ch0 c+e+g+e+ >c+<g+>e+<g+ c+e+g+e+ >c+<g+>e+<g+
+Ch0 d+f+a+d+ >d+<a+>f+d+ <a+>f+<f+>d+ <a+f+d+f+
+Ch0 d+f+a+d+ >d+<a+>f+d+ <a+>f+<f+>d+ <a+f+d+<a+
+Ch0 b>d+f+d+ f+d+bf+ bf+d+f+ d+f+bf+
+Ch0 c+e+g+c+ e+g+>c+<g+ c+e+g+c+ >c+<e+g+c+
+Ch0 d+f+a+f+ >d+<a+>f+d+ <a+>d+<f+a+ >d+<a+d+f+
+Ch0 d+ga+g >d+<a+>gd+ <a+>g<g>d+<d+a+<a+>g
 
 Ch1 (Brass)v14o5l16
 Ch2 (Brass)v13o4l16
@@ -66,7 +76,17 @@ Ch4 d+1^1
 Ch1 r8d+rd+rd+r d+8. e+  r8d+e+ f+8.g+8.e+8 f+8.e+8.d8
 Ch2 r8a+ra+ra+r a+8. f+  r8f+g+ a+8.>c+8.<g+8 a+8.g+8.e+8
 Ch3 f+1^1
-Ch4 <b1^1>
+Ch4 <b1^1
+
+Ch1 d+2r8<a+8>e+8f+8 f+8.e+8.c+8 <g+8.a+8.>d+8 <f+4.g+4.a+2.^8r8d+8e+8
+Ch2 f+2r8 d+8 g+8a+8 a+8.g+8.e+8  d+8.f+8. a+8  d+4.e+4.f+2.^8r8<a+8a+8
+Ch3 f+1g+1a+1^1
+Ch4 b1>c+1d+1^1
+
+Ch1 f+4. g+4.a+4 g+8a+8>c+8< g+8a+8>c+8< g+8a+8 >d+1^2.r4
+Ch2 a+4.>c+4.d+4 d+8e+8 a+8  d+8e+8 a+8  d+8e+8 f+1g2.r4
+Ch3 a+1g+1a+1^1
+Ch4 d+1c+1d+1^1
 
 Ch5 (H)c4 (H3)c(H2)c(H3)c(H2)c (S)c8(H3)c(H2)c (H3)c(H2)c(B)cc
 Ch5 (B)c(H3)cc (B)c(H3)cc (B)c(H3)c (S)c8(H3)cc (B)ccc(H)c
@@ -76,5 +96,13 @@ Ch5 (H)c4 (B)c(H2)c(S)c(H)c c8(S)c(H)c (B)c(H2)c(S)c(H)c
 Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c c8(S)c(H)c (B)c(H2)c(S)c(H)c
 Ch5 (B)c(H2)c(S)c(H)c c8(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
 Ch5 (B)c(H2)c(S)c(H)c c8(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c8(H3)cc (H2)c(H)c(H3)cc (S)c8(H3)cc (H2)c(H)c(B)cc
+Ch5 (B)c(H3)cc (B)c(H3)cc (B)c(H3)c (S)c8(H3)cc cc(H)c8
+Ch5 (B)c8(H3)cc (H2)c(H)c(H3)cc (S)c8(H3)cc (H2)c(H)c(B)cc
+Ch5 (B)c(H3)cc (B)c(H3)cc (B)c(H3)c (S)c8(H3)cc (B)c32c32ccc
+Ch5 (B)c8(H3)cc (H2)c(H)c(H3)cc (S)c8(H3)cc (H2)c(H)c(B)cc
+Ch5 (B)c(H3)cc (B)c(H3)cc (B)c(H3)c (S)c8(H3)cc cc(H)c8
+Ch5 (B)c(H2)c(H)c8 (S)c8(H3)c(H)c (B)c(H2)c(H)c8 (S)c8(B)cc
+Ch5 (S)c8(H3)cc (S)c8(H3)cc (S)c4 < gfed
 
 Ch0 r1
