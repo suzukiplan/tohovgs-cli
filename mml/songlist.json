@@ -1,5 +1,5 @@
 {
-  "version": "2022.03.19",
+  "version": "2022.03.26",
   "albums": [
     {
       "appleId": "1438613504",
@@ -1069,6 +1069,14 @@
           "loop": 1,
           "name": "地霊達の帰宅",
           "english": "The Return of the Earth Spirits"
+        },
+        {
+          "appleId": "1581358344",
+          "mml": "TH11-17",
+          "ver": 0,
+          "loop": 1,
+          "name": "エネルギー黎明 ～ Future Dream...",
+          "english": "Energy Dawn ～ Future Dream..."
         }
       ]
     }
