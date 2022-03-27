@@ -1,0 +1,88 @@
+# 春の湊に
+
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s66 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e48000 @1 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s600 \e22050 @2 %75
+$Sq2 \s600 \e6666 @2 %66
+$Sq3 \s30 \e6666 @2 %75
+$Pad \s8000 \e22050 @2 %66
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+
+#-----------------------------------------------------------------------------
+Ch0 t155 m8 r1024
+Ch1         r1024
+Ch2         r1024
+Ch3         r1024
+Ch4         r1024
+Ch5         r1024
+
+#-----------------------------------------------------------------------------
+# Part A
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2l16
+Ch0 a4 r8a8 a>c+f+r f+c+e<a
+Ch0 b16.>e16.<b >g+16.<b16.>e <b16.>e16.<b >g+<g+b>e
+Ch0 c+4 eg+>c+r< c+r>c+8 <ac+f+<a
+Ch0 >c+8ar c+ra8 <f+a>c+<a >f+c+<a8
+Ch0 b4 r8ef+ >f+e<b8 f+rf+r
+Ch0 a8>c+8 e8g+r a8rf+ r8g+8
+Ch0 <f+4 r8f+r f+8r8 b8c+8
+Ch0 f+4 r8f+r f+8r8 c+4
+
+Ch1 (CG3)v11o3l16
+Ch1 a4 r8a8 a>c+f+r f+c+e<a
+Ch1 b16.>e16.<b >g+16.<b16.>e <b16.>e16.<b >g+<g+b>e
+Ch1 c+4 eg+>c+r< c+r>c+8 <ac+f+<a
+Ch1 >c+8ar c+ra8 <f+a>c+<a >f+c+<a8
+Ch1 b4 r8ef+ >f+e<b8 f+rf+r
+Ch1 a8>c+8 e8g+r a8rf+ r8g+8
+Ch1 <f+4 r8f+r f+8r8 b8c+8
+Ch1 f+4 r8f+r f+8r8 c+4
+
+Ch2 (CG5)v14o5l16
+Ch3 (CG5)v14o4l16
+Ch2 f+8c+8 eref+8. c+e8 f+c+e
+Ch3 a8f+8 g+rg+a8. ab8 f+g+b
+Ch2 a16.c+16.a g+16.<b16.>g+ f+16.<a16.>f+ c+e<b>f+8.
+Ch3 >f+16.<a16.>f+ e16.<g+16.>e c+16.<f+16.>c+ <a>c+<g+>c+8.
+Ch2 <br> c+e8r <arbr> c+rg+8
+Ch3 <er  g+b8r f+gg+r arb8>
+Ch2 arc+r   brc+a8    g+ef+  c+e<b8>
+Ch3 f+r<ar> g+r<a>c+8 c+c+c+ <a>c+<g+8
+Ch2 c+8e8 f+8r c+8 c+er f+8<b8
+Ch3 f+8b8>c+8r<f+8 f+br>c+8<g+8
+Ch2 a8g+8>e16.f32f+8  c+8<b8arg+8
+Ch3 f+8e8b16.>c32c+8 <a8g+8f+re8
+Ch2 a8g+8f+16.>c32c+8 <a8g+8 f+b>e<b
+Ch3 c+8c+8c+16.g+32a8 f+8e8 df+bf+
+Ch2 a8g+8f+rc+8 g+8f+8e8<b8
+Ch3 f+8e8c+r<a8> c+8<b8a8g+8
+
+Ch4 (Pad2)o3l16v9
+Ch4 a1b1>c+1<a1 f+1g+1a1^1
+
+Ch5 l16
+Ch5 (B)c4 (H3)c8(H)c8 (H3)c8(H2)c8 (H3)c8(H)c8
+Ch5 (H2)c4 (H3)c8(H)c8 (H3)c8(H)c8 (H3)c8(H)c8
+Ch5 (B)c4 (H3)c8(H)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+Ch5 (B)c(H2)c(S)c8 (B)c(H2)c(S)c8 c(H2)c(H3)c8 (S)c(H2)c(H)c8
+Ch5 (B)c4 (B)c8(H)c8 (B)c(H2)c(H)c8 (B)c8(H)c8
+Ch5 (B)c4 (B)c8(H)c8 (B)c(H2)c(H)c8 (B)c8(H)c8
+Ch5 (B)c4 (H2)c8(B)c8 c8(H)c8 (B)c(H2)c(H)c8
+Ch5 (B)c8(H)c8 (S)c8(H)c8 (B)c8(S)c8 c8cc
+
+Ch0 r1
