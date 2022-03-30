@@ -1,7 +1,7 @@
 # 春の湊に
 
 $Brass \s66 \e9999 @1 %75
-$Brass2 \s66 \e6000 @1 %75
+$Brass2 \s33 \e6000 @1 %75
 $Brass3 \s300 \e22050 @1 %80
 $Bass  \s100 \e200 @2 %90
 $Bass2 \s100 \e200 @0 %90
@@ -19,6 +19,7 @@ $B  \s10 \e1000 p-128 @0 %10 v35 o3
 $S  \s1  \e1000 p-128 @3 %20 v20 o4
 $S2 \s1  \e1000 p-96  @3 %10 v18 o4
 $H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
 $H2 \s1  \e1000 p-80  @3 %50 v10 o2
 $H3 \s1  \e10   p-80  @3 %25 v11 o3
 
@@ -167,11 +168,11 @@ Ch4 >e-<e-b-<b- >g-<g->b-<b-
 Ch2 (Brass)v14o5 g-4a-4
 Ch4 (Brass)v14o5 e-4f4
 
-Ch5 (H)c4 (S)c8(H)c(B)c c(H2)c(B)c(H)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c8(H)c(B)c c(H2)c(B)c(H)c (S)c8(H)c8
 Ch5 (B)c8(H3)cc (S)c8(H3)c(B)c c8c(H3)c (S)c8(H3)cc
 Ch5 (B)c8(H3)c(S)c (B)c(H2)c(B)c(H2)c (B)c(S)c8(H3)c (S)c8(H2)c(S)c
 Ch5 (B)c8(H)c(B)c (S)c8(H2)c(S2)c (S)c4 c(S2)c(S)c(H)c
-Ch5 (H)c4 (S)c8(H)c(B)c c(H2)c(B)c(H)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c8(H)c(B)c c(H2)c(B)c(H)c (S)c8(H)c8
 Ch5 (B)c8(H3)cc (S)c8(H3)c(B)c c8c(H3)c (S)c8(H3)cc
 Ch5 (S)c8(S2)v---c32v+c32v+c32v+c32 (S)c4 (B)c(H2)c(S)cc c32c32cc8
 Ch5 (B)c8(H3)cc (S)c8(H3)c(S2)c (S)c4 <g32g32f32f32e32e32 (B)c32c32
@@ -212,13 +213,60 @@ Ch3 e-a-d-g- <e-g-<b-8>> e-a-d-g- <b-8>d-8
 Ch3 e-c-d-e- rd-<b-8 rb-a-b- >d-fe-d-
 Ch3 < v7 b-8 v14 b-8 v7 b-8 v12 b-8 v6 b-8 v10 b-8 v5 b-8 v8 b-8
 
-Ch5 (H)c4 (S)c8(H)c(B)c c(H2)c(B)c(H)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c8(H)c(B)c c(H2)c(B)c(H)c (S)c8(H)c8
 Ch5 (B)c8(H3)cc (S)c8(H3)c(B)c c8c(H3)c (S)c8(H3)cc
 Ch5 (B)c8(H3)c(S)c (B)c(H2)c(B)c(H2)c (B)c(S)c8(H3)c (S)c8(H2)c(S)c
 Ch5 (B)c8(H)c(B)c (S)c8(H2)c(S2)c (S)c4 c(S2)c(S)c(H)c
-Ch5 (H)c4 (S)c8(H)c(B)c c(H2)c(B)c(H)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c8(H)c(B)c c(H2)c(B)c(H)c (S)c8(H)c8
 Ch5 (B)c8(H3)cc (S)c8(H3)c(B)c c8c(H3)c (S)c8(H3)cc
 Ch5 (S)c8(S2)v---c32v+c32v+c32v+c32 (S)c4 (B)c(H2)c(S)cc c32c32cc8
 Ch5 (B)c8(H3)cc (S)c8(H3)c(S2)c (S)c4 c(H2)c(S)<g32f32e32d32
+
+#-----------------------------------------------------------------------------
+# Part C (Durchführung #1)
+#-----------------------------------------------------------------------------
+Ch0 o2 c-4r4 c-4r4 c-8>(CG3)c-r< (Bass)c-8>(CG3)e-r< (Bass)c-8>(CG3)e-r< (Bass)c-8r8
+Ch0 e-4r4 e-4r4 e-8>>(CG3)e-r<< (Bass)e-8>>(CG3)e-r<< d-8>>(CG3)d-r<< (Bass)d8 >>(CG3)dr<<
+Ch0 (Bass) d4r4 d4r4 d8(CG3)ar (Bass)d8>(CG3)ar< (Bass)d8>(CG3)ar< (Bass)d8r8
+Ch0 f+4r4 f+4r4 f+8r8 f+8r8 e8r8 f8r8
+
+Ch1 o3(Bass)v13 c-4r4 c-4r4 c-8><(CG3)g-r< (Bass)c-8>(CG3)b-r< (Bass)c-8>(CG3)a-r< c-8>fr<
+Ch1 e-4r4 e-4r4 e-8>(CG3)e-r< (Bass)e-8>(CG3)a-r< d-8>(CG3)fr< (Bass)d8>(CG3)dr<
+Ch1 d4r4 d4r4 d8(CG3)>f+r< (Bass)d8(CG3)>f+r< (Bass)d8(CG3)>f+r< (Bass)d8r8
+Ch1 (CG3)f+4r4f+4r4
+
+Ch2 o4(CG5)v14
+Ch3 o4(CG5)v14
+Ch4 o3(CG5)v12
+
+Ch2 r8b-r>e-r<b-r r8b-r>e-r<b-r r8b-r>e-rg-r32e-32 frd-r<f8r8
+Ch3 r8g-rb-rg-r r8g-rb-rg-r r8g-rb-r>e-r32c-32 d-r<a-rd-8r8
+Ch4 r8b-r>e-r<b-r r8b-r>e-r<b-r r8b-r>e-rg-r32e-32 frd-r<f8r8
+
+Ch2 r8b-r>e-r<b-r r8b-r>e-r<b-r r8b-r>e-rg-r32e-32 frg-ra-8r8
+Ch3 r8g-rb-rg-r r8g-rb-rg-r r8g-rb-r>e-r32c-32 d-re-rf8r8
+Ch4 r8b-r>e-r<b-r r8b-r>e-r<b-r r8b-r>e-rg-r32e-32 frg-ra-8r8
+
+Ch2 r8c+rf+rc+r r8c+rf+rc+r r8c+rf+rar g+rer<g+8r8>
+Ch3 r8<ar >c+<f+a>c+< f+aar >c+<f+a>c+ <r8ar >c+<f+>f+<a >e<bbe e8b>c+
+Ch4 r8c+rf+rc+r r8c+rf+rc+r r8c+rf+rar g+rer<g+8r8>
+
+Ch2 r8c+rf+rc+r r8c+rf+rc+r
+Ch3 r8<ar >c+<f+a>c+< f+aar >c+<f+a>c+
+Ch4 r8c+rf+rc+r r8c+rf+rc+r
+
+Ch1 (Brass2)v14o4l16 f+a>c+r f+rar  g+rar b8  >c+e
+Ch2 (Brass2)v13o3l16 f+a>c+r c+rf+r erf+r g+8  c+e
+Ch3 r4 (Brass2)v13o3l16      f+rar  g+rar b8   r8
+Ch4 r4 (Brass2)v14o3l16      c+rf+r erf+r g+8  r8
+
+Ch5 (HH)c4.(H3)cc (B)c4.(H)c8
+Ch5 (B)c4.cc c8(H3)cc(B)c8(H)c8
+Ch5 (H)c4.(H3)cc (B)c4.(H)c8    
+Ch5 (B)c8(H3)cc (S)c8(H3)c(B)c c8c(H2)c (S)c8(H)c8
+Ch5 (HH)c4 (H3)c32c32cc(H)c (B)c(H3)ccc (B)c(H3)ccc
+Ch5 (B)c(H2)c(S)c8 c8cc c32c32ccc c4
+Ch5 (B)c(H3)ccc c32c32ccc (S)c8(H3)cc (S)c8(H3)cc
+Ch5 (S)c32c32cc8 c32c32ccc c32c32c32c32c32c32c32c32 <g32g32f32f32e32e32d32d32
 
 Ch0 r1
