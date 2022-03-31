@@ -1,5 +1,5 @@
 {
-  "version": "2022.03.26",
+  "version": "2022.03.31",
   "albums": [
     {
       "appleId": "1438613504",
@@ -1077,6 +1077,25 @@
           "loop": 1,
           "name": "エネルギー黎明 ～ Future Dream...",
           "english": "Energy Dawn ～ Future Dream..."
+        }
+      ]
+    },
+    {
+      "appleId": "1581358392",
+      "albumId": "th12",
+      "name": "東方星蓮船",
+      "formalName": "東方星蓮船　～ Undefined Fantastic Object.",
+      "copyright": "(c)2009 上海アリス幻樂団",
+      "compatColor": 35,
+      "defaultLocked": true,
+      "songs": [
+        {
+          "appleId": "1581358394",
+          "mml": "TH12-02",
+          "ver": 0,
+          "loop": 1,
+          "name": "春の湊に",
+          "english": "to the Springtime Harbor"
         }
       ]
     }
