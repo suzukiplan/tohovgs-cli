@@ -327,8 +327,8 @@ Ch3 f+8>c+8< f+f+>c+8< f+f+>c+<a> f+c+<af+
 Ch4 (Pad2)v11o3
 Ch4 \s22050 a1 e1 \s11025 a2e+2 f+2<a2>
 Ch4 f+2g+2 a2b2 a2g+2 \s22050a1
-Ch4 (CG5)o5 d8r4d8 r8d8 r8d8
-Ch4 r8e8 r8e8 < g+4 r4
+Ch4 (CG5)o5 r8d8 r8d8 r8d8 r8d8
+Ch4 r8e8 r8e8 < g+8r8 g+8r8
 Ch4 >r8c+8 r8c+8< r8g+8 r8g+8
 Ch4 r8a8 r8a8 r8c+8 r8c+8
 Ch4 r8a8 r8a8 r8b8 r8b8
