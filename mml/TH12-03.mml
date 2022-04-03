@@ -11,7 +11,7 @@ $CG6 \s30 \e80 @2 %20
 $CG7 \s100 \e5000 @0 %90
 $Sq \s600 \e22050 @2 %75
 $Sq2 \s600 \e6666 @2 %66
-$Sq3 \s30 \e5000 @3 %80
+$Sq3 \s30 \e8000 @3 %80
 $Pad \s8000 \e22050 @2 %66
 $Pad2 \s11050 \e22050 @1 %80
 $B  \s10 \e1000 p-128 @0 %10 v35 o3
@@ -31,52 +31,63 @@ Ch4         r1024
 Ch5         r1024
 
 #-----------------------------------------------------------------------------
-# Part A
+# Part 1 (A)
 #-----------------------------------------------------------------------------
 Ch0 (Bass)o2v13l16
 Ch0 d+2. e+2. f+2. f+2.
 Ch0 e+8.r e+64r32. e+64r32. f+8.r f+64r32. f+64r32. >c+8.r c+64r32. c+64r32.< b8.r b64r32. b64r32.
 Ch0 d+1. e+1.^1. r1.
 
-Ch1 (CG5)v14o4l16
-Ch1 e+8f+8>c+8<  c+32d+16.f+8>c+8<
+Ch1 (CG5)v14o5l16
+Ch1 e+rf+8>c+8<  c+32d+16.f+8>c+8<
 Ch1 e+8f+8>c+8<  d+8f+8>c+8<
-Ch1 e+8f+8>c+8<  c+32d+16.f+8>c+8<
-Ch1 e+8f+8>c+8<  d+8f+8>c+8<
-Ch1 e+8f+8>c+8<  c+32d+16.f+8>c+8<
-Ch1 e+8f+8>c+8<  d+8f+8b8
-Ch1 e+8f+8a8 c+32d+16.f+8a8
-Ch1 e+8f+8g+32a16. d+8f+8a8
-Ch1 e+8f+8g+32a+16. d8f+8a+8
+Ch1 e+rf+8>c+8<  c+32d+16.f+8>c+8<
+Ch1 e+rf+8>c+8<  d+8f+8>c+8<
+Ch1 e+rf+8>c+8<  c+32d+16.f+8>c+8<
+Ch1 e+rf+8>c+8<  d+8f+8b8
+Ch1 e+rf+8a8 c+32d+16.f+8a8
+Ch1 e+rf+8g+32a16. d+8f+8a8
+Ch1 e+rf+8g+32a+16. d8f+8a+8
 Ch1 d+32e+16.f+8a+8 d8f+8a+8
 Ch1 v- e+8f+8g+32a+16. v- d8f+8a+8
 Ch1 v- d+32e+16.f+8a+8 v- d8f+8a+8
 Ch1 v++++ e+8f+8(Sq)a+4^1
 
-Ch2 (CG5)v10o4l16r
-Ch2 e+8f+8>c+8<  c+32d+16.f+8>c+8<
+Ch2 (CG5)v10o5l16r
+Ch2 e+rf+8>c+8<  c+32d+16.f+8>c+8<
 Ch2 e+8f+8>c+8<  d+8f+8>c+8<
-Ch2 e+8f+8>c+8<  c+32d+16.f+8>c+8<
-Ch2 e+8f+8>c+8<  d+8f+8>c+8<
-Ch2 e+8f+8>c+8<  c+32d+16.f+8>c+8<
-Ch2 e+8f+8>c+8<  d+8f+8b8
-Ch2 e+8f+8a8 c+32d+16.f+8a8
-Ch2 e+8f+8g+32a16. d+8f+8a8
-Ch2 e+8f+8g+32a+16. d8f+8a+8
+Ch2 e+rf+8>c+8<  c+32d+16.f+8>c+8<
+Ch2 e+rf+8>c+8<  d+8f+8>c+8<
+Ch2 e+rf+8>c+8<  c+32d+16.f+8>c+8<
+Ch2 e+rf+8>c+8<  d+8f+8b8
+Ch2 e+rf+8a8 c+32d+16.f+8a8
+Ch2 e+rf+8g+32a16. d+8f+8a8
+Ch2 e+rf+8g+32a+16. d8f+8a+8
 Ch2 d+32e+16.f+8a+8 d8f+8a+8
 Ch2 v- e+8f+8g+32a+16. v- d8f+8a+8
 Ch2 v- d+32e+16.f+8a+8 v- d8f+8a+8
 Ch2 v++++ e+8f+8(Sq)a+8.^1
 
-Ch3 (Sq3)v12o3l16
-Ch3 f+2. c+2. f+2. f+2.
-Ch3 e+8.r e+64r32. e+64r32. f+8.r f+64r32. f+64r32. > c+8.r c+64r32. c+64r32. < b8.r b64r32. b64r32.
-Ch3 a1.a+1.^1.
+Ch3 (CG3)v11o3l16
+Ch3 e+rf+8>c+8<  c+32d+16.f+8>c+8<
+Ch3 e+8f+8>c+8<  d+8f+8>c+8<
+Ch3 e+rf+8>c+8<  c+32d+16.f+8>c+8<
+Ch3 e+rf+8>c+8<  d+8f+8>c+8<
+Ch3 e+rf+8>c+8<  c+32d+16.f+8>c+8<
+Ch3 e+rf+8>c+8<  d+8f+8b8
+Ch3 e+rf+8a8 c+32d+16.f+8a8
+Ch3 e+rf+8g+32a16. d+8f+8a8
+Ch3 e+rf+8g+32a+16. d8f+8a+8
+Ch3 d+32e+16.f+8a+8 d8f+8a+8
+Ch3 v- e+8f+8g+32a+16. v- d8f+8a+8
+Ch3 v- d+32e+16.f+8a+8 v- d8f+8a+8
+Ch3 v++++ e+8f+8(Sq)a+4^1
 
-Ch4 (Sq3)v12o2l16
-Ch4 a+2. e+2. a+2. a+2. >
-Ch4 c+8.r c+64r32. c+64r32. d+8.r d+64r32. d+64r32. f+8.r f+64r32. f+64r32. d+8.r d+64r32. d+64r32.
-Ch4 d+1.e+1.^1.
+Ch4 (Sq3)v12o3l16
+Ch4 d+2. c+2. < a+2. a+2. >
+Ch4 f8.r f64r32. f64r32. < b8.r b64r32. b64r32. >> c+8.r c+64r32. c+64r32. < b8.r b64r32. b64r32.
+Ch4 a1.a+1.^1.
+
 
 Ch5 l16
 Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc cc(H)c8
