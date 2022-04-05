@@ -1,5 +1,5 @@
 {
-  "version": "2022.03.31",
+  "version": "2022.04.06",
   "albums": [
     {
       "appleId": "1438613504",
@@ -1096,6 +1096,14 @@
           "loop": 1,
           "name": "春の湊に",
           "english": "to the Springtime Harbor"
+        },
+        {
+          "appleId": "1581358395",
+          "mml": "TH12-03",
+          "ver": 0,
+          "loop": 1,
+          "name": "小さな小さな賢将",
+          "english": "Tiny Little Clever Commander"
         }
       ]
     }
