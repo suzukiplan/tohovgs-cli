@@ -127,7 +127,7 @@ Ch2 g8r8g8>d8e-r8. c32d32^8.<b-4.fr f32g16.r8g8>d8e-r8r32e-32 f4d4.<b-r
 Ch2 b8>c+rd+rf+8e+8c+8 <g+8f+re+rg+a+>c+<a+g+f+
 Ch2 e+8f+8>c+r< c+32d+16.e+8f+8 g+8a+8>c+r< d+32e+16.f+8>c+
 
-Ch3 (CG3)v12o4
+Ch3 (CG3)v10o4
 Ch3 d+<a+>ra+ d+<a+>f+a+ f+g+a+f+  c+<g+>rg+ c+e+g+r g+e+c+e+
 Ch3 <b>d+f+d+ <b>d+f+d+ <f+b>d+f+  a+>c+<e+a+ c+e+<a+>c+ <e+a+c+e+
 Ch3 g+>d+<b>d+ <g+>d+<b>d+ gb->e-<b-  f>c<af afa>c< fa>c<f
@@ -231,8 +231,8 @@ Ch4 f8.r f64r32. f64r32. < b8.r b64r32. b64r32. >> c+8.r c+64r32. c+64r32. < b8.
 Ch4 a1.a+1.^1. r2r8(CG5)v14o5f+32f32e32e-32
 
 Ch5 l16
-Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc cc(H)c8
-Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc ccc8
+Ch5 (HH)c4. (H3)cc (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (H3)ccc8
 Ch5 (S)c4.c4.c4.c4.
 Ch5 c4.(B)c8 (S)c32c32c32c32c32c32c32c32
 Ch5 (B)cc(S)c8c8 (B)cc (S)ccc8
@@ -241,5 +241,78 @@ Ch5 (S)c4(H)c8 (B)c8(S)c8(B)c8
 Ch5 (B)c(H3)c (B)c(H3)c (S)c8 (B)c(H3)c (B)c(H3)c (B)c(H3)c
 Ch5 (B)c(H)c (B)c(H)c (B)c(H)c (B)c(H)c (S)cccc
 Ch5 c8c8(HH)c2
+
+#-----------------------------------------------------------------------------
+# Part 4 (B')
+#-----------------------------------------------------------------------------
+Ch0 o2
+Ch0 d+8rd+ d+f+a+f+ d+f+a+r  c+8rc+ e+c+g+r c+e+g+e+
+Ch0 <b8>f+<b b8>d+<b b>d+f+<b  a+a+>e+<a+ >e+c+a+e+ c+e+<a+>c+
+Ch0 <g+8rg+ g+g+>d+<g+ g+>d+<g+>d+  fa>c<a fa>c<a fa>fc
+Ch0 <g>d<b-g >gd<b->g <b->d<gb-  gg>g<g >g<ggg gg>g<g
+Ch0 <g+8>d+r< g+r>d+<g+ g+g+>d+<g+  a+8>e+<a+ >e+<a+>a+r e+<a+a+a+
+Ch0 >c8ge- ce-ge- ge-ce-  <b-8>d<b- >fdb-r dfd<b-
+Ch0 b8>d+<b bb>d+<b >f+<b>d+<b> c+8e+c+ e+c+g+e+ c+e+g+c+
+Ch0 d+d+a+d+ f+d+d+d+ d+d+a+d+  d+f+a+>d+< f+a+d+f+ <a+>d+<f+a+
+
+Ch1 (CG5)v14o5
+Ch1 d+8r8d+8g+8a+r8. f+32g+16.a+8g+rf+re+8c+8 d+8r8d+8g+8a32a+16.r8 >c32c+32^8.<g+4f+8e+r
+Ch1 e-8r8e-8f8grb-r a2^8fr32f32 g4dfd<b->c4 g2.
+Ch1 g8r8g8>d8e-r8. c32d32^8.<b-4.fr f32g16.r8g8>d8e-r8r32e-32 f4d4d-c<bb-
+Ch1 b8>c+rd+rf+8e+8c+8 <g+8f+re+rg+a+>c+<a+g+f+
+Ch1 e+8f+8>c+r< c+32d+16.e+8f+8 g+8a+8>c+r< d+32e+16.f+8>c+r
+
+Ch2 (CG5)v11o5r
+Ch2 d+8r8d+8g+8a+r8. f+32g+16.a+8g+rf+re+8c+8 d+8r8d+8g+8a32a+16.r8 >c32c+32^8.<g+4f+8e+r
+Ch2 e-8r8e-8f8grb-r a8.v--g4.^16v++fr32f32 g4dfd<b->c4 g2.
+Ch2 g8r8g8>d8e-r8. c32d32^8.<b-4.fr f32g16.r8g8>d8e-r8r32e-32 f4d4d-c<bb-
+Ch2 b8>c+rd+rf+8e+8c+8 <g+8f+re+rg+a+>c+<a+g+f+
+Ch2 e+8f+8>c+r< c+32d+16.e+8f+8 g+8a+8>c+r< d+32e+16.f+8>c+
+
+Ch3 (CG3)v10o4
+Ch3 d+<a+>ra+ d+<a+>f+a+ f+g+a+f+  c+<g+>rg+ c+e+g+r g+e+c+e+
+Ch3 <b>d+f+d+ <b>d+f+d+ <f+b>d+f+  a+>c+<e+a+ c+e+<a+>c+ <e+a+c+e+
+Ch3 g+>d+<b>d+ <g+>d+<b>d+ gb->e-<b-  f>c<af afa>c< fa>c<f
+Ch3 af>fc <af>fc <fa>c<f  gv-b->v-d<v-b- gv-b->v-d<v-b-
+Ch3 (CG5)v14o4 l32 gg+aa+b>cc+d l16
+Ch3 e-8r8e-8b-8>cr8. <b-4g8f8e-8d8 e-4^16 l32 eff+gg+a l16 (Sq)\s8000b-2.(CG5)aa-gg-
+Ch3 g+8a+rbr >d+e+c+d+<a+b e+f+d+e+ c+d+e+f+ c+<a+g+f+ v--------
+Ch3 e+f+>c+< v+ e+f+>c+< v+ e+f+>c+< v+ e+f+>c+< v+
+Ch3 e+f+>c+< v+ e+f+>c+< v+ e+f+>c+< v+ e+f+>c+<
+
+Ch4 o3(Sq3)\e2000
+Ch4 d+8 d+64r32. d+64r32.  d+64r32. d+64r32. d+ d+64r32.  d+64r32. d+64r32. d+ d+64r32.
+Ch4 c+8 c+64r32. c+64r32.  c+64r32. c+64r32. c+ c+64r32.  c+64r32. c+64r32. c+ c+64r32. <
+Ch4 b8 b64r32. b64r32.  b64r32. b64r32. b b64r32.  b64r32. b64r32. b b64r32.
+Ch4 a+8 a+64r32. a+64r32.  a+64r32. a+64r32. a+ a+64r32.  a+64r32. a+64r32. a+ a+64r32.
+Ch4 g+8 g+64r32. g+64r32.  g+64r32. g+64r32. g+ g+64r32.  g+64r32. g+64r32. g+ g+64r32.
+Ch4 a8 a64r32. a64r32.  a64r32. a64r32. a a64r32.  a64r32. a64r32. a a64r32.
+Ch4 g8 g64r32. g64r32.  g64r32. g64r32. g g64r32.  g64r32. g64r32. g g64r32.
+Ch4 g8 g64r32. g64r32.  g64r32. g64r32. g g64r32.  g64r32. g64r32. g g64r32.
+Ch4 g+8 g+64r32. g+64r32.  g+64r32. g+64r32. g+ g+64r32.  g+64r32. g+64r32. g+ g+64r32.
+Ch4 a+8 a+64r32. a+64r32.  a+64r32. a+64r32. a+ a+64r32.  a+64r32. a+64r32. a+ a+64r32. >
+Ch4 c8 c64r32. c64r32.  c64r32. c64r32. c c64r32.  c64r32. c64r32. c c64r32. <
+Ch4 a+8 a+64r32. a+64r32.  a+64r32. a+64r32. a+ a+64r32.  a+64r32. a+64r32. a+ a+64r32.
+Ch4 b8 b64r32. b64r32.  b64r32. b64r32. b b64r32.  b64r32. b64r32. b b64r32. >
+Ch4 c+8 c+64r32. c+64r32.  c+64r32. c+64r32. c+ c+64r32.  c+64r32. c+64r32. c+ c+64r32.
+Ch4 d+2.
+Ch4 d+8 d+64r32. d+64r32.  d+64r32. d+64r32. d+ d+64r32.  d+64r32. d+64r32. d+ d+64r32.
+
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (S)c32c32ccc
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (S)c4 (B)cc(S)c(H)c (S)c(B)c(S2)cc
+Ch5 (B)c(H)c(S)c8 (B)c(H)c(S)c8 (B)c(S)c(B)c(S)c
+Ch5 (B)c(H2)c(S)c(H)c (B)cc(S)c8 (B)c(H2)c(S)c32c32c32c32
+Ch5 (HH)c4 (B)c8(S)c8 (B)cc(S)c(H)c
+Ch5 (B)c8(S)c8 (B)cc(S)c8 (B)c(H)c(S)c(H2)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c8(S)c8 (B)cc(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)cc(S)c(H)c (S)<g32g32f32f32e32e32d32d32
+Ch5 (HH)c4 (B)c8(S)c8 (B)cc(S)c(H)c
+Ch5 (S)c8.(S2)c32c32 (B)cc(S)c(H3)c32c32 (S)c8(B)c32c32c32c32
+Ch5 (B)c(H2)c(S)c(H3)c32c32 (S)c8(B)c(H2)c (S)c(H3)c(S)<g32f32e32d32
+Ch5 (B)c(H2)c(S)c(S2)c32c32 (B)cc(S)c(H)c (B)c(H2)c(S)c32c32(B)c32c32
 
 Ch0 r1
