@@ -63,13 +63,13 @@ Ch2 g16.e-16.>c< b-16.g16.d e-16.g16.d c16.<b-16.>c  g16.e-16.>c< b-16.g16.d e-1
 Ch2 g16.e-16.>c< b-16.g16.d e-16.g16.d c16.<b-16.>c  g16.e-16.>c< b-16.g16.d e-16.g16.d <b-16.>c16.<b->
 
 Ch3 (Sq)v11o4l16 r4.
-Ch3 e-4r4d4r4 f4r4<b-4r4> c4r4<b-4r4> d4r4e-4r4 e-4r4d4r4 c4r4<b4r4> c4r4d4r4 f2e-4
+Ch3 e-4r4d4r8\s600de-\s11050 f4r4<b-4r4> c4r4<b-4r4> d4r4e-4r4 e-4r4d4r4 c4r4<b4r4> c4r4d4r8\s60de- f2e-4
 Ch3 f32g32a-32b-32 b32>c32d32e-32
-Ch3 e-4r4d4r4 f4r4<b-4r4> c4r4<b-4r4> d4r4e-4r4 e-4r4d4r4 c4r4<b4r4> c4r4d4r4 \s8000f2e-2
+Ch3 e-4r4d4r8de- f4r4<b-4r4> c4r4<b-4r4> d4r4e-4r4 e-4r4d4r4 c4r4<b4r4> c4r4d4r8de- \s2000f2e-2
 
 Ch4 (Sq)v11o3l16 r4.
-Ch4 e-4r4d4r4 f4r4<b-4r4> c4r4<b-4r4> d4r4e-4r4 e-4r4d4r4 c4r4<b4r4> c4r4d4r4 f2e-2
-Ch4 o3 e-4r4d4r4 f4r4<b-4r4> c4r4<b-4r4> d4r4e-4r4 e-4r4d4r4 c4r4<b4r4> c4r4d4r4 \s8000f2e-2
+Ch4 e-4r4d4r8de- f4r4<b-4r4> c4r4<b-4r4> d4r4e-4r4 e-4r4d4r4 c4r4<b4r4> c4r4d4r8de- f2e-2
+Ch4 o3 e-4r4d4r8de- f4r4<b-4r4> c4r4<b-4r4> d4r4e-4r4 e-4r4d4r4 c4r4<b4r4> c4r4d4r8de- \s8000f2e-2
 
 Ch5 l16
 Ch5 (B)cc(S)c4
@@ -147,13 +147,13 @@ Ch1 o4            \s8000b2.r8\s2000f+4 g4\s600d8 a8e8>\s2000d4< \s8000b1 >\s8999
 Ch2 o3 (Brass)v12 \s8000b2.r8\s2000f+4 g4\s600d8 a8e8>\s2000d4< \s8000b1 >\s8999e1 \s22050e-1 \s5000g2\s2000f4b-4 \s22050g1^4r8\s600g4f8d8<b-8
 Ch3 o3 (Pad2)v11  d1.f+2  g1^1  g1.a2 b-1^1
 Ch4 o3 (Pad2)v11  g1.f+2> e1^1 e-1.f2 <g1^1
-Ch5 (HH)c4 (B)c8(H2)c8 (B)c8(H2)c8 (B)c8(H2)c8
-Ch5 (B)c8(H)c8 (B)c8(H3)cc (HH)c4 (B)c8(H)c8
-Ch5 (HH)c4 (B)c8(H2)c8 (B)c8(H2)c8 (B)c8(H2)c8
+Ch5 (H)c4 (B)c8(H2)c8 (B)c8(H2)c8 (B)c8(H2)c8
+Ch5 (B)c8(H)c8 (B)c8(H3)cc (H)c4 (B)c8(H)c8
+Ch5 (H)c4 (B)c8(H2)c8 (B)c8(H2)c8 (B)c8(H2)c8
 Ch5 (B)c8(H)c8 (B)c8(H3)cc (B)c8(H2)c8 (B)c8(H)c8
-Ch5 (HH)c4 (B)c8(H2)c8 (B)c8(H2)c8 (B)c8(H2)c8
-Ch5 (B)c8(H)c8 (B)c8(H3)cc (HH)c4 (B)c8(H)c8
-Ch5 (HH)c4 (B)c8(H2)c8 (B)c8(H2)c8 (B)c8(H2)c8
+Ch5 (H)c4 (B)c8(H2)c8 (B)c8(H2)c8 (B)c8(H2)c8
+Ch5 (B)c8(H)c8 (B)c8(H3)cc (H)c4 (B)c8(H)c8
+Ch5 (H)c4 (B)c8(H2)c8 (B)c8(H2)c8 (B)c8(H2)c8
 Ch5 (B)c8(H)c8 (B)c8(H3)cc (B)c8(S2)c32c32c (B)c8(S2)c8
 
 Ch0 r1
