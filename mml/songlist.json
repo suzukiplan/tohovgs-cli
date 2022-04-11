@@ -1,5 +1,5 @@
 {
-  "version": "2022.04.06",
+  "version": "2022.04.11",
   "albums": [
     {
       "appleId": "1438613504",
@@ -1104,6 +1104,14 @@
           "loop": 1,
           "name": "小さな小さな賢将",
           "english": "Tiny Little Clever Commander"
+        },
+        {
+          "appleId": "1581358396",
+          "mml": "TH12-04",
+          "ver": 0,
+          "loop": 1,
+          "name": "閉ざせし雲の通い路",
+          "english": "Closed Cloud Passage"
         }
       ]
     }
