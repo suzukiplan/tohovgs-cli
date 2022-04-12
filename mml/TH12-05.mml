@@ -1,0 +1,96 @@
+# 万年置き傘にご注意を
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s33 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e48000 @1 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s600 \e22050 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s8000 \e22050 @2 %66
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+
+#-----------------------------------------------------------------------------
+Ch0 t155 m8 r1024
+Ch1         r1024
+Ch2         r1024
+Ch3         r1024
+Ch4         r1024
+Ch5         r1024
+
+#-----------------------------------------------------------------------------
+# Part 1 (A)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2l16 g+2.r4
+Ch1 (CG3)v13o3l16  d+2.r4
+Ch2 (Brass)v14o5l16 g+8g+8g+8g+8g+8g+8f+8r8
+Ch3 (Brass)v13o5l16 d+8d+8d+8d+8d+8d+8c+8r8
+Ch4 (CG3)v14o4l16 g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- r8
+Ch5 l16 (HH)c4.r2(S)c8
+
+Ch0 g+2.r4
+Ch1 d+2.r4
+Ch2 g+8g+8g+8g+8g+8g+8c+8r8
+Ch3 d+8d+8d+8d+8d+8d+8<a+8r8
+Ch4 (CG3)v14o4l16 g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- r8
+Ch5 (S)c4(H)c8.(H3)c cr8. (H2)c8(S)c8
+
+Ch0 g+2.r4
+Ch1 d+2.r4
+Ch2 d+4f+4c+4<a+4
+Ch3 b4>d+4<a+4f+4
+Ch4 (CG3)v14o4l16 g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- r8
+Ch5 (S)c4 c8(B)c(H2)c (S)c8(B)c(H2)c  (S2)c32c32ccc
+
+Ch0 g+2.r4
+Ch1 d+2.r4
+Ch2 g+1
+Ch3 d+1
+Ch4 (CG3)v14o4l16 g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- (CG5)o4v12 g+>c+d+f+ g+4
+Ch5 (S)c4(H)c8(S)c8 (S)c8(H)c8 (S)c(H3)c(S)c(H3)c
+
+Ch0 t160
+Ch0 e2.r4
+Ch1 b2.r4
+Ch2 g+4r8g+r g+4r8g+r
+Ch3 e4r8er e4r8er
+Ch4 (Pad)o3 b4r4g+4r4
+Ch5 (HH)c4 (H)c8(B)c8 (S)c8(B)c8 (H)c8(B)c8
+
+Ch0 t155
+Ch0 e2.r4
+Ch1 b2.r4
+Ch2 r8g+8b8>d+8 c+8<a+8f+8.r
+Ch3 r8e8g+8b8 a+8f+8c+4
+Ch4 b4r4 > c+4r4
+Ch5 (B)c4 (H)c8(B)c8 (S)c8(H)c8 (H3)c8(B)c8
+
+Ch0 t160
+Ch0 f+2.r4
+Ch1 >c+2.r4
+Ch2 a+4r8a+r a+4r8a+r
+Ch3 f+4r8f+r f+4r8f+r
+Ch4 c+4r4 < a+4r4
+Ch5 (B)c8c8 (H)c8(B)c8 (S)c8(B)c(H2)c (S)c8(B)c(H2)c
+
+Ch0 t155
+Ch0 g2.r4
+Ch1 e-2.r4
+Ch2 \s4000 g2  b-2
+Ch3 \s4000 e-2 g2
+Ch4 b-2 (CG3)>e-g<b->e-<gb-e-g
+Ch5 (S)c8(S2)v-----c32v++c32v++c32v++c32 (S)c8(S2)v-----c32v++c32v++c32v++c32 c8c8 (S2)c32c32c32c32c32c32c32c32
+
+Ch0 r1
