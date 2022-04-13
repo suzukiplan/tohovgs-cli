@@ -1,0 +1,15 @@
+{
+  "name": "tohovgs-meta-updator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoji Suzuki",
+  "license": "GPL3",
+  "dependencies": {
+    "date-utils": "^1.2.21"
+  }
+}
