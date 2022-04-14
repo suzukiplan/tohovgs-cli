@@ -57,7 +57,7 @@ function searchSong(songList, targetId) {
 async function updatePlayList(songList, targetId) {
     const song = searchSong(songList, `${targetId}`);
     if (song) {
-        const record = `mml/${targetId}.mml, 1, ${song.name}\n`
+        const record = `mml/${targetId}.mml, ${song.loop}, ${song.name}\n`
         console.log(`Appending ${targetId} to the playlist`);
         const csv = await fs.readFile(csvPath);
         await fs.writeFile(csvPath, csv + record);
