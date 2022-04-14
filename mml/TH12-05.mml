@@ -58,14 +58,17 @@ Ch0 g+2.r4
 Ch1 d+2.r4
 Ch2 d+4f+4c+4<a+4
 Ch3 b4>d+4<a+4f+4
-Ch4 (CG3)v14o4l16 g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- r8
+Ch4 >v14d+< v-<g+>v- g+v-<g+>
+Ch4 >v13f+< v10 <g+>v- g+v-<g+>
+Ch4 >v12c+<  v7 <g+>v- g+v-<g+>
+Ch4  v11a+   v4 <g+>v- g+v-<g+>v-
 Ch5 (S)c4 c8(B)c(H2)c (S)c8(B)c(H2)c  (S2)c32c32ccc
 
 Ch0 g+2.r4
 Ch1 d+2.r4
 Ch2 g+1
 Ch3 d+1
-Ch4 (CG3)v14o4l16 g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- (CG5)o4v12 g+>c+d+f+ g+4
+Ch4 v14>g+<v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- (CG5)o4v12 g+>c+d+f+ g+4
 Ch5 (S)c4(H)c8(S)c8 (S)c8(H)c8 (S)c(H3)c(S)c(H3)c
 
 Ch0 t160
@@ -217,14 +220,17 @@ Ch0 g+2.r4
 Ch1 d+2.r4
 Ch2 d+4f+4c+4<a+4
 Ch3 b4>d+4<a+4f+4
-Ch4 (CG3)v14o4l16 g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- r8
+Ch4 >v14d+< v-<g+>v- g+v-<g+>
+Ch4 >v13f+< v10 <g+>v- g+v-<g+>
+Ch4 >v12c+<  v7 <g+>v- g+v-<g+>
+Ch4  v11a+   v4 <g+>v- g+v-<g+>v-
 Ch5 (S)c4 c8(B)c(H2)c (S)c8(B)c(H2)c  (S2)c32c32ccc
 
 Ch0 g+2.r4
 Ch1 d+2.r4
 Ch2 g+1
 Ch3 d+1
-Ch4 (CG3)v14o4l16 g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- o4v12 g+>c+d+f+ g+4
+Ch4 v14>g+<v-<g+>v- g+v-<g+>v- g+v-<g+>v- g+v-<g+>v- o4v12 g+>c+d+f+ g+4
 Ch5 (S)c4(H)c8(S)c8 (S)c8(H)c8 (S)c(H3)c(S)c(H3)c
 
 Ch0 e2.r4
