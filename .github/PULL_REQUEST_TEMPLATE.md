@@ -11,9 +11,9 @@
 - その他
   - n/a
 - マージ後作業
-  - [ ] YouTube投稿
-  - [ ] ブログ投稿
-  - [ ] Twitter投稿
+  - YouTube投稿
+  - ブログ投稿
+  - Twitter投稿
 
 ## Song Record
 
