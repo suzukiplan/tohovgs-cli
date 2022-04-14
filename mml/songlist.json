@@ -1112,6 +1112,14 @@
                     "loop": 1,
                     "name": "閉ざせし雲の通い路",
                     "english": "Closed Cloud Passage"
+                },
+                {
+                    "appleId": "1581358397",
+                    "mml": "TH12-05",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "万年置き傘にご注意を",
+                    "english": "Beware of the Ever-Present Umbrella"
                 }
             ]
         }
