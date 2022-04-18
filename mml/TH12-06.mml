@@ -90,8 +90,8 @@ Ch2 b1 >g2.r4 \s44100g+1. r8(Brass)v14g+8f+8a+8
 
 Ch3 (CG5)v12
 Ch4 (CG5)v11
-Ch3 o3 b8>e8f+8b8 f+8e8<b8>d8  e8f+8b8>e8 <b8g8<b8>c+8  >d+8<b8a+8>d+8 c+8<a+8f+8a+8  b8g+8>d+8g+8 d+8<b8f+8b8
-Ch4 o3 g8b8>d8g8 d8<b8g8b8  b8>d8g8b8 g8e8<g+8a+8  >b8g+8f+8b8 a+8f+8d+8f+8  g+8d+8b8>d+8 <b8f+8d+8f+8
+Ch3 o3 b8>e8f+8b8 f+8e8<b8>d8  e8f+8b8>e8 <b8g8<b8>c+8  >g+8d+8<b8>g+8d+8<b8g+8b8 r8g+8>c+8g+8d+8c+8<g+8f+8
+Ch4 o3 g8b8>d8g8 d8<b8g8b8  b8>d8g8b8 g8e8<g+8a+8  >>d+8<b8g+8>d+8<b8g+8d+8g+8 r8d+8g+8>d+8<b8a+8d+8c+8
 Ch3 o3 b8>e8f+8b8 f+8e8<b8>d8  e8f+8b8>e8 <b8g8<b8>c+8  >d+8<b8a+8>d+8 c+8<a+8f+8a+8  b8g+8>d+8g+8 d+8<b8f+8b8
 Ch4 o3 g8b8>d8g8 d8<b8g8b8  b8>d8g8b8 g8e8<g+8a+8  >b8g+8f+8b8 a+8f+8d+8f+8  g+8d+8b8>d+8 <b8f+8d+8f+8
 
