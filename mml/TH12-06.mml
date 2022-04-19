@@ -187,7 +187,8 @@ Ch4 k----
 # Part 5 (D)
 #-----------------------------------------------------------------------------
 Ch0 t152
-Ch0 r8g+8 r8f+8 r8f8 r8f+8  r8c+8 r8d+8 r8e8 r8g+8
+Ch0 g+32r16.g+8 f+32r16.f+8 f32r16.f8 f+32r16.f+8
+Ch0 c+32r16.c+8 d+32r16.d+8 e32r16.e8 g+32r16.g+8
 
 Ch1 o5(Brass)v14
 Ch1 e1^4r8<g+4b4.
@@ -203,9 +204,12 @@ Ch5 (HH)c4.(B)c8 (H2)c8r4(B)c8
 Ch5 (B)c4.c8 (S)c4(B)c8c8
 
 Ch0 t154
-Ch0 r8g+8 r8b8 >r8c+8< r8b8  r8c+8 r8d+8 r8e8 r8g+8
-Ch0 r8g+8 r8f+8 r8f8 r8f+8  r8c+8 r8d+8 r8e8 r8g+8
-Ch0 r8g+8 r8b8 >r8c+8< r8b8  r8c+8 r8d+8 r8e8 r8g+8
+Ch0 g+32r16.g+8 b32r16.b8 >c+32r16.c+8< b32r16.b8
+Ch0 c+32r16.c+8 d+32r16.d+8 e32r16.e8 g+32r16.g+8
+Ch0 g+32r16.g+8 f+32r16.f+8 f32r16.f8 f+32r16.f+8
+Ch0 c+32r16.c+8 d+32r16.d+8 e32r16.e8 g+32r16.g+8
+Ch0 g+32r16.g+8 b32r16.b8 >c+32r16.c+8< b32r16.b8
+Ch0 c+32r16.c+8 d+32r16.d+8 e32r16.e8 g+32r16.g+8
 
 Ch1 f+4.e8r8f+8r8g+8^1
 Ch1 >c+1^2.d+8<g+2 >c+4<r8g+8b4. (CG3)c+8d+8e8 f+8r8g+8
