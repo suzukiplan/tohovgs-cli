@@ -1,5 +1,5 @@
 {
-    "version": "2022.04.14",
+    "version": "2022.04.20",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1120,6 +1120,14 @@
                     "loop": 1,
                     "name": "万年置き傘にご注意を",
                     "english": "Beware of the Ever-Present Umbrella"
+                },
+                {
+                    "appleId": "1581358398",
+                    "mml": "TH12-06",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "スカイルーイン",
+                    "english": "Sky Ruins"
                 }
             ]
         }
