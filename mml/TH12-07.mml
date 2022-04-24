@@ -66,7 +66,7 @@ Ch0 o2
 Ch0 g+8g+r g+8g+r f+8f+r f+8f+r e8er e8er e8er e8er
 Ch0 g+8g+r g+8g+r f+8f+r f+8f+r e8er e8er e8er e8e f+64g+64a+64b64>
 Ch0 c8cr c8cr c8cr c8cr < b-8b-r b-8b-r b-8b-r b-8b-r >
-Ch0 c4r4 < b-4r4 a-4r8 g4r8 g4
+Ch0 c4r4 < b-4r4 a-4r8 g4r8 >p-128v+g4v-p-0<
 Ch0 f+8f+8>f+<f+8f+ >c+f+<f+>c+< f+ff+8
 Ch0 a>c+ec+ <g+>c+<f+b >c+<bg+f+ >c+<f+c+f+
 Ch0 a4 aa>c+<a a4 f+f+>c+<f+
@@ -158,7 +158,7 @@ Ch0 o2
 Ch0 g+8g+r g+8g+r f+8f+r f+8f+r e8er e8er e8er e8er
 Ch0 g+8g+r g+8g+r f+8f+r f+8f+r e8er e8er e8er e8e f+64g+64a+64b64>
 Ch0 c8cr c8cr c8cr c8cr < b-8b-r b-8b-r b-8b-r b-8b-r >
-Ch0 c4r4 < b-4r4 a-4r8 g4r8 g4
+Ch0 c4r4 < b-4r4 a-4r8 g4r8 >p-128v+g4v-p-0<
 Ch0 f+8f+8>f+<f+8f+ >c+f+<f+>c+< f+ff+8
 Ch0 a>c+ec+ <g+>c+<f+b >c+<bg+f+ >c+<f+c+f+
 Ch0 a4 aa>c+<a a4 f+f+>c+<f+
