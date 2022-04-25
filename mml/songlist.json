@@ -1,5 +1,5 @@
 {
-    "version": "2022.04.20",
+    "version": "2022.04.25",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1128,6 +1128,14 @@
                     "loop": 1,
                     "name": "スカイルーイン",
                     "english": "Sky Ruins"
+                },
+                {
+                    "appleId": "1581358399",
+                    "mml": "TH12-07",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "時代親父とハイカラ少女",
+                    "english": "Outdated Father and High-Collar Girl"
                 }
             ]
         }
