@@ -109,7 +109,7 @@ Ch0 d-4 f4 d-e-ce- f8g8
 
 Ch1 r1.o2(Bass)@0v11 a-8r8 a-4
 Ch1 (Brass)@0o6 r8d-r8.d-r8.er8.er f4c4<b-4>e-4
-Ch1 r8 v12o6 cr8.cr8.e-r8.e-r grfre-re-r o2(Bass)@0v11 a-8r8 a-4
+Ch1 r8 v12o5 a-r8.a-r8.>cr8.cr e-re-re-re-r o2(Bass)@0v11 a-8r8 a-4
 Ch1 (Brass0)v10o5 a-8g8f8r8f4e-4f4.r4.<b-ge-g
 Ch1 r8 (Brass0)o6 cr8. cr8. cr8. cr8. < b-r8. b-r8. b-r8. b-r8. > d-r8. d-r8. er8.<b->e f4d-4<b-4>e-4
 Ch1 o6 r8fr8e-fr8. gr8fgr a-ra-ra-ra-rb-r8.r4
@@ -128,7 +128,7 @@ Ch3 c4.c8 c4rde-e <b-32>c16.<b-8>c8f8cre-ec8e-8 f8g8e-4d32c32^8.<a-32g32^8. a-2b
 Ch3 c4.c8 c4.e-8  f8e-8f8g8a-re-efre-8  f8g8a-4g4>c4 %99d-2. v-c64<v-b64v-b-64v-a64 v-a-64v-g64v-g-64v-f64 v-e64v-e-64v-d64v-d-64 v0d-
 
 Ch4 r1r1r1 (Brass0)o6 c4<f4g4b-4
-Ch4 r8 v12o6 fr8.fr8. gr8.gr b-ra-rgrgra-r8.r4
+Ch4 r8 v12o6 fr8e-fr8. gr8fgr a-rgra-rgra-r8.r4
 Ch4 (Brass0)v10o5 e-8d-8c8r8c4<b-4>c4.r4.<@2ge-ce-
 Ch4 r8 (Brass0)o5 fr8. fr8. fr8. fr8. e-r8. e-r8. d-r8. d-r8. fr8. fr8. b-rr4 > d-4<b-4g4b-4
 Ch4 o6 r8cr8.cr8. d-r8.d-r e-re-re-re-r fr8.r4
@@ -194,5 +194,12 @@ Ch5 (B)c8(H)c8 (S2)c8(H2)c8 (S2)cccc c8<gf
 Ch5 (B)c8(H)c16. (S2)c32c8(H2)c8 (S2)cccc (S)c4
 Ch5 (B)c8(H)c8 (S2)c8(H2)c8 (S2)cccc c8<gf
 Ch5 (B)c8(H)c16. (S2)c32c8(H2)c8 (S2)cccc c4
+
+#-----------------------------------------------------------------------------
+# Part 4 (C)
+#-----------------------------------------------------------------------------
+
+
+
 
 Ch0 r1
