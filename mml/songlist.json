@@ -1,5 +1,5 @@
 {
-    "version": "2022.04.25",
+    "version": "2022.04.28",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1136,6 +1136,14 @@
                     "loop": 1,
                     "name": "時代親父とハイカラ少女",
                     "english": "Outdated Father and High-Collar Girl"
+                },
+                {
+                    "appleId": "1581358400",
+                    "mml": "TH12-08",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "幽霊客船の時空を越えた旅",
+                    "english": "A Ghost Liner's Journey Through Time and Space"
                 }
             ]
         }
