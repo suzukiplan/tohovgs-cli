@@ -95,10 +95,10 @@ Ch0 f4.fr f8>cr< f8e-r  d-4a-4e-4b-8.a64a-64g64g-64 f4.fr f8>cr< f8e-r  d-4a-4e4
 
 Ch1 (CG5)v14o4
 Ch2 r8(CG5)v9o4
-Ch1 f4.fr f8g8a8de  f8g8a8>f8 efe8 c4  d4.<a>c d8e8f8g8 f4d4e2
-Ch2 f4.fr f8g8a8de  f8g8a8>f8 efe8 c4  d4.<a>c d8e8f8 v14 d4<b-4>c+2^8 v9
-Ch1 f4.f8 f8g8a-8b-8 g32a-16.f8c8 f32g16.e-8<b-8 a-8g8 a-8g8f8.e- f4g4 a-2 a-b->ce ga-b->e-
-Ch2 f4.f8 f8g8a-8b-8 g32a-16.f8c8 f32g16.e-8<b-8 a-8g8 a-8g8f8.e- f4g8 v14 f2^16 v10 a-b->ce ga-b-
+Ch1 f4.fr f8g8a8de  f8g8a8>f8 efe8 c4  d4.<a>c d8e8f8g8 f4d4%50e2%20
+Ch2 f4.fr f8g8a8de  f8g8a8>f8 efe8 c4  d4.<a>c d8e8f8 v14 d4<b-4>%45c+2^8%20 v9
+Ch1 f4.f8 f8g8a-8b-8 g32a-16.f8c8 f32g16.e-8<b-8 a-8g8 a-8g8f8.e- f4g4 %50a-2%20 a-b->ce ga-b->e-
+Ch2 f4.f8 f8g8a-8b-8 g32a-16.f8c8 f32g16.e-8<b-8 a-8g8 a-8g8f8.e- f4g8 v14 %45f2^16%20 v10 a-b->ce ga-b-
 
 Ch3 (Pad2)o4v12
 Ch4 (Pad2)o3v12
