@@ -1,5 +1,5 @@
 {
-    "version": "2022.04.28",
+    "version": "2022.04.29",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1140,10 +1140,18 @@
                 {
                     "appleId": "1581358400",
                     "mml": "TH12-08",
-                    "ver": 0,
+                    "ver": 1,
                     "loop": 1,
                     "name": "幽霊客船の時空を越えた旅",
                     "english": "A Ghost Liner's Journey Through Time and Space"
+                },
+                {
+                    "appleId": "1581358401",
+                    "mml": "TH12-09",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "キャプテン・ムラサ",
+                    "english": "Captain Murasa"
                 }
             ]
         }
