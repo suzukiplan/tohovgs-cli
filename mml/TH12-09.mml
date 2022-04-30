@@ -169,15 +169,15 @@ Ch5 (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c
 #-----------------------------------------------------------------------------
 # Part 4 (B')
 #-----------------------------------------------------------------------------
-Ch0 o3 d4.dr d8ar d8cr  <b-4>f4c4g8.f+64f64e64e-64  d4.dr d8ar d8cr  <b-4>f4e4c+4
+Ch0 o2 d4.dr d8ar d8cr  <b-4>f4c4g8.f+64f64e64e-64  d4.dr d8ar d8cr  <b-4>f4e4c+4
 Ch0 f4.fr f8>cr< f8e-r  d-4a-4e-4b-8.a64a-64g64g-64 f4.fr f8>cr< f8e-r  d-4a-4e4c4
 
 Ch1 (Sq)v14o4
 Ch2 r8(Sq)v9o4
-Ch1 g4.gr g8a8bref+  g8abr8>g8 f+gf+r d4  e4.<b>de8f+8gra8  g4e4^32f+8.^32^8f32e32d32c32
+Ch1 g4.gr g8a8bref+  g8abr8>g8 f+gf+r d4  e4.<b>de8f+8gra8  g4%99e4^32f+8.^32^8v-f32v-e32v-d32v-c32v++++%75
 Ch2 g4.gr g8a8bref+  g8abr8>g8 f+gf+r d4  e4.<b>de8f+8grv13 e4c4d+2^8 v9
-Ch1 g4.gr g8ab-r>c8.<  a32b-16.g8d8 g32a16.frcr<b-ra8  b-8a8g8rf+ g4a4     b-2      (Brass)b->cdf+a8b8
-Ch2 g4.gr g8ab-r>c8.<  a32b-16.g8d8 g32a16.frcr<b-ra8  b-8a8g8rf+ g4a8 v13 g2^16 v9 (Brass)b->cdf+a8b
+Ch1 g4.gr g8ab-r>c8.<  a32b-16.g8d8 g32a16.frcr<b-ra8  b-8a8g8rf+ g4a4     b-2      b->cdf+a8b8
+Ch2 g4.gr g8ab-r>c8.<  a32b-16.g8d8 g32a16.frcr<b-ra8  b-8a8g8rf+ g4a8 v13 g2^16 v9 b->cdf+a8b
 
 Ch3 (Pad2)o4v12
 Ch4 (Pad2)o3v12 k++
@@ -199,7 +199,7 @@ Ch5 (B)c(H3)c(S)c(H)c (S)c8cc cccc c32c32c32c32c32c32c32c32
 Ch0 o3k--           e1^2.^8 d8^1^1 c1^2.^8 <b8^1 b2>d+2
 Ch2 o3k-- (Bass)v11 b1^2.^8 a8^1^1 g1^2.^8 f+8^1 r1 
 
-Ch1 g1^2.r8 f+8^1 g32g+32a8.^2 g8f+8 gf+e8^2.^2.d8e8 <b2.r4 b2>d+2
+Ch1 \s12000g1^2.r8 \s8000f+8^1 \s600g32g+32a8.^2 g8f+8 gf+e8^2.^2.d8e8 <\s8000b2.r4 \s5000b2>d+2
 
 Ch3 (CG5)v14k--o4
 Ch4 (CG5)v13k--o4
@@ -216,6 +216,30 @@ Ch5 (H3)cv---cv++cv---c (H3)cv---cv++cv---c (H3)cv---cv++cv---c (H3)cv---cv++cv-
 Ch5 (M)g4 (H3)cv---cv++cv---c (H3)cv---cv++cv---c (H3)cv---cv++cv---c
 Ch5 (H3)cv---cv++cv---c (H3)cv---cv++cv---c (H3)cv---cv++cv---c (H3)cv---cv++cv---c
 Ch5 (M)g4 (H3)cv---cv++cv---c (B)c(H3)c(B)c(H3)c (B)cccc
+
+#-----------------------------------------------------------------------------
+# Part 6 (v2)
+#-----------------------------------------------------------------------------
+Ch0 o3 e1^2.^8 d8^1^1 c1^2.^8 <b8^1 b2>d+2
+Ch2 o3 b1^2.^8 a8^1^1 g1^2.^8 f+1 v13o5(Brass)e2d+8^2
+
+Ch1 o5\s66\e12000
+Ch1 e4<a4b8>g8r8g4. f+8<b4>g8r8e4. <a8r8b8>a8r8g4. f+8e4d4.
+Ch1 e4<a8r8b8>g8r8g4. f+8<b4>g8r8e4. <a8r8b8>a8r8 (Brass)g2f+8^2
+
+Ch3 o4 b4a4b8>e4<b4. a4b8>g4<b4. a4b8>e4ef+ g4f+4e8d4.<
+Ch4 o4 g4f+4g8b4 g4. f+4g8b4 g4. f+4g8b4ga  b4a4g8f+4.
+Ch3 b4a4b8>e4<b4. a4b8>e4<b4. a4b8>g4ef+ g4a4br>e8<bagf+
+Ch4 g4f+4g8b4 g4. f+4g8b4 g4. f+4g8b4ga  b4>d+4grb8r4
+
+Ch5 (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc
+Ch5 (M)g4 (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc
+Ch5 (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc
+Ch5 (M)g4 (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc
+Ch5 (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc
+Ch5 (M)g4 (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc
+Ch5 (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc (B)c(H3)ccc
+Ch5 (M)g4 (S)cccc cccc cccc
 
 Ch0 r1
 
