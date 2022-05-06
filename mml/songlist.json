@@ -1,5 +1,5 @@
 {
-    "version": "2022.04.30",
+    "version": "2022.05.06",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1152,6 +1152,14 @@
                     "loop": 1,
                     "name": "キャプテン・ムラサ",
                     "english": "Captain Murasa"
+                },
+                {
+                    "appleId": "1581358402",
+                    "mml": "TH12-10",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "魔界地方都市エソテリア",
+                    "english": "Esoteria, a local city in the magical world"
                 }
             ]
         }
