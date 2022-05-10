@@ -228,9 +228,9 @@ Ch4 g+b>d+g+ bg+d+<b a+>c+f+a+ >c+<a+f+c+
 Ch4 b-8rf8rb-8 g4r8g8
 
 Ch5 (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c
-Ch5 (S)c8cc c8cc c8c8 (B)c8(S)cc
-Ch5 (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c
-Ch5 (S)cccc cccc cccc cccc
+Ch5 (S)c8(S2)v------c32v++c32v++c32v++c32 (S)c8(S2)v------c32v++c32v++c32v++c32 (S)c4 c32c32c32c32c32c32c32c32
+Ch5 (HH)c4 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c
+Ch5 (S)cccc cccc c32c32c32c32c32c32c32c32 c32c32c32c32c32c32c32c32
 
 #Ch0 r1p-0(Sq)o4 c1 r1
 #Ch1 r1p-0(Sq)o4 e1 r1
