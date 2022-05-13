@@ -1,5 +1,5 @@
 {
-    "version": "2022.05.06",
+    "version": "2022.05.13",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1160,6 +1160,14 @@
                     "loop": 1,
                     "name": "魔界地方都市エソテリア",
                     "english": "Esoteria, a local city in the magical world"
+                },
+                {
+                    "appleId": "1581358403",
+                    "mml": "TH12-11",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "虎柄の毘沙門天",
+                    "english": "Bishamonten with Tiger Pattern"
                 }
             ]
         }
