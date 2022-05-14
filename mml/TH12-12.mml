@@ -1,0 +1,76 @@
+# 法界の火
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s33 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e48000 @1 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s600 \e11025 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-80  @3 %35 v12 o4
+$HeartBeat \s10 \e1000 @0  v35 o2 %70p-333 e32.%25p-111g32. p-333 %15<b32^8
+
+#-----------------------------------------------------------------------------
+Ch0 t88  m8 r1024 l16
+Ch1         r1024 l16
+Ch2         r1024 l16
+Ch3         r1024 l16
+Ch4         r1024 l16
+Ch5         r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1
+#-----------------------------------------------------------------------------
+Ch0 r1r1r1r1 r1r1r1r2.r8. (CG5)o5v8 ef+
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+
+Ch1 r1r1r1r1 r1r1r1r2.r8 (CG5)o5v13 ef+
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+
+Ch2 r1r1r1r1
+Ch2 r1r1r1r1
+Ch2 r1r1(CG5)v14o4
+Ch2 e4<a>df+e4e4e4e4e4ee4
+
+Ch3 r1r1r1r1 (Pad)o5v10 e1^1 e1^1 e1^1 (CG5)v13o3
+Ch3 b4r8.b4b4b4b4b4bb4
+
+Ch4 r1r1r1r1 (Pad)o4v10 b1^1 >b1^1< e1^1 e1^1
+
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) (S2)c8cc
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c4
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c8(B)cc
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c4
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (H)c8(H3)cc
+
+Ch0 r1
+
+
