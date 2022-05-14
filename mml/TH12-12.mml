@@ -34,38 +34,52 @@ Ch4         r1024 l16
 Ch5         r1024 l16
 
 #-----------------------------------------------------------------------------
-# Part 1
+# Part 1 - Heart beat only
 #-----------------------------------------------------------------------------
-Ch0 r1r1r1r1 r1r1r1r2.r8. (CG5)o5v8 ef+
-Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
-Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
-Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
-Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
-
-Ch1 r1r1r1r1 r1r1r1r2.r8 (CG5)o5v13 ef+
-Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
-Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
-Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
-Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
-
+Ch0 r1r1r1r1
+Ch1 r1r1r1r1
 Ch2 r1r1r1r1
+Ch3 r1r1r1r1
+Ch4 r1r1r1r1
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+
+#-----------------------------------------------------------------------------
+# Part 2 - Heart beat + Pad
+#-----------------------------------------------------------------------------
+Ch0 r1r1r1r2.r8. (CG5)o5v8 ef+
+Ch1 r1r1r1r2.r8 (CG5)o5v13 ef+
 Ch2 r1r1r1r1
-Ch2 r1r1(CG5)v14o3
-Ch2 e4<a>df+e4e4e4e4e4ee4
-
-Ch3 r1r1r1r1 (Pad)o5v10 e1^1 e1^1 e1^1 (CG5)v13o2
-Ch3 b4r8.b4b4b4b4b4bb4
-
-Ch4 r1r1r1r1 (Pad)o4v10 b1^1 >b1^1< g1^1 < @1e1^1
-
-Ch5 (HeartBeat) r4 (HeartBeat) r4
-Ch5 (HeartBeat) r4 (HeartBeat) r4
-Ch5 (HeartBeat) r4 (HeartBeat) r4
-Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch3 (Pad)o5v10 e1^1 e1^1
+Ch4 (Pad)o4v10 b1^1 >b1^1<
 Ch5 (HeartBeat) r4 (HeartBeat) r4
 Ch5 (HeartBeat) r4 (HeartBeat) r4
 Ch5 (HeartBeat) r4 (HeartBeat) r4
 Ch5 (HeartBeat) r4 (HeartBeat) (S2)c8cc
+
+#-----------------------------------------------------------------------------
+# Part 3 - Heart beat + Pad + Piano
+#-----------------------------------------------------------------------------
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+
+Ch2 r1r1(CG5)v14o3
+Ch2 e4<a>df+e4e4e4e4e4ee4
+
+Ch3 e1^1 (CG5)v13o2
+Ch3 b4r8.b4b4b4b4b4bb4
+
+Ch4 g1^1 < @1e1^1
+
 Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c4
 Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c8(B)cc
 Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c4
