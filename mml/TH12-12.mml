@@ -65,7 +65,7 @@ Ch5 (HeartBeat) r4 (HeartBeat) (S2)c8cc
 Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
 Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
 Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
-Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>d
 
 Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
 Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
@@ -84,6 +84,39 @@ Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c4
 Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c8(B)cc
 Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c4
 Ch5 (HeartBeat) (S)c4 (HeartBeat) (H)c8(H3)cc
+
+#-----------------------------------------------------------------------------
+# Part 4 - Main Theme
+#-----------------------------------------------------------------------------
+Ch0 (Brass)v14o5
+Ch0 \s8000b1.\s3000a4>d4< \s22050g1.\s5000f+4a4 \s9000b1.\s5000a4>d4< g4.f+4.e4.d4. f+4a4
+
+Ch4 (Brass)v13o5
+Ch4 \s22050e1.<\s8000a2> \s9999e1.<\s3000b4>d4 \s22050e1 r8\s600<a8>d8f+8 e8.<b8.>f+e \s5000e4.d4.c4.<b4.a2
+
+Ch1 v12
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+<a8 gf+d+f+>
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+<a8 gf+d+f+>
+
+Ch2 e8.e8.e8 re8.e8e8  e8.e8.e8 re8.e8e8  g8.g8.g8 rg8.g8g8  g8.g8.g8 re8. gf+d+f+
+Ch3 b8.b8.b8 rb8.b8b8  b8.b8.b8 rb8.b8b8 >e8.e8.e8 re8.e8e8  e8.e8.e8 r2<
+Ch2 e8.e8.e8 re8.e8e8  e8.e8.e8 re8.e8e8  g8.g8.g8 rg8.g8g8  g8.g8.g8 re8. gf+d+f+
+Ch3 b8.b8.b8 rb8.b8b8  b8.b8.b8 rb8.b8b8 >e8.e8.e8 re8.e8e8  e8.e8.e8 r2<
+
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
 
 Ch0 r1
 
