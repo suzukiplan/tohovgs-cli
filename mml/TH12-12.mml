@@ -26,7 +26,7 @@ $H3a \s1 \e100  p-80  @3 %35 v12 o4
 $HeartBeat \s10 \e1000 @0  v35 o2 %70p-333 e32.%25p-111g32. p-333 %15<b32^8
 
 #-----------------------------------------------------------------------------
-Ch0 t88  m8 r1024 l16
+Ch0 t87  m8 r1024 l16|
 Ch1         r1024 l16
 Ch2         r1024 l16
 Ch3         r1024 l16
@@ -156,7 +156,46 @@ Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32ccc32c32
 Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32ccc32c32
 Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)cc(H)c8
 
+#-----------------------------------------------------------------------------
+# Part 6 - Coda
+#-----------------------------------------------------------------------------
 
-Ch0 r1
+Ch1 g+8rf+8rg+8rf+8rg+8b8 g+8rf+8rg+8rf+8rg+8>c+8< g+8rf+8rg+8rf+8rg+8b8  g+8rf+8rg+8.f+4.ef+
+Ch1 g+8rf+8rg+8rf+8rg+8b8 g+8rf+8rg+8rf+8rg+8>c+8< g+8rf+8rg+8rf+8rg+8b8  g+8rf+8rg+8.%99\e44100f+2
+Ch0 e8rd+8re8rd+8re8e8 e8rd+8re8rd+8re8g+8 e8rd+8re8rd+8re8e8 e8rd+8re8.d+4.r8
+Ch0 e8rd+8re8rd+8re8e8 e8rd+8re8rd+8re8g+8 e8rd+8re8rd+8re8e8 e8rd+8re8.%99\e44100d+2
 
+Ch2 (CG5)v13o4
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<f+8ed+<b>d+>
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e16^2
 
+Ch3 r(CG5)v9o4
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<f+8ed+<b>d+>
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+16^2
+
+Ch4 r1r1r1r2.r8(B)c8
+Ch4 (B)c8c8(S)c4 (B)c(S)c8(H3)c (S)c8(S2)cc
+Ch4 (B)c8c8(S)c4 (B)c(S)c8(H3)c (S)c8(S2)cc
+Ch4 (B)c8c8(S)c4 (B)c(S)c8(H3)c (S)c8(S2)cc
+Ch4 (B)c8c8(S)c4 (B)c(S)c8(H3)c (S)c4p-0
+
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) r4
