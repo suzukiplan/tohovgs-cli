@@ -1,0 +1,200 @@
+# 法界の火
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s33 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e48000 @1 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s600 \e11025 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-80  @3 %35 v12 o4
+$HeartBeat \s10 \e1000 @0  v35 o2 %70p-333 e32.%25p-111g32. p-333 %15<b32^8
+
+#-----------------------------------------------------------------------------
+Ch0 t87  m8 r1024 l16|
+Ch1         r1024 l16
+Ch2         r1024 l16
+Ch3         r1024 l16
+Ch4         r1024 l16
+Ch5         r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 - Heart beat only
+#-----------------------------------------------------------------------------
+Ch0 r1r1r1r1
+Ch1 r1r1r1r1
+Ch2 r1r1r1r1
+Ch3 r1r1r1r1
+Ch4 r1r1r1r1
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+
+#-----------------------------------------------------------------------------
+# Part 2 - Heart beat + Pad
+#-----------------------------------------------------------------------------
+Ch0 r1r1r1r2.r8. (CG5)o5v8 ef+
+Ch1 r1r1r1r2.r8 (CG5)o5v13 ef+
+Ch2 r1r1r1r1
+Ch3 (Pad)o5v10 \s44100 e1^1 e1^1
+Ch4 (Pad)o4v10 \s42000 b1^1 >b1^1< \s22050
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) r4
+Ch5 (HeartBeat) r4 (HeartBeat) (S2)c8cc
+
+#-----------------------------------------------------------------------------
+# Part 3 - Heart beat + Pad + Piano
+#-----------------------------------------------------------------------------
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>d
+
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+
+Ch2 r1r1(CG5)v14o3
+Ch2 e4<a>df+e4e4e4e4e4ee4
+
+Ch3 e1^1 (CG5)v13o2
+Ch3 b4r8.b4b4b4b4b4bb4
+
+Ch4 g1^1 < @1e1^1
+
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c4
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c8(B)cc
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c4
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (H)c8(H3)cc
+
+#-----------------------------------------------------------------------------
+# Part 4 - Main Theme
+#-----------------------------------------------------------------------------
+Ch0 (Brass)v14o5
+Ch0 \s8000b1.\s3000a4>d4< \s22050g1.\s5000f+4a4 \s9000b1.\s5000a4>d4< g4.f+4.e4.d4. f+4a4
+
+Ch4 (Brass)v13o5
+Ch4 \s22050e1.<\s8000a2> \s9999e1.<\s3000b4>d4 \s22050e1 r8\s600<a8>d8f+8 e8.<b8.>f+e \s5000e4.d4.c4.<b4.a2
+
+Ch1 v12
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+<a8 gf+d+f+>
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+<a8 gf+d+f+>
+
+Ch2 e8.e8.e8 re8.e8e8  e8.e8.e8 re8.e8e8  g8.g8.g8 rg8.g8g8  g8.g8.g8 re8. gf+d+f+
+Ch3 b8.b8.b8 rb8.b8b8  b8.b8.b8 rb8.b8b8 >e8.e8.e8 re8.e8e8  e8.e8.e8 r2<
+Ch2 e8.e8.e8 re8.e8e8  e8.e8.e8 re8.e8e8  g8.g8.g8 rg8.g8g8  g8.g8.g8 re8. gf+d+f+
+Ch3 b8.b8.b8 rb8.b8b8  b8.b8.b8 rb8.b8b8 >e8.e8.e8 re8.e8e8  e8.e8.e8 r2<
+
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+
+#-----------------------------------------------------------------------------
+# Part 5 - Gedatsu
+#-----------------------------------------------------------------------------
+Ch1 (Brass)v14o5
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch1 gf+d<a gf+>dg8 f+<a8 gf+d+f+>
+Ch1 b8ra8rb8ra8rb8>d8< b8ra8rb8ra8rb8>e8< b8ra8rb8ra8rb8>d8< b8ra8rb8.a4^16ef+
+
+Ch0 r(Brass)v9o5
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+>de
+Ch0 gf+d<a gf+>v13e8.v9 f+d<a gf+d+>v13
+Ch0 g8rf+8rg8rf+8rg8g8 g8rf+8rg8rf+8rg8b8 g8rf+8rg8rf+8rg8g8 g8rf+8rg8.f+4^16r8
+
+Ch2 e8.e8.e8 re8.e8e8  e8.e8.e8 re8.e8e8  g8.g8.g8 rg8.g8g8  g8.g8.g8 re8. gf+d+f+
+Ch3 b8.b8.b8 rb8.b8b8  b8.b8.b8 rb8.b8b8 >e8.e8.e8 re8.e8e8  e8.e8.e8 r2<
+Ch2 e8.e8.e8 re8.e8e8  e8.e8.e8 re8.e8e8  g8.g8.g8 rg8.g8g8  g8.g8.g8 re8.^4
+Ch3 b8.b8.b8 rb8.b8b8  b8.b8.b8 rb8.b8b8 >e8.e8.e8 re8.e8e8  e8.e8.e8 <rb8.^4
+
+Ch4 (Brass)v12o5
+Ch4 \s8000b1.\s3000a4>d4< \s22050e1.\s5000f+4a4 (CG3)o5
+Ch4 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch4 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch4 gf+d<a gf+>dg8 f+d<a gf+>de
+Ch4 gf+d<a gf+>dg8 f+<a8 gf+d+f+>
+
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32ccc32c32
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32ccc32c32
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32ccc32c32
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32ccc32c32
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32ccc32c32
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32ccc32c32
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32ccc32c32
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)cc(H)c8
+
+#-----------------------------------------------------------------------------
+# Part 6 - Coda
+#-----------------------------------------------------------------------------
+Ch1 g+8rf+8rg+8rf+8rg+8b8 g+8rf+8rg+8rf+8rg+8>c+8< g+8rf+8rg+8rf+8rg+8b8  g+8rf+8rg+8.f+4^16ef+
+Ch1 g+8rf+8rg+8rf+8rg+8b8 g+8rf+8rg+8rf+8rg+8>c+8< g+8rf+8rg+8rf+8rg+8b8  g+8rf+8rg+8.%99\e44100f+8.^4
+Ch0 e8rd+8re8rd+8re8e8 e8rd+8re8rd+8re8g+8 e8rd+8re8rd+8re8e8 e8rd+8re8.d+4^16r8
+Ch0 e8rd+8re8rd+8re8e8 e8rd+8re8rd+8re8g+8 e8rd+8re8rd+8re8e8 e8rd+8re8.%99\e44100d+8.^4
+
+Ch2 (CG5)v13o4
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<f+8ed+<b>d+>
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e8d+<bf+ed+b>c+
+Ch2 ed+<bf+ed+b>e16^2
+
+Ch3 r(CG5)v9o4
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<f+8ed+<b>d+>
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+8.v9d+<bf+ed+b>c+
+Ch3 ed+<bf+ed+>v13c+16^2
+
+Ch4 (Pad2)v10o2
+Ch4 e1^1
+Ch4 c+1^1
+Ch4 e1^1
+Ch4 c+1^1
+
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H3)c32c32(H)c8(H2)c
+Ch5 (HeartBeat) (H3)c32c32(H)c8(H2)c (HeartBeat) (H)c8(B)c8
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c8(S2)cc
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c8(S2)cc
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c8(S2)cc
+Ch5 (HeartBeat) (S)c4 (HeartBeat) (S)c4

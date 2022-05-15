@@ -4,6 +4,9 @@
 
 - コマンドライン上で動作する 東方 BGM on VGS です
 - 今の所 macOS 専用 です
+- このリポジトリの　[./mml](./mml)　ディレクトリが、東方 BGM on VGS の楽曲配信サーバのデータソースになっているので、最新の楽曲配信の情報はコチラのリポジトリをチェックしていただくのが一番手っ取り早いです
+  - 現在の仕込み状況は [Open 中の Pull Request](https://github.com/suzukiplan/tohovgs-cli/pulls) で確認できます
+  - 配信済み楽曲の情報は [Closed Pull Request](https://github.com/suzukiplan/tohovgs-cli/pulls?q=is%3Apr+is%3Aclosed) で確認できます
 
 ## How to setup
 
@@ -102,4 +105,3 @@ MML の仕様は[こんな感じ](https://github.com/suzukiplan/vgs-mml-compiler
 - [vgs-mml-compiler](https://github.com/suzukiplan/vgs-mml-compiler): このプログラムの著作権は Yoji Suzuki に帰属します（2 箇条 BSD ライセンス）
 - tohovgs-cli: 本プログラムの著作権は Yoji Suzuki に帰属します（MIT ライセンス）
 - meta-update: 本プログラムの著作権は Yoji Suzuki に帰属します（MIT ライセンス)
-
