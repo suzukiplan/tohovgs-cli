@@ -105,4 +105,3 @@ MML の仕様は[こんな感じ](https://github.com/suzukiplan/vgs-mml-compiler
 - [vgs-mml-compiler](https://github.com/suzukiplan/vgs-mml-compiler): このプログラムの著作権は Yoji Suzuki に帰属します（2 箇条 BSD ライセンス）
 - tohovgs-cli: 本プログラムの著作権は Yoji Suzuki に帰属します（MIT ライセンス）
 - meta-update: 本プログラムの著作権は Yoji Suzuki に帰属します（MIT ライセンス)
-
