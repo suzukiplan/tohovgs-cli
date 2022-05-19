@@ -326,6 +326,47 @@ Ch5 (S)c4 c32c32c32c32c32c32c32c32 c4 c8cc
 #-----------------------------------------------------------------------------
 # Part 5 (C)
 #-----------------------------------------------------------------------------
+Ch0 o2
+Ch0 g-1 f1 g-1 f1
+Ch1 (Brass)v14o4 b-2b-2 a1 b-2b-2 a1
+Ch2 (Brass)v13o4 g-2g-2 f1 g-2g-2 f1
+Ch3 (Pad2)v12o3 b-1 a1 b-1 a1
+Ch4 (CG5)v11o4
+Ch4 g-b->cd-g-d-c<b- g-b->cd-g-d-c<b- fab->cfc<b-a fab->cfc<b-a
+Ch4 g-b->cd-g-d-c<b- g-b->cd-g-d-c<b- fab->cfc<b-a fab->cfc<b-a
+Ch5 (HH)c2r4(B)cccc
+Ch5 (S)c4r2.
+Ch5 (HH)c2r4(B)cccc
+Ch5 (S)c4r4c4r4
+
+Ch0 t161
+Ch0 g-1 f1
+Ch1 b-2b-2 a2>c2
+Ch2 g-2g-2 f2 a2
+Ch3 b-2b-2 a2>c2
+Ch4 g-b->cd-g-d-c<b- g-b->cd-g-d-c<b- fab->cfc<b-a fab->cfc<b-a
+Ch5 (HH)c2(B)c4c4
+Ch5 (S2)c4c4c4c4
+
+Ch0 t154
+Ch0 g-2a-2 b-1^1 r1
+Ch1 <b-2>c2 d-1 d1.r2
+Ch2 g-2a-2 b-1^1 r1
+Ch3 <b-2>c2 d-1 d1.r2
+Ch4 g-b->cd-g-d-c<b- a->cd-e-a-e-d-c< b->d-e-fb-fe-d-< b->d-e-fb-fe-d-<
+Ch4 b->d-e-fb-fe-d-< b->d-e-f b-2.r2
+Ch5 (HH)c2c4.(B)c8
+Ch5 (HH)c4(S)c4(B)c8cc(S)c4
+Ch5 (B)c8c8 (S2)cccc (B)c8c8 (S)cccc
+Ch5 (S)c2r2
+
+Ch0 t152
+Ch0 r1
+Ch1 <g2>d2
+Ch2  d2 g2
+Ch3 r2 (CG5)v13o4 g4>d2
+Ch4 r1
+Ch5 r2.(H3)cc(H)c8
 
 # zure check
 #Ch0 r1p-0v13(Sq)o4 c1
