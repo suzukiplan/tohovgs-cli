@@ -251,7 +251,7 @@ Ch5 (S)c4 c32c32c32c32c32c32c32c32 c8c8 <g32g32f32f32e32e32d32d32
 # Part 4 (B')
 #-----------------------------------------------------------------------------
 Ch0 t163
-Ch0 o2 g-8.r g-b->d-f <g-8>d-<g-64r32.g-ra-4
+Ch0 o2v12 g-8.r g-b->d-f <g-8>d-<g-64r32.g-ra-4
 Ch0 a-64r32. a-64r32. a->a-<g->g-< a- a-64r32. a-8 a-64r32. a-64r32. a- a-64r32.
 Ch0 b-4 b-64r32. b-64r32. >b-<b- >f<fa-b- b-64r32. b-64r32. >f<b-
 Ch0 b-8>d-8 fb-8<b-> fd-<b->d- <b-b-64r32.>f<b-
@@ -259,7 +259,7 @@ Ch0 g-8.r g-b->d-f <g-8>d-<g-64r32.g-ra-4
 Ch0 a-64r32. a-64r32. a->a-<g->g-< a- a-64r32. a-8 a-64r32. a-64r32. a- a-64r32.
 Ch0 b-4 b-64r32. b-64r32. >b-<b- >f<b->d-<b- b-64r32. b-64r32. >f<b-
 Ch0 b-8>d-8fb-8 a-8. g-8 fe-<b->d-
-Ch0 o2 g-8.r g-b->d-f <g-8>d-<g-64r32.g-ra-4
+Ch0 o2v13 g-8.r g-b->d-f <g-8>d-<g-64r32.g-ra-4
 Ch0 a-64r32. a-64r32. a->a-<g->g-< a- a-64r32. a-8 a-64r32. a-64r32. a- a-64r32.
 Ch0 b-4 b-64r32. b-64r32. >b-<b- >f<fa-b- b-64r32. b-64r32. >f<b-
 Ch0 b-8>d-8 fb-8<b-> fd-<b->d- <b-b-64r32.>f<b-
@@ -306,24 +306,26 @@ Ch5 (B)c8(H3)cc (S)c8(H)c8 (B)c(H3)c (B)c(H3)c (S)c8(H3)cc
 Ch5 (B)c8(H)c8 (S)c8(H3)cc (B)c(H3)c (B)c(H3)c (S)c8(H)c8
 Ch5 (B)c8(H3)cc (S)c8(H)c8 (B)c(H3)c (B)c(H3)c (S)c8(H3)cc
 
-
 Ch0 t162
 Ch0 b->d-fd- <b-ra-b- >d-f<b->d- <a-b-fa-
 Ch0 g-b->d-f d-<b-g-a- b-<b->d-f d-<ab-a-
 Ch0 fb->fb- >d-<fb-d- f<b->d-<f g-ga-a
 Ch0 b-8.b-64r32. b-8.b-64r32. b-4 b-r b-4
 Ch0 b-64r32. b-64r32. b-8 b-64r32. b-64r32. b-r b-4.
-Ch1 b-8a-8fr e-4d-8cr8. v10o4 b-8a-8fr e-4d-8cr (Brass)v14o6 fa- b-8a-8fr e-4d-8c4 <b-1^1
-Ch2 g-8f8d-r c4<b-8a-r8. v10o4 g-8f8d-r c4<b-8a-r (Brass)v14o6 d-f g-8f8d-r c4<b-8a-4 f1^1
-Ch3 o4 b-8a-8fr e-4d-8cr (Sq)v14o5 fa- b-8a-8fr e-4d-8cr fa- b-8a-8fr e-4d-8c4 <b-1^1
+Ch1 b-8a-8fr e-4d-8cr8. v10o4 b-8a-8fr e-4d-8cr (Brass)v13o6 fa- b-8a-8fr e-4d-8c4 <b-1^1
+Ch2 g-8f8d-r c4<b-8a-r8. v10o4 g-8f8d-r c4<b-8a-r (Brass)v13o6 d-f g-8f8d-r c4<b-8a-4 f1^1
+Ch3 o4 b-8a-8fr e-4d-8cr (Sq)v14o5 fa- b-8a-8fr e-4d-8cr v13 fa- b-8a-8fr e-4d-8c4 <b-1^1
 Ch4 o4 g-8f8d-r c4<b-8a-r (Sq)v13o5 d-f g-8f8d-r c4<b-8a-r> d-f g-8f8d-r c4<b-8a-4 f1^1
-
 Ch5 (B)c8(H)c8 (S)c8(H3)cc (B)c(H3)c (B)c(H3)c (S)c8(H)c8
 Ch5 (HH)c4(S2)v--------c32v++c32v++c32v++c32 (HH)c4(S2)v--------c32v++c32v++c32v++c32 (S)c8(S2)v--------c32v++c32v++c32v++c32
 Ch5 (HH)c4(S2)v--------c32v++c32v++c32v++c32 (HH)c4(S2)v--------c32v++c32v++c32v++c32 (S)c8(S2)v--------c32v++c32v++c32v++c32
 Ch5 (HH)c4(S2)v--------c32v++c32v++c32v++c32 (HH)c4(S2)v--------c32v++c32v++c32v++c32 (S)c8(S2)v--------c32v++c32v++c32v++c32
 Ch5 (B)c8(H)c8(S)c8(H2)c8 (S)c8cc c8c8
 Ch5 (S)c4 c32c32c32c32c32c32c32c32 c4 c8cc
+
+#-----------------------------------------------------------------------------
+# Part 5 (C)
+#-----------------------------------------------------------------------------
 
 # zure check
 #Ch0 r1p-0v13(Sq)o4 c1
