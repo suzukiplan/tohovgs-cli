@@ -362,11 +362,55 @@ Ch5 (S)c2r2
 
 Ch0 t152
 Ch0 r1
-Ch1 <g2>d2
+Ch1 (Sq)<g2>d2
 Ch2  d2 g2
-Ch3 r2 (CG5)v13o4 g4>d2
+Ch3 r2 (CG5)v13o4 g4>d4
 Ch4 r1
 Ch5 r2.(H3)cc(H)c8
+
+#-----------------------------------------------------------------------------
+# Part 6 (D) Phase-1
+#-----------------------------------------------------------------------------
+Ch0 o2 g1 f+1 e1^1
+Ch1 (Sq)v14o4 b2.f+8g8 >d2.<f+8g8 >d4.e8 e1 e4f+4
+Ch2 (Brass)v13o4 g2.r4 f+2.r4 f+2g1.
+Ch3 (Brass)v12o4 e1d1 d2e1.
+Ch4 (CG5)v12o4 e8<b8>g4r8e8g8<b8> a8>d8 g32.f+32.a32^8 f+16.d16.<a g4 b4.a4.g2.r8g8a4
+Ch5 (HH)c2r2 r1 r1 r1
+
+Ch0 t154
+Ch0 >c1d1 e1^1
+Ch0 c1d1
+Ch0 e4e64r32.r e4. r8 e4.e64r32.r e4.e64r32.r e8
+Ch0 c1d1 e1^1
+
+Ch1 g2.g4 f+8g8f+8d8 <b8rg8.>e1.r8 e4f+4
+Ch1 g2.a4 f+4.d4.f+8a8
+Ch1 b8g8e8 a8f+8d8.r g4e8<b8>f+8d8<a8r8 b8^2. f+8g8 >d2.<f+4 g4.f+4.e1 (Brass)g8a8
+
+Ch2 b1 a2g8re8.g2 f+4. e2^8 r8r2
+Ch2 b1 a2.r4>
+Ch2 g8e8<b8> f+8d8<a8.r >e4<b8g8 >d8<a8f+8r8 g8^2.d8d8 f+2.d4 e4.d4.<b1>e8f+8
+
+Ch3 e1d2>d4^16c+32c32<b1.r8r2
+Ch3 g1f+2.f+8a8
+Ch3 b8g8e8 a8f+8d8.r g4e8<b8> f+8d8<a8 r8 b8^1 >d2.<f+4 g4.f+4.e1 g8a8
+
+Ch4 o3
+Ch4 c8ev-------cv+++++++gv-------ev+++++++>c<v-------gv+++++++> ev-------cv+++++++cv-------ev+++++++<gv------->c<v+++++++ev-------gv+++++++
+Ch4 d8f+v-------dv+++++++ av-------f+v+++++++>d<v-------av+++++++> gv-------dv+++++++f+4
+Ch4 b2a4.g4
+Ch4 f+gde <b>d<gb e8ga gab>d
+Ch4 c8<g8>e4 g8c8e8<g8
+Ch4 a8f+8>d8<a8>
+Ch4 f+8d8<a8>d8
+Ch4 e8<b8g8b8>d8f+gd8e4
+Ch4 g8<b8>b8<b8>e8<b8g8
+Ch4 c8ev-------cv+++++++gv-------ev+++++++>c<v-------gv+++++++> ev-------cv+++++++cv-------ev+++++++<gv------->c<v+++++++ev-------gv+++++++
+Ch4 d8f+v-------dv+++++++ av-------f+v+++++++>d<v-------av+++++++> gv-------dv+++++++ f+4d4 r1r1
+
+Ch5 r1r1r1r1 r1r1r1r1 r1r1r1
+Ch5 (HH)c4.(S)<g32g32g f8.e8.d8
 
 # zure check
 #Ch0 r1p-0v13(Sq)o4 c1
