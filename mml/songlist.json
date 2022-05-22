@@ -1,5 +1,5 @@
 {
-    "version": "2022.05.15",
+    "version": "2022.05.21",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1176,6 +1176,14 @@
                     "loop": 1,
                     "name": "法界の火",
                     "english": "Fire of the Dharmadhatu"
+                },
+                {
+                    "appleId": "1581358405",
+                    "mml": "TH12-13",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "感情の摩天楼　〜 Cosmic Mind",
+                    "english": "Emotional Skyscrapers　〜 Cosmic Mind"
                 }
             ]
         }
