@@ -160,6 +160,38 @@ Ch5 (B)c8(H3)cc (S)c8(H3)c(B)c c(H3)c(B)c(H3)c (S)c8(H)c8
 Ch5 (B)c8(H3)cc (S)c8(H3)c(B)c c(H3)c(B)c(H3)c (S)c8(H)c8
 CH5 (HH)c4.(S)c8 (HH)c8(S)c8c4
 
+#-----------------------------------------------------------------------------
+# Part 3 (A')
+#-----------------------------------------------------------------------------
+Ch0 (Bass)o2p-0
+Ch0 g-4 g-r8. g-64r32. g-64r32. a-4.
+Ch0 b-4 b-r8. b-64r32. b-64r32. >c4.
+Ch0 d-4 d-r8. d-64r32. d-64r32. e-4.
+Ch0 f8 r2 <a-4a-r
+Ch0 g-4 b-4 a8>c4.<
+Ch0 a4 >d-4< b-8> e-4.
+Ch0 g-4.r8 c8 r4 < b-64r32. b-64r32.
+Ch0 b-8r8 b-64r32. b-64r32. b-8 r8 g-8>d-8<g-8
+
+Ch1 (Brass)v14o5 b-4.r4>c4. r4d-8r4c4.  <r4b-8r4>c4. d-8r2c4c8<
+Ch2 (Brass)v13o5 g-4.r4a-4. r4b-8r4a-4.  r4g-8r4a-4. f8 r2a-4a-8
+Ch1 r4b-8r4>c4. r4d-8r4c4.  <r4b-8r4>c4<a->c d-8r4e-4r8d-8<fa-
+Ch2 r4f8 r4a-4. r4b-8r4a-4.  r4f8 r4a-4 r8   b-8r4>c4r8<b-8r8
+
+Ch3 r4 (CG5)v12o4 b-8r4>e-4. r4f8r4e-4.  r4<b-8r4>c4. d-8r4.<b->c16^4cr<
+Ch4 r4 (CG5)v12o4 g-8r4a-4.  r4>d-8r4c4. r4<f8 r4a-4. b-8r4. r  a-16^4a-r
+Ch3 r4b-8r4>c4. r4d-8r4c4.< r4b-8r4>c4<a->c d-8r4d-8r4d-8r8
+Ch4 r4g-8r4a-4. r4b-8r4a-4. r4f8 r4a-4r8    b-8r4b-8r4b-8r8
+
+Ch5 (HH)c4 (S2)c8(H3)cc (B)c8(H3)cc (S2)c8(H)c8
+Ch5 (B)c8(H3)cc (S2)c8(H3)c(B)c c8(H3)cc (S2)c8(H)c8
+Ch5 (B)c8(H3)cc (S2)c8(H)c8 (B)c8(H3)cc (S2)c8(H)c8
+Ch5 (S)c4(H3)cccc cc(B)c8(S2)c8(B)c8
+Ch5 (B)c8(H)c8 (S2)c8(H3)cc (B)c8(H3)cc (S2)c8(H)c8
+Ch5 (B)c8(H3)cc (S2)c8(H3)c(B)c c8(H3)cc (S2)c8(H)c8
+Ch5 (B)c8(H3)cc (S2)c8(H)c8 (B)c8(H3)cc (S2)c8(H)c8
+Ch5 (S)c4(B)cc (S)c4(B)cc (S)c8(B)cc
+
 # zure check
 #Ch0 p-0r1(Brass)v13o5 c1
 #Ch1 p-0r1(Brass)v13o5 e1
