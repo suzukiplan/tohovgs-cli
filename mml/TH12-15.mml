@@ -1,0 +1,70 @@
+# 平安京のエイリアン
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s33 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e48000 @1 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s600 \e11025 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-80  @3 %35 v12 o4
+
+#-----------------------------------------------------------------------------
+Ch0 t171  m8 r1024 l16
+Ch1          r1024 l16
+Ch2          r1024 l16
+Ch3          r1024 l16
+Ch4          r1024 l16
+Ch5          r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 (I)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 d2e-2e2e-2 d2e-2e2e-2 d2e-2e2e-2 d2e-2e2e-2
+
+Ch1 (CG5)v13o4
+Ch1 d2e-2e2e-2 d2e-2e2e-2 d2e-2e2e-2 d2e-2e2e-2
+
+Ch2 r8(CG5)v12o4
+Ch2 g8a8>d8< r8g8a8>d8< r8g8a8>d8< r8g8a8>d8<
+Ch2 r8g8a8>d8< r8g8a8>d8< r8g8a8>d8< r8g8a8>d8<
+Ch2 r8g8a8>d8< r8g8a8>d8< r8g8a8>d8< r8g8a8>d8<
+Ch2 r8g8a8>d8< r8g8a8>d8< r8g8a8>d8< r8g8a8>d8<
+
+Ch3 r1r1r1r1
+Ch3 (Brass)v14o3
+Ch3 dga>dgagd< e-ga>e-gage-< ega>egage< e-ga>e-gage-<
+Ch3 dga>dgagd< e-ga>e-gage-< ega>egage< e-ga>e-gage-<
+
+Ch4 r1r1r1r1
+Ch4 (CG5)v14o5
+Ch4 d8g8a8>d8< e-8g8a8>d8< e8g8a8>d8< e-8g8a8>d8<
+Ch4 d8g8a8>d8< e-8g8a8>d8< e8g8a8>d8< e-8g8a8>d8<
+
+Ch5 (S2)c4.(B)cc(S2)c2
+Ch5 (S2)c4.(B)cc(S2)c2
+Ch5 (S2)c4.(B)cc(S2)c2
+Ch5 (S2)c4 (S)c8(B)cc (S2)c4 (H)c4
+Ch5 (HH)c4 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (S)c8cc
+Ch5 (HH)c4 (S)c8c8 (HH)c4 (S)cccc
+
+Ch0 r1
+
