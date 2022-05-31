@@ -1,5 +1,5 @@
 {
-    "version": "2022.05.27",
+    "version": "2022.06.01",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1190,8 +1190,8 @@
                     "mml": "TH12-14",
                     "ver": 0,
                     "loop": 1,
-                    "name": "星空のユーフォーロマンス",
-                    "english": "UFO Romance in the Starry Sky"
+                    "name": "夜空のユーフォーロマンス",
+                    "english": "UFO Romance in the Night Sky"
                 }
             ]
         }
