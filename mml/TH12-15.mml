@@ -1,4 +1,4 @@
-# 平安京のエイリアン
+# 平安のエイリアン
 $Brass \s66 \e9999 @1 %75
 $Brass2 \s33 \e6000 @1 %75
 $Brass3 \s300 \e22050 @1 %80
@@ -190,6 +190,63 @@ Ch5 (HH)c8(S2)c8(S)c8c8 (HH)c8(S)c8c8(S2)cc
 Ch5 (HH)c8(S2)c8(S)c8c8 (HH)c8(S)c8(S2)c8(S)c8
 Ch5 (HH)c8(S2)c8(S)c8c8 (HH)c8(S)c8c8(S2)cc
 Ch5 (S)c32c32cc8 c32c32cc8 c8cc c32c32c32c32c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Part 4 (A')
+#-----------------------------------------------------------------------------
+Ch0 d4 r8dd d4r8d64r32.r  d4.d64r32.r d4.r8  d4 r8dd d4<a8r8>  c8r8<b-8r8a4r4>
+Ch0 d4 r8dd d4r8d64r32.r  d4.d64r32.d64r32. d4<a8r8>  d4.r8<b-4.r8>  c8r8<b-8r8a4a8>er
+Ch0 d4 r8dd d4r8d64r32.r  d4.d64r32.r d4.r8  d4 r8dd d4<a8r8>  c8r8<b-8r8a4r4>
+Ch0 d4 r8dd d4r8d64r32.r  d8r8<b-8r8>d8r8c8r8  d4.d64r32.d64r32. f4.r8 e-4.r8 e-4.r8
+
+Ch1 (Brass)v14o5l8
+Ch1 fr>drd-r<ar >cr<b-rargr fr>dr<ar>cr< brg+4a4.r
+Ch1 fr>drd-r<ar >cr<b-rargr fr>dr<ar>fr e-rc+4d4.r l16
+Ch1 r4a8r4.a8r4.a8r4ab->c4 d2r4c8r8 <b8r8g+4a4.g+32g32f+32f32
+Ch1 <f4r4.f8g8a8 b-2>e-2 d4r4f2 e4r4e-2
+
+Ch2 (Brass)v13o5l8
+Ch2 drarg+rer grfrere-r drarerar g+rf4f+4.r
+Ch2 drarg+rer grfrere-r drarer>cr< brg+4a4.r
+Ch2 fr>drc+r<ar >cr<b-rargr fr>dr<ar>fr e-rc+4d4.d-32c32<b32b-32
+Ch2 d4>drc+r<ar >cr<b-rargr a4r4>c2<b4r4b-2 l16
+
+Ch3 (CG5)v12o4\e12000
+Ch3 d2a-2 g2e2 d2e2 b2a2
+Ch3 d2a-2 g2e2 d2e2 b2a2
+Ch3 r4(Brass)v13o5l8
+Ch3 arg+rer grfrere-r drarer>cr< brg+4a4.g+32g32f+32f32
+Ch3 r4 arg+ def  e2b-2 d4r4f2 e4r4e-2
+
+Ch4 r4(CG5)v12o4\e12000
+Ch4 a2e2 f2e-2 a2>c2 <a-2r2
+Ch4 a2e2 f2e-2 a2>c2 <a-2r4
+Ch4 (CG5)v13d8v------d8v++++++ a8v------a8v++++++ g+8v------g+8v++++++ e8v------e8v++++++
+Ch4 g8v------g8v++++++ f8v------f8v++++++ e8v------e8v++++++ e-8v------e-8v++++++
+Ch4 d8v------d8v++++++ a8v------a8v++++++ e8v------e8v++++++ >c8v------c8v++++++<
+Ch4 b8v------b8v++++++ g+8v------g+8v++++++ a8v---a8v---a8v---a8
+Ch4 v12d8v------d8v++++++ a8v------a8v++++++ g+8v------g+8v++++++ e8v------e8v++++++
+Ch4 g8v------g8v++++++ f8v------f8v++++++ e8v------e8v++++++ e-8v------e-8v++++++
+Ch4 d8v------d8v++++++ a8v------a8v++++++ e8v------e8v++++++ >c8v------c8v++++++<
+Ch4 b8v------b8v++++++ g+8v------g+8v++++++ a8v---a8v---a8v---a8
+
+Ch5 (S)c8(H3)cc (S)c8(B)cc (S)c8(H3)cc (S)c8(H3)cc
+Ch5 (S)c8(H3)cc (S)c8(B)c(H3)c (S)c8(H3)cc (S)c8(H3)cc
+Ch5 (S)c8(H3)cc (S)c8(B)cc (S)c8(H3)cc (S)c8(H3)cc
+Ch5 (S)c8(H3)cc (S)c8(B)c(H3)c (S)c8(B)c(H3)c (S)c8(B)c(H3)c
+Ch5 (S)c8(H3)cc (S)c8(B)cc (S)c8(H3)cc (S)c8(H3)cc
+Ch5 (S)c8(H3)cc (S)c8(B)c(H3)c (S)c8(H3)cc (S)c8(H3)cc
+Ch5 (S)c8(H3)cc (S)c8(B)cc (S)c8(H3)cc (S)c8(H3)cc
+Ch5 (S)c8(H3)cc (S)c8(B)c(H3)c (S)c8(B)c(H3)c (S)c8(B)c(H3)c
+Ch5 (H3)c(H)c(S)c(H2)c (H3)c(H)c(S)c(B)c c(H)c(S)c(H2)c (H3)c(H)c(S)c(H2)c
+Ch5 (H3)c(H)c(S)c(H2)c (H3)c(H)c(S)c(B)c c(H)c(S)c(H2)c (H3)c(H)c(S)c(H2)c
+Ch5 (H3)c(H)c(S)c(H2)c (H3)c(H)c(S)c(B)c c(H)c(S)c(H2)c (H3)c(H)c(S)c(H2)c
+Ch5 (H3)c(H)c(S)c(H2)c (H3)c(H)c(S)c(B)c c(H)c(S)c(H2)c (B)c(H)c(S)c(H2)c
+Ch5 (H3)c(H)c(S)c(H2)c (H3)c(H)c(S)c(B)c c(H)c(S)c(H2)c (H3)c(H)c(S)c(H2)c
+Ch5 (H3)c(H)c(S)c(H2)c (H3)c(H)c(S)c(B)c c(H)c(S)c(H2)c (H3)c(H)c(S)c(H2)c
+Ch5 (HH)c4.(B)cc (HH)c4.(S2)c32c32c32c32
+Ch5 (S)c2 c8v------c32v++c32v++c32v++c32 c8v------c32v++c32v++c32v++c32
+
 
 Ch0 r1
 
