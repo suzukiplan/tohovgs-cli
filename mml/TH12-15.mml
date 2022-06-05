@@ -80,10 +80,10 @@ Ch1 d4.r8 e-4.r8 e4.r8 f4.r8 d4.r8 f4.r8 e4.r8 e-4.r8
 
 Ch2 (CG5)v11o3l8
 Ch2 a>d<a>d< b->e-<b->e-< b>e<b>e cfcf <a>d<a>d cfcf <b>e<b>e <b->e-<b->e-<
-Ch2 a>d<a>d< b->e-<b->e-< b>e<b>e cfcf <a>d<a>d cfcf <b>e<b>e <b->e-<b->e-<
+Ch2 a>d<a>d< b->e-<b->e-< b>e<b>e cfcf <a>d<a>d cfcf <b>e<b>e <b->e-<b->e-< l16
 Ch3 (CG5)v11o3l8
 Ch3 dada e-b-e-b- ebeb f>c<f>c< dada f>c<f>c< ebeb e-b-e-b-
-Ch3 dada e-b-e-b- ebeb f>c<f>c< dada f>c<f>c< ebeb e-b-e-b-
+Ch3 dada e-b-e-b- ebeb f>c<f>c< dada f>c<f>c< ebeb e-b-e-b- l16
 
 Ch2 o3l8a>d (Brass)v14o5l16 a8r8
 Ch2 (CG5)v11o3l8 b->e- (Brass)v14o5l16 a8r8
@@ -216,7 +216,7 @@ Ch3 d2a-2 g2e2 d2e2 b2a2
 Ch3 d2a-2 g2e2 d2e2 b2a2
 Ch3 r4(Brass)v13o5l8
 Ch3 arg+rer grfrere-r drarer>cr< brg+4a4.g+32g32f+32f32
-Ch3 r4 arg+ def  e2b-2 d4r4f2 e4r4e-2
+Ch3 r4 arg+ def  e2b-2 d4r4f2 e4r4e-2 l16
 
 Ch4 r4(CG5)v12o4\e12000
 Ch4 a2e2 f2e-2 a2>c2 <a-2r2
@@ -385,6 +385,45 @@ Ch5 (B)c8(H3)cc (S2)c8(H3)cc (B)c(H3)c(B)c(H3)c (S2)c8(H3)cc
 Ch5 (B)c8(H3)cc (S2)c8(H3)cc (B)c(H3)c(B)c(H3)c (S2)c8(H3)cc
 Ch5 (B)c8(H3)cc (S2)c8(H3)cc (S)c8cc c8c8
 
+#-----------------------------------------------------------------------------
+# Part 6 (I3)
+#-----------------------------------------------------------------------------
+Ch0 o2 b4.b64r32.b64r32. >c4.r8 c+4.c+64r32.c+64r32. c4.r8<
+Ch0 b4.b64r32.b64r32. >c4.r8 c+4.c+64r32.c+64r32. c4.r8<
+Ch0 b4.b64r32.b64r32. >c4.r8 c+4.c+64r32.c+64r32. c4.r8<
+Ch0 b4.b64r32.b64r32. >c4.r8 c+4.c+64r32.c+64r32. c4.r8<
+
+Ch1 o3(CG4)v13 b2>c2c+2c2< b2>c2c+2c2< b2>c2c+2c2< b2>c2c+2c2<
+
+Ch2 (Sq)v12o4b1^1r1r1
+Ch2 (CG5)v13o5
+Ch2 f+8 bv------f+v++++++ >e<v------bv++++++> f+v------ev++++++<
+Ch2 f+8 >c<v------f+v++++++> ev------cv++++++ f+v------ev++++++<
+Ch2 f+8 >c+<v------f+v++++++> ev------c+v++++++ f+v------ev++++++<
+Ch2 f+8 >c<v------f+v++++++> ev------cv++++++ f+8<
+Ch2 f+8 bv------f+v++++++ >e<v------bv++++++> f+v------ev++++++<
+Ch2 f+8 >c<v------f+v++++++> ev------cv++++++ f+v------ev++++++<
+Ch2 f+8 >c+<v------f+v++++++> ev------c+v++++++ f+v------ev++++++<
+Ch2 f+8 >c<v------f+v++++++> ev------cv++++++ f+8
+
+Ch3 r8o4(CG5)v13 e8f+8b8 r8e8f+8b8 r8e8f+8b8 r8e8f+8b8
+Ch3 r8e8f+8b8 r8e8f+8b8 r8e8f+8b8 r8e8f+8b8
+Ch3 r8(Brass)e8f+8b8 r8e8f+8b8 r8e8f+8b8 r8e8f+8b8
+Ch3 r8e8f+8b8 r8e8f+8b8 r8e8f+8b8 r8e8f+8b8
+
+Ch4 r8o3(CG3)v13 e8f+8b8 r8e8f+8b8 r8e8f+8b8 r8e8f+8b8
+Ch4 r8e8f+8b8 r8e8f+8b8 r8e8f+8b8 r8e8f+8b8 o2v14
+Ch4 b>def+b>d<bf+< b>def+>cdc<f+< b>def+>c+dc+<f+< b>def+>cdc<f+<
+Ch4 b>def+b>d<bf+< b>def+>cdc<f+< b>def+>c+dc+<f+< b>def+>cdc<f+<
+
+Ch5 (S2)c4.(B)cc (S2)c4r4
+Ch5 (S2)c4.(B)cc (S2)c4r4
+Ch5 (S2)c4.(B)cc (S2)c4r4
+Ch5 (S2)<g4g8(B)cc (S2)<g4(H)c4
+Ch5 (HH)c4 (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c
+Ch5 (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c
+Ch5 (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (S)c(B)c(S)c(B)c (S)c(B)c(S)cc
+Ch5 (HH)c4 (S)c8(S2)v---c32v+c32v+c32v+c32 (S)c8(S2)v---c32v+c32v+c32v+c32 (S)c8(S2)v---c32v+c32v+c32v+c32
 
 # ズレチェック
 #Ch0 r1p-0v12(Sq)o5 c1
