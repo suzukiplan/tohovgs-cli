@@ -22,7 +22,7 @@ $H  \s1  \e1000 p-64  @3 %75 v10 o2
 $HH \s1  \e1000 p-64  @3 %75 v15 o2
 $H2 \s1  \e1000 p-80  @3 %50 v10 o2
 $H3 \s1  \e10   p-80  @3 %25 v11 o3
-$H3a \s1 \e100  p-80  @3 %35 v12 o4
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
 
 #-----------------------------------------------------------------------------
 Ch0 t171  m8 r1024 l16
@@ -67,7 +67,7 @@ Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (S)c8cc
 Ch5 (HH)c4 (S)c8c8 (HH)c4 (S)cccc
 
 #-----------------------------------------------------------------------------
-# Part 2 (A)
+# Part 2 (A1)
 #-----------------------------------------------------------------------------
 Ch0 d4d8r8 e-4e-8r8 e4e8r8 f4f8r8 d4d8r8 f4f8r8 e4e8r8 e-4e-8r8
 Ch0 d4d8r8 e-4e-8r8 e4e8r8 f4f8r8 d4d8r8 f4f8r8 e4e8r8 e-4e-8r8
@@ -192,7 +192,7 @@ Ch5 (HH)c8(S2)c8(S)c8c8 (HH)c8(S)c8c8(S2)cc
 Ch5 (S)c32c32cc8 c32c32cc8 c8cc c32c32c32c32c32c32c32c32
 
 #-----------------------------------------------------------------------------
-# Part 4 (A')
+# Part 4 (A2)
 #-----------------------------------------------------------------------------
 Ch0 d4 r8dd d4r8d64r32.r  d4.d64r32.r d4.r8  d4 r8dd d4<a8r8>  c8r8<b-8r8a4r4>
 Ch0 d4 r8dd d4r8d64r32.r  d4.d64r32.d64r32. d4<a8r8>  d4.r8<b-4.r8>  c8r8<b-8r8a4a8>er
@@ -248,7 +248,7 @@ Ch5 (HH)c4.(B)cc (HH)c4.(S2)c32c32c32c32
 Ch5 (S)c2 c8v------c32v++c32v++c32v++c32 c8v------c32v++c32v++c32v++c32
 
 #-----------------------------------------------------------------------------
-# Part 5 (B / cadenza 1)
+# Part 5 (B1 / cadenza 1)
 #-----------------------------------------------------------------------------
 Ch0 <b-1> c1 d2.r8.r32 d32^2e2 f1 g1 d1 r1
 Ch0 <b1 a1 g+1 g4.r8a2 b1 a1 g+1 g2a2 
@@ -424,6 +424,66 @@ Ch5 (HH)c4 (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c
 Ch5 (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c
 Ch5 (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (S)c(B)c(S)c(B)c (S)c(B)c(S)cc
 Ch5 (HH)c4 (S)c8(S2)v---c32v+c32v+c32v+c32 (S)c8(S2)v---c32v+c32v+c32v+c32 (S)c8(S2)v---c32v+c32v+c32v+c32
+
+#-----------------------------------------------------------------------------
+# Part 7 (A3)
+#-----------------------------------------------------------------------------
+Ch0 b4r8bb b4r8b64r32.r  b4.b64r32.r b4.r8  b4r8bb b4f+8r8  a8r8g8r8f+4r4
+Ch0 b4r8bb b4r8b64r32.r  b4.b64r32.b64r32. b4f+8r8  b4.r8g4.r8  a8r8g8r8f+4f+8>c+r<
+Ch0 b4r8bb b4r8b64r32.r  b4.b64r32.r b4.r8  b4r8bb b4f+8r8  a8r8g8r8f+4r4
+Ch0 b4r8bb b4r8b64r32.r  b8r8g8r8b8r8a8r8  b4.b64r32.b64r32.>d4.r8  c+4.r8 c4.r8
+
+Ch1 (Brass)v14o5
+Ch1 d8r8b8r8a+8r8f+8r8  a8r8g8r8f+8r8e8r8  d8r8b8r8f+8r8a8r8  g+8r8e+4f+4.r8
+Ch1 d8r8b8r8a+8r8f+8r8  a8r8g8r8f+8r8e8r8  d8r8b8r8f+8r8>d8r8  c8r8<a+4b4.r8
+Ch1 d8r8f+8r4.f+8r4.f+8r4f+ga4  b2f+8r8a8r8g+8r8e+4f+4.f32e32d+32d32
+Ch1 d4r4.d8e8f+8  g4.g+32a32a+32b32>c2 <b4r4> d2c+2c2
+
+Ch2 (Brass)v13o4
+Ch2 b8r8>f+8r8e+8r8c+8r8 e8r8d8r8c+8r8<b+8r8  b8r8>f+8r8c+8r8f+8r8  e+8r8d4d+4.r8<
+Ch2 b8r8>f+8r8e+8r8c+8r8 e8r8d8r8c+8r8<b+8r8  b8r8>f+8r8c+8r8a8r8  g+8r8e+4f+4.r8<
+Ch2 b8r8>d8r4.d8r4.d8r4c+de4  f+2c+8r8f+8r8  e+8r8d4d+4.d32c+32c32<b32
+Ch2 b4r4.b8>c+8d8  e4.ff+g2  f+4r4 a2g+2g2
+
+Ch3 (Brass)v13o4
+Ch3 d8r8b8r8a+8r8f+8r8  a8r8g8r8f+8r8e8r8  d8r8b8r8f+8r8a8r8  g+8r8e+4f+4.r8
+Ch3 d8r8b8r8a+8r8f+8r8  a8r8g8r8f+8r8e8r8  d8r8b8r8f+8r8>d8r8  c8r8<a+4b4.r8
+Ch3 d8r8b8r8a+8r8f+8r8  a8r8g8r8f+8r8e8r8  d8r8b8r8f+8r8a8r8  g+8r8e+4f+4.f32e32d+32d32
+Ch3 d8r8b8r8a+8r8f+8r8  a8r8g8r8f+8r8e8r8  b4r4>\s8000d2c+2c2
+
+Ch4 (CG5)v12o4
+Ch4 b8v------b8v++++++ > f+8v------<b8>v++++++ f8v------f+8v++++++ c+8v------f8v++++++
+Ch4 e8v------c+8v++++++ d8v------e8v++++++ c+8v------d8v++++++ c8v------c+8v++++++ <
+Ch4 b8v------>c8<v++++++ > f+8v------<b8>v++++++ c+8v------f+8v++++++ a8v------c+8v++++++
+Ch4 g+8v------a8v++++++ f8v------g+8v++++++ f+4r4<
+Ch4 b8v------b8v++++++ > f+8v------<b8>v++++++ f8v------f+8v++++++ c+8v------f8v++++++
+Ch4 e8v------c+8v++++++ d8v------e8v++++++ c+8v------d8v++++++ c8v------c+8v++++++ <
+Ch4 b8v------>c8<v++++++ > f+8v------<b8>v++++++ c+8v------f+8v++++++ a8v------c+8v++++++
+Ch4 g+8v------a8v++++++ f8v------g+8v++++++ f+4r4<
+Ch4 b8v------b8v++++++ > f+8v------<b8>v++++++ f8v------f+8v++++++ c+8v------f8v++++++
+Ch4 e8v------c+8v++++++ d8v------e8v++++++ c+8v------d8v++++++ c8v------c+8v++++++ <
+Ch4 b8v------>c8<v++++++ > f+8v------<b8>v++++++ c+8v------f+8v++++++ a8v------c+8v++++++
+Ch4 g+8v------a8v++++++ f8v------g+8v++++++ f+4r4<
+Ch4 b8v------b8v++++++ > f+8v------<b8>v++++++ f8v------f+8v++++++ c+8v------f8v++++++
+Ch4 e8v------c+8v++++++ d8v------e8v++++++ c+8v------d8v++++++ c8v------c+8v++++++ <
+Ch4 b4.>cc+d2 f4c+4 dd+eff+4
+
+Ch5 (S2)c8(H3)cc (S2)c8(B)cc (S2)c8(H3)cc (S2)c8(B)c(H3)c
+Ch5 (S2)c8(H3)cc (S2)c8(B)c(H3)c (S2)c8(B)c(H3)c (S2)c8(B)c(H3)c
+Ch5 (S2)c8(H3)cc (S2)c8(B)cc (S2)c8(H3)cc (S2)c8(B)c(H3)c
+Ch5 (S2)c8(H3)cc (S2)c8(B)c(H3)c (S2)c8(B)c(H3)c (S2)c8(B)c(H3)c
+Ch5 (S2)c8(H3)cc (S2)c8(B)cc (S2)c8(H3)c(H3a)c (S2)c8(B)c(H3a)c
+Ch5 (S2)c8(H3)c(H3a)c (S2)c8(H3)c(H3a)c (S2)c8(H3)c(H3a)c (S2)c8(H3)c(H3a)c
+Ch5 (S2)c8(H3)c(H3a)c (S2)c8(B)cc (S2)c8(H3)c(H3a)c (S2)c8(B)c(H3a)c
+Ch5 (S2)c8(H3)c(H3a)c (S2)c8(H3)c(H3a)c (S2)cccc c32c32c32c32c32c32c32c32
+Ch5 (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c
+Ch5 (HH)c4.(S2)c32c32c32c32(S)c4.(B)c32c32c32c32
+Ch5 (HH)c4.(B)cc (S)c8(S2)c32c32c32c32 (S)c8(S2)c32c32c32c32
 
 # ズレチェック
 #Ch0 r1p-0v12(Sq)o5 c1
