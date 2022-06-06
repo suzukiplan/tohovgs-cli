@@ -1,5 +1,5 @@
 {
-    "version": "2022.06.01",
+    "version": "2022.06.07",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1192,6 +1192,14 @@
                     "loop": 1,
                     "name": "夜空のユーフォーロマンス",
                     "english": "UFO Romance in the Night Sky"
+                },
+                {
+                    "appleId": "1581358407",
+                    "mml": "TH12-15",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "平安のエイリアン",
+                    "english": "Alien in Heian"
                 }
             ]
         }
