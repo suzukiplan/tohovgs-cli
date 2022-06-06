@@ -436,13 +436,13 @@ Ch0 b4r8bb b4r8b64r32.r  b8r8g8r8b8r8a8r8  b4.b64r32.b64r32.>d4.r8  c+4.r8 c4.r8
 Ch1 (Brass)v14o5
 Ch1 d8r8b8r8a+8r8f+8r8  a8r8g8r8f+8r8e8r8  d8r8b8r8f+8r8a8r8  g+8r8e+4f+4.r8
 Ch1 d8r8b8r8a+8r8f+8r8  a8r8g8r8f+8r8e8r8  d8r8b8r8f+8r8>d8r8  c8r8<a+4b4.r8
-Ch1 d8r8f+8r4.f+8r4.f+8r4f+ga4  b2f+8r8a8r8g+8r8e+4f+4.f32e32d+32d32
+Ch1 d8r8f+8r8a+8r8f+8r8a8r8f+8r8f+8f+ga4  b2f+8r8a8r8g+8r8e+4f+4.f32e32d+32d32
 Ch1 d4r4.d8e8f+8  g4.g+32a32a+32b32>c2 <b4r4> d2c+2c2
 
 Ch2 (Brass)v13o4
 Ch2 b8r8>f+8r8e+8r8c+8r8 e8r8d8r8c+8r8<b+8r8  b8r8>f+8r8c+8r8f+8r8  e+8r8d4d+4.r8<
 Ch2 b8r8>f+8r8e+8r8c+8r8 e8r8d8r8c+8r8<b+8r8  b8r8>f+8r8c+8r8a8r8  g+8r8e+4f+4.r8<
-Ch2 b8r8>d8r4.d8r4.d8r4c+de4  f+2c+8r8f+8r8  e+8r8d4d+4.d32c+32c32<b32
+Ch2 b8r8>d8r8f+8r8d8r8e8r8d8r8c+8c+de4  f+2c+8r8f+8r8  e+8r8d4d+4.d32c+32c32<b32
 Ch2 b4r4.b8>c+8d8  e4.ff+g2  f+4r4 a2g+2g2
 
 Ch3 (Brass)v13o4
@@ -484,6 +484,54 @@ Ch5 (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c
 Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S)c(H3)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c
 Ch5 (HH)c4.(S2)c32c32c32c32(S)c4.(B)c32c32c32c32
 Ch5 (HH)c4.(B)cc (S)c8(S2)c32c32c32c32 (S)c8(S2)c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Part 8 (B2 / coda) ... Phase 1/4 - EP cadenza 2
+#-----------------------------------------------------------------------------
+Ch0 < b1a1g+1g2a2 b1a1g+1g2a2
+Ch1 <b1^1
+Ch2 f+1^1
+Ch3 r (CG4)v14o5 c+8.^4c+8.<b8.>f+8 rc+8.^4c+8.<b8.>f+8
+Ch4 (CG4)v13o3 b2b2 a2a2
+
+Ch1 (CG4)o6v11c+1
+Ch2 (CG4)o4v12 e2r32e16.^4.
+Ch3 rc+8.^4c+8.<b8.>f+8
+Ch4 g+2g+2
+
+Ch1 c+2d2
+Ch2 b8b8r8>c+4c+4r8<
+Ch3 rc+8.<b4>d4d8c+8
+Ch4 g2a8>e4.<
+
+Ch1 c+8c+8^2.
+Ch2 rf+16^4. rf+16^4.
+Ch3 r8c+4.c+8.<b8.>f+8
+Ch4 b2b2
+
+Ch1 c+8c+8^2.
+Ch2 rf+16^4. rf+16^4.
+Ch3 r8c+4.c+8.<b8.>f+8
+Ch4 a2a2
+
+Ch1 <r8r32c+16.^2r4
+Ch2 r8e8^2.
+Ch3 c+8f+4f+8 f64f+16.f64e16.c+8<b32^8>
+Ch4 g+1
+
+Ch1 r4.<a8 r8r32b16. r8r32b16.
+Ch2 r2r8 g+8r8g+8
+Ch3 c+2d2
+Ch4 >c+1
+
+Ch5 (B)c4(H3)c4(B)c4(H3)c4
+Ch5 (B)c4(H3)c4(B)c4(H3)c4
+Ch5 (B)c4(H3)c4(B)c4(H3)c4
+Ch5 (H3)c4c4c4c4
+Ch5 (B)c4(H3)c4(B)c4(H3)c4
+Ch5 (B)c4(H3)c4(B)c4(H3)c4
+Ch5 (B)c4(H3)c4(B)c4(H3)c4
+Ch5 (B)c4(H3)c4(B)c8(H3)c8(B)c8c8
 
 # ズレチェック
 #Ch0 r1p-0v12(Sq)o5 c1
