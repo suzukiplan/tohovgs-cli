@@ -7,6 +7,9 @@
 - このリポジトリの　[./mml](./mml)　ディレクトリが、東方 BGM on VGS の楽曲配信サーバのデータソースになっているので、最新の楽曲配信の情報はコチラのリポジトリをチェックしていただくのが一番手っ取り早いです
   - 現在の仕込み状況は [Open 中の Pull Request](https://github.com/suzukiplan/tohovgs-cli/pulls) で確認できます
   - 配信済み楽曲の情報は [Closed Pull Request](https://github.com/suzukiplan/tohovgs-cli/pulls?q=is%3Apr+is%3Aclosed) で確認できます
+- 楽曲配信サーバの origin は（調べれば分かることですが念の為）非公開です
+  - origin にアクセスすると通信料を私が負担する必要があるため、東方BGM on VGS のアプリ外からのアクセスはご遠慮ください
+  - 独自のプログラムから楽曲配信サーバにアクセスしたい場合は [gh-pages](https://suzukiplan.github.io/tohovgs-cli/mml/songlist.json) からアクセスする方法もあり、それなら私の通信料負担は発生しないので助かります
 
 ## How to setup
 
