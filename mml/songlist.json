@@ -1,5 +1,5 @@
 {
-    "version": "2022.06.07",
+    "version": "2022.06.11",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1089,6 +1089,14 @@
             "compatColor": 35,
             "defaultLocked": true,
             "songs": [
+                {
+                    "appleId": "1581358393",
+                    "mml": "TH12-01",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "青空の影",
+                    "english": "Shadow of Blue Sky"
+                },
                 {
                     "appleId": "1581358394",
                     "mml": "TH12-02",
