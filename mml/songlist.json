@@ -1,5 +1,5 @@
 {
-    "version": "2022.06.11",
+    "version": "2022.06.12",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1208,6 +1208,14 @@
                     "loop": 1,
                     "name": "平安のエイリアン",
                     "english": "Alien in Heian"
+                },
+                {
+                    "appleId": "1581358408",
+                    "mml": "TH12-16",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "妖怪寺",
+                    "english": "Yokai Temple"
                 }
             ]
         }
