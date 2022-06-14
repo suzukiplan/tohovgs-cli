@@ -1,0 +1,95 @@
+# 空の帰り道　〜 Sky Dream
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s33 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s300 \e11025 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+
+#-----------------------------------------------------------------------------
+Ch0 t141  m8 r1024 l16
+Ch1          r1024 l16
+Ch2          r1024 l16
+Ch3          r1024 l16
+Ch4          r1024 l16
+Ch5          r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 (i1)
+#-----------------------------------------------------------------------------
+Ch0 (EP)v13o2     b-1          a1           b-1            a1
+Ch1 r32(EP)v13o4  b-32^8.^2r4  r1           r1             r1
+Ch2 r(EP)v13o5    d8.^2<g8a8   f8g8e4.e4.   d2r2           c+2e2
+Ch3 r8(EP)v13o3   d4b-4>d4d4   <c4a4r4>c+4  <d4b-4>f4<b-4  c+4a4>c+8c+2
+Ch4 r4(EP)v13o3   f4>c4r4      r4<e4>d4d4   <r4f4>d4d4     <r4e4b4.a4
+Ch5 (CG4)v5o5     d2.<g8a8     f8g8e2d8c+8  d1             c+2e2
+
+Ch0 b-1           a1           b-1         a1
+Ch1 r2d2          a2.>c+2      d2f4        e8.d8rc+rc+2
+Ch2 f2r2          r1.          a2          r1
+Ch3 <f2>b-2       <e4>c+4a2    <f4b-4>f2   <e4>c+4a4
+Ch4 d4b-4>f4f4    <c+4a4>e4e4  <d4a4>d4d4  <c+4a4>e4e8
+Ch5 f2d2          a2.>c+4.     r8d4<a4>f4  e8.d8rc+rc+4.r8
+
+#-----------------------------------------------------------------------------
+# Part 2 (i2)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 b-2.r4 a2.r4
+Ch0 b-2.r4 a2.r4
+Ch0 b-2.r4 a2.r4
+Ch0 b-4r8 >c4r4. d8f8a8d8>d8<f8a8f8
+
+Ch1 (Brass)v13o4
+Ch1 a8.>d8rd8 e8re8rf8 <a2.>c+4  <a8.>d8<a>de8.r e8r f8  g4.f+fe4.r8
+Ch1 f8.e8.dr32g32 g+32a16.^4.  g4.r8 >c+4.rc32c+32  d8<a8fr >e4c8<a4 >d1
+
+Ch2 (Brass)v13o3
+Ch2 a8.>d8rd8 e8re8rf8 <a1 a8.>d8<a>de8.r e8r f8  g2e4.r8
+Ch2 f8.e8.dr32g32 g+32a16.^4.  g4.r8 >c+4.r8 a8f8dr >c4<a8f4 a1
+
+Ch3 r1r1r1r1
+Ch3 (Brass)v12o5 d8.c8.<b-r> f2 c+4.r8 a4.r8 f8d8<ar> c4<a8a4 >f1
+
+Ch4 r8(EP)v13o3
+Ch4   d8f8b-8>d8e8f8<b-8 r8c+8e8g8a8>c+8e8<a8
+Ch4 r8d8f8b-8>d8e8f8<b-8 r8c+8e8g8a8>c+8e8<a8
+Ch4 r8d8f8b-8>d8e8f8<b-8 r8c+8e8g8a8>c+8e8<a8
+Ch4 d4r8e4r8 (Brass)v12o3 f4 a1
+
+Ch5 (S2)c8.c8.c8 c4 r4
+Ch5 (H2)c4r2.
+Ch5 (S2)c4r4c8.c8.c8
+Ch5 c4r4(H2)c4r4
+Ch5 (S2)c4r4(H2)c4r4
+Ch5 c4r4c4 (B)c8(H3)c8
+Ch5 (H)c4r8c4.r4
+Ch5 c2 (S2)c4c4
+
+#Ch0 r1(Sq)p-0o4 c1
+#Ch1 r1(Sq)p-0o4 e1
+#Ch2 r1(Sq)p-0o4 g1
+#Ch3 r1(Sq)p-0o5 c1
+#Ch4 r1(Sq)p-0o5 e1
+#Ch5 r1(Sq)p-0o5 g1
+
+Ch0 r1
