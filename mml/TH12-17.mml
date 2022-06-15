@@ -93,14 +93,14 @@ Ch0 o2 b-1 >c1 d4d64r32.d64r32.d8r4d8r8 d2.g8e8
 Ch0 o2 b-1 >c1 d4d64r32.d64r32.d8r4d8r8 d2.g8e8
 Ch0 o2 b-1 >c2.g8c8 d4d64r32.d64r32.d8r2 d8f8a8f8>d8<f8a8f8
 
-Ch1 o4\e4000v14 g8g8g8g8g8f4g4 g8g8g8g8f4ef  g8g8g8g8g8a8\e18000f2.^8 r8f4\e4000
-Ch2 o4\e4000v13 e8e8e8e8e8d4e4 e8e8e8e8d4c+d e8e8e8e8e8f8\e18000d2.^8 r8d4\e4000
-Ch1 g8g8g8g8g8f4g4 g8g8g8g8f4fg  a8g8a8>c8<g32g+32ar>c8r\e18000d8^2.<a8>c8\e4000
-Ch2 e8e8e8e8e8d4e4 e8e8e8e8d4r8  <a4.>c8d8re8r\e18000f8^2.r4\e4000
+Ch1 o4\e4000v14 g8g8g8g8g8f4g4 g8g8g8g8f4ef  g8g8g8g8g8a8\e18000\s12000f2.^8 r8\s3000f4\e4000\s66
+Ch2 o4\e4000v13 e8e8e8e8e8d4e4 e8e8e8e8d4c+d e8e8e8e8e8f8\e18000\s12000d2.^8 r8\s3000d4\e4000\s66
+Ch1 g8g8g8g8g8f4g4 g8g8g8g8f4fg  a8g8a8>c8<g32g+32ar>c8r\e18000\s3000d8^2.\s66<a8>c8\e4000
+Ch2 e8e8e8e8e8d4e4 e8e8e8e8d4r8  <a4.>c8d8re8r\e18000\s4000f8^2.r4\e4000\s66
 Ch1 d8d8d8d8d8c4d4 d8d8d8d8c4de  f8d8<a8>e4c8<g8>       fg8.dfe8c8<ga>c8 <a8>c8
 Ch2 f8f8f8f8f8e4f4 f8f8f8f8e4r8  >d8<a8f8>c4<g8e4 v10>  fg8.dfe8c8<ga v13 f8 f8
-Ch1 d8d8d8d8d8c4d4 d8d8d8d8c4<b->c dr<argr f4e8c4  \e18000 d1
-Ch2 f8f8f8f8f8e4f4 f8f8f8f8e4r8    a8f8e8  d4c8<a4 \e18000 f1
+Ch1 d8d8d8d8d8c4d4 d8d8d8d8c4<b->c dr<argr f4e8c4  \e18000\s8000 d1\s66
+Ch2 f8f8f8f8f8e4f4 f8f8f8f8e4r8    a8f8e8  d4c8<a4 \e18000\s8000 f1\s66
 
 Ch3 (EP)v12o5 g4r8g8^2 g4r8g8^2 g4r8g8^2 o2f4>d4>d4<g4
 Ch4 (EP)v12o2 b-8>d8f8d8b-8f8g8d8 c8e8g8e8>c8<g8>d8<g8 d8f8a8f8>d8<f8a8d8 r8<a4>f4f4d8
@@ -179,7 +179,7 @@ Ch5 c4(H)c4 (S)c8(H3)c8 (S)c8(H3)c8
 # Part 5 (Coda: EP Cadenza)
 #-----------------------------------------------------------------------------
 # 49,50
-Ch0    (EP)v11o5 g4r8g2r8 g4r8g2r8
+Ch0    (EP)v10o5 g4r8g2r8 g4r8g2r8
 Ch1   r(EP)v14o4 gg8g8g8g8f4g4g8g8g8g8f4r8
 Ch2 r32(EP)v14o4 e16.e8e8e8e8d4e4e8e8e8e8d4r8
 Ch3  r4(EP)v12o3 f4b-4f4  r4a4 >c4.r8<
@@ -219,7 +219,7 @@ Ch4 r8d4d8^2 r8e4e8^2
 Ch5 b-1a1
 
 # 59,60
-Ch0 d4.c4.d4.e4d4.c4
+Ch0 \s5000d4.\s6000c4.\s4000d4.\s3000e4\s6000d4.\s2500c4\s30
 Ch1 a8d8<a8>a2f g8.efe8c8<a>cd8<a8>c8
 Ch2 >f8<a8f8>e4c8<a4>v9f g8.efe8c8<a>cd8<a8 v14
 Ch3 >d8r8<<a4>d4<a4 >f8.e8.d4.c4<
