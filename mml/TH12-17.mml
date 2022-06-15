@@ -179,7 +179,7 @@ Ch5 c4(H)c4 (S)c8(H3)c8 (S)c8(H3)c8
 # Part 5 (Coda: EP Cadenza)
 #-----------------------------------------------------------------------------
 # 49,50
-Ch0    (EP)v10o5 g4r8g2r8 g4r8g2r8
+Ch0    (EP)v10o5 \s5000g4r8g2r8 g4r8g2r8
 Ch1   r(EP)v14o4 gg8g8g8g8f4g4g8g8g8g8f4r8
 Ch2 r32(EP)v14o4 e16.e8e8e8e8d4e4e8e8e8e8d4r8
 Ch3  r4(EP)v12o3 f4b-4f4  r4a4 >c4.r8<
@@ -203,7 +203,7 @@ Ch4 r8d4d4d4d8 r8g4.r4.e8
 Ch5 b-1>e2.^8c8<
 
 # 55,56
-Ch0 f4.a2>c+32d32d+32e32 f4.e4d4c8
+Ch0 f4.a2>\s30c+32d32d+32e32 f4.\s5000e4d4\s1200c8
 Ch1 a8g8a8>c8<a8r>c8rd8^1
 Ch2 f8e8f8a8f8ra8ra8^1
 Ch3 r4a4>d4<a4 r4a4>d4<g4
