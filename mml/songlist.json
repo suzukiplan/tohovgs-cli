@@ -1,5 +1,5 @@
 {
-    "version": "2022.06.12",
+    "version": "2022.06.15",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1216,6 +1216,14 @@
                     "loop": 1,
                     "name": "妖怪寺",
                     "english": "Yokai Temple"
+                },
+                {
+                    "appleId": "1581358409",
+                    "mml": "TH12-17",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "空の帰り道　〜 Sky Dream",
+                    "english": "Way Home in the Sky　〜 Sky Dream"
                 }
             ]
         }
