@@ -1,5 +1,5 @@
 {
-    "version": "2022.06.15",
+    "version": "2022.06.19",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1224,6 +1224,25 @@
                     "loop": 1,
                     "name": "空の帰り道　〜 Sky Dream",
                     "english": "Way Home in the Sky　〜 Sky Dream"
+                }
+            ]
+        },
+        {
+            "appleId": "1581358610",
+            "albumId": "th12.8",
+            "name": "妖精大戦争",
+            "formalName": "妖精大戦争　〜 東方三月精",
+            "copyright": "(c)2010 上海アリス幻樂団",
+            "compatColor": 7,
+            "defaultLocked": true,
+            "songs": [
+                {
+                    "appleId": "1581358611",
+                    "mml": "TH12_8-01",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "春の氷精",
+                    "english": "Spring Ice Spirit"
                 }
             ]
         }
