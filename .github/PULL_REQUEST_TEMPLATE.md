@@ -12,7 +12,7 @@
   - n/a
 - マージ後作業
   - YouTube投稿
-  - ブログ投稿
+  - TikTok投稿
   - Twitter投稿
 
 ## Song Record
