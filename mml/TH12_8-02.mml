@@ -90,7 +90,7 @@ Ch1 \s9000 a2
 Ch2 \s9000 f2
 Ch3 \s9000 d2
 Ch4 \s9000 a2
-Ch5 (HH)c4 (S)v-----c32c32v+c32c32v+c32c32v+c32c32v+
+Ch5 (HH)c4 (S)<g32g32f32f32e32e32d32d32
 
 #-----------------------------------------------------------------------------
 # Part 2 (A)
@@ -184,7 +184,7 @@ Ch5 (B)c8(H)c8 (B)c8(H2)c8 (B)c8(H3)cc (S)c(H)c(S2)cc
 Ch5 (B)c(H3)c(H2)c(H)c (S)c(H)c(H3)c(S2)c (B)c(S)ccc c32c32c32c32c32c32c32c32
 Ch5 (HH)c4 (B)c8(H3)cc (B)c(H2)c(S)c8 (B)c(H3)c(S2)cc
 Ch5 (B)c8(H2)c(H)c (S)c(H3)cc(S2)c (B)c(H)c(B)cc (S)<gfed
-Ch5 (S)c8(B)cc (S)c8(B)cc (S)ccc8 cccc
+Ch5 (S)c8(B)cc (S)c8(B)cc (S)ccc8 c8c8
 
 Ch0 t143
 Ch0 a+8d+f+ d+<a+f+a+ >d+<a+f+a+ d+f+<a+>d+
