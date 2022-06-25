@@ -321,4 +321,50 @@ Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S2)v-------c32v++c32v++c32v++c
 Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (S)c32c32cc8
 Ch5 (B)c(H2)c(S)c(H)c (S)cccc c32c32c32c32c32c32c32c32 <g32g32f32f32e32e32d32d32
 
+#-----------------------------------------------------------------------------
+# Part 5 (A')
+#-----------------------------------------------------------------------------
+Ch0 k+
+Ch0 d+8d+f+ a+a+64r32.<a+>d+ <a+>f+e+<a+ >d+<a+g+a+
+Ch0 c+g+e+>e+ c+<g+c+c+64r32. <b+>d+g+b+ >d+<g+d+<b+
+Ch0 b>f+b>f+ bb64r32.f+<b c+e+>c+g+ >c+c+64r32.<c+8
+Ch0 d+<a+f+a+ d+d+64r32.a+f+ d+f+<a+a+64r32. >a+f+d+<a+
+Ch0 >d+d+64r32.e+f+ b>f+<f+<b >d+d+64r32.e+f+ b>f+<<b>f+
+Ch0 >d+a+g+>c+ <a+>f+d+f+ <a+>d+<f+a+ d+f+<a+r
+Ch0 b>f+b>f+ b<bbb64r32. g+>c+g+>c+ e+r<g+8
+Ch0 a+8d+f+ d+<a+f+a+ >d+<a+f+a+ d+f+<a+>d+
+
+Ch1 k+
+Ch1 (Brass)@2v14o5 d+8c+r d+8f+r d+8.r c+8d+r
+Ch1 <a+8>c+r <g+8a+r f+rg+8 a+8>c+c+32d32
+Ch1 d+8c+r d+8f+r g+8a+r e+8c+r
+Ch1 d+2.<a+8>c+r
+Ch1 d+8c+r d+8f+r d+8.r e+8.r
+Ch1 f+8a+r e+8f+r d+8e+8 <a+8.r>
+Ch1 d+8c+r d+8f+r g+8a+r >c+8<a+8 >d+1
+
+Ch2 k+
+Ch2 (Brass)@2v13o4 a+8g+r a+8>c+r< a+8.r g+8a+r
+Ch2 f+8g+r e+8f+r d+re+8 f+8a+a32a+32
+Ch2 b8g+r b8>d+r e+8f+r c+8<g+r
+Ch2 a+2.f+8g+r
+Ch2 b8a+r b8>d+r< b8.r >c+8.r
+Ch2 d+8f+r c+8d+r <a+8>c+8< e+8.r
+Ch2 b8a+r b8>d+r f+8g+r a+8f+8
+Ch2 a+1
+
+Ch3 (Brass)@1v13o5 \s3000e4.r8 \s2000e8.rd8.r <b8.ra8.r \s1200g8a8b8>d8 \s3000e4.r8 \s2000a8b8f+8d8 e8\s66ga b>d<ba eab>d<bgd8
+Ch4 (Brass)@1v13o4 \s3000e4.r8 \s2000e8.rd8.r <b8.ra8.r \s1200g8a8b8>d8 \s3000e4.r8 \s2000a8b8f+8d8 \s8000e1\s66
+Ch3 \s5000e4.r8 \s3000e8.rf+8.r \s5000g4.r8a4.r8 \s1200g8f+8g8b8 a8b8>d8<b8 \s22050e1
+Ch4 \s5000e4.r8 \s3000e8.rf+8.r \s5000g4.r8a4.r8 \s1200g8f+8a8b8 a8b8>d8<b8 e8\s66ab >d<bab abga gf+ e32<b32d32<b32
+
+Ch5 (HH)c4 (B)c(H3)c(S)c(H2)c (S)c8(H3)c(S)c (B)cc(S)c(H)c
+Ch5 (B)c(H3)c(S)c(H2)c (B)c(H3)c(S)c(H2)c (B)c(S)c8(S2)c (S)c(B)c(S)c8
+Ch5 (B)c(H3)c(S)c(H2)c (B)c(H3)c(S)c(H2)c (B)c8(H3)c8 (S)c4
+Ch5 (S)c8(S2)v--------c32v++c32v++c32v++c32 (S)c8(S2)v--------c32v++c32v++c32v++c32 (S)cccc c8c8
+Ch5 (HH)c4 (B)c(H3)c(S)c(H2)c (S)c8(H3)c(S)c (B)cc(S)c(H)c
+Ch5 (B)c(H3)c(S)c(H2)c (B)c(H3)c(S)c(H2)c (S2)cccc ccc8
+Ch5 (B)c(H3)c(S)c(H2)c (B)c(H3)c(S)c(H2)c (S)c8(S2)v--------c32v++c32v++c32v++c32 (S)c8(S2)v--------c32v++c32v++c32v++c32
+Ch5 (B)c(H3)c(S)c(H2)c (S)c8cc c32c32c32c32c32c32c32c32 <g32g32f32f32e32e32d32d32
+
 Ch0 r1
