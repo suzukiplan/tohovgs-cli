@@ -1,5 +1,5 @@
 {
-    "version": "2022.06.19",
+    "version": "2022.06.25",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1243,6 +1243,14 @@
                     "loop": 1,
                     "name": "春の氷精",
                     "english": "Spring Ice Fairy"
+                },
+                {
+                    "appleId": "1581358613",
+                    "mml": "TH12_8-02",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "可愛い大戦争のリフレーン",
+                    "english": "Cute Great War Refrain"
                 }
             ]
         }
