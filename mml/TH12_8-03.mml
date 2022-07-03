@@ -1,0 +1,71 @@
+# いたずらに命をかけて
+$Flute \s72 \e9999 @0 %72
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s4410 \e12000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s300 \e11025 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s12345 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$B2 \s10 \e1000 p-21  @3 %33 v16 o7
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+
+#-----------------------------------------------------------------------------
+Ch0 t158  m8 r1024 l16
+Ch1          r1024 l16
+Ch2          r1024 l16
+Ch3          r1024 l16
+Ch4          r1024 l16
+Ch5          r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 (A1)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 b8b8b64r32.r>c4<b4b-8 b8b8b64r32.r>c4<b4b-8 > c8c8c64r32.rd-4c4<b8> c8c8c64r32.rd-4c4<b8
+Ch0 b8b8b64r32.r>c4<b4b-8 b8b8b64r32.r>c4<b4b-8 > c8c8c64r32.rd-4c4<b8> c8c8c64r32.rd-4c4<b8
+
+Ch1 (Brass)v14o4
+Ch1 e8e8r8>c8<r8b4b-8 e8e8e8>c4<b4b-8 f8f8r8>d-8r8c4<b8 f8f8f8>d-4c4<b8
+Ch1 e8e8r8>c8<r8b4b-8 e8e8e8>c4<b4b-8 f8f8r8>d-8r8c4<b8 f8f8f8>d-4c4<b8
+
+Ch2 (Brass)v14o3
+Ch2 b8b8r8>e8r8e4e-8< b8b8b8>e4e4e-8 c8c8r8f8r8f4e8 c8c8c8f4f4e8<
+Ch2 b8b8r8>e8r8e4e-8< b8b8b8>e4e4e-8 c8c8r8f8r8f4e8 c8c8c8f4e8f8g8
+
+Ch3 (Brass)v12o3
+Ch3 e8e8r8>c8<r8b4b-8 e8e8e8>c4<b4b-8 f8f8r8>d-8r8c4<b8 f8f8f8>d-4c4<b8
+Ch3 e8e8r8>c8<r8b4b-8 e8e8e8>c4<b4b-8 f8f8r8>d-8r8c4<b8 f8f8f8f4e8f8g8
+
+Ch4 (CG3)v11o1
+Ch4 b8b8b64r32.r>c4<b4b-8 b8b8b64r32.r>c4<b4b-8 > c8c8c64r32.rd-4c4<b8> c8c8c64r32.rd-4c4<b8
+Ch4 b8b8b64r32.r>c4<b4b-8 b8b8b64r32.r>c4<b4b-8 > c8c8c64r32.rd-4c4<b8> c8c8c64r32.rd-4
+Ch4 (B2)v8e<e>v14f<f>v16g<g
+
+Ch5 (HH)c4.(H)c4(H2)c4(H3)c8
+Ch5 (HH)c4.(H)c4(S2)cc(B)c8(H3)c8
+Ch5 (B)c8(H3)cc (B)c8(H)c8 (B)c8(H)c8 (B)c8(S)c8
+Ch5 (HH)c4.(S)c8 (B)c8(H3)cc (S)c8(H3)cc
+Ch5 (HH)c4 (S)c8(H3)cc (B)c8(H)c8 (S)c8(H3)cc
+Ch5 (B)c8(H)c8 (S)c8(H3)cc (B)c(H2)c(B)cc (S)c8(H)c8
+Ch5 (HH)c4 (S)c8(H3)cc (B)c8(H)c8 (S)c8(H3)cc
+Ch5 (B)c8(H2)c(H)c (S)c8(B)cc (S)c32c32c32c32 cv10c v20cv10c v20cv10c
+
+CH0 r1
