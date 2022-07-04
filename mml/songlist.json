@@ -1,5 +1,5 @@
 {
-    "version": "2022.06.25",
+    "version": "2022.07.04",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1251,6 +1251,14 @@
                     "loop": 1,
                     "name": "可愛い大戦争のリフレーン",
                     "english": "Cute Great War Refrain"
+                },
+                {
+                    "appleId": "1581358614",
+                    "mml": "TH12_8-03",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "いたずらに命をかけて",
+                    "english": "Risking Life for the Sake of Mischief"
                 }
             ]
         }
