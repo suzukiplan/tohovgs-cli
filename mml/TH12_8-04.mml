@@ -1,0 +1,74 @@
+# 年中夢中の好奇心
+$Flute \s72 \e9999 @0 %72
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s4410 \e12000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s300 \e11025 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s12345 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$B2 \s10 \e1000 p-21  @3 %33 v16 o7
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+
+#-----------------------------------------------------------------------------
+Ch0 t161  m8 r1024 l16
+Ch1          r1024 l16
+Ch2          r1024 l16
+Ch3          r1024 l16
+Ch4          r1024 l16
+Ch5          r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 (A1)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 f8>c8<a-8>e-r< f8f64r32.r a-8a-64r32.r b-8b-64r32.r >c8e-8 %99\s100d-8p-266%72\s1d-8%90\s100p-0c8r8<
+Ch0 f8>c8<a-8>e-r f8r8c8<a-8 %99\s100b-8p-266%72\s1b-8%90\s100p-0 >c8e-8 e8f8g8e8<
+Ch0 f8>c8<a-8>e-<a- f8>c<f a-f>e-<a- f8>c<f a->fe-<b-> d-c<a-r> %99\s100c8p-266%72\s1c8%90\s100p-0<
+Ch0 f8>c8<a-8>e-<a- f8>c<f a-f>e-<a- fa->c<f a->fc<a- >c<a-f>f %99\s100e8p-266%72\s1e8%90\s100p-0<
+
+Ch1 (Brass)v14o5
+Ch1 f8g8a-8>c8 r8e-8r8d8 r8<b-8r8f8 >d-4c8r8<
+Ch1 f8g8a-8>c8 r8e-8r8f8 r8<b-8>e-8g8 e8d-8<b-8g8<
+Ch1 f8g8a-8>c8 r8e-8r8d8 r8<b-8r8f8 >d-4c8r8<
+Ch1 f8g8a-8>c8 r8e-8r8f8 r8<b-8>e-8g8 e4.r8
+
+Ch2 r1r1r1r1
+Ch2 (Brass)v13o3
+Ch2 f8g8a-8>c8 r8e-8r8d8 r8<b-8r8f8 >d-4c8r8<
+Ch2 f8g8a-8>c8 r8e-8r8f8 r8<b-8>e-8g8 e4.r8
+
+Ch3 r1r1r1r1
+Ch3 (Pad2)v11o4 c1^4 r(Bass)@1o4v13fe-<b- r2
+Ch3 (Pad2)v11o4 c1^2r2
+
+Ch4 r1r1r1r1
+Ch4 (Pad)v12o3 f1^2r2 f1^2r2
+
+Ch5 (HH)c4 (H3)cc(B)c8 (B)c8(H3)cc (H)c8(B)c8
+Ch5 (B)c8(H)c8 (H3)cc(B)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+Ch5 (B)c8(H3)cc (H)c8(B)c8 (B)c8(H)c8 (H3)cc(B)c8
+Ch5 (B)c8(H)c8 (H3)cc(B)c8 (B)c(H2)c(H)c8 (B)c(H2)c(H)c8
+Ch5 (HH)c4 (B)c8(H)c8 (B)c8(S2)c8 (B)c(H2)c(S2)c8
+Ch5 (B)c8(H)c8 (B)c8(H3)cc (B)c8(S2)c8 (B)c(H2)c(S2)v------c32v++c32v++c32v++c32
+Ch5 (HH)c4 (B)c8(H)c8 (B)c8(S2)c8 (B)c(H2)c(S2)c8
+Ch5 (B)c8(S)c8 (H3)cc(S)c8 (B)c(H3)c(S)c8 cccc
+
+Ch0 r1
