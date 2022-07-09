@@ -86,7 +86,6 @@ Ch1 f4f8r8 e-8f8c8r8 e-8f8c8r8 e-8f8c8e-8 r8f8r8a-8 e-8f8c8e-8 f2 r8(Brass)cce-8
 Ch4 r(Brass)@0o5v10
 Ch4 f4f8r8 e-8f8c8r8 e-8f8c8r8 e-8f8c8e-8 r8f8r8a-8 e-8f8c8e-8 f8e-8c8<b-8 a4.a>e-
 Ch4 f4f8r8 e-8f8c8r8 e-8f8c8r8 e-8f8c8e-8 r8f8r8a-8 e-8f8c8e-8 f4.^16 r2
-
 Ch2 a-4a-8r8 e-8f8a-8r8 e-8f8a-8r8 e-8a-8g8e-8 r8f8r8a-8 r8a-8fa-g8 a2f8e-8c8<a8>
 Ch3 r8(CG5)v13o3a-b->c8r4.c8r4 <a-b->c8r4 f8c4r8c8r8 f8e-8f8c8e-8 f8e-8c8<b-8a4.^16>e-<
 Ch2 a-4a-8r8 e-8f8a-8r8 e-8f8a-8r8 e-8a-8g8e-8 r8f8r8a-8 r8a-8fa-g8 a2 r8(Brass)<cce-8cr
@@ -100,5 +99,27 @@ Ch5 (B)c8(H)c8 (S)c8(H)c8 (B)c8(H3)cc (S)c8(H)c8
 Ch5 (B)c8(H)c8 (S)c8(S2)cc (B)c8(S2)cc (S)c8(S2)c8
 Ch5 (S)c4.(S2)v------c32v++c32v++c32v++c32 (S)c4 (B)c8(S)c8
 Ch5 (B)c8(H)c8 (S)c8(S2)cc (B)c8(S2)cc (S)c8(S2)c8
+
+Ch0 d-8a-r d-8a-r e-8b-r e-8b-r f8>cr< f8>cr< e-8b-r e-8b-r
+Ch0 d-8a-r d-8a-r e-8b-r e-8b-r f8>cr< f8>cr< f8>cr< f8>cr<
+Ch0 d-8a-r d-8a-r e-8b-r e-8b-r f8>cr< f8>cr< e-8b-r e-8b-r
+Ch0 d-8a-r d-8a-r e-8b-r e-8b-r f8>cr< f8>cr< f8>cr< f8>cr<
+Ch1 f8.rf8.r e-8f8c8r8 e-8f8c8r8 e-8f8c8e-8 r8f8r8a-8 e-8f8c8e-8 f8e-8c8<b-8 a4.>ce-
+Ch1 f8.rf8.r e-8f8c8r8 e-8f8c8r8 e-8f8c8e-8 r8f8r8a-8 e-8f8c8e-8 f2r4<a8g8
+Ch2 f8.rf8.r e-8f8c8r8 e-8f8c8r8 e-8f8c8e-8 r8f8r8a-8 e-8f8c8e-8 f8e-8c8<b-8 a4.>ce-
+Ch2 f8.rf8.r e-8f8c8r8 e-8f8c8r8 e-8f8c8e-8 r8f8r8a-8 e-8f8c8e-8 f2r4<a8g8
+Ch3 (CG5)v13o3 f8>cfa-8r8 g8r8f8r8  a-8r8a-8r4grg4  r8f8r8a-8g8r8e-4  f4.f8f8e-8c8<b-8
+Ch3            f8>cfa-8r8 g8r8f8r8  a-8r8a-8r4grg4  r8f8r8a-8g8r8e-4  f2r2
+Ch4 (CG5)v13o3 d-4a-8r8>e-8r8c8r8  f8crf8ce-<b-r>e-re-4  r8c8r8f8e-8r8c4  c4rc8<b-8f8a-
+Ch4            d-4a-8r8>e-8r8c8r8  f8crf8ce-<b-r>e-re-4  r8c8r8f8e-8r8c4  c2r2
+
+Ch5 (B)c8(H)c8 (S)c8(H)c8 (B)c8(H3)cc (S)c8(H)c8
+Ch5 (B)c8(H)c8 (S)c8(S2)cc (B)c8(S2)cc (S)c8(S2)c8
+Ch5 (S)c4.(S2)v------c32v++c32v++c32v++c32 (S)c4 (B)c8(S)c8
+Ch5 (B)c8(H)c8 (S)c8(S2)cc (B)c8(S2)cc (S)c8(S2)c8
+Ch5 (B)c8(H)c8 (S)c8(H)c8 (B)c8(H3)cc (S)c8(H)c8
+Ch5 (B)c8(H)c8 (S)c8(S2)cc (B)c8(S2)cc (S)c8(S2)c8
+Ch5 (S)c4.(S2)v------c32v++c32v++c32v++c32 (S)c4 (B)c8(S)c8
+Ch5 (S)c(H3)c(B)c(H3)c (S)c(H3)c(B)c(H3)c (S)c(H3)c(B)c(H3)c (S)c(H3)c(B)c(H3)c
 
 Ch0 r1
