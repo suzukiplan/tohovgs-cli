@@ -48,6 +48,8 @@ struct MML {
     int kbase[6];
 };
 
+int mml_tempo_speed = 100;
+
 /* internal functions */
 static struct VgsBgmData* phase3(char* buf, int* pos, struct VgsMmlErrorInfo* err);
 static struct VgsBgmData* phase4(struct MML* mml, char* buf, int* pos, struct VgsMmlErrorInfo* err);
@@ -940,7 +942,7 @@ static int canl(struct MML* mml, struct VgsMmlErrorInfo* err, int line, int cn, 
                 rc = 4;
                 goto ENDPROC;
             }
-            mml->tempo = (HZ * 60) / i * 4;
+            mml->tempo = (HZ * 60) / (i * mml_tempo_speed / 100) * 4;
         } else if ('L' == *cp) {
             cp++;
             i = getval(&cp);

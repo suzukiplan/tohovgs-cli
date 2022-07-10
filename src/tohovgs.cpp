@@ -46,6 +46,7 @@ static struct PlayList* fs_listTail;
 static void* fs_sound;
 static void* fs_vgsdec;
 static int fs_initialJump;
+extern int mml_tempo_speed;
 
 static void trimstring(char* src)
 {
@@ -239,14 +240,16 @@ int main(int argc, char* argv[])
 {
     srand((unsigned int)time(NULL));
     if (argc < 2) {
-        puts("usage: tohovgs [-i] [-s] [-j sec] {playlist.csv | music.mml [loopCount]}...");
+        puts("usage: tohovgs [-i] [-s] [-j sec] [-t spped] {playlist.csv | music.mml [loopCount]}...");
         puts("-i: infinite play");
         puts("-s: shuffle play");
         puts("-j: initial seek seconds");
+        puts("-t: playback speed %");
         return 1;
     }
     bool isInfinite = false;
     bool isShuffle = false;
+    mml_tempo_speed = 100;
     for (int i = 1; i < argc; i++) {
         if (0 == strcmp(argv[i], "-i")) {
             isInfinite = true;
@@ -258,6 +261,18 @@ int main(int argc, char* argv[])
                 fs_initialJump = atoi(argv[i]);
             } else {
                 printf("invalid -j option\n");
+                return 1;
+            }
+        } else if (0 == strcmp(argv[i], "-t")) {
+            i++;
+            if (i < argc) {
+                mml_tempo_speed = atoi(argv[i]);
+            } else {
+                printf("invalid -t option\n");
+                return 1;
+            }
+            if (mml_tempo_speed < 1)  {
+                printf("invalid -t value (%d)\n", mml_tempo_speed);
                 return 1;
             }
         } else {
