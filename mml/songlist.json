@@ -1,5 +1,5 @@
 {
-    "version": "2022.07.04",
+    "version": "2022.07.10",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1259,6 +1259,14 @@
                     "loop": 1,
                     "name": "いたずらに命をかけて",
                     "english": "Risking Life for the Sake of Mischief"
+                },
+                {
+                    "appleId": "1581358615",
+                    "mml": "TH12_8-04",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "年中夢中の好奇心",
+                    "english": "Year Round Preoccupied Curiosity"
                 }
             ]
         }
