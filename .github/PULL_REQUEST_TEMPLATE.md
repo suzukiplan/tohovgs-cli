@@ -1,4 +1,4 @@
-# Pull Request to add a new song to the Touhou VGS
+# 東方BGM on VGS: 曲名
 
 ## Check list
 
@@ -20,7 +20,7 @@
 ```json
 {
     "appleId": "123456789",
-    "mml": "THxx-xx",
+    "mml": "TH12_8-xx",
     "ver": 0,
     "loop": 1,
     "name": "日本語",
@@ -31,9 +31,8 @@
 ## Twitter Submission Manuscript
 
 ```text
-#東方VGS で #妖精大戦争 より #{曲名} を配信しました。
-（一言コメント）
-https://suzukiplan.blogspot.com/{article}
+#東方VGS で #妖精大戦争 より #曲名 を配信しました。
+https://www.youtube.com/watch?v=xxxxxxxx
 ```
 
 ## YouTube Summary Manuscript
