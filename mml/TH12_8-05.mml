@@ -102,7 +102,7 @@ Ch0 a>f+aa64r32. f+c+<a64r32.a64r32.> f+8f+64r32.e c+<a>f+f+64r32.
 Ch0 d8d64r32.<b> dd64r32. dd64r32. e<b8>e rf+64r32.f+e
 Ch0 f+8f+64r32.b >c+c+64r32.<f+f+64r32. f+64r32.f+8e c+<b>f+f+64r32.
 Ch0 d8d64r32.d64r32. dd64r32.d8 e<b8>e8 c+<b>c+
-Ch0 <f+rb>c c+c+64r32.<f+8> f+r8e e64r32.<b>c+<f+>
+Ch0 <f+rb>c c+c+64r32.<p-512f+8p-0> f+r8e e64r32.<b>c+<f+>
 
 Ch1 (CG5)v14o5
 Ch1 f+rc+e f+rc+r arg+8  rf+8e   f+ef+r >c+r<f+e f+r>c+r< f+8.f+
