@@ -1,5 +1,5 @@
 {
-    "version": "2022.07.10",
+    "version": "2022.07.14",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1267,6 +1267,14 @@
                     "loop": 1,
                     "name": "年中夢中の好奇心",
                     "english": "Year Round Preoccupied Curiosity"
+                },
+                {
+                    "appleId": "1581358616",
+                    "mml": "TH12_8-05",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "真夜中のフェアリーダンス",
+                    "english": "Midnight Fairy Dance"
                 }
             ]
         }
