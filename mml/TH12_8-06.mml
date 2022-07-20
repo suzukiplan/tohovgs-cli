@@ -1,4 +1,4 @@
-# 妖精大戦争　～ Fairy Wars
+# 妖精大戦争　～ Faily Wars
 $Flute \s72 \e9999 @0 %72
 $Brass \s66 \e9999 @1 %75
 $Brass2 \s4410 \e12000 @1 %75
@@ -95,7 +95,7 @@ Ch0 g+8>c+8 c+ed+c+ c+8r8 < b64r32. b64r32. b8
 Ch0 a4.bg+ e8a8 a64r32. a64r32. a8
 Ch0 a4.bg+ f+8b8 b64r32. b64r32. b8 >
 Ch0 c+c+64r32. c+4c+<g+> c+c+64r32.c+8 <f+>e<b+>c+
-Ch0 c+c+64r32. c+8 c+c+<bb> c+r c+64r32. c+64r32. c+64r32. r<b8
+Ch0 c+c+64r32. c+8 c+c+<bb> c+r c+64r32. c+64r32. c+64r32. r<b8>
 
 Ch1 (CG5)v14o4
 Ch1 a>c+d+e< a>c+d+<b a>c+ec+ d+<b>e8<
@@ -113,7 +113,7 @@ Ch1 g+8f+8e8f+8 e8<b4g+8^2 g32g+32a32a+32 b4.>
 Ch1 c+4.r8 c+8d+8e8f+8
 Ch1 e4r8 g+4f+4d+8
 Ch1 g+8f+8e8d+8 c+8<b4g+8
-Ch1 b32>c32c+8.^4 r4e+8rf+8
+Ch1 b32>c32c+8.^4 r8.e+8rf+8
 
 Ch2 (CG5)v13o4
 Ch2 e4.d+8 c+8e8d+8e8
@@ -131,7 +131,7 @@ Ch2 e8d+8c+8d+8 c+8<f+4 e8^2<g32g+32a32a+32b4.>
 Ch2 c+4.r8 c+8d+8e8f+8
 Ch2 e4r8>e4d+4<b8
 Ch2 g+8f+8e8d+8 c+8<b4g+8
-Ch2 b32>c32c+8.^4 r4v13@1e+8rf+8
+Ch2 b32>c32c+8.^4 r8.v13@1e+8rf+8
 
 Ch3 (CG5)v13o4
 Ch3 c+4. r4 c+4.
@@ -186,6 +186,38 @@ Ch5 (B)c(H3)c(S2)cc (B)cc(S2)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S2)c(H3)c
 Ch5 (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(HH)c4 (S2)cc
 Ch5 (HH)c4 (B)cc(S2)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S2)cc
 Ch5 (B)c(S2)cc (B)c(S2)cc (B)c(S2)c (HH)c4 (B)c8cc
+
+#-----------------------------------------------------------------------------
+# Part 3 (B)
+#-----------------------------------------------------------------------------
+Ch0 c+4 r8 c+64r32. c+64r32. c+8 c+4 c+64r32. c+64r32.
+Ch0 c+64r32. c+64r32. c+8  c+64r32.r c+8 c+r<b8>f+8<b8
+Ch0 a4.ar b4.>d+<b>
+Ch0 c+64r32. c+64r32. c+8  c+64r32.r c+8 <b8>c+8e+8c+8
+Ch0 c+4 r8 c+64r32. c+64r32. c+8 c+4 c+64r32. c+64r32.
+Ch0 c+64r32. c+64r32. c+8  c+64r32.r c+8 c+r<b8>f+8<b8
+Ch0 a4.ar b4.>d+<b>
+Ch0 c+64r32. c+64r32. c+8  c+64r32.r c+8 <g+8>e+8 f+e+c+<g+
+
+Ch1 g+4r4 c+8d+8e+8f+8  g+8r8>c+4<g+4f+4  e8d+8c+4 d+8c+8<b4>  c+1
+Ch1 g+4r4 c+8d+8e+8f+8  g+8r8>c+4<g+4f+4  e8d+8c+4 d+8c+8<b4>  c+2 r8<b+8a+8b+8
+
+Ch2 >c+4r4<g+4r4  >e+4g+4c+4c+4  <e2f+2  g+1
+Ch2 >c+4r4<g+4r4  >e+4g+4c+4c+4  <e2f+2  c+2r2
+
+Ch3 o4 g+4r4.e+4r8  g+2r4f+4  c+8d+8g+>c+8.< <b8>c+8f+b8. r8e+8r8e+4.e+4
+Ch4 o4 e+4r4.c+4r8  e+2r4d+4  <g+2           f+2>         r8c+8r8c+4.c+4
+Ch3 o4 g+4r4.e+4r8  g+2r4f+4  c+8d+8g+>c+8.< <b8>c+8f+b8. r8e+8r8e+8e+4r4
+Ch4 o4 e+4r4.c+4r8  e+2r4d+4  <g+2           f+2>         r8c+8r8c+8c+4r4
+
+Ch5 (HH)c4 (B)cc(H)c8 (S2)c8(H3)cc (B)c(H3)cc(B)c
+Ch5 (B)c(H3)cc (H)c8.(B)c8 (S2)c8(B)c(H2)c (S2)c8(B)c(H2)c
+Ch5 (H)c4 (S)c8(H3)cc (HH)c4 (S)c8(H3)cc
+Ch5 (H)c8(B)c(H2)c (H)c8(B)cc (S2)c4 (H3)cc(S2)c8
+Ch5 (HH)c4 (B)cc(H)c8 (S2)c8(H3)cc (B)c(H3)cc(B)c
+Ch5 (B)c(H3)cc (H)c8.(B)c8 (S2)c8(B)c(H2)c (S2)c8(B)c(H2)c
+Ch5 (H)c4 (S)c8(H3)cc (HH)c4 (S)c8(H3)cc
+Ch5 (H)c8(B)c(H2)c (H)c8(B)cc (S2)c8cc c8c8
 
 #Ch0 p-0r1v13(Sq)o5 c1 r1
 #Ch1 p-0r1v13(Sq)o5 e1 r1
