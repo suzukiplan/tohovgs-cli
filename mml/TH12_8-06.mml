@@ -200,7 +200,7 @@ Ch0 a4.ar b4.>d+<b>
 Ch0 c+64r32. c+64r32. c+8  c+64r32.r c+8 <g+8>e+8 f+e+c+<g+
 
 Ch1 g+4r4 c+8d+8e+8f+8  g+8r8>c+4<g+4f+4  e8d+8c+4 d+8c+8<b4>  c+1
-Ch1 g+4r4 c+8d+8e+8f+8  g+8r8>c+4<g+4f+4  e8d+8c+4 d+8c+8<b4>  c+2 r8<b+8a+8b+8>
+Ch1 g+4r4 c+8d+8e+8f+8  g+8r8>c+4<g+4f+4  e8d+8c+4 d+8c+8<b4>  c+2 r8\e12000<b+8a+8b+8>
 
 Ch2 >c+4r4<g+4r4  >e+4g+4c+4c+4  <e2f+2  g+1
 Ch2 >c+4r4<g+4r4  >e+4g+4c+4c+4  <e2f+2  c+2r2
