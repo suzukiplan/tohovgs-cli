@@ -335,7 +335,7 @@ Ch0 f+8>c+8< f+64r32.f+64r32.>c+8< f+f+64r32.>c+8< f+64r32.f+64r32.>c+8<
 Ch0 g+8b+8>d+8<d+8 c+<b+8a+ g+g+64r32.g+8 a+1 a+8r8
 
 Ch1 a+4r8c+8a+4r8g+a+  b+4r8a4r8e+4  >c+4r8<f+8>c+4d+8e+8  d+4r8g+4r8a+8r8
-Ch1 v13 a+4r8c+8a+4r8g+a+  b+4.a4.e+4  >c+4.<f+8>c+4d+8e+8  d+4.g+4.b+4
+Ch1 v13@2 a+4r8c+8a+4r8g+a+  b+4.a4.e+4  >c+4.<f+8>c+4d+8e+8  d+4.g+4.b+4
 Ch1 a+1a+4
 
 Ch2 f+4r8<a+8>f+4r8e+f+  a4r8e+4r8<b+4>  a+4r8c+8a+4r4  g+4r8>d+4r8d+8r8
