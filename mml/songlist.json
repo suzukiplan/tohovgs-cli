@@ -1,5 +1,5 @@
 {
-    "version": "2022.07.14",
+    "version": "2022.07.23",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1275,6 +1275,14 @@
                     "loop": 1,
                     "name": "真夜中のフェアリーダンス",
                     "english": "Midnight Fairy Dance"
+                },
+                {
+                    "appleId": "1581358617",
+                    "mml": "TH12_8-06",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "妖精大戦争　～ Faily Wars",
+                    "english": "Fairy Wars　～ Faily Wars"
                 }
             ]
         }
