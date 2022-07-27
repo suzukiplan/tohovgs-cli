@@ -45,7 +45,7 @@ Ch1 b8>ev------<b>v++++++ f+v------ev++++++ av------f+v++++++ f+v------av++++++ 
 Ch1 b8>ev------<b>v++++++ f+v------ev++++++ av------f+v++++++ f+v------av++++++ ev------f+v++++++<
 Ch1 b8>ev------<b>v++++++ f+v------ev++++++ av------f+v++++++ f+v------av++++++ ev------f+v++++++<
 Ch1 b8>ev------<b>v++++++ f+v------ev++++++ av------f+v++++++ f+v------av++++++ ev------f+v++++++<
-Ch1 b8>ev------<b>v++++++ f+v------ev++++++ av------f+v++++++ (Sq)b4r4
+Ch1 b8>ev------<b>v++++++ f+v------ev++++++ av------f+v++++++ (Sq)b4r4|
 
 Ch2 r2.r2.r2.r2. r2(Flute)o4v14b4r4
 
@@ -119,4 +119,51 @@ Ch5 (B)c8.c8.c8 cccc cccc
 Ch5 (B)c8ec c8ec c8c4cc
 Ch5 (B)c4.d8 ccc8 c8cc
 
-Ch0 r1
+#-----------------------------------------------------------------------------
+# Part 3 (A')
+#-----------------------------------------------------------------------------
+Ch0 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb r8b64r32.b64r32. b8bb
+Ch0 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb r8b64r32.b64r32. b8bb
+Ch0 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb r8b64r32.b64r32. b8bb
+Ch0 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb >agee e64r32.r8.
+
+Ch1 (CG3)v10o3
+Ch1 ded64r32.d64r32. r8d64r32.d64r32. ded64r32.d64r32.
+Ch1 d64r32.d64r32.d64r32.d64r32. d64r32.f+d64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
+Ch1 ded64r32.d64r32. r8d64r32.d64r32. ded64r32.d64r32.
+Ch1 d64r32.d64r32.d64r32.d64r32. d64r32.f+d64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
+Ch1 ded64r32.d64r32. d64r32.d64r32.d64r32.d64r32. ded64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
+Ch1 (Pad2)v13o3
+Ch1 f+2r4 f+2r4 f+2r4 f+2r4 f+2r2
+Ch1 (CG3)v10o3
+Ch1 ded64r32.d64r32. r8d64r32.d64r32. ded64r32.d64r32.
+Ch1 d64r32.d64r32.d64r32.d64r32. d64r32.f+d64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
+Ch1 ded64r32.d64r32. r8d64r32.d64r32. ded64r32.d64r32.
+Ch1 d64r32.d64r32.d64r32.d64r32. d64r32.f+d64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
+Ch1 ded64r32.d64r32. d64r32.d64r32.d64r32.d64r32. ded64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
+Ch1 r(CG5)v9o3 b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8 \e22050b4
+
+Ch2 r2.r2.r2.r2.r1
+Ch2 (Pad2)v13o2
+Ch2 b2r4 b2r4 b2r4 b2r4 b2r2
+Ch2 f+2r4 f+2r4 f+2r4 f+2r4 f+2r2
+Ch2 r(CG5)v9o2 b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a
+Ch2 (Flute)v19o4b4
+
+Ch3 (CG5)v13o2
+Ch3 b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8<b8>e8<
+Ch3 b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8<b8>e8<
+Ch3 b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8<b8>e8<
+Ch3 b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8 \e22050b4
+
+Ch4 (Pad)v9o2
+Ch4 b2.b2.b2.b2.b4.>a8^2<
+Ch4 b2.b2.b2.b2.b4.>a8^2<
+Ch4 b2.b2.b2.b2.b4.>a8^2<
+Ch4 o3v12(CG5)
+Ch4 b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8 \e22050b4
+
+Ch5 (B)c8.c c4.c8  r8cc c8.c8.c8  rc8c rccc c8.c  c4.c4cc  c8.c8.c8 rc8c cccc
+Ch5 (B)c8.c c4.c8  r8cc c8.c8.c8  rc8c rccc c8.c  c4.c4cc  c8.c8.c8 rc8c cccc
+Ch5 (B)c8.c c4.c8  r8cc c8.c8.c8  rc8c rccc c8.c  c4.c4cc  c8.c8.c8 rc8c cccc
+Ch5 (B)c8.c c4.c8  r8cc c8.c8.c8  rc8c rccc c8.c  c4.c4cc  c8.c8.c8 c4   cccc
