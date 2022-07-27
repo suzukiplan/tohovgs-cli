@@ -1,5 +1,5 @@
 {
-    "version": "2022.07.23",
+    "version": "2022.07.27",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1283,6 +1283,14 @@
                     "loop": 1,
                     "name": "妖精大戦争　～ Faily Wars",
                     "english": "Fairy Wars　～ Faily Wars"
+                },
+                {
+                    "appleId": "1581358620",
+                    "mml": "TH12_8-07",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "春の氷精 - 静 -",
+                    "english": "Spring Ice Fairy - Silent -"
                 }
             ]
         }
