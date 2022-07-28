@@ -127,21 +127,13 @@ Ch0 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb r8b
 Ch0 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb r8b64r32.b64r32. b8bb
 Ch0 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb >agee e64r32.r8.
 
-Ch1 (CG3)v10o3
-Ch1 ded64r32.d64r32. r8d64r32.d64r32. ded64r32.d64r32.
-Ch1 d64r32.d64r32.d64r32.d64r32. d64r32.f+d64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
-Ch1 ded64r32.d64r32. r8d64r32.d64r32. ded64r32.d64r32.
-Ch1 d64r32.d64r32.d64r32.d64r32. d64r32.f+d64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
-Ch1 ded64r32.d64r32. d64r32.d64r32.d64r32.d64r32. ded64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
+Ch1 (CG3)@0v10o1
+Ch1 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb r8b64r32.b64r32. b8bb
 Ch1 (Pad2)v13o3
 Ch1 f+2r4 f+2r4 f+2r4 f+2r4 f+2r2
-Ch1 (CG3)v10o3
-Ch1 ded64r32.d64r32. r8d64r32.d64r32. ded64r32.d64r32.
-Ch1 d64r32.d64r32.d64r32.d64r32. d64r32.f+d64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
-Ch1 ded64r32.d64r32. r8d64r32.d64r32. ded64r32.d64r32.
-Ch1 d64r32.d64r32.d64r32.d64r32. d64r32.f+d64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
-Ch1 ded64r32.d64r32. d64r32.d64r32.d64r32.d64r32. ded64r32.d64r32. d64r32.d64r32.d64r32.d64r32.
-Ch1 r(CG5)v9o3 b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8f+8e8< b8>e8f+8a8 \e22050b4
+Ch1 (CG3)@0v10o1
+Ch1 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb r8b64r32.b64r32. b8bb
+Ch1 bb8. b8bb bb8b  bb8. b8bb bb8b  bb8. b8bb bb8b  b8bb bb8 b8.bb  b8.b8.bb >agee e64r32.r8.
 
 Ch2 r2.r2.r2.r2.r1
 Ch2 (Pad2)v13o2
