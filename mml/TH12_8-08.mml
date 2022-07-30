@@ -118,8 +118,8 @@ Ch1 d8<a8g8 a8g8f8 g8f8e8 f8e8d2 e4ga
 Ch1 a8>d8f8e8 r8c4<g8 a4.b-b >c+4e4
 
 Ch2 (Sq)v12o4
-Ch2 d4.<a4.g4. f4.^16f+gg+ a4.r8
-Ch2 >f8a8>d8c8 r8<a4e-e f2e8.e-32d32c+4
+Ch2 \s8000 d4.<a4.g4. f4.^16\s300f+gg+ \s2000a4.r8
+Ch2 >\s66f8a8>d8c8 r8<a4@1e-e \s9000f2\s300e8.e-32d32c+4
 
 Ch3 (CG3)v13o4
 Ch3 cdea>cd<< a>cde>cd<< ga>cd>de<< ga>cdef >f4r8< e4gg+
