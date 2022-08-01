@@ -265,6 +265,47 @@ Ch5 (B)c(H3)ccc (S)c8(H3)cc (B)c(H3)c(B)cc (S)c8(H3)cc
 Ch5 (B)c(H3)ccc (S)c8(H3)cc (B)c(H3)c(B)c(H3)c (S)c8(H)c8
 Ch5 (B)c8(H)c8 (S)c8(H)c8 (S)c8c8 c32c32c32c32c8
 
+#-----------------------------------------------------------------------------
+# Part 5 (B)
+#-----------------------------------------------------------------------------
+Ch0 d8d64r32.r a8d64r32.r r8c8 dd64r32.d8
+Ch0 c8c64r32.r a8d64r32.r c8<a8> cc64r32.c8
+Ch0 <b8b64r32.r> g8g64r32.r <b8g8 b64r32.b64r32. b8
+Ch0 b-8>ef f8d8 <aa64r32.>a8 >df32g32 a8<
+Ch0 d8d64r32.d64r32. a8a64r32.a64r32. c<b>c8 dd64r32.d8
+Ch0 c8<a>c a8c64r32.c64r32. c8<a8> cc64r32.<a>c<
+Ch0 b8bb >g8gg< b8g>g< b64r32.b64r32.bb
+Ch0 b-e>ef f64r32.fd>d< <aa64r32.>a8 >d<da<a
+
+Ch1 (Brass)v14o4
+Ch2 (CG3)v14o4
+Ch3 (CG3)v14o4
+Ch1 arar >fr8.< rara >fr<ar  arar >fr8. r4 frcr     dr8. fr8. r4 fr8<a   b-b-b-b- >fr8. r4 erc+r<
+Ch2 frfr ar8. r8gr >dr<fr    frfr agar raga >dr<ar  ar8. dr8. r4 dr8.<   ffff >d<ab-r r4 >c+r<ar
+Ch3 drdr fefr r8ed ardr      crcr fr8f efrf ager    drfr afgr rgfg arfr  dddd affr raga arer
+Ch1 arar >fr8.< rara >fr<ar  arar >fr8. r4 frcr     dr8. fr8. r4 fr8<a   b-b-b-b- >fr8. r4 erc+r<
+Ch2 frfr ar8. r8gr >dr<fr    frfr agar raga >dr<ar  ar8. dr8. r4 dr8.<   ffff >d<ab-r r4 >c+r<ar
+Ch3 drdr fefr r8ed ardr      crcr fr8f efrf ager    drfr afgr rgfg arfr  dddd affr raga arer
+
+Ch4 (CG3)v13o3
+Ch4 dddd64r32. addd dddd64r32. daa64r32.d
+Ch4 cccc64r32. cecc cccc64r32. ccc64r32.c
+Ch4 <bb>g <bb>g <bb>g <bb>g <bb>g <b
+Ch4 b-b->d<b- b->fd<b- b->df<b- >df<b->d
+Ch4 dddd64r32. addd dddd64r32. daa64r32.d
+Ch4 cccc64r32. cecc cccc64r32. ccc64r32.c
+Ch4 <bb>g <bb>g <bb>g <bb>g <bb>g <b
+Ch4 b-b->d<b- b->fd<b- b->df<b- >df<b->d
+
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c32c32c32c32
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c32c32c32c32
+
 Ch0 r1
 
 
