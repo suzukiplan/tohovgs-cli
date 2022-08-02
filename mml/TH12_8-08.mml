@@ -242,6 +242,7 @@ Ch3 drgr d<b>gd <b>dgb gd<b>d
 Ch3 egb-g egb-g c+eae c+eae
 Ch3 drdr drdd drdr8.dd
 Ch3 erer eree erer erer
+Ch3 (CG3)v13o4
 Ch3 arfr frfr8. fr>fr<fr
 Ch3 arar >fr<ar f8fa >e8c+8
 
@@ -252,7 +253,7 @@ Ch4 gg>d<g bggg bgg bgg >d<g
 Ch4 eb-b-b- >c+<b-b-b- >c+<aa>c+<aa>c+<a
 Ch4 add add ad addd daa8
 Ch4 eeae >c<aaa >c<aaa eaa8
-Ch4 (CG5)v12o4
+Ch4 o4
 Ch4 fedc dedr8. defed8
 Ch4 fefr aefr d8r8 >c+8<a8
 
@@ -277,14 +278,14 @@ Ch0 c8<a>c a8c64r32.c64r32. c8<a8> cc64r32.<a>c<
 Ch0 b8bb >g8gg< b8g>g< b64r32.b64r32.bb
 Ch0 b-e>ef f64r32.fd>d< <aa64r32.>a8 >d<da<a
 
-Ch1 (Brass)v14o4
+Ch1 (Brass)v15o4
 Ch2 (CG3)v14o4
 Ch3 (CG3)v14o4
-Ch1 arar >fr8.< rara >fr<ar  arar >fr8. r4 frcr     dr8. fr8. r4 fr8<a   b-b-b-b- >fr8. r4 erc+r<
-Ch2 frfr ar8. r8gr >dr<fr    frfr agar raga >dr<ar  ar8. dr8. r4 dr8.<   ffff >d<ab-r r4 >c+r<ar
+Ch1 arar >fr8.< rara >fr<ar  arar >fr8. r4 frcr     drdr fr8. r4 fr8<a   b-b-b-b- >fr8. r4 erc+r<
+Ch2 frfr ar8. r8gr >dr<fr    frfr agar raga >dr<ar  arar dr8. r4 dr8.<   ffff >d<ab-r r4 >c+r<ar
 Ch3 drdr fefr r8ed ardr      crcr fr8f efrf ager    drfr afgr rgfg arfr  dddd affr raga arer
-Ch1 arar >fr8.< rara >fr<ar  arar >fr8. r4 frcr     dr8. fr8. r4 fr8<a   b-b-b-b- >fr8. r4 erc+r<
-Ch2 frfr ar8. r8gr >dr<fr    frfr agar raga >dr<ar  ar8. dr8. r4 dr8.<   ffff >d<ab-r r4 >c+r<ar
+Ch1 arar >fr8.< rara >fr<ar  arar >fr8. r4 frcr     drdr fr8. r4 fr8<a   b-b-b-b- >fr8. r4 erc+r<
+Ch2 frfr ar8. r8gr >dr<fr    frfr agar raga >dr<ar  arar dr8. r4 dr8.<   ffff >d<ab-r r4 >c+r<ar
 Ch3 drdr fefr r8ed ardr      crcr fr8f efrf ager    drfr afgr rgfg arfr  dddd affr raga arer
 
 Ch4 (CG3)v13o3
