@@ -1,5 +1,5 @@
 {
-    "version": "2022.07.27",
+    "version": "2022.08.03",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1291,6 +1291,14 @@
                     "loop": 1,
                     "name": "春の氷精 - 静 -",
                     "english": "Spring Ice Fairy - Silent -"
+                },
+                {
+                    "appleId": "1581358621",
+                    "mml": "TH12_8-08",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "ルーズレイン",
+                    "english": "Loose Rain"
                 }
             ]
         }
