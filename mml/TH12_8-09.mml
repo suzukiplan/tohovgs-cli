@@ -95,7 +95,7 @@ Ch1 e8.g8.br b-8.f+8.gr a8.d+8reg f+8e8<b4>
 Ch1 e8.g8.b>c+ d8c+8<b8a8 f+4.^16g64g+64a64a+64b4. >d+r
 Ch1 d+32e32^8<b8.>er f+8.<a+8.>f+r e8d+8<f+8ba32g32
 Ch1 <b8>a8g8f+8 e8rg8rbr a8rf+8rdr
-Ch1 v-----<b>v+c<v+b>v+c<v+b>cv+c+32.d32.d+32 e2
+Ch1 v-----<g+v+av+g+v+av+g+av+b32.>c32.d32 e2
 
 Ch2 r8(Brass)v10o4
 Ch2 e8.g8.br b-8.f+8.gr a8.d+8reg f+8e8<b4>
@@ -117,5 +117,10 @@ Ch5 (HH)c4 (H3)cc(H2)c8 (B)c8(H3)cc (H2)c8(B)cc
 Ch5 (B)c4 (H3)cc(B)c8 (H)c4 (B)c8cc
 Ch5 (HH)c4 (H3)cc(H2)c8 (B)c8(H3)cc (H2)c8(B)cc
 Ch5 (B)c8c8c8(H3)cc (S)c4 c8cc
+
+#-----------------------------------------------------------------------------
+# Part 3 (A2)
+#-----------------------------------------------------------------------------
+
 
 Ch0 r1
