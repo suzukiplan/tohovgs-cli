@@ -186,4 +186,61 @@ Ch5 (HH)c4 (B)cc(S)c(H)c (B)cc(S)c(B)c (B)cc(S)c(B)c
 Ch5 (B)c(H2)c (HH)c4 (S)c(H)c (B)c(H2)c (HH)c4 (S)c(H)c
 Ch5 (HH)c8.c8.(H)c(S)c32c32 c4 (B)cc(S)c8
 
+#-----------------------------------------------------------------------------
+# Part 5 (i3)
+#-----------------------------------------------------------------------------
+Ch0 o3
+Ch0 c+8g+8 eg+c+e c+eg c+eg c+e  c8f+8 d+f+cd+ <g+>c+ec+ ec+<g+>c
+Ch0 c+8g+8 eg+c+e c+eg c+eg c+e  c8f+8 d+f+cd+ <g+>c+ec+ ec+<g+>c
+Ch0 c+8g+8 eg+c+e c+eg c+eg c+e  c8f+8 d+f+cd+ <g+>c+ec+ ec+<g+>c
+Ch0 c+8g+8 eg+c+e c+eg c+eg c+e  c8f+8 d+f+cd+ <g+>c+ec+ ec+<g+>c
+
+Ch1 (CG5)v13o4p-0
+Ch1 c+r g+v-----c+v+++++ ev-----g+v+++++ g+v-----e+v+++++
+Ch1 c+v-----g+v+++++ gv-----c+v+++++ ev-----gv+++++ gv-----ev+++++
+Ch1 c+v-----gv+++++ f+v-----c+v+++++ d+v-----f+v+++++ f+v-----d+v+++++
+Ch1 c+v-----f+v+++++ ev-----c+v+++++ c+v-----ev+++++ ec+
+Ch1 c+r g+v-----c+v+++++ ev-----g+v+++++ g+v-----e+v+++++
+Ch1 c+v-----g+v+++++ gv-----c+v+++++ ev-----gv+++++ gv-----ev+++++
+Ch1 c+v-----gv+++++ f+v-----c+v+++++ d+v-----f+v+++++ f+v-----d+v+++++
+Ch1 c+v-----f+v+++++ ev-----c+v+++++ c+v-----ev+++++ ec+
+Ch1 c+r g+v-----c+v+++++ ev-----g+v+++++ g+v-----e+v+++++
+Ch1 c+v-----g+v+++++ gv-----c+v+++++ ev-----gv+++++ gv-----ev+++++
+Ch1 c+v-----gv+++++ f+v-----c+v+++++ d+v-----f+v+++++ f+v-----d+v+++++
+Ch1 c+v-----f+v+++++ ev-----c+v+++++ c+v-----ev+++++ ec+
+Ch1 c+r g+v-----c+v+++++ ev-----g+v+++++ g+v-----e+v+++++
+Ch1 c+v-----g+v+++++ gv-----c+v+++++ ev-----gv+++++ gv-----ev+++++
+Ch1 c+v-----gv+++++ f+v-----c+v+++++ d+v-----f+v+++++ f+v-----d+v+++++
+Ch1 c+v-----f+v+++++ ev-----c+v+++++ c+v-----ev+++++ ec+
+
+Ch2 (CG5)v13o3p-0
+Ch2 g+8 >e8 c+8 e8<
+Ch2 g8 >e8 c+8 e8<
+Ch2 f+8 >d+8 c8 d+8<
+Ch2 g+8 >c+8< g+8 >c+8<
+Ch2 g+8 >e8 c+8 e8<
+Ch2 g8 >e8 c+8 e8<
+Ch2 f+8 >d+8 c8 d+8<
+Ch2 g+8 >c+8< g+8 >c+8<
+Ch2 g+8 >e8 c+8 e8<
+Ch2 g8 >e8 c+8 e8<
+Ch2 f+8 >d+8 c8 d+8<
+Ch2 g+8 >c+8< g+8 >c+8<
+Ch2 g+8 >e8 c+8 e8<
+Ch2 g8 >e8 c+8 e8<
+Ch2 f+8 >d+8 c8 d+8<
+Ch2 g+8 >c+8< g+8 >c+8<
+
+Ch3 (Pad)v12o3 g+2g2f+2e2 g+2g2f+2e2 g+2g2f+2e2 g+2g2f+2e2
+Ch4 (Pad)v12o3 c+2c+2c2c+2 c+2c+2c2c+2 c+2c+2c2c+2 c+2c+2c2c+2
+
+Ch5 (HH)c4 (B)c8(H3)cc (B)c8(H)c8 (B)c8cc
+Ch5 (B)c8(H2)c8 (B)c8(H3)cc (H)c8(H3)cc (B)c8cc
+Ch5 (H)c4 (B)c8(H3)cc (H)c4 (B)c8(H3)cc
+Ch5 (B)c8(H2)c8 (B)c8(H3)cc (H)c8(H3)cc (B)c8cc
+Ch5 (HH)c4 (S)c8(H3)c(S2)c (B)c8(H3)cc (S)c8(H)c8
+Ch5 (B)c8(H2)c8 (S)c8(H3)c(S2)c (H)c4 (S)c8(B)cc
+Ch5 (H)c4 (S)c8(H3)c(S2)c (H)c4 (S)c8(H3)c(S2)c
+Ch5 (B)c8(H3)cc (S)c8(H3)c(S2)c (S)c32c32c32c32c32c32c32c32<g32g32f32f32e32e32d32d32
+
 Ch0 r1
