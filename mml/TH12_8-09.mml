@@ -121,6 +121,33 @@ Ch5 (B)c8c8c8(H3)cc (S)c4 c8cc
 #-----------------------------------------------------------------------------
 # Part 3 (A2)
 #-----------------------------------------------------------------------------
+CH0 o3
+Ch0 eebe ebee b-eeb-eeb-e  d+d+ad+ d+af+d+ eebe ebge  eebe ebge <a>aec+ ec+a8  cgec gece gccgccgc
+Ch0 eebe ebee b-eeb-eeb-e  d+d+ad+ d+af+d+ eebe ebge  eebe ebge <a>aec+ ec+a8  cgec gece gccgccgc
 
+Ch1 (Brass)v14o5 e8.g8.br b-8.f+8.gr a8.d+8reg f+8e8<b4>
+Ch2 (Brass)v13o4 b8.>e8.gr f+8.d+8.er d+8.<a8raa a8g8e4
+Ch1 e8.g8.b>c+ d8c+8<b8a8 f+8.d+8.g32g+32a32a+32 b4.>d+r
+Ch2 b8.>e8.ga b8a32.v-b32.v-a32v++g8f+8 d+8.<b8.>d32d+32e32f32 f+4.br
+Ch1 d+32e32^8<b8.>er f32f+32^8<b-8.>f+ d32d+32
+Ch2 b-32b32^8g8.br a32b-32^8f+8.b- f32f+32
+Ch1 e8d+8<f+8ba32g32 <b8>a8g8f+8
+Ch2 g8f+8d+8f+e32d32 <g8>f+8e8d+8
+Ch1 e8rg8rbr a8rf+8rdr <b2>e4.r8
+Ch2 <b8r>e8rgr f+8rd8r<br g+2b4.r8
+
+Ch3 o3 b2b-2 a2b2 b2>c+2c2<b2
+Ch4 o3 e2e2 d+2e2 e2e2 egce<g>c<eg c8.g64.a64.b64>c4
+Ch3 e4.rf32f+32 g2 f+4<a8.b32>c32 c+4e4 g2a2 o3(Brass)v13 e2e2
+Ch4 <b8.e8.ga b8.b-8.>cd d+2 e4a4 >c2d2 o2(Brass)v13 b1
+
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H)c(S)c(H)c (B)c(H)c(S)c(H)c
+Ch5 (S)c(B)cc(S)c(B)cc(S)c(B)c (B)c8(S)c8 c32c32c32c32c32c32c32c32
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H)c(S)c(H)c (B)c(H)c(S)cc
+Ch5 (S)c(B)cc(S)c(B)cc(S)c(B)c (B)c8(S)c8 c32c32c32c32c32c32c32c32
 
 Ch0 r1
