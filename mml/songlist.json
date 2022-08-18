@@ -1,5 +1,5 @@
 {
-    "version": "2022.08.03",
+    "version": "2022.08.18",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1299,6 +1299,14 @@
                     "loop": 1,
                     "name": "ルーズレイン",
                     "english": "Loose Rain"
+                },
+                {
+                    "appleId": "1581358622",
+                    "mml": "TH12_8-09",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "メイガスナイト",
+                    "english": "Magus Night"
                 }
             ]
         }
