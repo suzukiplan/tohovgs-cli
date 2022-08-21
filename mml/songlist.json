@@ -1,5 +1,5 @@
 {
-    "version": "2022.08.18",
+    "version": "2022.08.21",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1307,6 +1307,14 @@
                     "loop": 1,
                     "name": "メイガスナイト",
                     "english": "Magus Night"
+                },
+                {
+                    "appleId": "1581358623",
+                    "mml": "TH12_8-10",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "プレイヤーズスコア",
+                    "english": "Players Score"
                 }
             ]
         }
