@@ -146,9 +146,9 @@ Ch0 c4 c64r32.ccc c4 c64r32.c64r32. c8
 Ch0 c8c64r32.c c64r32.ccc c8.c64r32. c64r32.c64r32.c64r32.r
 
 Ch1 (Sq)\s6600v12o5 d2 \s1200a8.g8.\s3600a2 r8\s1200g8a8>c8d8 <\s3600a4.g4\s1200a8 \s7200d2. r8\s1200d8 e8f8
-Ch1 \s3600f4.e4\s1200f8 \s6666c2. \s1200c8.<b-8.f8 \s8800g1 a2.>\s4400e4
+Ch1 \s3600f4.e4\s1200f8 \s6666c2. \s1200c8.<b-8.f8 \s8800g1 \s12000a2.>\s3600e4
 Ch2 o4 a2>f8.e8.f2 r8e8f8 g8a8  f4.e4f8<a2. r8a8>c8d8 d4.c4d8<g2. g8. f8. d8 e1 f2. g4
-Ch1 \s5555f2 >\s1200c32d32^8c8.d2 r8c8d8e8f8 \s3600d4.c4d8<\s7777f2. r8\s1200f8g8a8 \s3600a4.g4a8\s8000e2. c2 
+Ch1 \s11111f2 >\s1200c32d32^8c8.d2 r8c8d8e8f8 \s3600d4.c4d8<\s7777f2. r8\s1200f8g8a8 \s3600a4.g4a8\s8000e2. c2 
 Ch2 >d2 a4r8a2 r8g8a8>c8d8 <a4.g4a8d2. r8d8e8f8 f4.e4f8 c2.<g2 
 
 Ch3 (CG3)\s3333v12o4
