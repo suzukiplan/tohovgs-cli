@@ -1,0 +1,89 @@
+# 欲深き霊魂
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s33 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s300 \e11025 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+
+#-----------------------------------------------------------------------------
+Ch0 t146  m8 r1024 l16 r2
+Ch1          r1024 l16 r2
+Ch2          r1024 l16 r2
+Ch3          r1024 l16 r2
+Ch4          r1024 l16 r2
+Ch5          r1024 l16 (B)c4 (S2)crcc
+
+#-----------------------------------------------------------------------------
+# Part 1 (i1)
+#-----------------------------------------------------------------------------
+Ch0 r1 (Bass)o2   c+1^1 g+rg+rg+rg+>c+32d+32 erererer
+Ch1 r1 (Bass)o3@1 c+1^1 g+rg+rg+rg+>c+32d+32 erererer
+Ch2 (Sq)v12o2 g+1^1 >    g+1^4 >\s8000c+2.
+Ch3 (Sq)v12o3 c+1^1 >    r2c+2. \s7000e2.
+Ch4 r1 (Sq)v12o3 e1 @0o2 g+1^4 >\s6000c+2.
+Ch5 (B)c8c(H3)c (S2)c8(B)c8 (H3)cc(B)c8 (S2)c8(B)cc
+Ch5 (B)c8c(H3)c (S2)c8(B)c8 (H3)cc(B)c8 (S2)c8(B)c8
+Ch5 (B)c8c(H3)c (S2)c8(B)c8 (H3)cc(B)c8 (S2)c4
+Ch5 (B)c8c(H3)c (S2)c8(B)c8 (H3)cc(B)c8 (H3)c32c32cc(H2)c
+
+#-----------------------------------------------------------------------------
+# Part 2 (i2)
+#-----------------------------------------------------------------------------
+Ch0 o2 g+8rg+64r32. g+64r32.rg+g+ r8g+64r32.r ef+g+e
+Ch0 g+32r16.>d+r d+64r32.d+64r32.r8 f+4 r8d+r<
+Ch0 g+8rg+64r32. g+64r32.rg+g+ r8g+64r32.r ef+g+e
+Ch0 g+32r16.>d+r d+64r32.d+64r32.r8 f+4 r8d+r<
+Ch0 c+rc+64r32.c+64r32. erar8. c+64r32.c+64r32. c+eae
+Ch0 f+64r32.f+64r32.f+r8. f+64r32.f+64r32. f+4 r8c+c+64r32.
+Ch0 <aa64r32.> c+c+64r32. ee64r32. aa64r32. r4 c+eae
+Ch0 r8ar r4 f+2
+
+Ch1 o3 g+8rg+64r32. g+64r32.rg+g+ r8g+64r32.r ef+g+e
+Ch1 g+32r16.>d+r d+64r32.d+64r32.r8 f+4 r8d+r<
+Ch1 g+8rg+64r32. g+64r32.rg+g+ r8g+64r32.r ef+g+e
+Ch1 g+32r16.>d+r d+64r32.d+64r32.r8 f+4 r8d+r<
+Ch1 c+rc+64r32.c+64r32. erar8. c+64r32.c+64r32. c+eae
+Ch1 f+64r32.f+64r32.f+r8. f+64r32.f+64r32. f+4 r8c+c+64r32.
+Ch1 <aa64r32.> c+c+64r32. ee64r32. aa64r32. r4 c+eae
+Ch1 r8ar r4 f+2
+
+Ch2 (CG5)v13o4 err4  er  r4. ee   erc+r  er8.  f+4 r8d+r   err4  er  r4. ee   erc+r  er8.  f+4 r8d+r
+Ch3 (CG5)v13o3 g+rr4 g+r r4. g+g+ erg+r >c+r8. d+4 r8<br   g+rr4 g+r r4. g+g+ erg+r >c+r8. d+4 r8<br>
+Ch4 (CG5)v13o3 err4  er  r4. ee   r8er   g+r8. b4  r8f+r   err4  er  r4. ee   r8er   g+r8. b4  r8f+r
+Ch2 e rr4 e r r4. e e  e r c+r e r8. f+4r8 d+8  e rr4e rr4. c+c+ c+r <g+r> c+r8.
+Ch3 c+rr4 c+r r4. c+c+ c+r<g+r>c+r8. d+4r8<b8>  c+rr4c+rr4.<g+g+ g+r r4.
+Ch4 g+rr4 g+r r4. g+g+ g+r e r g+r8. b4 r8 f+8  g+rr4g+rr4. e e  e r r4.
+Ch2 o5f8e-8d-8e-d-
+Ch3 o5rd-8c8<b-8.
+Ch4 o4f4d-8e-8
+
+Ch5 (B)c(H3)c(B)c(H3)c (S2)c8(H3)c(B)c8 (H3)c(B)c8 (S2)c8(H3)cc
+Ch5 (B)c(H3)c(B)c(H3)c (S2)c8(H3)c(B)c8 (H3)c(B)c8 (S2)c8(B)c8
+Ch5 (B)c(H3)c(B)c(H3)c (S2)c8(H3)c(B)c8 (H3)c(B)c8 (S2)c8(H3)cc
+Ch5 (B)c(H3)c(B)c(H3)c (S2)c8(H3)c(B)c8 (H3)c(B)c8 (S2)c8(B)c8
+Ch5 (B)c(H3)c(B)c(H3)c (S2)c8(H3)c(B)c8 (H3)c(B)c8 (S2)c8(H3)cc
+Ch5 (B)c(H3)c(B)c(H3)c (S2)c8(H3)c(B)c8 (H3)c(B)c8 (S2)c8(B)c8
+Ch5 (B)c(H3)c(B)c(H3)c (S2)c8(H3)c(B)c8 (H3)c(B)c8 (S2)c8(H3)cc
+Ch5 (B)c(H3)c(B)c(H3)c (S2)c8(H3)c(B)c8 (H3)ccc8 (S)c4
+
+Ch0 r1
