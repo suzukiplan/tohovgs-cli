@@ -1,5 +1,5 @@
 {
-    "version": "2022.08.21",
+    "version": "2022.09.07",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1315,6 +1315,25 @@
                     "loop": 1,
                     "name": "プレイヤーズスコア",
                     "english": "Players Score"
+                }
+            ]
+        },
+        {
+            "appleId": "1581358516",
+            "albumId": "TH13",
+            "name": "東方神霊廟",
+            "formalName": "東方神霊廟　～ Ten Desires.",
+            "copyright": "(c)2011 上海アリス幻樂団",
+            "compatColor": 35,
+            "defaultLocked": true,
+            "songs": [
+                {
+                    "appleId": "1581358517",
+                    "mml": "TH13-01",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "欲深き霊魂",
+                    "english": "The Greedy Spirits"
                 }
             ]
         }
