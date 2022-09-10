@@ -63,5 +63,35 @@ Ch3 f+2
 Ch4 r2
 Ch5 r2
 
+#-----------------------------------------------------------------------------
+# Part 2 (i2)
+#-----------------------------------------------------------------------------
+Ch0 t147
+Ch0 e1^1 c1.d2 e1^1 c2.c64r32.r <b4> c4. d+4d+4
+
+Ch1 (Sq)o5 d4.e4.(CG5)<rga>e  f+4g4 a8c8<b8>e8
+Ch2 (Sq)o4 b2.r4              r8>(CG5)d4e4.r8gf
+Ch3 (Sq)o4 f+4.g4.r4          (CG5)<b8>e8 degf+8 <ba8e8g8
+
+Ch1 (Sq)o5 f+4.(CG5)e8 r4d4            <(Sq)f+2 (CG5)d8f+8a8>c8
+Ch2 (Sq)o5 d4.r4< b4.              d4.r4(CG5)d8f+8a8
+Ch3 (Sq)o4 b4.(CG5)g8  r8(CG5)f+8.f+eg <g8d8a8>d8<(Sq)a2(CG5)
+
+Ch1 (Sq)o4 a8.a8.      b8^2          r8(CG5)ba>d8<g8 f+8gf+ egf+a
+Ch2 o4     f+8.f+8.(Sq)g8^2          r2 (CG5)d8ed cedf+
+Ch3 o3     b8.b8. >(Sq)e4(CG5)d8r8e8 <e8a8g8f+e dcd8 egf+a
+
+Ch1 (Sq)o4 f+4.e4.r8 d4  e4.f+4. (CG5)d+8 
+Ch2 (Sq)o4 d4. c4.r8<b4> c4.d+4.r8
+Ch3 (Sq)o3 f+4.e4.r8 d4  c4.d+4.(CG5)d+8
+
+Ch4 r1 (Pad2)o4v12 e1 r1 d2e2
+Ch4 f+4.g8^1. r1 >e2f+2
+
+Ch5 (B)c4c4c4c4 (H)c4(B)c4c4c4
+Ch5 (B)c4c4c4c4 (H)c4(B)c4c4c4
+Ch5 (B)c4c4c4c4 (H)c4(B)c4c4c4
+Ch5 (B)c4c4c4c4 (B)c4c4 (S2)c32<c32>c32<c32>c32<c32>c32<c32> c8(H)c8
+
 Ch0 r1
 
