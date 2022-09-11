@@ -93,5 +93,45 @@ Ch5 (B)c4c4c4c4 (H)c4(B)c4c4c4
 Ch5 (B)c4c4c4c4 (H)c4(B)c4c4c4
 Ch5 (B)c4c4c4c4 (B)c4c4 (S2)c32<c32>c32<c32>c32<c32>c32<c32> c8(H)c8
 
+#-----------------------------------------------------------------------------
+# Part 3 (A1)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)@0v20o2
+Ch0 c8c64r32.c64r32. cc64r32.c8  d8d64r32.d64r32. d64r32.d64r32.dd64r32.
+Ch0 <b8b64r32.b64r32.>c<bab> c8c64r32.c64r32. cc64r32.c8
+Ch0 <a8a64r32.a64r32. aa64r32.a8 b8b64r32.b64r32.b64r32.b64r32.b8>
+Ch0 c8c64r32.c64r32. cc64r32.c8  d+8d+64r32.d+64r32. d+64r32.d+64r32.d+8
+Ch0 c8c64r32.c64r32. cc64r32.c8  d8d64r32.d64r32. d64r32.d64r32.dd64r32.
+Ch0 <b8b64r32.b64r32.>c<bab> c8c64r32.c64r32. cc64r32.c8
+Ch0 <a8a64r32.a64r32. aa64r32.a8 b8b64r32.b64r32.b64r32.b64r32.b8>
+Ch0 c8c64r32.c64r32. cc64r32.c8  d+8d+64r32.d+64r32. d+64r32.d+64r32.d+8
+
+Ch1 r8(CG5)v14o5 d8<a8g8> d8<a8g8a8 g8d8a8g8 d8g8>d8e8
+Ch2 r4(CG5)v10o5 d8<a8g8> d8<a8g8a8 g8d8a8g8 d8g8 v14g8>
+Ch1 r8    d8<a8e8 >d8<a8f+8>(Sq)e8^2f+4.(CG5)<gf+
+Ch2 r4v10 d8<a8e8 >d8<a8 v12 (Sq)e8^2f+4.r8
+
+Ch1 r8(CG5)v14o5 d8<a8g8> d8<a8g8a8 g8d8a8g8 d8g8>d8e8
+Ch2 r4(CG5)v10o5 d8<a8g8> d8<a8g8a8 g8d8a8g8 d8g8 v14g8>
+Ch1 r8    d8<a8e8 >d8<a8f+8>(Sq)e8^2f+4.(CG5)<gf+
+Ch2 r4v10 d8<a8e8 >d8<a8>v14(Sq)c8^2d+4.r
+
+Ch3 (Sq)@0\s12000o4v9 c2d2<b2>c2 <a2b4.>c8^2 
+Ch4 r1r1r1.
+Ch3 (Pad2)v12o4 f+2
+Ch4 (Pad2)v12o4 d+2
+Ch3 g2f+2f+2g2 e2f+2>c2d+2
+Ch4 e2d2d2e2  <a2b2 >g2a2
+
+Ch5 (H3)c8(B)ee (H3)c8r8 c8.(B)g (H3)c8(H)c8
+Ch5 (H3)c8.(B)e (H3)c8(B)d8 (B)c8(H)c8 (H3)c8(H)c8
+Ch5 (H3)c8(B)ee (H3)c8r8 c8.(B)g (H3)c8(H)c8
+Ch5 (H3)c8.(B)e (H3)c8(B)d8 (B)c8(H)c8 (H3)c8(H)c8
+
+Ch5 (B)ed(H)c8 (B)dc(H)c8 (H3)cc(H)c8 (B)e8(H)c8
+Ch5 (B)ed(H)c8 (B)dc(H)c8 (H3)cc(H)c8 (B)e8(H)c8
+Ch5 (B)ed(H)c8 (B)dc(H)c8 (B)cccc cccc
+Ch5 (B)d8d8d8(S2)c8 c32c32ccc (S)c(B)c(S)cc
+
 Ch0 r1
 
