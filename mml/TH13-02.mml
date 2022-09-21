@@ -58,7 +58,7 @@ Ch5 r1.
 Ch0 t146
 Ch0 d+4d+4
 Ch1 (CG5)f+8>d8f+8g8
-Ch2 d+4.(CG5)g8
+Ch2 d+4.(CG5)g8|
 Ch3 f+2
 Ch4 d+4d+4
 Ch5 r2
@@ -273,5 +273,30 @@ Ch5 (B)c8(H)c(S2)<c (B)c(S2)<e(H)c8 (H3)cc(H)c(S2)<c (B)c8(H)c(S2)<g
 Ch5 (B)c8(H)c(S2)<c (B)c(S2)<e(H)c8 (H3)cc(H)c(S2)<c (B)c8(H)c(S2)<g
 Ch5 (B)c4 (S2)crcc (S)cccc c4
 
-Ch0 r1
+#-----------------------------------------------------------------------------
+# Part 6 (i1')
+#-----------------------------------------------------------------------------
+Ch0 (Sq)v14o5 d4.e4. r(CG5)<a>de f+4g4 a8c8<b8>gf+
+Ch1 r4. (Sq)v13o4 b4. r4 >(CG5)d4e4 f+8<a8g8f+8
+Ch2 (Sq)v14o4 f+4.g4. r4. (CG5)f+8r8g8>d8r4.
+Ch3 (Sq)v13o4 d1 r8(CG5)<a8b8r>f+e4.r8
+Ch4 (Sq)v14o3 g1 e2 r(CG5)ba8e8a8
 
+Ch0 (Sq)f+4.(CG5)e8r8 <(Sq)b8>(CG5)d<f+eg(Sq)g2r8(CG5)f+8a8>c8
+Ch1 (Sq)>d4.(CG5)<b8 r1 (Sq)d2
+Ch2 (Sq)<f+4.(CG5)g8 r1.
+Ch3 (Sq)o3 g2r4g4 r4(CG5)a8>d8<(Sq)a2
+Ch4 (Sq)o3 c1 (CG5)f+8d4. (Sq)f+2
+
+Ch0 (Sq)o4 a4.b8^2 (CG5)e8ba >d8<g8 e8ge8f+d8
+Ch1 (Sq)o4 f+4.g8^2 r8(CG5)grg8r8 c4<b8a8
+Ch2 (CG5)o3 b8.b8.>e4d4e8 r8(CG5)ere8r8 r2
+Ch3 (Sq)o3 g1 r2.r(CG5)dcd
+Ch4 (Sq)o3 e1 (CG5)e8a8 g8ed c<b>d8 e8f+8
+
+Ch0 (Sq)o4 a4.g4.r8 (CG5)f+8d8e8 r8ef+ f+8>d8f+8g8
+Ch1 (Sq)o4 f+4.e4.r8 (CG5)d8<b8>c8 r4. f+8f+8g8
+Ch3 (Sq)o3 g2.r8 (CG5)f+4g8 r4a4a4
+Ch4 (Sq)o3 e2.r8 (CG5)d4e8 r4f+4f+4 
+
+Ch5 p-0(Bass)@0v11o3 e1 <e1 c1.d2 e1^1 c2.c64r32.r <b4> c4. d+4d+4
