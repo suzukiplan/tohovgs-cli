@@ -1,5 +1,5 @@
 {
-    "version": "2022.09.07",
+    "version": "2022.09.21",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1334,6 +1334,14 @@
                     "loop": 1,
                     "name": "欲深き霊魂",
                     "english": "The Greedy Spirits"
+                },
+                {
+                    "appleId": "1581358518",
+                    "mml": "TH13-02",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "死霊の夜桜",
+                    "english": "Deadly Night Cherry Blossoms"
                 }
             ]
         }
