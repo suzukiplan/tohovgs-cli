@@ -11,7 +11,7 @@ $CG4 \s30 \e15000 @2 %20
 $CG5 \s30 \e8000 @2 %20
 $CG6 \s30 \e80 @2 %20
 $CG7 \s100 \e5000 @0 %90
-$Sq \s30 \e8000 @2 %75
+$Sq \s66 \e9999 @2 %75
 $Sq2 \s600 \e11025 @2 %70
 $Sq3 \s30 \e8000 @3 %80
 $Pad \s33333 \e22050 @2 %77
@@ -34,23 +34,23 @@ Ch4          r1024 l16
 Ch5          r1024 l16
 
 #-----------------------------------------------------------------------------
-# Part 1 (8 bars)
+# Part 1 / Part A1 (8 bars)
 # - Main theme presentation section
 # - The piece repeats the motifs presented in this part, changing them in detail.
 # - 1 motif presented in 2 bars
 # - key: D minor
 #-----------------------------------------------------------------------------
 # [Chord Progression]
-# Dm (i)  | Ddim (i) | Dm (i) | Dm add9 (i), Dm (i) |
-# B♭ (vi) | C (vii)  | Dm (i) | Dm7 (i)             |
+# Dm (I)  | Ddim (I) | Dm (I) | Dm add9 (I), Dm (I) |
+# B♭ (vi) | C (vii)  | Dm (I) | Dm7 (I)             |
 #-----------------------------------------------------------------------------
-Ch0 (CG5)v11o3
+Ch0 (Bass)v13o3
 Ch0 d8f8a8>d8< d8f8a8d8  d8f8a-8f8 d8f8a-8f8  
 Ch0 d8f8a8>d8< d8f8a8d8  d8f8a8>e8< d8f8a8d8
 Ch0 <b-8>d8f8b-8 f8b-8d8f8  c8e8g8>c8< g8a8e8g8
 Ch0 d8f8a8>d8< a8f8d8f8  d8f8a8>d8< a8f8d8f8
 
-Ch1 (Brass)v14o4
+Ch1 r777(Sq)v14o4
 Ch1 a4.r8 f4.r8 a-2^8 r8 f8a-8
 Ch1 a2 f4>c4<  b2 r8a4g8
 Ch1 a2f2 e2 r8d4e8
@@ -62,7 +62,7 @@ Ch2 d2 d4f4 e2 r8d4e8
 Ch2 f2d2 c2 r8<a4>c8
 Ch2 d1^2.r4
 
-Ch3 (Brass)v12o3
+Ch3 (Brass)v13o3
 Ch3 a4.r8 f4.r8 a-2^8 r8 f8a-8
 Ch3 a2 f4>c4<  b2 r8a4g8
 Ch3 a2f2 e2 r8d4e8
@@ -93,5 +93,50 @@ Ch5 (B)c4 (S2)c4 (B)c8c8 (S2)c4
 Ch5 (B)c4 (S2)c4 (B)c8(H3)cc (S2)c8(H)c8
 Ch5 (B)c4 (S2)c4 (B)c8c8 (S2)c4
 Ch5 (B)c(H3)ccc (S2)c8(H3)cc (B)c8(S2)cc (S)c8(H)c8
+
+#-----------------------------------------------------------------------------
+# Part 2.1 / Part B1 (8 bars)
+# - Expand A1
+# - key: D minor
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | Dm (I) | 〃 | Gm7 (IV), Dm add9 (I)  | Dm on F (I), C on G (vii) |
+# | B♭ (vi), C (vii) | F on A (iii) | B♭ (vi), C (vii) | Dm (I) |
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 d1^1 <g2a2 f2g2 b-2>c2< a1 b-2>c2 d64r32.d64r32.d4. v-drv+a>v-d< v+a>v-d<v+f>v-d
+
+Ch1 (Brass)v14o5
+Ch1 d4.r8c4.r8 d2^8c32c+32d32d+32 e4
+Ch1 f8.re8.rd8.re4 f4.g8e4<a8>c8
+Ch1 d4.r8c4.r8 <a2^8>c+32d32d+32e32 f4
+Ch1 e4d4c4<a4> d1
+
+Ch2 (Brass)v13o4
+Ch2 f4.r8e4.r8 f2^8d+32e32f32f+32 g4
+Ch2 a8.rg8.rf8.rg4 a4.>c8<g4 f8a8
+Ch2 f4.r8e4.r8 f2^8f32f+32g32g+32 a4
+Ch2 g4f4e4d4 r8d8^2.
+
+Ch3 (Sq)v12o4
+Ch3 d2c2 d2r4e8r8 r8b-8g4 e4g4 f4.g8e4c8f8
+Ch3 f2e8>(CG5)c4.< f2.a4 r4a8>d8<d8e8d4
+Ch3 r8(Pad2)d8^2.
+
+Ch4 (CG5)v12o3
+Ch4 f8a4. r8f8a8d8 f8a8d8f8 r8f8 ab->c8
+Ch4 f8<b-8>e8<g8 >d8<e8 g4
+Ch4 >d4.e8 c4<a8>c8 (Sq)d2c2 <a2.>f4
+Ch4 (CG5)e4d4c4<a4
+Ch4 r8(Pad)a8^2.
+
+Ch5 (B)c8(H)c8 (B)cc(H)c8 (B)cc(H)c8 (H3)cc(H)c8
+Ch5 (B)c8(H)c8 (B)c(H3)c(H)c8 (B)cc(S2)c(H3)c (B)cc(S2)c(H3)c
+Ch5 (B)c8(H)c8 (S2)c(H3)c(B)c(H2)c (S2)c(H3)c(B)c(H2)c  (S2)c(H3)c(H)c8
+Ch5 (B)c(S2)c(H)c8 (H3)cc(H)c8 (B)ccc(H)c (S2)c32c32c32c32c32c32c32c32
+Ch5 (B)c8(H)c8 (B)cc(H)c8 (B)cc(H)c8 (H3)cc(H)c8
+Ch5 (B)c(H3)c(S2)c(H3)c cc(S2)c(B)c cc(S2)c(H)c (B)c8(S2)c8
+Ch5 (B)c8(H)c8 (S2)c(H3)c(B)c(H2)c (S2)c(H3)c(B)c(H2)c  (H3)cc(H)c8
+Ch5 (B)c8(S2)c8(H3)cc(S2)c8 c8cc c32c32c32c32c8
 
 Ch0 r1
