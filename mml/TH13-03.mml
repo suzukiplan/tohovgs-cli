@@ -169,7 +169,7 @@ Ch2 a8.rg8.rf8.rg4 a4.>c8<g4 f8a8
 Ch2 f4.r8e4.r8 f2^8f32f+32g32g+32 a4
 Ch2 g4f4e4d4 f1
 
-Ch3 (Sq)o4 d2c2 d2.e4 r8a8g4f4g4 a4.>c8< g4f8g8
+Ch3 (Sq)o4 d2c2 d2.e4 r8(Brass)<a8g4f4g4 a4.>c8< g4f8g8
 Ch4 (Sq)o3 a2g2 a2.>c4 f4e4d4e4 f2e4d8e8
 Ch3 f2e2 d2. f4 g4f4e4d4 d1
 Ch4 d2c2<a2.>d4 e4d4c4<a4 a1
@@ -191,7 +191,7 @@ Ch5 (B)c(H3)c(H)c8 (H3)cc(H)c8 (B)c(H3)c(H)c8 (S2)c32c32c32c32<g32f32e32d32
 #-----------------------------------------------------------------------------
 # [Chord Progression]
 # Dm/A (I), Dm/F (I) | Ddim/A♭ (I) | Dm/A (I), Dm/F (I) | Dm6/B (I), Dm/A (I) |
-# B♭7/A (vi), B♭7/F (vi)  | C/G (vii)   | F6 (iii) | Fm (I) |
+# B♭7/A (vi), B♭7/F (vi)  | C/G (vii) | F6 (iii) | Fm (I) |
 #-----------------------------------------------------------------------------
 Ch0 < a4.r8 f4.r8 a-2 r8a-64r32.a-64r32. a-64r32.ra-8
 Ch0 a4.r8f4g4 b2r8p-555a4.p-0
