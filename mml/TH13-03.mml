@@ -183,5 +183,54 @@ Ch5 (B)c(H3)c(H)c(S2)<g32e32 (B)c(H3)c(H)c(S2)<c (B)c(H3)c(H)c(S2)c32<g32 (B)c(H
 Ch5 (B)c(H3)c(H)c(H3)c32c32 (S2)c(H3)c(H)c(S2)<c (S2)c(H3)c(H)c8 (S2)c(H3)c(H)c8
 Ch5 (B)c(H3)c(H)c8 (H3)cc(H)c8 (B)c(H3)c(H)c8 (S2)c32c32c32c32<g32f32e32d32
 
+#-----------------------------------------------------------------------------
+# Part 3.1 / Part A2 (8 bars)
+# - It is very similar to A1, but the addition of the bassline changes the sound of the chord.
+# - key: D minor, F minor
+#   - The eighth bar of this part modulates +3: Dm -> Fm
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# Dm/A (I), Dm/F (I) | Ddim/A♭ (I) | Dm/A (I), Dm/F (I) | Dm6/B (I), Dm/A (I) |
+# B♭7/A (vi), B♭7/F (vi)  | C/G (vii)   | F6 (iii) | Fm (I) |
+#-----------------------------------------------------------------------------
+Ch0 < a4.r8 f4.r8 a-2 r8a-64r32.a-64r32. a-64r32.ra-8
+Ch0 a4.r8f4g4 b2r8p-555a4.p-0
+Ch0 a2f2 g2r8 g64r32.g64r32. g64r32.rg8
+Ch0 f1. f64r32.r f64r32.f64r32. f64r32.r f64r32.r
+
+Ch1 (Brass)v14o4
+Ch1 a4.r8 f4.r8 a-2^8 r8 f8a-8
+Ch1 a2 f4>c4<  b2 r8a4g8
+Ch1 a2f2 e2 r8d4e8
+Ch1 f1. (CG3)<a->cfa- b->c<b->e-
+
+Ch2 (Brass)v13o4
+Ch2 d4.r8 d4.r8 d2^8r4.
+Ch2 d2 d4f4 e2 r8d4e8
+Ch2 f2d2 c2 r8<a4>c8
+Ch2 d1. r(CG3)v9<a->cfa- b->c<b-
+
+Ch3 (Brass)v13o3
+Ch3 a4.r8 f4.r8 a-2^8 r8 f8a-8
+Ch3 a2 f4>c4<  b2 r8a4g8
+Ch3 a2f2 e2 r8d4e8
+Ch3 f1.r2
+
+Ch4 (Sq)v12o4
+Ch4 d2d2 d2.r4 d2d4f4 e2.r4
+Ch4 (CG3)v13o3
+Ch4 f8b-8>d4< f4.r8
+Ch4 g8>c8e4 r8>c<egce<g
+Ch4 f8g8>d2.
+Ch4 <f8a-8>c8f8 c8<a-8f8a-8
+
+Ch5 (H)c2c2
+Ch5 (H)c4 (S2)<g32g32f32f32e32e32d32d32 r8(B)cc c8c+8
+Ch5 (H)c2c4(B)cccc
+Ch5 (B)c4 c(S2)ccc c8(B)cc c8(H)c8
+Ch5 (HH)c4 (S2)c4 (B)c4 (S2)c4
+Ch5 (H)c2 r8(B)cc (H)c8(H3)cc
+Ch5 (B)c4 (S2)c4 (B)c8c8 (S2)c4
+Ch5 (B)c(H3)ccc (S2)c8(H3)cc (B)c8c8(S)c8(B)c8
 
 Ch0 r1
