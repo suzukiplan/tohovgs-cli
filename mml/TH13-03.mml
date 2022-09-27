@@ -41,7 +41,7 @@ Ch5          r1024 l16
 # - key: D minor
 #-----------------------------------------------------------------------------
 # [Chord Progression]
-# Dm (I)  | Ddim (I) | Dm (I) | Dm6 (I), Dm (I) |
+# Dm (I)  | Ddim (I) | Dm (I) | Em (II), Dm (I) |
 # B♭ (vi) | C (vii)  | Dm (I) | Dm7 (I)         |
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o3
@@ -100,8 +100,8 @@ Ch5 (B)c(H3)ccc (S2)c8(H3)cc (B)c8(S2)cc (S)c8(H)c8
 # - key: D minor
 #-----------------------------------------------------------------------------
 # [Chord Progression]
-# | Dm (I) | 〃 | Gm7 (IV), Dm add9 (I)  | Dm on F (I), C on G (vii) |
-# | B♭ (vi), C (vii) | F on A (iii) | B♭ (vi), C (vii) | Dm (I) |
+# | Dm (I) | 〃 | Gm7 (IV), Dm add9 (I) | Dm/F (I), C/G (vii) |
+# | B♭ (vi), C (vii) | F/A (iii) | B♭ (vi), C (vii) | Dm (I) |
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o2
 Ch0 d1^1 <g2a2 f2g2 b-2>c2< a1 b-2>c2 d64r32.d64r32.d4. drv+a>v+d< v-a>d<v-f>d<
@@ -145,8 +145,8 @@ Ch5 (B)c8(S2)c8(H3)cc(S2)c8 c8cc c32c32c32c32c8
 # - key: D minor
 #-----------------------------------------------------------------------------
 # [Chord Progression] (same as B1)
-# | Dm (I) | 〃 | Gm7 (IV), Dm add9 (I)  | Dm on F (I), C on G (vii) |
-# | B♭ (vi), C (vii) | F on A (iii) | B♭ (vi), C (vii) | Dm (I) |
+# | Dm (I) | 〃 | Gm7 (IV), Dm add9 (I)  | Dm/F (I), C/G (vii) |
+# | B♭ (vi), C (vii) | F/A (iii) | B♭ (vi), C (vii) | Dm (I) |
 #-----------------------------------------------------------------------------
 Ch0 dra>d< df>d<f dr>d<a >d<a>d<a
 Ch0 drfa >d<a>d<a draf a>d<f>d<
@@ -190,7 +190,7 @@ Ch5 (B)c(H3)c(H)c8 (H3)cc(H)c8 (B)c(H3)c(H)c8 (S2)c32c32c32c32<g32f32e32d32
 #   - The eighth bar of this part modulates +3: Dm -> Fm
 #-----------------------------------------------------------------------------
 # [Chord Progression]
-# Dm/A (I), Dm/F (I) | Ddim/A♭ (I) | Dm/A (I), Dm/F (I) | Dm6/B (I), Dm/A (I) |
+# Dm/A (I), Dm/F (I) | Ddim/A♭ (I) | Dm/A (I), Dm/F (I) | Em/B (II), Dm/A (I) |
 # B♭7/A (vi), B♭7/F (vi)  | C/G (vii) | F6 (iii) | Fm (I) |
 #-----------------------------------------------------------------------------
 Ch0 < a4.r8 f4.r8 a-2 r8a-64r32.a-64r32. a-64r32.ra-8
