@@ -26,7 +26,7 @@ $H3 \s1  \e10   p-80  @3 %25 v11 o3
 $H3a \s1 \e100  p-60  @3 %35 v14 o4
 
 #-----------------------------------------------------------------------------
-Ch0 t167  m8 r1024 l16
+Ch0 t167  m8 r1024 l16|
 Ch1          r1024 l16
 Ch2          r1024 l16
 Ch3          r1024 l16
@@ -145,8 +145,8 @@ Ch5 (B)c8(S2)c8(H3)cc(S2)c8 c8cc c32c32c32c32c8
 # - key: D minor
 #-----------------------------------------------------------------------------
 # [Chord Progression] (same as B1)
-# | Dm (I) | 〃 | Gm7 (IV), Dm add9 (I)  | Dm/F (I), C/G (vii) |
-# | B♭ (vi), C (vii) | F/A (iii) | B♭ (vi), C (vii) | Dm (I) |
+# Dm (I) | 〃 | Gm7 (IV), Dm add9 (I)  | Dm/F (I), C/G (vii) |
+# B♭ (vi), C (vii) | F/A (iii) | B♭ (vi), C (vii) | Dm (I) |
 #-----------------------------------------------------------------------------
 Ch0 dra>d< df>d<f dr>d<a >d<a>d<a
 Ch0 drfa >d<a>d<a draf a>d<f>d<
@@ -233,4 +233,151 @@ Ch5 (H)c2 r8(B)cc (H)c8(H3)cc
 Ch5 (B)c4 (S2)c4 (B)c8c8 (S2)c4
 Ch5 (B)c(H3)ccc (S2)c8(H3)cc (B)c8c8(S)c8(B)c8
 
-Ch0 r1
+#-----------------------------------------------------------------------------
+# Part 3.2 / Part A2' (8 bars)
+# - Part 3.1 (A2) in F minor
+# - key: F minor
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# Fm/C (I), Fm/A♭ (I) | Fdim/B (I) | Fm/C(I), A♭6 (iii) | Gm/D (ii), Fm/C (I) |
+# Fm/C (I), D♭/A♭ (vi) | E♭/B♭ (vii), Cm7/B♭ (V) | A♭6 (iii) | D♭7 (vi) |
+#-----------------------------------------------------------------------------
+Ch0 >c4.r8< a-4.r8  b2r8b64r32.b64r32. b64r32.r b8
+Ch0 >c4.r8< a-4>e-4 d2r8c4<b-8
+Ch0 >c2<a-2 b-2 r8b-64r32.b-64r32. b-64r32.rb-8
+Ch0 a-1 >d-ra-a- d-fa-d- cc64r32.b-f cc64r32.fc
+
+Ch1 (Brass)o5 c4.r8 <a-4.r8 b2^8r8a-8b8
+Ch2 (Brass)o4 f4.r8  f4. r8 b2^8r8. b32>c32d-32d32e-32e32
+Ch3 (Brass)o4 c4.r8 <a-4.r8 b2^8r4.
+
+Ch1 >c2<a-4>e-4 d2 r8c4<b-8
+Ch2 \s8000f2 f4a-4 g2 r8<\s66f4g8
+Ch3 c2 c4e-4 d2 r8c4e-8
+
+Ch1 >c2<a-2 g2 r8f4g8 a-1
+Ch2 a-2f2 e-2 r8c4e-8 f1
+Ch3 f2d-2 <b-2 r8g4b-8 >c1
+
+Ch1 (CG3)o4v14 b->c<b->c f4 <ce-fe- f>c<b->e-
+Ch2 r(CG3)o4v11 b->c<b->c f4 <ce-fe- f>c<b-
+Ch3 r8(CG3)o4v7 b->c<b->c f4 <ce-fe- f>c
+
+Ch4 (CG5)v11o3
+Ch4 f8a-8>c8f8 <f8a-8>c8<a-8
+Ch4 f8a-8b8>f8 <f8a-8b8a-8
+Ch4 f8a-8>c8f8 <f8a-8>c8<a-8
+Ch4 g8b-8>d8g8 <f8a-8>c8<a-8
+Ch4 f8a-8>c8f8 d-8f8<f8a-8
+Ch4 e-8g8b-8>e-8 <g8b-8 e-8g8
+Ch4 f8a-8>c8f8 c8<a-8f8a-8
+Ch4 >fv-a->v-c<v-f v+++cv-fv-a-v-f cv-fv-c<v-a- v+++fa->cf
+
+Ch5 (HH)c4 (B)cc(S2)c(H)c (B)cc(S2)c(H)c (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(B)c(H3)c cc(H)c8 (B)cc(H)c8 (B)c(H3)c(S)c8
+Ch5 (HH)c4 (B)cc(S2)c(H)c (B)cc(S2)c(H)c (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(B)c(H3)c cc(S2)c8 (B)cc(H)c8 (B)c(H3)c(S)c8
+Ch5 (HH)c4 (B)cc(S2)c(H)c (B)cc(S2)c(H)c (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(B)c(H3)c cc(H)c8 (B)cc(S2)c8 (B)c(H3)c(S)c8
+Ch5 (B)c(H3)c(H)c8 (B)cc(H)c8 (B)cc(H)c8 (S)c8(H)c8
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (S)c32c32c32c32c32c32c32c32 ccc8
+
+#-----------------------------------------------------------------------------
+# Part 4.1 / Part B2 (8 bars)
+# - B1 in F minor & Slightly modified bass pattern
+# - key: F minor
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# Fm (I) | 〃 | B♭m7 (IV), Fm add9 (I) | D♭ (vi), E♭/G (vii) |
+# Fm (I), E♭/G (vii) | Fm (I) | B♭/F (IV), E♭sus2 (vii) | Fm7 (I) |
+#-----------------------------------------------------------------------------
+Ch0 <f1.> fr>c<a- >c<a-fa-
+Ch0 d-rfb- d-fb-d- fr>c<a- >c<g>c<f
+Ch0 d-ra-f a-fa-f e-rgb- ge-ge-
+Ch0 f2g2f2 fr>c<a- fa->c<f
+Ch0 fr>d-<b- b-f>d-64r32.d-< frb->e-< fb->e-<f
+Ch0 fr>c<a- >c<ff64r32.f >ff64r32.<a->c <fa->c<f
+
+Ch1 (Brass)v14o5k+++
+Ch1 d4.r8c4.r8 d2^8c32c+32d32d+32 e4
+Ch1 f8.re8.rd8.re4 f4.g8e4<a8>c8
+Ch1 d4.r8c4.r8 <a2^8>c+32d32d+32e32 f4
+Ch1 e4d4c4<a4> d1
+
+Ch2 (Brass)v14o4k+++
+Ch2 f4.r8e4.r8 f2^8d+32e32f32f+32 g4
+Ch2 a8.rg8.rf8.rg4 a4.>c8<g4 f8a8
+Ch2 f4.r8e4.r8 f2^8f32f+32g32g+32 a4
+Ch2 g4f4e4d4 f1
+
+Ch3 (Sq)v12o4k+++
+Ch3 d2c2 d2r4e8r8 r8b-8g4 e4g4 f4.g8e4c8f8
+Ch3 f2e8>(CG5)c4.< f2.a4 r4a8>d8<d8e8d4
+Ch3 (Pad2)d1
+
+Ch4 (CG5)v12o3k+++
+Ch4 f8a4. r8f8a8d8 f8a8d8f8 r8f8 ab->c8
+Ch4 f8<b-8>e8<g8 >d8<e8 g4
+Ch4 >d4.e8 c4<a8>c8 (Sq)d2c2 <a2.>f4
+Ch4 (CG5)e4d4c4<a4
+Ch4 (Pad)a1
+
+Ch5 (HH)c4 (H3)cc(H)c8 (B)c(H3)c(H)c8 (H3)cc(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(S2)c(H)c (B)c(H3)c(S2)c(H)c
+Ch5 (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c
+Ch5 (B)c(H3)c(S)c(H)c (B)cc(S2)c(H)c (S2)cccc c32c32c32c32c32c32c32c32
+Ch5 (HH)c4 (H3)cc(H)c8 (HH)c4 (H3)cc(H)c8
+Ch5 (HH)c4 (H3)cc(H)c8 (B)c32c32c32c32(H)c8 (B)c8(S2)c8
+Ch5 (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c
+Ch5 (HH)c2 (S2)crcc c32c32c32c32c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Part 4.2 (Coda) / Part B2' (8 bars)
+# - Slightly modified bass pattern from B2
+# - key: F minor
+#-----------------------------------------------------------------------------
+# [Chord Progression] (Same as B2)
+# Fm (I) | 〃 | B♭m7 (IV), Fm add9 (I) | D♭ (vi), E♭/G (vii) |
+# Fm (I), E♭/G (vii) | Fm (I) | B♭/F (IV), E♭sus2 (vii) | Fm7 (I) |
+#-----------------------------------------------------------------------------
+Ch0 fra->c fcfc< fr>c<a- >c<a->c<a-
+Ch0 fr>fc fcfc <fr>c<a- >c<a-fa-
+Ch0 d-rfb- d-fb-d- fr>c<a- >c<g>c<f
+Ch0 d-ra-f a-fa-f e-rgb- ge-ge-
+Ch0 fr>fc< a->cf<a- gr>g<b- >e-<b->g<b-
+Ch0 fr>fc <a->cf<a- fr>c<a- fa->c<f
+Ch0 fr>d-<b- b-f>d-64r32.d-< frb->e-< fb->e-<f
+Ch0 fr>c<a- >c<ff64r32.f >ff64r32.<a->c <fa->c<f
+
+Ch1 (Brass)v14o5
+Ch1 d4.r8c4.r8 d2^8c32c+32d32d+32 e4
+Ch1 f8.re8.rd8.re4 f4.g8e4<a8>c8
+Ch1 d4.r8c4.r8 <a2^8>c+32d32d+32e32 f4
+Ch1 e4d4c4<a4> d1
+
+Ch2 (Brass)v14o4
+Ch2 f4.r8e4.r8 f2^8d+32e32f32f+32 g4
+Ch2 a8.rg8.rf8.rg4 a4.>c8<g4 f8a8
+Ch2 f4.r8e4.r8 f2^8f32f+32g32g+32 a4
+Ch2 g4f4e4d4 f1
+
+Ch3 (Sq)v12o4
+Ch3 d2c2 d2r4e8r8 r8b-8g4 e4g4 f4.g8e4c8f8
+Ch3 f2e8>(CG5)c4.< f2.a4 r4a8>d8<d8e8d4
+Ch3 (Sq)d1
+
+Ch4 (CG5)v12o3
+Ch4 f8a4. r8f8a8d8 f8a8d8f8 r8f8 ab->c8
+Ch4 f8<b-8>e8<g8 >d8<e8 g4
+Ch4 >d4.e8 c4<a8>c8 (Sq)d2c2 <a2.>f4
+Ch4 (CG5)e4d4c4<a4
+Ch4 (Sq)a1
+
+Ch5 (HH)c4 (B)c(H3)c(S2)c(H)c (B)cc(S2)c(H)c (B)c(H3)c(S2)c(H)c
+Ch5 (B)c(H3)c(S2)c8 (B)c(H3)c(S2)c8 (B)c(H3)c(S2)c(H)c (B)c(H3)c(S2)c(H)c
+Ch5 (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c
+Ch5 (B)c(H3)c(S)c(H)c (B)cc(S2)c(H)c (S2)cccc c32c32c32c32c32c32c32c32
+Ch5 (HH)c4 (B)c(H3)c(S2)c(H)c (HH)c4 (B)cc(S2)c(H)c
+Ch5 (HH)c4 (H3)cc(S2)c8 (B)c32c32c32c32(H)c8 (B)c8(S2)c8
+Ch5 (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c (S2)c(H3)c(B)c(H)c
+Ch5 (HH)c2 (S2)crcc (S)c32c32c32c32c32c32c32c32
