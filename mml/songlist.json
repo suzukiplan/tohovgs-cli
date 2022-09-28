@@ -1,5 +1,5 @@
 {
-    "version": "2022.09.21",
+    "version": "2022.09.28",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1342,6 +1342,14 @@
                     "loop": 1,
                     "name": "死霊の夜桜",
                     "english": "Deadly Night Cherry Blossoms"
+                },
+                {
+                    "appleId": "1581358519",
+                    "mml": "TH13-03",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "ゴーストリード",
+                    "english": "Ghost Lead"
                 }
             ]
         }
