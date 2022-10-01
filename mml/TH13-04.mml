@@ -1,0 +1,85 @@
+# 妖怪寺へようこそ
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s33 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s66 \e9999 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+
+#-----------------------------------------------------------------------------
+Ch0 t158  m8 r1024 l16 rrrr
+Ch1          r1024 l16 rrrr
+Ch2          r1024 l16 rrrr
+Ch3          r1024 l16 rrrr
+Ch4          r1024 l16 rrrr
+Ch5          r1024 l16 (B)ccc(H)c
+
+#-----------------------------------------------------------------------------
+# Part 1.1 - Introduction 1/2 (8 bars)
+# - key: G minor
+# - time: { 6/4, 4/4 } x 4 times
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | Gsus2 (I) | Gm7/F# (I) | Gsus2 (I) | Gm7/F# (I) |
+# | E♭7 (vi)  | Dm+11 (V)  | E♭7 (vi)  | Gm7/F# (I) |
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 g8r4 g8r4 g8r4 g8r4 f+1  g8r4 g8r4 g8r4 g8r4 f+1
+Ch0 e-8r4 e-8r4 e-8r4 e-8r4  d2.d64r32.d64r32.>dr<
+Ch0 e-8r4 e-8r4 e-8r4 e-8r4  f+2 a+4.b8
+
+Ch1 r4 (CG5)v14o5g8 r4g8 r4g8 r4g8       <ff+8e- de-8d e-d<f+g r8g8>
+Ch2 r4 (CG5)v13o5d8 r4d8 r4d8 r4d8 r8v9  <ff+8e- de-8d e-d<f+g r8  >>
+Ch1 gr>drg8< gr>drg8< gr>drg8< gr>drg8<  ff+e-8 d8e-8 de-d<b b-8g8
+Ch2 r4v13d8 r4d8 r4d8 r4d8        r8v9<  ff+e-8 d8e-8 de-d<b b-8g8
+Ch1 o4 e-8g8g8 e-8r8g8r8 e-8g8r8 e-8g8 >e-d<g>d c<de-d d8re-8rf8
+Ch2 o4 e-8g8g8 e-8r8g8r8 e-8g8r8 e-8g8 >e-d<g>d c<de-d d8re-8rf8
+Ch1 r8e-8g8e-8 r8e-8g8e-8 r8e-8g8e-8 > e-rgr >e-rdr <b-rfr b-r a32a-32g32g-32
+Ch2 r8e-8g8e-8 r8e-8g8e-8 r8e-8g8 v13  e-rgr >e-rdr <b-rfr b-r r8
+
+Ch3 r8 (CG3)v10o5 d<v-g v-----ad> r8v++++++d<v-gv-----ad> r8v++++++d<v-gv-----ad> r8v++++++d<v-gv-----adv++++++
+Ch4 r4 (CG3)@0v10o5 d<v-g v-----ad> r8v++++++d<v-gv-----ad> r8v++++++d<v-gv-----ad> r8v++++++d<v-gv-----adv++++++
+Ch3 f+>f+< v-----f+>f+< v+++ f+>f+< v-----f+>f+< r2
+Ch4 f+>f+< v-----f+>f+< v+++ f+>f+< v-----f+>f+< r2
+Ch3 r8 v10o5 dv-<g>v-dv-g r8v+++dv-<g>v-dv-g r8v+++dv-<g>v-dv-g r8v+++dv-<g>v-dv-g v+++<f+>df+d <f+>d<af+ <<f+8.>d8.g8
+Ch4 r8 v10o5 dv-<g>v-dv-g r8v+++dv-<g>v-dv-g r8v+++dv-<g>v-dv-g r8v+++dv-<g>v-dv-g v+++<f+>df+d <f+>d<af+ <<f+8.>d8.g8
+Ch3 r8 v10o5 dv-e-v-e-<b-> r8v+++dv-e-v-e-<b-> r8v+++dv-e-v-e-<b-> r8v+++<b->v-dv-e-<v-g r4v+dv+e-v+e-<v-b-> v-da>v+d<da>v+d<da
+Ch4 r8 v10o5 dv-e-v-e-<b-> r8v+++dv-e-v-e-<b-> r8v+++dv-e-v-e-<b-> r8v+++<b->v-dv-e-<v-g r4v+dv+e-v+e-<v-b-> v-da>v+d<da>v+d<da
+Ch3 r8 v10o4 g>v-e-v-d-e- <v+gr >v+e-<v+g>v-dv-e- <v-e-v+b->v+e- <v+e-v-b->v-e- <v-e-v+b->v+e- <v+gv-b->v-e-
+Ch4 r8 v10o4 g>v-e-v-d-e- <v+gr >v+e-<v+g>v-dv-e- <v-e-v+b->v+e- <v+e-v-b->v-e- <v-e-v+b->v+e- <v+gv-b->v-e-
+Ch3 v10o4 g>e-ge- <f>fd<e- f>fr8<b-4
+Ch4 v10o4 g>e-ge- <f>fd<e- f>fr8<b-8
+
+Ch5 (HH)c4(H3)c8 (S2)c4(H3)c8 (S2)c4(H3)c8 (S2)c4(H3)c8 (B)c(H3)c(S)c8 (B)c(H3)ccc (B)c(H3)c(H)c8 (S2)cc(S)c8
+Ch5 (HH)c8(H3)cc(H)c8 (S2)c8(H3)c8(H)c8 (S2)c8(H3)cc(H)c8 (S2)c8(H3)cc(H)c8 (B)c8(S)c4(H3)cc c8(H)c8 (S2)c32c32c(S)c8
+Ch5 (HH)c8(H3)cc (S2)c8(S)c8 (B)c(H3)c(H)c8 (S)c8(B)c8 (H)c8(B)c8(S)c8(H)c8 (B)c8(S)c8c8(H3)cc (S)c8.c8.c8
+Ch5 (HH)c8(H3)cc (S)c8(B)c(H3)c (B)c(H3)cc(B)c (S)c8(H3)cc (H)c8(H3)cc (S)cccc
+Ch5 (B)c8(S)c8c8c8 c8c8c4
+
+#Ch0 r1p-0(Sq)o4c1r1
+#Ch1 r1p-0(Sq)o4e1r1
+#Ch2 r1p-0(Sq)o4g1r1
+#Ch3 r1p-0(Sq)o5c1r1
+#Ch4 r1p-0(Sq)o5e1r1
+#Ch5 r1p-0(Sq)o5g1r1
+
+Ch0 r1
