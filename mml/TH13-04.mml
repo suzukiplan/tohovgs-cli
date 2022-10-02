@@ -75,6 +75,61 @@ Ch5 (HH)c8(H3)cc (S2)c8(S)c8 (B)c(H3)c(H)c8 (S)c8(B)c8 (H)c8(B)c8(S)c8(H)c8 (B)c
 Ch5 (HH)c8(H3)cc (S)c8(B)c(H3)c (B)c(H3)cc(B)c (S)c8(H3)cc (H)c8(H3)cc (S)cccc
 Ch5 (B)c8(S)c8c8c8 c8c8c4
 
+#-----------------------------------------------------------------------------
+# Part 1.2 - Introduction 2/2 (8 bars)
+# - key: G minor
+# - time: { 6/4, 4/4 } x 4 times
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | Gsus4 (I) | Bm/F# (iii#) | Gsus4 (I) | G7/F# (IM) |
+# | E♭7 (vi)  | Gm/D (I)     | E♭7 (vi)  | Gm7/F (I)  |
+#-----------------------------------------------------------------------------
+Ch0 o2 g8r8>c8<  g8g64r32.r>c8< g8r8>c8<  g8g64r32.r>c8<  f+4b2f+64r32.f+64r32.f+8
+Ch0 g8r8>c8<  g8g64r32.r>c8< g8r8>c8<  g8g64r32.r>c8<  f+4b2f+64r32.f+64r32.f+8
+Ch0 e-8gg64r32.gr e-8e-64r32.e-64r32.ge- e-8e-64r32.e-64r32.ge- e-64r32.e-64r32.e-8g8
+Ch0 d4.d64r32.d64r32. dd64r32.d64r32. dd64r32.d64r32. >d<d
+Ch0 e-8gg64r32.gr e-8e-64r32.e-64r32.ge- e-8e-64r32.e-64r32.ge- e-64r32.e-64r32.e-8g8
+Ch0 f8gb- >d<fb-f gb->d< gb->d< fg
+
+Ch1 r4(CG5)v14o5g8 r4g8 r4g8 r4g8
+Ch2 r4(CG5)v13o5d8 r4d8 r4d8 r4d8
+Ch1 (Brass)f+8.e- de-8d e-d<bf+ g8.r
+Ch2 r(Brass)v8f+8.e- de-8d e-d<bf+ g8.
+Ch1 (CG5)v14o4 gr>drg8< gr>drg8< gr>drg8< gr>drg8
+Ch2 r4(CG5)v13o5d8 r4d8 r4d8 r4d8
+Ch1   (Brass)  ff+e-8 d8e-8 de-d<b g4
+Ch2 r8(Brass)v8ff+e-8 d8e-8 de-d<b g4
+Ch1 (CG5)o4e-8g8g8e-8r8 g8r8e-8 g8r8e-8g8
+Ch2 (CG5)o4e-8g8g8e-8r8 g8r8e-8 g8r8e-8g8
+Ch1 (Brass)o5e-d<g>d c<de-d d8r e-8r f8
+Ch2 (Brass)o5e-d<g>d c<de-d d8r e-8r f8
+Ch1 r8(CG5)o4 e-8g8e-8 r8e-8g8e-8 r8e-8g8e-8
+Ch2 r8(CG5)o4 e-8g8e-8 r8e-8g8e-8 r8e-8g8e-8
+Ch1 r8(Brass)o5v14 e-rgr>e-r dr<b-8f8d8
+Ch2   (Brass)o4v13 e-rgr>e-r dr<b-8f8d8
+
+Ch3 r8 (CG3)@0v5o5 g<dg>r8. v++ g<dg>r8. v++ g<dg>r8. v++ g<dg>r
+Ch3 df+8e- <d>e-r<d> e-d<bf+ e-<b>e-e-64r32.
+Ch3 r8 (CG3)@0v13o5 d<g>dgr8 d<g>dgr8 d<g>dgr8 d<g>dg
+Ch3 <f+>df+d <f+>d<b-f+ @1o2f+8.>d8.g8
+Ch3 o5@0 r8de-e-<b-> r8de-e-<b-> r8de-e-<b- r8b->de-<g
+Ch3 r4d-e-e-<b-> da>d< da>d< da
+Ch3 o4 r8g>e-de-< gr>e-<g>de- <e-b->e- <e-b->e- <e-b->e- <gb->e-
+Ch3 r8e-<b->f>e- r8 <d>d <<b->b- <f>f <d>d
+
+Ch4 (Pad2)v9o3
+Ch4 g1. f+1 g1. f+1
+Ch4 e-1. d1 e-1. f1
+
+Ch5 (HH)c8(B)c8 (H)c8(S)c8(B)c(H3)c(S)cc (B)c(H3)c(S)c8 (S)c8(B)c8 c(H3)c(S)c8
+Ch5 (B)c8(S)c8 (B)c(H3)c(S)c(H3)c (B)c(H2)c(S)c(H)c (S)ccc8
+Ch5 (HH)c8(S)c8 (B)c8(S)c8 (H3)cc(S)cc (B)c8(S)c8 (H)c8(B)c8 c(H3)c(H)c8
+Ch5 (B)c8(S)cc (B)c(H3)c(S)c(H3)c (B)c(H2)c(S)c(H)c (S)ccc8
+Ch5 (HH)c8(B)c8 (H)c8(S)c8(B)c(H3)c(S)cc (B)c(H3)c(S)c8 (S)c8(B)c8 c(H3)c(S)c8
+Ch5 (B)c8(S)c8 (B)c(H3)c(S)c(H3)c (S)c(B)ccc (S)ccc8
+Ch5 (S)c8c8 (B)c8(S)c8 (B)c8(S)cc (B)c8(S)c8 cccc c8(B)c8
+Ch5 (B)cc(S)c8 c8c8 cccc <bbb8
+
 #Ch0 r1p-0(Sq)o4c1r1
 #Ch1 r1p-0(Sq)o4e1r1
 #Ch2 r1p-0(Sq)o4g1r1
