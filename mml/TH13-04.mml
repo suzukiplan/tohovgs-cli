@@ -130,6 +130,95 @@ Ch5 (B)c8(S)c8 (B)c(H3)c(S)c(H3)c (S)c(B)ccc (S)ccc8
 Ch5 (S)c8c8 (B)c8(S)c8 (B)c8(S)cc (B)c8(S)c8 cccc c8(B)c8
 Ch5 (B)cc(S)c8 c8c8 cccc <bbb8
 
+#-----------------------------------------------------------------------------
+# Part 2.1 - A (16 bars)
+# - bar: key
+#   - 1~4: A minor (-2)
+#   - 5~8: G minor (+2)
+#   - 9~12: A minor (-2)
+#   - 13~16: G minor (+2)
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# A minor | Am (I) | Am7 (I) | Em7/D (V) | Am (I) |
+# G minor | E♭/B♭ (vi), Cm/G (IV) | B♭sus4 (iii), B♭ (iii) | Gm (I) | Gm (I) |
+# A minor | Am (I) | Am7  (I) | Em7/D (V) | Am (I) |
+# G minor | E♭/B♭ (vi), Cm/G (IV) | B♭sus4 (iii), B♭ (iii) | Gm+11 (I) | Gm (I) |
+#-----------------------------------------------------------------------------
+Ch0 t156
+Ch0 o1 ar>er< aa64r32.>e<a >ee64r32.ae< aa64r32.>er<
+Ch0 aa64r32.>e<a> ee64r32.ae <ar>ea e<a>c<a>
+Ch0 dd64r32.ar ee64r32.ae <ar>er <ar>ar<
+Ch0 aa64r32.>e<a ar>e<a aa64r32.>e<a ae>e<a
+Ch0 b-b-64r32.>e-r< b-r>e-<b- g>e-g<g >ge-<b-g
+Ch0 b-b-64r32.>fr< b-b-64r32.>f<b- b-b-64r32.b-b- b-b-64r32.>fr<
+Ch0 gg64r32.>dd64r32. grd<g gg64r32.>d<g gg64r32.>dr<
+Ch0 g8>d<g >d<gdg gdb-g >d<b->g<g
+Ch0 ar>er< aa64r32.>e<a >ee64r32.ae< aa64r32.>er<
+Ch0 aa64r32.>e<a> ee64r32.ae <ar>ea e<a>c<a>
+Ch0 dd64r32.ar ee64r32.ae <ar>er <ar>ar<
+Ch0 aa64r32.>e<a ar>e<a aa64r32.>e<a ae>e<a
+Ch0 b-b-64r32.>e-r< b-r>e-<b- g>e-g<g >ge-<b-g
+Ch0 b-b-64r32.>fr< b-b-64r32.>f<b- b-b-64r32.b-b- b-b-64r32.>fr<
+Ch0 grb-r >drgc< gr>g<g gg64r32.g8
+Ch0 gr>g<g g>gd<g g64r32.r8. b-r>dr
+
+Ch1 (Brass)v14o3
+Ch1 a4.r8 b4.r8 >c4.r8 d4.r8 c4<b4a4g4 a2.a8b8>
+Ch1 c4.r8 d4.r8 e-4.r8 f4b-4 g1. r8g8f8e-8
+Ch1 c4.r8 d4.r8 e4.r8 g4b4 >c4<b4a4g4 a2.a8b8>
+Ch1 c4.<b-4.f8g8 e-8f8e-8r8 d4<b-4> \s1200c1 \s2000d2r2
+
+Ch2 r8(Brass)v9o3
+Ch2 a4.r8 b4.r8 >c4.r8 d4.r8 c4<b4a4g4 a2.a8b8>
+Ch2 c4.r8 d4.r8 e-4.r8 f4b-8 \s44100v13d1. r8\s600e-8d8c8
+Ch2 <a4.r8 b4.r8> c4.r8 e4g4 e4d4c4<b4 a2.r8v9>a8b8>
+Ch2 c4.<b-4.f8g8 e-8f8e-8r8 d4<b-4> \s12000c1  \s2000d2r2
+
+Ch3 (Pad)v10o3 a1 >e1
+Ch3 (Sq)e4e4e4e4 (Pad)a2.(CG5)a8a8
+Ch3 (Pad)g1 e-2f2 g1.r2
+Ch3 <a2>c2 e2g2 (Sq)e4e4e4e4 (Pad)a2.(CG5)a8a8
+Ch3 (Pad)<e-1f1 g1.r2
+
+Ch4 r2 (Pad)v10o4 c1 g1
+Ch4 r1.
+Ch4 <e-1f1 g1.r2
+Ch4 r1.(CG5)o4g4b4
+Ch4 e8>c8<d8b8 c8a8 <a8>g8<a8>a8^2 a8b8>
+Ch4 c4.<b-4.f8g8 e-2d8f8<b-4
+Ch4 r8o4 v7g>dg>d r8r2
+Ch4 r4 ro7d<gd g<g r4.
+
+Ch5 (HH)c4 (S)c8(H3)cc (B)c(H3)ccc (S)c8(H)c8
+Ch5 (B)c(H3)ccc (S)c8(H)c8 (B)c(H3)c(B)c(H3)c (S)c(H3)ccc
+Ch5 (H)c8(B)c8 (H)c8(B)cc (HH)c8(B)cc (HH)c8(B)c8
+Ch5 (HH)c4 (S)c8(H3)cc (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H2)c(B)c(H)c (S)c8(H3)cc (B)c(H3)ccc (S)c8(H3)cc
+Ch5 (B)c(H2)c(B)c(H)c (S)c8(H3)cc (B)c(H3)c(B)cc (S)c8(B)c(H3)c
+Ch5 (B)c(H3)ccc (S)c(H3)ccc (B)c(H3)c(B)c(H3)c (S)c8c8
+Ch5 (S)c8(S2)cc c32c32c32c32(S)<g32f32e32d32> c4(B)c(H3)c(B)c(H3)c
+Ch5 (HH)c4 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (HH)c4(S)c8(H3)cc (B)c(H3)c(B)c(H3)c (S)c8c8
+Ch5 (S)c8(S2)cc c32c32c32c32(S)<g32f32e32d32> c4 c(H3)c(B)c(H3)c
+
+#-----------------------------------------------------------------------------
+# Part 2.2 - A' (16 bars) - key +2 from Part A (2.1)
+# - bar: key
+#   - 1~4: G minor (±0)
+#   - 5~8: B♭ minor (+2)
+#   - 9~12: G minor (-2)
+#   - 13~16: B♭ minor (+2)
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+#-----------------------------------------------------------------------------
+
 #Ch0 r1p-0(Sq)o4c1r1
 #Ch1 r1p-0(Sq)o4e1r1
 #Ch2 r1p-0(Sq)o4g1r1
