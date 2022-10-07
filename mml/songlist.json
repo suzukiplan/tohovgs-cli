@@ -1,5 +1,5 @@
 {
-    "version": "2022.09.28",
+    "version": "2022.10.07",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1350,6 +1350,14 @@
                     "loop": 1,
                     "name": "ゴーストリード",
                     "english": "Ghost Lead"
+                },
+                {
+                    "appleId": "1581358520",
+                    "mml": "TH13-04",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "妖怪寺へようこそ",
+                    "english": "Welcome to Yokai Temple"
                 }
             ]
         }
