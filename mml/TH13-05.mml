@@ -1,0 +1,104 @@
+# 門前の妖怪小娘
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s33 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s66 \e9999 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @3 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+
+#-----------------------------------------------------------------------------
+Ch0 t154  m8 r1024 l16
+Ch1          r1024 l16
+Ch2          r1024 l16
+Ch3          r1024 l16
+Ch4          r1024 l16
+Ch5          r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 - Introduction (13 bars)
+# - key: D minor
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | Dm/A (I), F/C (ii) | E/B (iii), E♭/B♭ (iii-) | Dm/A (I), C#m/G# (vii+) | Dm (I), C# (IM-) |
+# | Dm/A (I), F/C (ii) | E/B (iii), E♭/B♭ (iii-) | Dm/A (I), C#m/G# (vii+) | Dm (I), C# (IM-) |
+# | Dm/A (I), F/C (ii) | E/B (iii), E♭/B♭ (iii-) | Dm/A (I), C#m/G# (vii+) | Dm (I), C# (IM-) |
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 a8a8r8a64r32.a64r32. >c4.c64r32.c64r32. <b8rb8rb64r32.b64r32. b-2
+Ch0 a8a8r8a64r32.a64r32. g+4.g+64r32.g+64r32. >d4.d64r32.d64r32. c+4.c+64r32.c+64r32.<
+Ch0 a8a8r8a64r32.a64r32. >c4.c64r32.c64r32. <b8rb8rb64r32.b64r32. b-2
+Ch0 a8a8r8a64r32.a64r32. g+4.g+64r32.g+64r32. >d4.d64r32.d64r32. c+4.c+64r32.c+64r32.<
+Ch0 a8a8r8a64r32.a64r32. >c4.c64r32.c64r32. <b8rb8rb64r32.b64r32. b-2
+Ch0 a8a8r8a64r32.a64r32. g+4.g+64r32.g+64r32. >d4.d64r32.d64r32. c+4.c+64r32.c+64r32.<
+Ch0 r1
+
+Ch1 v14o4
+Ch1 (CG5)a8a8r8>c8 c4<a8>c8 <b8.g+8.b8 (Sq)b-2 (CG5)a8a8r8g+8 g+8.b8.>e8 (Sq)d4.e8c+2<
+Ch1 (CG5)a8a8r8>c8 c4<a8>c8 <b8.g+8.b8 (Sq)b-2 (CG5)a8a8r8g+8 g+8.b8.>e8 (Sq)d4.e8c+2<
+Ch1 (Brass)a8a8r8>c8 c4<a8>c8 <b8.g+8.b8 b-2 a8a8r8g+8 g+8.b8.>e8 d4.e8c+4e4
+Ch1 r2.<(Sq)@0v26f+4
+
+Ch2 v13o4
+Ch2 (CG5)d8d8r8f8 f4d8f8 e8.e8.e8 (Sq)e-2 (CG5)d8d8r8c+8 c+8.e8.b8 (Sq)a4.r8 e+2
+Ch2 (CG5)d8d8r8f8 f4d8f8 e8.e8.e8 (Sq)e-2 (CG5)d8d8r8c+8 c+8.e8.b8 (Sq)a4.r8 e+2
+Ch2 (Brass)d8d8r8f8 f4d8f8 e8.e8.e8 e-2 d8d8r8c+8 c+8.e8.b8 a4.r8 e+4
+Ch2 \s1\e1999%99@3v19o2p-222 c64d64e64f64 g64a64b64>c64 d64e64f64g64 a64b64>c64d64
+Ch2 (HH)c2r4(Brass)@3v14p-333o4c4p-0
+
+Ch3 (Brass)\s4000v11o4
+Ch3 d2f2 e2e-2 d2c+2 d2f2
+Ch3 d2f2 e2e-2 d2c+2 d2f2
+Ch3 d2f2 e2e-2 d2c+2 d2f2
+Ch3 r8(CG3)v8o3\s10\e120%66
+Ch3 c+c+c+r c+c+rc+ rc+c+r r8
+
+Ch4 (Sq)\s4000v10o3
+Ch4 a2>c2 <b2b-2 a2g+2 a2>c+2<
+Ch4 (CG3)v13o2\s10\e120%66
+Ch4 a>d<a>d< araa >ccrc c8cc
+Ch4 ebbebbeb e-e-e-r <b-r>e-e-
+Ch4 <a>d<a>d <araa g+>c+c+r< g+r>c+e
+Ch4 dddr drdd c+c+c+r c+rc+c+<
+Ch4 a>d<a>d< araa >ccrc c8cc
+Ch4 ebbebbeb e-e-e-r <b-r>e-e-
+Ch4 <a>d<a>d <araa g+>c+c+r< g+r>c+e
+Ch4 dddr drdd c+c+c+r c+rc+c+
+Ch4 c+c+c+r c+c+rc+ rc+c+r r4
+
+Ch5 (HH)c4 (S)c4 c8(B)cc (S)c8(B)c8
+Ch5 (S)c8.c8.c8 c4 ccc8
+Ch5 (HH)c4 (S)c4 c8(B)cc (S)c8(B)c8
+Ch5 (S)c8.c8.c8 c4 c<bag
+
+Ch5 (HH)c4 (S)c4 c8(B)cc (S)c8(B)c8
+Ch5 (S)c8.c8.c8 c4 ccc8
+Ch5 (HH)c4 (S)c4 c8(B)cc (S)c8(B)c8
+Ch5 (S)c8.c8.c8 c4 c<bag
+
+Ch5 (HH)c4 (S)c8(S2)c8 (S)c8(S2)c8 (S)c8(S2)c8
+Ch5 (S)c8(S2)c (S)c8(S2)c(S)c8 c8(S2)c8 (S)ccc8
+Ch5 (HH)c4 (S)c8(S2)c8 (S)c8(S2)c8 (S)c8(S2)c8
+Ch5 (S)c4.(S2)c32c32c32c32 (S2)c32c32c32c32c32c32c32c32 <g32g32f32f32e32e32d32d32
+Ch5 r4(H2)c8(H)c4. (B)c4
+
+Ch0 r1
