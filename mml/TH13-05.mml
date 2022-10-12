@@ -109,18 +109,37 @@ Ch5 r4(H2)c8(H)c4. (B)c4
 # [Chord Progression]
 # | Bsus2 (I)   | Bm (I)      | G7♭5 (vi) | G7 (vi)   |
 # | E6sus2 (IV) | E7sus2 (IV) | F# (Vm)   | Bm/F# (I) |
-# |||||
-# |||||
+# | Bsus2 (I)   | Bm (I)      | G7♭5 (vi) | G7 (vi)   |
+# | E6sus2 (IV) | E7sus2 (IV) | F# (Vm)   | F# (Vm)   |
 #-----------------------------------------------------------------------------
 Ch0 o2 b1^1 g1^1 e1^1 f+1^1
+Ch0 bb>f+f+< bb>f+f+< bb>f+f+< b>f+<b>f+<
+Ch0 b>df+<b b>f+d<b b>df+<b >d<b>f+d<
+Ch0 gg>dd< gg>dd< gg>dd< g>d<g>d<
+Ch0 g>d<bg >d<bgb gb>d<g b>d<gb
+Ch0 eebb eebb eebb ebeb
+Ch0 eebb eebb eebb ebeb
+Ch0 a+8a+a+64r32. a+64r32.a+64r32.a+8 a+a+64r32.a+64r32.a+64r32. f+4
+Ch0 r2 f+a+>c+<f+ >c+<a+f+a+
 
 Ch1 b8b8r8 >c+8c+8r8< f+8f+8  >c+d4.r d8c+8<a8f+8
 Ch1 b8b8r8 >c+8c+8r8< f+8f+8  r8b8>e8d8c+8<b8>c+8d8<
 Ch1 b8b8r8 >c+8c+8r8< f+8f+8  >c+d4.r d8c+8<a8f+8
-Ch1 b-8b-8r8 >d-8d-8r8< g-8g-8 >r16.e32f+8e8d8c+8<b8>c+8d8
+Ch1 b-8b-8r8 >d-8d-8r8< g-8g-8 >r16.e32f+8e8d8c+8<b8>c+8d8<
+Ch1 b8b8r8 >c+8c+8r8< f+8f+8  >c+d4.r d8c+8<a8f+8
+Ch1 b8b8r8 >c+8c+8r8< f+8f+8  r8b8>e8d8c+8<b8>c+8d8<
+Ch1 b8b8r8 >c+8c+8r8< f+8f+8  >c+d4.r d8c+8<a8f+8
+Ch1 a+8a+8r8 >c+8c+8r8 <f+8f+8 r2a+4>c+4
 
 Ch2 (Pad)v10o4 f+1^1 f+1^1 <b1^1> c+1^1
+Ch2 f+1^1 f+1^1 <b1^1
+Ch2 (Brass)v12o4 c+8c+8r8 f+8f+8r8 <a+8a+8
+Ch2 r2r(CG5)o4 f+d+(CG3)f+ <a>(CG5)a+f+(CG3)d+
+
 Ch3 (Pad2)v11o3 b1^1 g1^1 e1^1 f+1^1
+Ch3 b1^1 g1^1 e1^1
+Ch3 (Brass)v12o3 a+8a+8r8 >c+8c+8r8 <f+8f+8
+Ch3 r1
 
 Ch4 < v13bv-b>v-f+v-f+< v+brv+bb >v-c+<v-b>v+f+v+c+ r8<v+bb
 Ch4 v13 brv-b>v-f+< r4 v-b>v+f+v+d<v+b >v-d<v-b>v+f+<v+b
@@ -130,7 +149,13 @@ Ch4 (CG5)v12o3
 Ch4 b2 v---b8v+f+8v+b8v+f+8
 Ch4 v-b8v-f+8v-b8v+f+8 >v+c+8<v+f+8>v-d8<v+f+8
 Ch4 f+8b-b32>c32 v-c+8<v-a+8 v+f+8>v+c+8 <v-a+8v-f+8
-Ch4 v-b8>v-d8v-f+8v+d8 <v+f+8v+b8>v+d8v+f+8
+#Ch4 v-b8>v-d8v-f+8v+d8 <v+f+8v+b8>v+d8v+f+8
+Ch4 v-b8>v-d8v-f+8v+d8 <v+f+>f+<v+b>b<>v+d>d<v+f+>f+
+Ch4 (Sq)@0v20o5
+Ch4 d8d8r8 e8e8r8 <b8b8> ef+4.r f+8e8c+8<a8>
+Ch4 d8d8r8 e8e8r8 <b8b8  r8b8>e8f+8 e8d8e8f+8
+Ch4 d8d8r8 e8e8r8 <b8b8> ef+4.r f+8e8c+8<a8
+Ch4 (Brass)v13 f+8f+8r8 a+8a+8r8 c+8c+8  r2f+4a+4
 
 Ch5 (H)c4 (B)c8dd r2
 Ch5 c8.c8.c8 d4 (H3)v---cv+cv+cv+c
@@ -140,5 +165,13 @@ Ch5 (H)c4 (B)c8(H)c8 (B)c8.c8.r8
 Ch5 (B)c8.c(H)c8(B)c8 d4 c(H3)ccc
 Ch5 (B)c8c8(H3)c8 (B)c8c8(H3)cc (B)c8c8
 Ch5 (S)c8(H3)cc (H)c8(H3)cc (S)cccc c4
+Ch5 (HH)c4 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(S2)cc (B)c(H3)c(H)c8 (S)c8(H3)cc
+Ch5 (HH)c4 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(S2)cc (B)c(H3)c(H)c8 (S)c8(H3)cc
+Ch5 (HH)c4 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(S2)cc (B)c(H3)c(H)c8 (S)cccc
+Ch5 (S)c8c8 (H3)cc (S)c8c8(H)c8 (S)c8c8
+Ch5 (B)c8(S2)c8(B)c8(S2)cc c8(H)c8 (S)c4
 
 Ch0 r1
