@@ -220,16 +220,16 @@ Ch3 e-4.r8a-4.r8  g-2^8r4.  b-8a-8g-8f8 e-8d-8<b-4>  e-1
 
 Ch4 (Pad2)v12o4
 Ch4 c-2d-2 e-1 c-1 d2c-2
-Ch4 c-2d-2 e-1 c-2<g-2> d2<f2
-Ch4 (CG3)v13o4
-Ch4 c-v-e-v-g-v-b- v+g-v+e-v+c-<g-> d-v-fv-a->v-d <v+a-v+fv+d-<a->
-Ch4 e-v-g-v-b->v-e- <v+b-v+g-v+e-8 >v-e-<v-b-v-g- >v+e-<v+b-v+g- e-<b->
-Ch4 c-v-e-v-g->v-c- <v+g-v+e-v+c-e- v-c-v-g-v-e-g- v+c-v+e-<v+g->c-
-Ch4 dv-fv-b->v-d< v+b-v+fv+df v-c-v-e-<v-g->c- v+d-v+fv+a->d-<
-Ch4 c-v-e-v-g-v-b- v+g-v+e-v+c-<g-> v-d-v-fv-a->d-< v+a-v+fv+d-<a->
-Ch4 v-e-v-g-v-b->e- <v+b-v+g-v+e-g- v-e-v-g-v-b->e- <v+b-v+g-v+e-<b->
-Ch4 v-c-v-e-v-g-v-b- v+g-v+e-v+c-<v+g-> v-d-v-fv-a->v-d- <v+a-v+fv+d-<v+a->
-Ch4 v-e-v-g-v-b->v-e- <v+b-v+g-v+e-v+g- v-e-v-g-v-b->v-e-<v+b-g-v+e-<b-
+Ch4 c-2d-2 e-1 \s8000c-2<g-2> d2<f2
+Ch4 (Brass)o4
+Ch4 c-e-g->c-<g-e-c-<g-> d-fa->d-<a-fd-<a->
+Ch4 e-g-b->e-<b-g-e-8 >e-<b-g- >e-<b-g- e-<b->
+Ch4 c-e-g->c-<g-e-c-e- c-e-g->c-<g-e-c-8
+Ch4 dfb->d<b-fd8 c-e-g->c-< d-fa->d-<
+Ch4 c-e-g-b- g-e-c-<g-> d-fa->d-< v+a-v+fv+d-<a->
+Ch4 e-g-b->e- <b-g-e-g- e-g-b->e- <b-g-e-<b->
+Ch4 c-e-g-b- g-e-c-<g-> d-fa->d- <a-fd-<a->
+Ch4 e-g-b->e- <b-g-e-g- e-g-b->e-<b-g-e-<b-
 
 Ch5 (HH)c4 (H3)cccc (HH)c4 (B)c(H3)c(B)c(H3)c
 Ch5 (HH)c4 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(B)c(H3)c
