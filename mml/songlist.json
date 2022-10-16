@@ -1,5 +1,5 @@
 {
-    "version": "2022.10.07",
+    "version": "2022.10.14",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1358,6 +1358,14 @@
                     "loop": 1,
                     "name": "妖怪寺へようこそ",
                     "english": "Welcome to Yokai Temple"
+                },
+                {
+                    "appleId": "1581358521",
+                    "mml": "TH13-05",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "門前の妖怪小娘",
+                    "english": "Yokai Girl who at the Gate"
                 }
             ]
         }
