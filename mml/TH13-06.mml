@@ -1,6 +1,6 @@
 # 素敵な墓場で暮しましょ
 $Brass \s66 \e9999 @1 %75
-$Brass2 \s33 \e6000 @1 %75
+$Brass2 \s893 \e6000 @1 %75
 $Brass3 \s300 \e22050 @1 %80
 $Brass0 \s66 \e9999 @0 %75
 $Bass  \s100 \e200 @2 %90
@@ -13,7 +13,7 @@ $CG6 \s30 \e80 @2 %20
 $CG7 \s100 \e5000 @0 %90
 $Sq \s66 \e9999 @2 %75
 $Sq2 \s600 \e11025 @2 %70
-$Sq3 \s30 \e8000 @3 %80
+$Sq3 \s30 \e8000 @0 %80
 $Pad \s33333 \e22050 @2 %77
 $Pad2 \s11050 \e22050 @1 %80
 $B  \s10 \e1000 p-128 @0 %10 v35 o3
@@ -45,7 +45,7 @@ Ch5          r1024 l16
 Ch0 r8(Sq)v9o5
 Ch0 e-2.a-8.>d-< e-2r8.d-<b-8.>d- g-4f4e-8.d-<b-8.>d- e-2.^8 v13
 Ch0 e-2.a-8.>d-< e-2r8.d-<b-8.>d- g-4f4e-8.d-<b-8.>d- e-2.
-Ch0 (Bass)v13o2e-8.e-
+Ch0 (Bass)v13o2e-8re-
 
 Ch1 (Sq)v14o5
 Ch1 e-2.a-8.>d-< e-2r8.d-<b-8.>d- g-4f4e-8.d-<b-8.>d- e-1 >v13
@@ -71,6 +71,61 @@ Ch5 (H)c8.(H3)c c8r(B)c c8.(H3)c (H)c8.(H3)c
 Ch5 cr8c cr8(B)c cr8(H3)c (H)c8.(H3)c
 Ch5 (H)c4.r(B)c (H)c4.r(H3)c
 Ch5 (H)c8.(H3)c c8.(B)c (H)c8.(S)c v--------cv+++cv+++cv+++c
+
+#-----------------------------------------------------------------------------
+# Part 2 - B (8 bars) <Second Presentation>
+# - key: E♭ minor
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | E♭m (I) | E♭m+9 (I), E♭m (I) | C♭ (VI) | C♭ (VI) | 
+# | E♭m (I) | E♭m+9 (I), E♭m (I) | C♭ (VI) | C♭ (VI) |
+#-----------------------------------------------------------------------------
+Ch0 e-8r<b-> e-8r<b-> e-8r<b-> e-8r<b->
+Ch0 e-8r<b-> e-8r<b-> e-8rb- e-8r<b->
+Ch0 e-8r>c-< e-8r>c-< e-8rc- e-8rc-
+Ch0 e-8rc- e-8r>c-< e-8r>c-< e-8rc-
+Ch0 e-8r<b-> e-8r<b-> e-8r<b-> e-8r<b->
+Ch0 e-8rb- >e-8r<b- e-8rb- >e-8r<b-
+Ch0 e-8r>c- e-8rc-< e-8r>c-< e-8r>c-<
+Ch0 e-8r>c- e-8rc-< e-8r>c-< e-8rc-
+
+Ch1 (Sq3)v25o4
+Ch1 b-4.r8>e-4.r8  f4.r8 g-8.a- g-8.f  e-4.r8b-1.<
+Ch1 b-4.r8>e-4.r8  f4.r8 g-8.a- g-8.f  e-4.r8b-1.
+
+Ch2 (Sq3)v16o4
+Ch2 e-4.r8b-4.r8  b-4.r8b-8.>c-<b-8.a-  g-4.r8>e-1.<
+Ch2 e-4.r8b-4.r8  b-4.r8b-8.>c-<b-8.a-  g-4.r8>e-1.
+
+Ch3 (Pad2)v10o3  g-2b-2  >e-2<b-2  >e-1.(Brass2)c-4d-4
+Ch3 (Pad2)v10o3  g-2b-2  >e-2<b-2  >\s44100e-1^1
+
+Ch4 (CG5)@0v13o2
+Ch4 b->b->e-r <e-r8e- e-r8e- re-<b->e-
+Ch4 e-r8e- e-16.b-16.e- e-<v-b->v-e- v-e-<v+b->v+e- <v+b->e-
+Ch4 c-e->c-r< e-r8e- e-r8e- re-c-e-
+Ch4 c-e->c-<r e-r8e- e-r8e- c-16.>c-16.<c-<
+Ch4 b->b->e-r <e-r8e- e-r8e- re-<b->e-
+Ch4 e-r8e- e-16.b-16.e- e-<v-b->v-e- v-e-<v+b->v+e- <v+b->e-
+Ch4 c-e->c-r< e-r8e- e-r8e- re-c-e-
+Ch4 c-e->c-<r e-r8e- e-r8e- c-16.>c-16.<c-
+
+Ch5 (HH)c4 (S)c8(H3)c(B)c c8.c (S)c8.(B)c
+Ch5 (B)c8.c (S)c8.(B)c c8.c (HH)c8.(H3)c
+Ch5 (HH)c4 (S)c8(H3)c(B)c c8.c (S)c8.(B)c
+Ch5 (B)c8.c (S)c8.(B)c c8.c (HH)c8.(H3)c
+Ch5 (HH)c4 (S)c8(H3)c(B)c c8.c (S)c8.(B)c
+Ch5 (B)c8.c (S)c8.(B)c c8.c (HH)c8.(H3)c
+Ch5 (HH)c4 (S)c8(H3)c(B)c c8.c (S)c8.(B)c
+Ch5 (B)c8.c (S)c8.(B)c (S2)c8.(B)c (S2)c8.(B)c
+
+#Ch0 r1(Sq)v12o4p-0 c1
+#Ch1 r1(Sq)v12o4p-0 e1
+#Ch2 r1(Sq)v12o4p-0 g1
+#Ch3 r1(Sq)v12o3p-0 c1
+#Ch4 r1(Sq)v12o3p-0 e1
+#Ch5 r1(Sq)v12o3p-0 g1
 
 Ch0 r1
 
