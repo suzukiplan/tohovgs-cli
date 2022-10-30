@@ -73,7 +73,7 @@ Ch5 (H)c4.r(B)c (H)c4.r(H3)c
 Ch5 (H)c8.(H3)c c8.(B)c (H)c8.(S)c v--------cv+++cv+++cv+++c
 
 #-----------------------------------------------------------------------------
-# Part 2 - B (8 bars) <Second Presentation>
+# Part 2 - B1 (8 bars) <Second Presentation>
 # - key: E♭ minor
 # - time: 4/4
 #-----------------------------------------------------------------------------
@@ -128,7 +128,7 @@ Ch5 (HH)c4 (S)c8(H3)c(B)c c8.c (S)c8.(B)c
 Ch5 (B)c8.c (S)c8.(B)c (S2)c8.(B)c (S2)c8.(B)c
 
 #-----------------------------------------------------------------------------
-# Part 3 - C (8 bars) <Third Presentation>
+# Part 3 - C1 (8 bars) <Third Presentation>
 # - key: E♭ minor
 # - time: 4/4
 #-----------------------------------------------------------------------------
@@ -190,8 +190,8 @@ Ch5 (B)c(H3)ccc (S)c8.(B)c (S)c8.(B)c (S)cccc
 # [Chord Progression]
 # | C♭ (vi), 〃, 〃, D♭ (vii) | E♭m (I) | C♭ (vi), D♭ (vii) | E♭m (I) |
 # | C♭ (vi), 〃, 〃, D♭ (vii) | E♭m (I) | C♭ (vi), D♭ (vii) | E♭m (I) |
-# | | | | |
-# | | | | |
+# | C♭ (vi), 〃, 〃, D♭ (vii) | E♭m (I) | C♭ (vi), D♭ (vii) | E♭m (I) |
+# | C♭ (vi), 〃, 〃, D♭ (vii) | E♭m (I) | C♭ (vi), D♭ (vii) | E♭m (I) |
 #-----------------------------------------------------------------------------
 Ch0 e-16.c-16^64e-16^64 g-8.c- g-16.e-16^64c-16^64 d-16.<a-16^64>d-16^64
 Ch0 <b-16.>e-16^64g-16^64 b-8.g- e-16.g-16^64b-16^64 g-16.e-16^64<b-16^64>
@@ -211,6 +211,7 @@ Ch0 c-2d-2 e-1
 
 Ch1 e-64e64e-16.^2r8a-8.>d-<  e-2^8rd-<b-8.>d-  g-64g64g-32^8rf64f+64f32^8re-8.d-<b-8.>d-  e-1
 Ch1 e-64e64e-16.^2r8a-8.>d-<  e-2^8rd-<b-8.>d-  g-64g64g-32^8rf64f+64f32^8re-8.d-<b-8.>d-  e-1
+Ch1 v20
 Ch1 g-2^8r8a-8.>d-<  b-2r8.a-g-8.a-  b-8.ra-8.rg-8.fe-8.f  g-1
 Ch1 g-2^8r8a-8.>d-<  b-2r8.a-g-8.a-  b-8.ra-8.rg-8.fe-8.f  g-1
 
@@ -262,6 +263,48 @@ Ch5 (HH)c4 (S)c8(H3)cc (B)c8(H3)cc (S)c8(H3)c(H2)c
 Ch5 (B)c8(H3)cc (S)c8(H3)cc (B)c(H3)cc(B)c (S)cccc
 Ch5 (HH)c4 (H3)c32c32ccc (HH)c4 (H3)c32c32ccc
 Ch5 (HH)c4 (S)c8(B)c(H2)c (S)c8(S2)v-----c32v+c32v+c32v+c32 (S)cccc
+
+#-----------------------------------------------------------------------------
+# Part 5 - B2 (8 bars) <Development>
+# - key: E minor (-1)
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | Em (I) | Em (I) | C (vi) | C (vi) | 
+# | Em (I) | Em (I) | C (vi) | C (vi) |
+#-----------------------------------------------------------------------------
+Ch0 <b-8.>eg8.e <b-8.>eg8.e <b-8.>eg8.e <b-8.>eg8.e
+Ch0 c8.eg8.e c8.eg8.e c8.eg8.e c8.eg8.e
+Ch0 <b-8.>eg8.e <b-8.>eg8.e <b-8.>eg8.e <b-8.>eg8.e
+Ch0 c8.eg8.e c8.eg8.e c8.eg8.e c8.eg8.e
+
+Ch1 o5 e4.r8  g4.r8 a4. r8 b4.^16>c32c+ d2.^8.d+ e2<f+2
+Ch2 o4 b4.r8 >e4.r8 f+4.r8 g8.ag8.f+ e2 b1.
+Ch1  g4.r8 >e4.r8 f+4.r8 g8.f+8.e8 d2.^8.d+ e1
+Ch2 <b4.r8 >e4.r8 f+4.r8 g8.ag8.f+ e4.r8b1.
+
+Ch3 r1r1r1 r2(CG3)v4
+Ch3 c32>v+c32<v+ c32>v+c32<v+ c32>v+c32<v+ c32>v+c32<v3
+Ch3 d32>v+d32<v+ d32>v+d32<v+ d32>v+d32<v+ d32>v+d32<
+Ch3 r2(Sq)@0v20o5\s5000b4.r8 >d4.r8 \s1500e8.d8.c8 \s12000f+1g1
+
+Ch4 <b>e<br br8b br8b br8b
+Ch4 br8b b16.>e16^64<b16^64 br8br8br>
+Ch4 cr8c c16.<g16^64>c16^64 cr8c cr8c
+Ch4 cr8c c16.<g16^64>c16^64 cr8c c16.e16^64c16^64
+Ch4 <b>e<br br8b br8b br8b
+Ch4 br8b b16.>e16^64<b16^64 br8br8br>
+Ch4 cr8c cr8c cr8c cr8c
+Ch4 cr8c cr8c <g>ceg eg>ce
+
+Ch5 (HH)c4.(B)c8 (S)c8.(H3)c r8.c
+Ch5 (S)c8.(H3)c cr8(B)c (H3)cccc (S)cccc
+Ch5 (H)c8.(S2)c8.c8.c8.c8.c
+Ch5 (B)c8.c (S)c(B)ccc c8.c (S)c8.c
+Ch5 (HH)c4.(B)c8 (S)c8.(H3)c cr8c
+Ch5 (S)c8.(H3)c cr8c (S)c8.c8.cc
+Ch5 (HH)c8.(S2)c8.c8.c8(B)c(S2)c8(B)c(S2)c
+Ch5 (S)c8.c8.cc c8.c cccc
 
 #Ch0 r1(Sq)v12o4p-0 c1
 #Ch1 r1(Sq)v12o4p-0 e1
