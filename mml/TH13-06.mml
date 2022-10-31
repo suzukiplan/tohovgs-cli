@@ -26,7 +26,7 @@ $H3 \s1  \e10   p-80  @3 %25 v11 o3
 $H3a \s1 \e100  p-60  @3 %35 v14 o4
 
 #-----------------------------------------------------------------------------
-Ch0 t136  m8 r1024 l16 |
+Ch0 t136  m8 r1024 l16
 Ch1          r1024 l16
 Ch2          r1024 l16
 Ch3          r1024 l16
@@ -80,6 +80,7 @@ Ch5 (H)c8.(H3)c c8.(B)c (H)c8.(S)c v--------cv+++cv+++cv+++c
 # [Chord Progression]
 # | E♭m (I) | E♭m+9/11 (I), E♭m (I) | C♭ (vi) | C♭ (vi) | x2
 #-----------------------------------------------------------------------------
+Ch5 |
 Ch0 t140
 Ch0 e-8r<b-> e-8r<b-> e-8r<b-> e-8r<b->
 Ch0 e-8r<b-> e-8r<b-> e-8rb- e-8r<b->
@@ -415,3 +416,43 @@ Ch5 (HH)c4 (S)c8(H3)cc (B)c8(H3)cc (S)c8(H3)c(H2)c
 Ch5 (B)c8(H3)cc (S)c8(H3)cc (B)c(H3)cc(B)c (S)cccc
 Ch5 (HH)c4 (H3)c32c32ccc (HH)c4 (H3)c32c32ccc
 Ch5 (HH)c4 (S)c8(B)c(H2)c (S)c8(S2)v-----c32v+c32v+c32v+c32 (S)cccc
+
+#-----------------------------------------------------------------------------
+# Part 8 - A1' (8 bars) <First Presentation>
+# - key: E♭ minor
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | E♭m (I), 〃, 〃, D♭ (vii) | E♭m (I) | C♭ (vi), D♭ (vii) | E♭m (I) |
+# | C♭ (vi), 〃, 〃, D♭ (vii) | E♭m (I) | C♭ (vi), D♭ (vii) | E♭m (I) |
+#-----------------------------------------------------------------------------
+Ch0 t136
+Ch0 r8(Sq)v9o5 k-
+Ch0 e-2.a-8.>d-< e-2r8.d-<b-8.>d- g-4f4e-8.d-<b-8.>d- e-2.^8 v13
+Ch0 e-2.a-8.>d-< e-2r8.d-<b-8.>d- g-4f4e-8.d-<b-8.>d- e-2.
+Ch0 (Bass)v13o2e-8re-
+
+Ch1 (Sq)v14o5
+Ch1 e-2.a-8.>d-< e-2r8.d-<b-8.>d- g-4f4e-8.d-<b-8.>d- e-2.^8 v4g-32.v5b-32.>v6d-32 v13
+Ch1 \s2000 e-2.a-8.>d-< e-2r8.d-<b-8.>d- g-4f4e-8.d-<b-8.>d- \s8000e-2.^8.
+
+Ch2 (Sq3)v20o3
+Ch2 e-4.r8>e-2 r4.re-<b-8.>d-<g-4 e-4.r8a-4.r8 b-1
+Ch2 e-4.r8>g-2 r4.re-<b-8.>d-<g-4 e-4.r8a-2 g-2.^8.
+
+Ch3 (Pad2)v11o3 k-
+Ch3 b-2.>d-4 e-2.r4 c-4.r8d-4.r8 e-2.r4
+Ch3 c-2.d-4 e-2.r4 c-4.r8d-4.r8 e-2.^8.
+
+Ch4 (Pad2)v11o3
+Ch4 e-2.a-4 g-2.r4 g-4.r8a-4.r8 b-2.r4
+Ch4 g-2.a-4 g-2.r4 g-4.r8a-4.r8 b-2.r8.
+
+Ch5 (H)c4.r(B)cc2
+Ch5 c2r8.c(H)c8.(B)c
+Ch5 (H)c4.r(B)c c4.r8
+Ch5 (H)c2 r8.(B)c(S)c8.(B)c
+Ch5 (H)c8.(H3)c c8r(B)c c8.(H3)c (H)c8.(H3)c
+Ch5 cr8c cr8(B)c cr8(H3)c (H)c8.(H3)c
+Ch5 (H)c4.r(B)c (H)c4.r(H3)c
+Ch5 (H)c8.(H3)c c8.(B)c (H)c8.(S)c v--------cv+++cv+++c
