@@ -1,5 +1,5 @@
 {
-    "version": "2022.10.14",
+    "version": "2022.11.01",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1366,6 +1366,14 @@
                     "loop": 1,
                     "name": "門前の妖怪小娘",
                     "english": "Yokai Girl who at the Gate"
+                },
+                {
+                    "appleId": "1581358522",
+                    "mml": "TH13-06",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "素敵な墓場で暮しましょ",
+                    "english": "Let's Live in Nice Cemetery"
                 }
             ]
         }
