@@ -61,7 +61,7 @@ Ch2 (Brass)v13o3
 Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a8.r g8.r a8.r e8.r
 Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a1
 Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a8.r g8.r a8.r e8.r
-Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a4 >c+4 d4 e4
+Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a4 >c+4 d4 e8 o4g32g+32a32a-32
 
 Ch3 (CG5)v11o4
 Ch3 drde fr32>c32d+8 r8<a4r8
