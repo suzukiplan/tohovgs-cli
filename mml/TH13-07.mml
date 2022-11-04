@@ -39,10 +39,10 @@ Ch5         r1024 l16
 # - time: 4/4
 #-----------------------------------------------------------------------------
 # [Chord Progression]
-# | Dm (I), B♭ (vi) | Dm (I), C (vii), Dm (I), C (vii) |
-# | Dm (I), B♭ (vi) | Dm (I) |
-# | Dm (I), B♭ (vi) | Dm (I), C (ii), Dm (I), C (ii) |
-# | Dm (I), B♭ (vi) | Dm (I), A (V/M), Dm (I), C(vii) |
+# | Dm (I), Dm (I) > A(V/M) > B♭(vi) | Dm (I), C (vii), Dm (I), C (vii) |
+# | Dm (I), Dm (I) > A(V/M) > B♭(vi) | Dm (I) |
+# | Dm (I), Dm (I) > A(V/M) > B♭(vi) | Dm (I), C (ii), Dm (I), C (vii) |
+# | Dm (I), Dm (I) > A(V/M) > B♭(vi) | A (V/M), A (V/M), Dm (I), C (vii) |
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o2
 Ch0 a8a8r8 >d4c+4<b-8  a8.a64r32. g8.g64r32. a8.a64r32. e8.e64r32.
