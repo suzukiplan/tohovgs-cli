@@ -24,6 +24,7 @@ $HH \s1  \e1000 p-64  @3 %75 v15 o2
 $H2 \s1  \e1000 p-80  @3 %50 v10 o2
 $H3 \s1  \e10   p-80  @3 %25 v11 o3
 $H3a \s1 \e100  p-60  @3 %35 v14 o4
+$GT %77\s90\e2500@3
 
 #-----------------------------------------------------------------------------
 Ch0 t157 m8 r1024 l16
@@ -90,6 +91,65 @@ Ch5 (S)c8c8(H)c8 (S)c8(B)cc (S)c8(B)cc (S)c8
 Ch5 (S)c8(H)c8 (S)c(H3)c(H)c8 (S)c8(H)c8 (S)c4
 Ch5 (S)c8c8 (H3)cc(H)c8 (S)c32c32c32c32c8 (HH)c8.(H3)c
 Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (S)cccc c32c32c32c32c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Part 2 - B0 (8 bars) <Main Theme Accompaniment>
+# NOTE: Try to clarify the hidden motif in Ch2.
+# - key: D minor
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | Dm (I), Dm7 (I) | Dm(I), Gm6/D (IV), Dm(I), D9sus4 (I) |
+# | B♭7 (vi), C7/B♭ (vii), B♭ (vi), Dm (I) | B♭7 (vi), Gm6/B♭ (IV), B♭7 (vi), Gm6/B♭ (IV) |
+# | Dm (I), Dm7 (I) | Dm(I), Gm6/D (IV), Dm(I), D9sus4 (I) |
+# | B♭7 (vi), C7/B♭ (vii), B♭ (vi), Dm (I) | B♭ (vi) |
+#-----------------------------------------------------------------------------
+Ch0 ddd8 <f>d<a>d d64r32.ddd <f>d<a>d
+Ch0 ddd8 d<a>d8 ddd8 d8<fa
+Ch0 b-b-b-8 b-b-b-8 b-b-fb- >d<a>ec<
+Ch0 b-b-b-8 b-b-b-8 b-b-64r32.b-b- b-b>cc+
+Ch0 ddd8 <f>d<a>d d64r32.ddd <f>d<a>d
+Ch0 ddd8 d<a>d8 ddd8 d8<fa
+Ch0 b-b-b-8 b-b-b-8 b-b-fb- >d<a>ec<
+Ch0 b-b-b-8 b-b-64r32.b-b- b-b-b-b-64r32. b-4
+
+Ch1 (Brass)v13o5
+Ch2 (Brass)v14o4
+Ch1 f8d8e8c8 d8r8<a8>c8 d8<a8>e8<g8> f4e4
+Ch2 a4.g4f4 e2r8.g32g+32a4>g8<
+Ch1 f8d8e8c8 d8r8<a8>c8 d8<a8>e8<g8> r8f8e8g8
+Ch2 a4.g4f4 e2r4a4b-8
+Ch1 f8d8e8c8 d8r8<a8>c8 d8<a8>e8<g8> f4e4
+Ch2 a4.g4f4 e2r8.g32g+32a4>g8<
+Ch1 f8d8e8c8 d8r8<a8>c8 d1
+Ch2 a4.g4f4 e8f1
+
+Ch3 (CG5)v12o4
+Ch3 f8d8e8c8 d8<f8a8e8> d8<a8>e8<g8> f8<a8>e8g8
+Ch3 f8d8e8c8 d8<f8a8e8> d8<a8>e8<g8> r8f8e8g8
+Ch3 f8d8e8c8 d8<f8a8e8> d8<a8>e8<g8> f8<a8>e8g8
+Ch3 f8d8e8c8 d8<f8a8e8> d1
+
+Ch4 (GT)v11o2
+Ch4 a4 a64r32.a64r32.a64r32.a64r32. a64r32.a64r32.a8 a64r32.a64r32.a8
+Ch4 a64r32.a64r32.a8 a64r32.a64r32.a8 a64r32.a64r32.a8 aa64r32.a8
+Ch4 g64r32.g64r32.g8 g64r32.g64r32.g8 g64r32.g64r32.g8 g64r32.g64r32.g8
+Ch4 g64r32.g64r32.g8 g64r32.g64r32.g8
+Ch4 p-1500 <v18g2> v11p-0
+Ch4 a4 a64r32.a64r32.a64r32.a64r32. a64r32.a64r32.a8 a64r32.a64r32.a8
+Ch4 a64r32.a64r32.a8 a64r32.a64r32.a8 a64r32.a64r32.a8 aa64r32.a8
+Ch4 g64r32.g64r32.g8 g64r32.g64r32.g8 g64r32.g64r32.g8 g64r32.g64r32.g8
+Ch4 f64r32.f64r32.f8 f64r32.f64r32.f8
+Ch4 p-1500 <v18f2> v11p-0
+
+Ch5 (HH)c4 (S)c8.(H3)c (B)c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H3)c(H)c8 (B)c(H3)c(H)c8 (S)c(H3)c(H)c8
+Ch5 (B)c(H3)ccr (S)c8.(H3)c (B)c(H3)c(B)c(H3)c (S)c8(H3)c(B)c
+Ch5 (B)c(H3)c(H)c8 (S)c(H3)c(H)c8 (S)c(H3)cc(S)c(H3)cc(S)c(H3)c
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (H)c8(S)c(H3)c (B)c(H2)c(S)c(H)c (HH)c8(S)c(H3)c
+Ch5 (S)c4 (H3)cc(H)c8 (S)ccc8 c8c8
 
 #Ch0 r1p-0(Sq)v12o4 c1
 #Ch1 r1p-0(Sq)v12o4 e1
