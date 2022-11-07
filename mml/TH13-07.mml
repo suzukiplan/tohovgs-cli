@@ -61,7 +61,7 @@ Ch2 (Brass)v13o3
 Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a8.r g8.r a8.r e8.r
 Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a1
 Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a8.r g8.r a8.r e8.r
-Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a4 >c+4 d4 e8 o4g32g+32a32a-32
+Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a4 >c+4 d4 e8 o4(CG3)g32g+32a32a-32
 
 Ch3 (CG5)v11o4
 Ch3 drde fr32>c32d+8 r8<a4r8
@@ -114,7 +114,7 @@ Ch0 b-b-b-8 b-b-b-8 b-b-fb- >d<a>ec<
 Ch0 b-b-b-8 b-b-64r32.b-b- b-b-b-b-64r32. b-4
 
 Ch1 (Brass)v13o5
-Ch2 (Brass)v14o4
+Ch2 (CG3)v14o4
 Ch1 f8d8e8c8 d8r8<a8>c8 d8<a8>e8<g8> f4e4
 Ch2 a4.g4f4 e2r8.g32g+32a4>g8<
 Ch1 f8d8e8c8 d8r8<a8>c8 d8<a8>e8<g8> r8f8e8g8
@@ -122,7 +122,7 @@ Ch2 a4.g4f4 e2r4a4b-8
 Ch1 f8d8e8c8 d8r8<a8>c8 d8<a8>e8<g8> f4e4
 Ch2 a4.g4f4 e2r8.g32g+32a4>g8<
 Ch1 f8d8e8c8 d8r8<a8>c8 d1
-Ch2 a4.g4f4 e8f1
+Ch2 a4.g4f4 e8(Brass)f1
 
 Ch3 (CG5)v12o4
 Ch3 f8d8e8c8 d8<f8a8e8> d8<a8>e8<g8> f8<a8>e8g8
