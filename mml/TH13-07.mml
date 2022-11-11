@@ -1,0 +1,333 @@
+# リジッドパラダイス
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s893 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s66 \e9999 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @0 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+$GT %77\s90\e2500@3
+
+#-----------------------------------------------------------------------------
+Ch0 t157 m8 r1024 l16|
+Ch1         r1024 l16
+Ch2         r1024 l16
+Ch3         r1024 l16
+Ch4         r1024 l16
+Ch5         r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 - A1 (8 bars) <Partial Main Theme Presentation>
+# - key: D minor
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | Dm (I), Dm (I) > A(V/M) > B♭(vi) | Dm (I), C (vii), Dm (I), C (vii) |
+# | Dm (I), Dm (I) > A(V/M) > B♭(vi) | Dm (I) |
+# | Dm (I), Dm (I) > A(V/M) > B♭(vi) | Dm (I), C (vii), Dm (I), C (vii) |
+# | Dm (I), Dm (I) > A(V/M) > B♭(vi) | A (V/M), A (V/M), Dm (I), C (vii) |
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 a8a8r8 >d4c+4<b-8  a8.a64r32. g8.g64r32. a8.a64r32. e8.e64r32.
+Ch0 a8a8r8 >d4c+4<b-8  a1
+Ch0 a8a8>d8<a8 r8gga8g8  a8a64r32.r g4 a8a64r32.r e4
+Ch0 a8a8>d8<a8 r8gga8g8  ar>c+8< b-b-64r32.>e8 d8ff64r32. e8g8
+
+Ch1 (Brass)v14o4
+Ch1 a16.a16.a r16.>c+32 d4c+4<b-8  a8.r g8.r a8.r e8.r
+Ch1 a16.a16.a r16.>c+32 d4c+4<b-8  a1
+Ch1 a16.a16.a r16.>c+32 d4c+4<b-8  a8.r g8.r a8.r e8.r
+Ch1 a16.a16.a r16.>c+32 d4c+4<b-8  a4 >c+4 d4 e4
+
+Ch2 (Brass)v13o3
+Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a8.r g8.r a8.r e8.r
+Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a1
+Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a8.r g8.r a8.r e8.r
+Ch2 a16.a16.a r16.>c+32 d4c+4<b-8  a4 >c+4 d4 e8 o4(CG3)g32g+32a32a-32
+
+Ch3 (CG5)v11o4
+Ch3 drde fr32>c32d+8 r8<a4r8
+Ch3 dr<ab- >cr<g8 >dr<ab- gaeg
+Ch3 >dr<a>c dr<a8 erg8 c+re8
+Ch3 ar8. a>dgr d8.<a8.>e8
+Ch3 <a>dfr8.fr <fga8 >fgef
+Ch3 <a>dfd <g>d<g>d <a>d<a>d <e>c+<e8
+Ch3 a>dfr8.fr <fg>de fgef
+Ch3 (Sq)v12o5 c+4e4f4g4
+
+Ch4 r1r1 r2r8(CG3)v12o5c+8 <a>c+<gr r2 v5
+Ch4 a32>a32<v+ a32>a32<v+ a32>a32<v+ a32>a32<v+ a32>a32<v+ a32>a32<v+ a32>a32<v+ a32>a32
+Ch4 v4d<v+d>v+a<v+a> >v+d<v+d>v+fr v+fr<v+c+e fgef 
+Ch4 <a>dfd <gb-dg dgag egc+e
+Ch4 d>d<a>a f<a>cd fgc+e <ab-ga
+Ch4 v10 c+32>c+32<v+ c+32>c+32<v+ c+32>c+32<v+ c+32>c+32<
+Ch4 v11 e32>e32<v+ e32>e32<v+ e32>e32<v+ e32>e32<
+Ch4 v12 f32>f32<v+ f32>f32<v+ f32>f32<v+ f32>f32<
+Ch4 v13 g32>g32<v+ g32>g32<v+ g32>g32<v+ g32>g32<
+
+Ch5 (HH)c8.(H3)c (H)c8(B)c8 (H3)c8(B)c8 (H)c8(B)cc
+Ch5 (B)c8(H)c8 (B)c(H3)c(H)c8 (B)c8(H)c8 (B)c(H3)c(H)c8
+Ch5 (HH)c8.(H3)c (H)c8(B)c8 (H3)c8(B)c8 (H)c8(B)cc
+Ch5 (B)c8(H)c8 (B)c(H3)c(H)c8 (S)c8.c8.cc
+Ch5 (S)c8c8(H)c8 (S)c8(B)cc (S)c8(B)cc (S)c8
+Ch5 (S)c8(H)c8 (S)c(H3)c(H)c8 (S)c8(H)c8 (S)c4
+Ch5 (S)c8c8 (H3)cc(H)c8 (S)c32c32c32c32c8 (HH)c8.(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (S)cccc c32c32c32c32c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Part 2 - B0 (8 bars) <Main Theme Accompaniment>
+# - key: D minor
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | Dm (I), Dm7 (I) | Dm(I), Gm6/D (IV), Dm(I), D9sus4 (I) |
+# | B♭7 (vi), C7/B♭ (vii), B♭ (vi), Dm (I) | B♭7 (vi), Gm6/B♭ (IV), B♭7 (vi), Gm6/B♭ (IV) |
+# | Dm (I), Dm7 (I) | Dm(I), Gm6/D (IV), Dm(I), D9sus4 (I) |
+# | B♭7 (vi), C7/B♭ (vii), B♭ (vi), Dm (I) | B♭ (vi) |
+#-----------------------------------------------------------------------------
+Ch0 ddd8 <f>d<a>d d64r32.ddd <f>d<a>d
+Ch0 ddd8 d<a>d8 ddd8 d8<fa
+Ch0 b-b-b-8 b-b-b-8 b-b-fb- >d<a>ec<
+Ch0 b-b-b-8 b-b-b-8 b-b-64r32.b-b- b-b>cc+
+Ch0 ddd8 <f>d<a>d d64r32.ddd <f>d<a>d
+Ch0 ddd8 d<a>d8 ddd8 d8<fa
+Ch0 b-b-b-8 b-b-b-8 b-b-fb- >d<a>ec<
+Ch0 b-b-b-8 b-b-64r32.b-b- b-b-b-b-64r32. b-4
+
+Ch1 (Brass)v13o5
+Ch2 (CG3)v14o4
+Ch1 f8d8e8c8 d8r8<a8>c8 d8<a8>e8<g8> f4e4
+Ch2 a4.g4f4 e2r8.g32g+32a4>g8<
+Ch1 f8d8e8c8 d8r8<a8>c8 d8<a8>e8<g8> r8f8e8g8
+Ch2 a4.g4f4 e2r4a4b-8
+Ch1 f8d8e8c8 d8r8<a8>c8 d8<a8>e8<g8> f4e4
+Ch2 a4.g4f4 e2r8.g32g+32a4>g8<
+Ch1 f8d8e8c8 d8r8<a8>c8 d1
+Ch2 a4.g4f4 e8(Brass)f1
+
+Ch3 (CG5)v12o4
+Ch3 f8d8e8c8 d8<f8a8e8> d8<a8>e8<g8> f8<a8>e8g8
+Ch3 f8d8e8c8 d8<f8a8e8> d8<a8>e8<g8> r8f8e8g8
+Ch3 f8d8e8c8 d8<f8a8e8> d8<a8>e8<g8> f8<a8>e8g8
+Ch3 f8d8e8c8 d8<f8a8e8> d1
+
+Ch4 (GT)v11o2
+Ch4 a4 a64r32.a64r32.a64r32.a64r32. a64r32.a64r32.a8 a64r32.a64r32.a8
+Ch4 a64r32.a64r32.a8 a64r32.a64r32.a8 a64r32.a64r32.a8 aa64r32.a8
+Ch4 g64r32.g64r32.g8 g64r32.g64r32.g8 g64r32.g64r32.g8 g64r32.g64r32.g8
+Ch4 g64r32.g64r32.g8 g64r32.g64r32.g8
+Ch4 p-1500 <v18g2> v11p-0
+Ch4 a4 a64r32.a64r32.a64r32.a64r32. a64r32.a64r32.a8 a64r32.a64r32.a8
+Ch4 a64r32.a64r32.a8 a64r32.a64r32.a8 a64r32.a64r32.a8 aa64r32.a8
+Ch4 g64r32.g64r32.g8 g64r32.g64r32.g8 g64r32.g64r32.g8 g64r32.g64r32.g8
+Ch4 f64r32.f64r32.f8 f64r32.f64r32.f8
+Ch4 p-1500 <v18f2> v11p-0
+
+Ch5 (HH)c4 (S)c8.(H3)c (B)c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H3)c(H)c8 (B)c(H3)c(H)c8 (S)c(H3)c(H)c8
+Ch5 (B)c(H3)ccr (S)c8.(H3)c (B)c(H3)c(B)c(H3)c (S)c8(H3)c(B)c
+Ch5 (B)c(H3)c(H)c8 (S)c(H3)c(H)c8 (S)c(H3)cc(S)c(H3)cc(S)c(H3)c
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (H)c8(S)c(H3)c (B)c(H2)c(S)c(H)c (HH)c8(S)c(H3)c
+Ch5 (S)c4 (H3)cc(H)c8 (S)ccc8 c8c8
+
+#-----------------------------------------------------------------------------
+# Part 3 - A2 (8 bars) <Recapitulation>
+# - key: F minor (+3)
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | Fm (I), Fm (I) > C(V/M) > D♭(vi) | Fm (I), E♭ (vii), Fm (I), E♭ (vii) |
+# | Fm (I), Fm (I) > C(V/M) > D♭(vi) | Fm (I) |
+# | Fm (I), Fm (I) > C(V/M) > D♭(vi) | Fm (I), E♭ (vii), Fm (I), E♭ (vii) |
+# | Fm (I), Fm (I) > C(V/M) > D♭(vi) | C (V/M), C (V/M), Fm (I), E♭ (vii) |
+#-----------------------------------------------------------------------------
+Ch0 o2
+Ch0 c8c8r8f4e4d-8  c4<b-4>c4<g4>  c8c8r8f4e4d-8  c2. @3v14cc64r32.cc
+Ch1 r1r1r1r2. o2(Bass)v13 a-a-64r32.a-a-
+Ch0 <f64r32.f64r32.f8 f64r32.f64r32.>c8< f64r32.f64r32.f8 e64r32.e64r32.e8
+Ch1 a-cf<a-> c64r32.c64r32.f8 a-cf<a- d->ed-e
+Ch0 >c8c64r32.c64r32. c64r32.c64r32.c64r32.c64r32. c64r32.c64r32.c8 c8.c64r32.
+Ch1  g8g64r32.g64r32. g64r32.g64r32.g64r32.g64r32. g64r32.g64r32.g8 g8.g64r32.
+Ch0 <f64r32.f64r32.f8 f64r32.f64r32.>c8< f64r32.f64r32.f8 e64r32.e64r32.e8
+Ch1 a-cf<a-> c64r32.c64r32.f8 a-cf<a- d->ed-e
+Ch0 e64r32.e64r32.e8 c64r32.c64r32.e8 c64r32.c64r32.f8 d64r32.d64r32.g8
+Ch1 gce<g e>c<g>e <f>c<a->c <g>g<b->b-
+
+Ch2 (Brass)v14o5
+Ch2 c16.c16.c r16.e32 f4e4d-8  c4<b-4>c4<g4>
+Ch2 c16.c16.c r16.e32 f4e4d-8  c1
+Ch2 c16.c16.c r16.e32 f4e4d-8  c4<b-4>c4<g4>
+Ch2 c16.c16.c r16.e32 f4e4d-8  e4g4a-4b-4
+
+Ch3 (Brass)v13o4
+Ch3 c16.c16.c r16.e32 f4e4d-8  c4<b-4>c4<g4>
+Ch3 c16.c16.c r16.e32 f4e4d-8  c1
+Ch3 c16.c16.c r16.e32 f4e4d-8  c4<b-4>c4<g4>
+Ch3 c16.c16.c r16.e32 f4e4d-8  c4e4f4g4
+
+Ch4 r1r1r1%77\s25600\e22050v13o1f1 a-1>c1f1
+Ch4 o4(CG3)
+Ch4 v10 e32>e32<v+ e32>e32<v+ e32>e32<v+ e32>e32<
+Ch4 v11 g32>g32<v+ g32>g32<v+ g32>g32<v+ g32>g32<
+Ch4 v12 a-32>a-32<v+ a-32>a-32<v+ a-32>a-32<v+ a-32>a-32<
+Ch4 v13 b-32>b-32<v+ b-32>b-32<v+ b-32>b-32<v+ b-32>b-32<
+
+Ch5 (HH)c2r2
+Ch5 (S)c4c4c4c8(H)c8
+Ch5 (B)c8c8 r8 c4c4c8
+Ch5 c4c4 c8(S)c8 (B)c8(S2)cc
+Ch5 (HH)c4 (H)c8.(H3)c (B)c8c8 (H)c8.(H3)c
+Ch5 (S)c8(H)c8 (S)c8(H)c8 (S)c8(H)c8 (S)c8(H)c8
+Ch5 (B)c8c8 (H)c8.(H3)c (B)c(H3)c(B)c(H3)c (H)c8(S)cc
+Ch5 (S)c32c32ccc c32c32ccc c32c32c32c32c32c32c32c32 c32c32c32c32c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Part 4 - B1 (8 bars) <Development - Interlude for Coda>
+# - key: F minor
+# - time: 4/4
+#-----------------------------------------------------------------------------
+Ch0 o2(Bass)v13 ff64r32.ff >ff64r32.f8< f>c<ef d->c<cf
+Ch0 ffff >ff64r32.<a->a-< f>f<e->e-< d->d-<<b->b-
+Ch0 f>f<e->e-< f64r32.f64r32.f8 d->d-<d-64r32.d-64r32. d-64r32.d-64r32.d-64r32.d-64r32.
+Ch0 >d-<d-d-64r32.d-64r32. >d-<d->d-<f >e-<e->e-e-64r32. e-<e-e-64r32.e-
+Ch0 ff64r32.ff >f64r32.f64r32.f8< e->e-<e-64r32.e-64r32. c>c<e->e-<
+Ch0 ff64r32.ff >f<ff64r32.>f< f>f<e-g b-e->e-<b-
+Ch0 e->e-<b-e- ge-b-g >fca-f >c<cg<g
+Ch0 b-b-64r32.b-b- b-64r32.b-64r32.b-8 >cc64r32.cc e-c<g>c
+
+Ch1 r2o5(Brass)v14       f2.r4b-4>c2r4 <f1 e-4c4 f4.r8b-4.r8 >c4.r8<b-4>e-4< b-1.        a-4g4
+Ch2 r2o3(Brass)\s4444v13 f2.r4b-4>c2r4 <f1 e-4c4 f4.r8b-4.r8 >c4.r8<b-4>e-4< b-1.>> \s66 f4e-4
+
+Ch3 (CG5)v12o5
+Ch4 r8(CG5)v7o5
+Ch3 a-8f8g8e-8 f8a-8c8e-8  f8c8g8c8 a-8e-8g8c8  a-8e-8g8c8 e-8a-8c8g8      f8c8g8c8 e-8a-8g8c8
+Ch4 a-8f8g8e-8 f8a-8c8e-8  f8c8g8c8 a-8e-8g8c8  a-8e-8g8c8 v12f8r8e-8 r8v7 f8c8g8c8 e-8a-8g8 v12
+Ch3 a-8c8b-8e-8 a-8c8e-8g8
+Ch4 f8r8g8c8 f8<g8>c8e-8
+Ch3 a-8c8b-8e-8 a-8g8c8e-8
+Ch4 f8<a-8>g8c8 f8e-8r8c8
+Ch3 <b-8>a-8g8e-8 a-8c8e-8g8
+Ch4 r8f8e-8<b-8> f8r8c8e-8 r8v7
+Ch3 a-8c8g8e-8 <b-8>a-8<v-f8>r8
+Ch4 a-8c8g8e-8  v12 f8  r8 v--d-8
+
+Ch5 (HH)c4 (S)c8.(H3)c (B)c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H3)c(H)c8 (B)c(H3)c(H)c8 (S)c(H3)c(H)c8
+Ch5 (B)c(H3)ccr (S)c8.(H3)c (B)c(H3)c(B)c(H3)c (S)c8(H3)c(B)c
+Ch5 (B)c(H3)c(H)c8 (S)c(H3)c(H)c8 (S)c(H3)cc(S)c(H3)cc(S)c(H3)c
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (H)c8(S)c(H3)c (B)c(H2)c(S)c(H)c (HH)c8(S)c(H3)c
+Ch5 (S)c8(S2)c32v--c32v--c32v++c32 (H3)cc(H)c8 (S)c32c32cc8 c8c8
+
+#-----------------------------------------------------------------------------
+# Part 5 - A+B (16 bars) <Coda>
+# - key: F minor
+# - time: 4/4
+#-----------------------------------------------------------------------------
+# [Chord Progression]
+# | D♭m (vi) | E♭m (vii) | Fm(I) | Fm(I) | x4
+#-----------------------------------------------------------------------------
+Ch0 <
+Ch0 d-d-64r32.d-8 a-fd-f a-fd-f fa-d-f
+Ch0 e-e-64r32.e-8 gb-e-g e-gb-g e-gb->e-<
+Ch0 ff64r32.f8 >c<a-f>c <fa->c<a- >f<f>c<c
+Ch0 ff64r32.f8 >c<f>f<f >c<a-f >c<a-f >c<f
+Ch0 d-d-64r32.d-8 a-fd-f a-fd-f fa-d-f
+Ch0 e-e-64r32.e-8 gb-e-g e-gb-g e-gb->e-<
+Ch0 ff64r32.f8 f>c<f>f< ff64r32.f8 f>f<f8
+Ch0 ff64r32.f8 >f<f>a-<f f>c<ff ff64r32.f8
+Ch0 d-d-64r32.d-8 a-fd-f a-fd-f fa-d-f
+Ch0 e-e-64r32.e-8 gb-e-g e-gb-g e-gb->e-<
+Ch0 ff64r32.f8 >c<a-f>c <fa->c<a- >f<f>c<c
+Ch0 ff64r32.f8 >c<f>f<f >c<a-f >c<a-f >c<f
+Ch0 d-d-64r32.d-8 a-fd-f a-fd-f fa-d-f
+Ch0 e-e-64r32.e-8 gb-e-g e-gb-g e-gb->e-<
+Ch0 ff64r32.f8 f>c<f>f< ff64r32.f8 f>f<f8
+Ch0 ff64r32.f8 >f<f>a-<f f>c<ff ff64r32.f8
+
+Ch1 f8f8 r16.b32>c4 <b-4a-8  g8. r e-8.r<b-8.r>e-8.r
+Ch2 c8c8 r16.g32 a-4 g4 f8   e-8.r<b-8.r e-8.r b-8.r>
+Ch1 f8f8 r16.b32>c4 <b-4>e-8 <f1
+Ch2 c8c8 r16.g32 a-4 g4  b-8  c1
+Ch1 f8f8 r16.b32>c4 <b-4a-8  g8. r e-8.r<b-8.r>e-8.r
+Ch2 c8c8 r16.g32 a-4 g4 f8   e-8.r<b-8.r e-8.r b-8.r>
+Ch1 f1^4 r4 f8g8e-8g8
+Ch2 c1^4 r4 c8e-8<b-8>e-8
+
+Ch1 f8f8 r16.b32>c4 <b-4a-8  g8. r e-8.r<b-8.r>e-8.r
+Ch2 c8c8 r16.g32 a-4 g4 f8   e-8.r<b-8.r e-8.r b-8.r>
+Ch1 f8f8 r16.b32>c4 <b-4>e-8 <f1
+Ch2 c8c8 r16.g32 a-4 g4  b-8  c1
+Ch1 f8f8 r16.b32>c4 <b-4a-8  g8. r e-8.r<b-8.r>e-8.r
+Ch2 c8c8 r16.g32 a-4 g4 f8   e-8.r<b-8.r e-8.r b-8.r>
+Ch1 f1^4 r2.
+Ch2 c1^4 r2.
+
+Ch3 o4 v12frf8 v11>fd-<a-8 >r8f r8.f8
+Ch4 o4 v12d-rd-8 r8v11f8 >r8d- r8.d-8
+Ch3 r8v12e-8 v11ge-<b->e- <gb->e-8 <e-rb-8
+Ch4 r8<v12b-8 r8v11gb- r8b-8 r8g8
+Ch3 v12fr>c8 v11c<f>f<a-> a-cf<a-> a-r<a-8>
+Ch4 r8v12a-8 v11a-r>cr frc<a-> fr<f8
+Ch3 f8<f8>a-8c8 f<fb-8> e-<e-a-8
+Ch4 a-8r8>c8r4 <g8r8f8
+Ch3 o4 v12frf8 v11>fd-<a-8 >r8f r8.f8
+Ch4 o4 v12d-rd-8 r8v11f8 >r8d- r8.d-8
+Ch3 r8v12e-8 v11ge-<b->e- <gb->e-8 <e-rb-8
+Ch4 r8<v12b-8 r8v11gb- r8b-8 r8g8
+Ch3 >f8<a-8 >g8<b-8 >a-8c8 b-8d-8  f8<f8 crb-8r8 g4.
+Ch4 r8f8 r8g8 r8a-8 r8b-8 r4.g8 r8e-4.
+
+Ch3 o4 v12frf8 v11>fd-<a-8 >r8f r8.f8
+Ch4 o4 v12d-rd-8 r8v11f8 >r8d- r8.d-8
+Ch3 r8v12e-8 v11ge-<b->e- <gb->e-8 <e-rb-8
+Ch4 r8<v12b-8 r8v11gb- r8b-8 r8g8
+Ch3 v12fr>c8 v11c<f>f<a-> a-cf<a-> a-r<a-8>
+Ch4 r8v12a-8 v11a-r>cr frc<a-> fr<f8
+Ch3 f8<f8>a-8c8 f<fb-8> e-<e-a-8
+Ch4 a-8r8>c8r4 <g8r8f8
+Ch3 o4 v12frf8 v11>fd-<a-8 >r8f r8.f8
+Ch4 o4 v12d-rd-8 r8v11f8 >r8d- r8.d-8
+Ch3 r8v12e-8 v11ge-<b->e- <gb->e-8 <e-rb-8
+Ch4 r8<v12b-8 r8v11gb- r8b-8 r8g8
+Ch3 >f8<a-8 >g8<b-8 >a-8c8 b-8d-8  <a-8f8r2.
+Ch4 r8f8 r8g8 r8a-8 r8b-8  f8c8r2.
+
+Ch5 (HH)c4(S)c4 (B)c(H2)c(B)c(H)c (S)c8.(H3)c
+Ch5 (HH)c8(H)c8 (B)cc(S)c8 (S)c8(H)c(S2)c (B)cc(S)c8
+Ch5 (HH)c4(S)c4 (B)c(H2)c(B)c(H)c (S)c8.(H3)c
+Ch5 (HH)c8(H)c8 (B)cc(S)c8 (B)c(H3)ccc (S)c8(H3)c(S2)c
+Ch5 (HH)c4(S)c4 (B)c(H2)c(B)c(H)c (S)c8.(H3)c
+Ch5 (HH)c8(H)c8 (B)cc(S)c8 (B)c8(H)c8 (S)c8(H)c8
+Ch5 (HH)c4(S)c4 (B)c(H2)c(B)c(H)c (S)c8.(H3)c
+Ch5 (HH)c8(S)c8 (B)cc(S)c8 (S)c32c32cc8 c8c8
+
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(B)c cc(S)c(H)c
+Ch5 (HH)c8(H)c8 (B)cc(S)c8 (S)c8(H)c(S2)c (B)cc(S)c8
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(B)c cc(S)c(H)c
+Ch5 (HH)c8(H)c8 (S2)v-------c32v+c32v++c32v++c32(S)c32c32c32c32 c4 (S)c8(H3)c(S)c
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(B)c cc(S)c(H)c
+Ch5 (HH)c4 (B)cc(S)c8 (S)c8(H)c(S2)c (B)cc(S)c8
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(B)c cc(S)c(H)c
+Ch5 (B)c(H2)c(S)c(B)c cc(S)c(H)c (S)cccc c32c32c32c32c32c32c32c32

@@ -1,5 +1,5 @@
 {
-    "version": "2022.11.01",
+    "version": "2022.11.11",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1374,6 +1374,14 @@
                     "loop": 1,
                     "name": "素敵な墓場で暮しましょ",
                     "english": "Let's Live in Nice Cemetery"
+                },
+                {
+                    "appleId": "1581358523",
+                    "mml": "TH13-07",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "リジッドパラダイス",
+                    "english": "Rigid Paradise"
                 }
             ]
         }
