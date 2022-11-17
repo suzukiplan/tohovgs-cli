@@ -123,7 +123,6 @@ Ch2 <e8f8 b64>c32.^16 e64f32.^16 er c8<g8b64>c32.r
 Ch2 <e8f8 b64>c32.^16 ff32f+32 grercr v16
 Ch2 c8<g8e8> d8<a8f8> e8d8
 
-
 Ch3 r8(CG5)o5v6
 Ch3 d8<a8>d8<g8> d8<f8e8>c8 
 Ch3 <e8f8>c8f8 e8c8<g8>c8
@@ -142,7 +141,7 @@ Ch3 fgf8 <a8g8 r8fg cre8
 Ch3 fgaf cfa>c edc8 <gr>cr
 Ch3 <g>c<eg ce<b->d fgc8 e8g8
 #Ch3 gage d>d< f>f< <a>ac>c< v14 a32a-32g32g-32f32e32e-32d32
-Ch3 v13 <e8c8<g8> f8d8<a8>> a32a-32g32g-32f32e32e-32d32
+Ch3 v13 <e8c8<g8> f8d8<a8>> v--a32a-32g32g-32f32e32e-32d32
 
 Ch4 (H3)
 Ch4 cccc cccc cccc cccc
@@ -178,6 +177,40 @@ Ch5 (HH)c4 (S)c4 (B)c8c8 (S)c4
 Ch5 (B)c4 (S)c4 (B)cccc (S)c4
 Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
 Ch5 (B)c4 (S)c4 c8cc c8c8
+
+#-----------------------------------------------------------------------------
+# Part 3 - B
+# - key: Dm
+# - time: 4/4
+#-----------------------------------------------------------------------------
+Ch0 o3@0
+Ch0 d8a8 d8a8 d8ad d8a8
+Ch0 c8a8 c8a8 c8ac c8a8
+Ch0 <b8>f8 <b8>f8 <b8>f<b b8>f8
+Ch0 <b-4 b-64r32. b-64r32. b-64r32. b-64r32. b-4>c4
+Ch0 d8a8 d8a8 d8ad d8a8
+Ch0 c8a8 c8a8 c8ac c8a8
+Ch0 <b8>f8 <b8>f8 <b8>f<b b8>f8
+Ch0 <b-4 r2@2 o3c+c+64r32.c+8
+
+Ch1 o4(Sq)v13 \s3000a2 \s600a8.>f8.e8  \s1500f2 \s600<a8.>f8.e8  \s1500f2 \s600e8.f8.a8 \s33 fref ec+<a8 g8f8 e8fg
+Ch2 o4(Sq)v13 \s3000f2 \s600f8.>d8.c8  \s1500d2 \s600<f8.>d8.c8  \s1500d2 \s600c8.d8.f8 \s33 drc+d c+<af8 e8d8 c+8de 
+Ch1 \s1500a2 \s600a8.>f8.c8  r32d32^8.^4 e8.f8.g8 a8.d8.a8 a8.>c8.d8 <a4r4 o4(Brass)g+32a32^8r >c32c+32^8r
+Ch2 \s1500f2 \s600f8.>c8.<a8 a2          e8.f8.g8 >d8.<a8.>d8 f8.a8.a8 o4(CG5)defg fed8 f8.f64f+64g64g+64a8 eg
+
+Ch3 (CG3)v9o4 d2d4>c4< a2d4>c4< a2e8e8r8>c<a a8g8efde c+8dec+d<ag>
+Ch3 d2d4>c4< f2g8.a8.b-8 f8.f8.f8 a8.>c8.d8< a4r4 (Brass)v13o4 e32f32^8r g+32a32^8r
+
+Ch4 p-0(Pad2)v9o4 f1a1^1r2f4g4 d2e2f2 a1r1
+
+Ch5 (HH)c4 (H3)cccc (S)c8(B)cc c(H3)c(B)c(H3)c
+Ch5 (B)c(H3)ccc cccc (S)c8(H3)cc v12p-333%85\s2222\e4444a4
+Ch5 (HH)c4 (H3)cccc (S)c8(B)cc cccc
+Ch5 (S)c4 (H3)cccc (S)c8(H)c8 (S)c(H3)ccc
+Ch5 (HH)c4 (H3)cccc (S)c8(B)cc c(H3)c(B)c(H3)c
+Ch5 (B)c(H3)ccc cccc (S)c8(H3)cc v12p-333%85\s2222\e4444f4
+Ch5 (HH)c4 (S)c(H3)ccc (H)c4 (S)c(H3)ccc
+Ch5 (B)c(H3)ccc cccc (S)c8(S2)c32c32c32c32 (S)c8.(B)c32c32
 
 Ch0 r1
 
