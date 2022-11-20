@@ -36,8 +36,6 @@ Ch5         r1024 l16
 
 #-----------------------------------------------------------------------------
 # Part 1 - Introduction
-# - key: n/a
-# - time: 4/4
 #-----------------------------------------------------------------------------
 Ch0 r1r1
 Ch1 \s1 \e1000 p-200 %65 v1 o6 @2c2 < @1c2 r1
@@ -65,8 +63,6 @@ Ch5 c2 cccc cccc
 
 #-----------------------------------------------------------------------------
 # Part 2 - A
-# - key: Dm
-# - time: 4/4
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o1
 Ch0 b-b->f<b- b-b->ff64r32. ccgc ccgg64r32.
@@ -141,7 +137,7 @@ Ch3 fgf8 <a8g8 r8fg cre8
 Ch3 fgaf cfa>c edc8 <gr>cr
 Ch3 <g>c<eg ce<b->d fgc8 e8g8
 #Ch3 gage d>d< f>f< <a>ac>c< v14 a32a-32g32g-32f32e32e-32d32
-Ch3 v13 <e8c8<g8> f8d8<a8>> v--a32a-32g32g-32f32e32e-32d32
+Ch3 v13 <e8c8<g8> f8d8<a8> v--a32a-32g32g-32f32e32e-32d32
 
 Ch4 (H3)
 Ch4 cccc cccc cccc cccc
@@ -180,8 +176,6 @@ Ch5 (B)c4 (S)c4 c8cc c8c8
 
 #-----------------------------------------------------------------------------
 # Part 3 - B
-# - key: Dm
-# - time: 4/4
 #-----------------------------------------------------------------------------
 Ch0 o3@0
 Ch0 d8a8 d8a8 d8ad d8a8
@@ -198,10 +192,10 @@ Ch2 o4(Sq)v13 \s3000f2 \s600f8.>d8.c8  \s1500d2 \s600<f8.>d8.c8  \s1500d2 \s600c
 Ch1 \s1500a2 \s600a8.>f8.c8  r32d32^8.^4 e8.f8.g8 a8.d8.a8 a8.>c8.d8 <a4r4 o4(Brass)g+32a32^8r >c32c+32^8r
 Ch2 \s1500f2 \s600f8.>c8.<a8 a2          e8.f8.g8 >d8.<a8.>d8 f8.a8.a8 o4(CG5)defg fed8 f8.f64f+64g64g+64a8 eg
 
-Ch3 (CG3)v9o4 d2d4>c4< a2d4>c4< a2e8e8r8>c<a a8g8efde c+8dec+d<ag>
+Ch3 v9o4 (Pad2)d2(CG3)d4>c4< (Pad2)a2(CG3)d4>c4< (Pad2)a2(CG3)e8e8r8>c<a a8g8efde c+8dec+d<ag>
 Ch3 d2d4>c4< f2g8.a8.b-8 f8.f8.f8 a8.>c8.d8< a4r4 (Brass)v13o4 e32f32^8r g+32a32^8r
 
-Ch4 p-0(Pad2)v9o4 f1a1^1r2f4g4 d1e2f2 a1r2 o3(Brass)v13 g+32a32^8r >c32c+32^8r
+Ch4 p-0(Pad2)v9o4 f1a1^1r2f4g4 d1e2f2 a1 (CG3)o3v12 defg fed8 o3(Brass)v13 g+32a32^8r >c32c+32^8r
 
 Ch5 (HH)c4 (H3)cccc (S)c8(B)cc c(H3)c(B)c(H3)c
 Ch5 (B)c(H3)ccc cccc (S)c8(H3)cc v12p-333%85\s2222\e4444a4
