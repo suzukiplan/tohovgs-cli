@@ -333,6 +333,123 @@ Ch3 <a4>g4 fge8 <c+f>c+f
 Ch4 <f4>e4 dec8 <<c+f>c+f
 CH5 (HH)c4 (S)c(B)ccc (H)c8(H3)cc (S)c4
 
+#-----------------------------------------------------------------------------
+# Part 5 - A
+# NOTE: I think the original song has less notes than the first A,
+# but the VGS version plays the A as it is.
+# (otherwise it would be unbalanced)
+#-----------------------------------------------------------------------------
+Ch0 t158
+Ch0 (Bass)v13o1
+Ch0 b-b->f<b- b-b->ff64r32. ccgc ccgg64r32.
+Ch0 <aa>f<a aa>ff64r32. dd>d<d dd>dd64r32.<<
+Ch0 b-b->f<b- b-b->ff64r32. ccgc ccgg64r32.
+Ch0 dd>d<d dd>d<d dd>d<d dd>d<d <
+Ch0 b-b->f<b- b-b->ff64r32. ccgc ccgg64r32.
+Ch0 <aa>f<a aa>ff64r32. dd>d<d dd>dd64r32.<<
+Ch0 b-b->f<b- b-b->ff64r32. ccgc ccgg64r32.
+Ch0 dd>d<d dd>d<d dd>d<d dd>d<d <
+Ch0 b-b->f<b- b-b->ff64r32. ccgc ccgg64r32.
+Ch0 <aa>f<a aa>ff64r32. dd>d<d dd>dd64r32.<<
+Ch0 b-b->f<b- b-b->ff64r32. ccgc ccgg64r32.
+Ch0 dd>d<d dd>d<d dd>d<d dd>d<d <
+Ch0 b-b->f<b- b-b->ff64r32. ccgc ccgg64r32.
+Ch0 <aa>f<a aa>ff64r32. dd>d<d dd>dd64r32.<<
+Ch0 b-b->f<b- b-b->ff64r32. ccgc ccgg64r32.
+Ch0 dd>d<d dd>d<d dd>d<d dd>d<d <
+
+Ch1 (Sq)v13o5
+Ch1 d8<a8>d8<g8> d8<f8e8>c8 
+Ch1 <e8f8>c8f8 e8c8<g8>c8
+Ch1 <e8f8>c8f8 g8e8c8f8
+Ch1 e8c8<g8> d8<a8f8> c8<g8>
+Ch1 d8<a8>d8<g8> d8<f8e8>c8 
+Ch1 <e8f8>c8f8 e8c8<g8>c8
+Ch1 <e8f8>c8f8 g8e8c8f8
+Ch1 e8c8<g8> f8d8<a8> g8f8
+Ch1 (CG3)v16o5
+Ch1 d8<a8>d8<g>c32c+32 dr<f8e8 b64>c32.r
+Ch1 <e8f8 b64>c32.^16 e64f32.^16 er c8<g8b64>c32.r
+Ch1 <e8f8 b64>c32.^16 ff32f+32 grercref
+Ch1 e8c8<g8> d8<a8f8 >c8<e8>
+Ch1 d8<a8>d8<g>c32c+32 dr<f8e8 b64>c32.r
+Ch1 <e8f8 b64>c32.^16 e64f32.^16 er c8<g8b64>c32.r
+Ch1 <e8f8 b64>c32.^16 ff32f+32 grercref
+Ch1 e8c8<g8> f8d8<a8> g8f8
+
+Ch2 r(CG3)o5v9
+Ch2 d8<a8>d8<g8> d8<f8e8>c8 
+Ch2 <e8f8>c8f8 e8c8<g8>c8
+Ch2 <e8f8>c8f8 g8e8c8f8
+Ch2 e8c8<g8> d8<a8f8> c8<g8>
+Ch2 d8<a8>d8<g8> d8<f8e8>c8 
+Ch2 <e8f8>c8f8 e8c8<g8>c8
+Ch2 <e8f8>c8f8 g8e8c8f8
+Ch2 e8c8<g8> f8d8<a8> g8f
+Ch2 r8(CG3)v11o5
+Ch2 d8<a8>d8<g>c32c+32 dr<f8e8 b64>c32.r
+Ch2 <e8f8 b64>c32.^16 e64f32.^16 er c8<g8b64>c32.r
+Ch2 <e8f8 b64>c32.^16 ff32f+32 grercref
+Ch2 e8c8<g8> d8<a8f8 >c8<e8>
+Ch2 d8<a8>d8<g>c32c+32 dr<f8e8 b64>c32.r
+Ch2 <e8f8 b64>c32.^16 e64f32.^16 er c8<g8b64>c32.r
+Ch2 <e8f8 b64>c32.^16 ff32f+32 grercr v16
+Ch2 c8<g8e8> d8<a8f8> e8d8
+
+Ch3 r8(CG5)o5v6
+Ch3 d8<a8>d8<g8> d8<f8e8>c8 
+Ch3 <e8f8>c8f8 e8c8<g8>c8
+Ch3 <e8f8>c8f8 g8e8c8f8
+Ch3 e8c8<g8> d8<a8f8> c8<g8>
+Ch3 d8<a8>d8<g8> d8<f8e8>c8 
+Ch3 <e8f8>c8f8 e8c8<g8>c8
+Ch3 <e8f8>c8f8 g8e8c8f8
+Ch3 e8c8<g8> f8d8<a8> g8
+Ch3 (CG3)v7o6l16
+Ch3 fgf8 <a8g8 r8fg cre8
+Ch3 fgaf cfa>c edc8 <gr>cr
+Ch3 <g>c<eg ce<b->d fgc8 e8g8
+Ch3 gage d8f8 <a8>c8<g8>c8>
+Ch3 fgf8 <a8g8 r8fg cre8
+Ch3 fgaf cfa>c edc8 <gr>cr
+Ch3 <g>c<eg ce<b->d fgc8 e8g8
+Ch3 v13 <e8c8<g8> f8d8<a8> v--a32a-32g32g-32f32e32e-32d32
+
+Ch4 (H3)
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cc(H)c8 (H3)cccc cc(H)c8 (H3)cc(H)c8 (H3)
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+Ch4 cccc cccc cccc cccc
+
+Ch5 (HH)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)c4 (S)c4 (B)cccc (S)c4
+Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (S)c4 ccc8 (B)cccc (S)c4
+Ch5 (HH)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)c4 (S)c4 (B)cccc (S)c4
+Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)p-120>b-32b-32ag8 (S)c8(B)p-120>fe (B)cc>c<c (S)c4
+Ch5 (HH)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)c4 (S)c4 (B)cccc (S)c4
+Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (S)c4 ccc8 (B)cccc (S)c4
+Ch5 (HH)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)c4 (S)c4 (B)cccc (S)c4
+Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)c4 (S)c4 c8cc c8c8
+
 Ch0 r1
 
 
