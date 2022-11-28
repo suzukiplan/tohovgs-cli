@@ -9,6 +9,7 @@ $EP \s30 \e19000 @0 %44
 $CG3 \s30 \e8000 @1 %20
 $CG4 \s30 \e15000 @2 %20
 $CG5 \s30 \e8000 @2 %20
+$CG5a \s30 \e8000 @2 %50
 $CG6 \s30 \e80 @2 %20
 $CG7 \s100 \e5000 @0 %90
 $Sq \s66 \e9999 @2 %75
@@ -449,6 +450,65 @@ Ch5 (HH)c4 (S)c4 (B)c8c8 (S)c4
 Ch5 (B)c4 (S)c4 (B)cccc (S)c4
 Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
 Ch5 (B)c4 (S)c4 c8cc c8c8
+
+#-----------------------------------------------------------------------------
+# Part 6 - B' (key +1: D minor -> D# minor)
+#-----------------------------------------------------------------------------
+Ch0 o3@0 d+8a+8 d+8a+8 d+8a+d+ d+8a+8
+Ch1 (CG5a)   o4v14 a+2 a+8.>f+8.e+8
+Ch2 (CG5a)   o4v13 f+2 f+8.>d+8.c+8
+Ch3 (CG5a)   o4v12 d+2 d+4>c+4<
+Ch4 (CG5a)p-0o3v12 a+2 a+4>a+4
+Ch5 (HH)c4 (H3)cc(B)c(H3)c  (S)c8(B)cc c(H3)c(B)c(H3)c
+
+Ch0 c+8a+8 c+8a+8 c+8a+c+ c+8a+8
+Ch1 f+2 <a+8.>f+8.e+8
+Ch2 d+2 <f+8.>d+8.c+8
+Ch3 a+2 d+4>c+4<
+Ch4 f+2 <a+4>a+4
+Ch5 (B)c(H3)ccc cc(B)c(H3)c (S)c(B)cc(H3)c (B)c(H3)c(B)c(H3)c
+
+Ch0 <b+8>f+8 <b+8>f+8 <b+8>f+<b+ b+8>f+8<
+Ch1 f+2 e+8.f+8.a+8
+Ch2 d+2 c+8.d+8.f+8
+Ch3 a+2 g+8.a+>f+e+d+8<
+Ch4 f+2 e+8.f+8.a+8
+Ch5 (HH)c4 (H3)cc(B)c(H3)c  (S)c8(H3)cc (B)ccc(H2)c
+
+Ch0 b4 b64r32.b64r32.b64r32.b64r32. b4b+4>
+Ch1 (CG5) f+re+f+ e+d<a+8 g+8f+8 e+8f+g+ (CG5a)
+Ch2 (CG5) d+rdd+  d<a+f+8 e+8d+8 d8d+e+ (CG5a)
+Ch3 a+2e+4g+4
+Ch4 f+2c+4e+4<
+Ch5 (S)c4 (H3)cccc (S)c(B)c(H3)cc (S)c(B)cc(H)c
+
+Ch0 d+8a+8 d+8a+8 d+8a+d+ d+8a+8
+Ch1 a+2 a+8.>f+8.c+8
+Ch2 f+2 f+8.>d+8.<a+8
+Ch3 d+2 r8g+a a+4
+Ch4 a+2 r8>ef f+4<
+Ch5 (HH)c4 (H3)cc(B)c(H3)c  (S)c8(H3)cc (B)ccc(H2)c
+
+Ch0 c+8a+8 c+8a+8 c+8a+c+ c+8a+8
+Ch1 r32d+32^8.^4 e+8.f+8.g+8
+Ch2 a+2 e+8.f+8.g+8
+Ch3 (CG5)d+g+f+e+ f+g+f+g+ a+>e+c+<f+ a+>d+e+g+<
+Ch4 a+2 >e+8.(CG5)d+ f+a+>c+e+<
+Ch5 (B)c(H3)ccc cc(B)c(H3)c (S)c(B)cc(H3)c (B)c(H3)c(B)c(H3)c
+
+Ch0 <b+8>f+8 <b+8>f+8 <b+8>f+<b+ b+8>f+8<
+Ch1 (CG5)a+8.d+8.a+8 a+8.>c+8.d+8
+Ch2 (CG5)>d+8.<a+8.>d+8 f+8.a+8.a+8
+Ch3 a+8.d+8.a+8 a+8.>c+8.d+8
+Ch4 r2 f+8.a+8.a+8
+Ch5 (HH)c4 (S)c8(H3)cc (H)c8(H3)cc (S)c8(H3)cc
+
+Ch0 b4 r4 @2o2 d64r32.d64r32.d64r32.r dd64r32.d8
+Ch1 (Brass)v16o5 e+re+f+ e+d+c+8 <a+8.^64b64>c64c+64 d4
+Ch2 r4.(Brass)v14o4          a+8  f+8.^64g64g+64a64  a+4
+Ch3 a+4r2.
+Ch4 a+4r2.
+Ch5 (S)c(H3)ccc cccc (S)c4 c8(B)c32c32c32c32
 
 Ch0 r1
 
