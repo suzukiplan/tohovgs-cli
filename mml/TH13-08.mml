@@ -589,6 +589,59 @@ Ch2 k-
 Ch3 k-
 Ch4 k-
 
+#-----------------------------------------------------------------------------
+# Part 7 - C' (Coda)
+#-----------------------------------------------------------------------------
+Ch0 t153
+
+Ch0 d+1 c+1 < b+1 a+2 e+>c++e+a+ >c++e+c++8
+Ch0 o2 d+d+>d+<d+ d+d+>d+<d+ d+d+>d+<d+ a+<a+>b+<b+>
+Ch0 c+c+>c+<c+ c+c+>c+<c+ c+c+>c+<c+ <g+>g+<a+>a+
+Ch0 b+<b+b+b+ >b+<b+b+b+ >b+<b+b+b+ a+a+b+b+>
+
+Ch4 (Pad2)v10o3 a+2>a+1 g+1 f+2 (Brass)c++2 c++32.d+32.e32e+4.
+Ch4 (Pad2)v10o3 a+2>a+1 g+1 f+2
+
+Ch1 (CG5)v14o5 f+8<a+8>d+8f+8 e+8c+8r8
+Ch2 (CG5)v13o5 d+8<f+8a+8>d+8 c+8<a+8>r8
+Ch3 r8(CG3)v13o3 f+8a+8>d+8 e+8c+8r8
+Ch1 f+4<a+8>d+8f+8 e+8c+8r8
+Ch2 d+4<f+8a+8>d+8 c+8<a+8r8>
+Ch3 d+4<f+8a+8>d+8 e+8c+8<g+8
+Ch1 f+4<a+8>d+8f+8 e+8c+8r8<g+8
+Ch2 d+4<f+8a+8>d+8 c+8<g+8r8e+8
+Ch3 a+4f+8a+8>d+8 c+8<a+8e+8g+8
+Ch1 a+4>g+4 f+8e+4c+8
+Ch2 f+4>e+4 d+8c+4<g+8>
+Ch3 a+4>g+4 e+f+g+4e+8
+
+Ch1 o5 f+8<a+8>d+8f+8 e+8c+8r8
+Ch2 o5 d+8<f+8a+8>d+8 c+8<a+8>r8
+Ch3 o3 r8f+8a+8>d+8 e+8c+8r8
+Ch1 f+4<a+8>d+8f+8 e+8c+8r8
+Ch2 d+4<f+8a+8>d+8 c+8<a+8r8>
+Ch3 d+4<f+8a+8>d+8 e+8c+8<g+8
+Ch1 f+4<a+8>d+8f+8 e+8c+8r8<g+8
+Ch2 d+4<f+8a+8>d+8 c+8<g+8r8e+8
+Ch3 a+4f+8a+8>d+8 c+8<a+8e+8g+8
+
+Ch5 (HH)c4.(H3)c(B)c c8(H3)c8 (B)cc(S)c8 
+Ch5 (H)c4 (B)cccc (S)c8(B)c(H3)c(B)c(H3)c(S)c8
+Ch5 (B)c4.cc (H)c4(B)cc(H)c8
+Ch5 (H)c8(B)c(H3)c (S)c(B)ccc r8(H)c8 (S)c(B)c(H)c8
+Ch5 (HH)c4 (S)c8(B)cc (H)c8(H3)c8 (S)c(B)cc8
+Ch5 (H)c8.(H3)c (S)c(B)ccc (H)c8(H3)cc (S)c8(H3)cc
+Ch5 (HH)c4 (S)c8(B)cc (H)c8(H3)c8 (S)c(B)cc8
+
+Ch0 t150
+Ch0 dd>d<d >d<d>dd64r32.< ff>f<f >f<f>ff64r32.
+Ch1 a+4>g+4 f+8e+4c+8
+Ch2 f+4>e+4 d+8c+4<g+8>
+Ch3 a+4>g+4 e+f+g+4e+8
+Ch4 (Brass)c++2 c++32.d+32.e32e+4.
+Ch5 (H)c8(B)c8 (S)c(B)ccc (H)c8(H3)cc (S)cccc
+
+
 Ch0 r1
 
 
