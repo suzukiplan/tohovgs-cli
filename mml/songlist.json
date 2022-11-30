@@ -1,5 +1,5 @@
 {
-    "version": "2022.11.11",
+    "version": "2022.11.30",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1382,6 +1382,14 @@
                     "loop": 1,
                     "name": "リジッドパラダイス",
                     "english": "Rigid Paradise"
+                },
+                {
+                    "appleId": "1581358524",
+                    "mml": "TH13-08",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "デザイアドライブ",
+                    "english": "Desire Drive"
                 }
             ]
         }
