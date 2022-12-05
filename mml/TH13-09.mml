@@ -71,4 +71,43 @@ Ch5 (B)cccc (H2)c4 (S)c4(B)cc(S)c8
 Ch4 (H3)cccc (H)c4 c4 (H2)c8(H)c8
 Ch5 (B)cccc c8.(S2)c32c32 (S)cccc c8c8
 
+#-----------------------------------------------------------------------------
+# Part 2 - A
+#-----------------------------------------------------------------------------
+Ch0 o2v17 e-2r4 e-64r32.r e-64r32.r
+Ch0 f-2 f-64r32.f-64r32.f-64r32.f-64r32. f-64r32.f-64r32.f-64r32.r
+Ch0 e-2 e-64r32.e-64r32.e-64r32.e-64r32. e-64r32.r
+Ch0 g-2r8 f-2
+Ch0 o2 e-2r4 e-64r32.r e-64r32.r
+Ch0 f-2 f-64r32.f-64r32.f-64r32.f-64r32. f-64r32.f-64r32.f-64r32.r
+Ch0 e-2 e-64r32.e-64r32.e-64r32.e-64r32. e-64r32.r
+Ch0 g-2r8 f-8rf- f-64r32.f-64r32.f-8
+
+Ch1 o3v5 e-2e-64r32.r8. e-64r32.e-64r32.e-8
+Ch1 f-2 f-64r32.f-64r32.f-64r32.f-64r32. f-64r32.f-64r32.f-64r32.r
+Ch1 e-2 e-64r32.e-64r32.e-64r32.e-64r32. e-64r32.r
+Ch1 g-2r8 f-4 v8p-222f-4p-0
+Ch1 (CG5)v10o4
+Ch1 e-g-b->e- e-<b-g-b- e-g-b->e- g-e-<b-g-
+Ch1 >c->c-<<f->f- a-f-d-c- c-g-8c-f-r<f-8
+Ch1 e-g-b->e- e-<b-g-b- e-g-b->e- g-e-<b-g-
+Ch1 >d->d-<r8 g-e-c-<a- >c->c-r<<g-8.c-8
+
+Ch2 (Brass)v14o5 e-4 r2 e-8 f-4.  r2.e-4 r2 e-8 g-8^2 f-2
+Ch3 (Brass)v14o5 b-4 r2 b-8>c-4.< r2.b-4 r2 b-8>d-8^2 c-2<
+Ch2 e-4 r2 e-8 f-4.  r2.e-4 r2 e-8 g-2 v----c32v+d-32v+d32v+e-32v+ f-8rf-8.g-8
+Ch3 b-4 r2 b-8>c-4.< r2.b-4 r2 b-8>d-2 r8             c-8rc-8.d-8
+
+Ch4 r1r4p-0 (Brass0)v16o5 a-8>c-8< b-8.g-8.f-8 e-2.e-8d-2r8 c-2
+Ch4 r1r8 g-8a-8>c-8< b-8.g-8.f-8 e-2.e-8d-2r8 f-8.f-8.g-8
+
+Ch5 (HH)c4 (B)c(H3)ccc (B)c8(S)c8 (B)cc(S2)c8
+Ch5 (B)c(H3)ccc (B)cc(S)c8 (B)c8(S)c8 (B)cc(S2)c8
+Ch5 (HH)c4 (B)c(H3)ccc (B)c8(S)c8 (B)cc(H)c8
+Ch5 (B)c(H3)ccc (B)cc(S)c8 (B)c8(S)c8 (B)cc(S2)cc
+Ch5 (HH)c8(S)c8 (B)cc(S)c(H3)c (B)c(H2)c(S)c(H)c (B)cc(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (B)cc(S)c(H3)c (B)c(H2)c(S)c(H)c (B)cc(S)c(H3)c
+Ch5 (HH)c8(S)c8 (B)cc(S)c(H3)c (B)c(H2)c(S)c(H)c (B)cc(S)c8
+Ch5 (S)c4 (B)ccc (S)c32c32c(B)cc (S)c(B)cc (S)c(B)c
+
 Ch0 r1
