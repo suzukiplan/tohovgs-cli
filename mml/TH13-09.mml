@@ -320,4 +320,40 @@ Ch5 (B)c(H3)ccc (S)c(H3)ccc (B)c(H3)c(B)c(H3)c (S)c(H3)ccc
 Ch5 (HH)c4(S)c8(H3)c(B)c c(H3)ccr (S)c8(H2)c8
 Ch5 (B)cccc (S)c4 c(B)cc (S)c(B)cc (S)c(B)c
 
+#-----------------------------------------------------------------------------
+# Part 7 - I2
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o3
+Ch0 e-e-64r32.e-64r32.e-64r32. e-8.e-64r32. d-d-64r32.d-64r32.d-64r32. d-8.d-64r32.
+Ch0 g-g-64r32.g-64r32.g-64r32. g-8.g-64r32. d-d-64r32.d-64r32.d-64r32. d-d-64r32.d-8
+Ch0 e-e-64r32.e-64r32.e-64r32. e-8.e-64r32. d-d-64r32.d-64r32.d-64r32. d-8.d-64r32.
+Ch0 g-g-64r32.g-64r32.g-64r32. g-8.g-64r32. d-d-64r32.d-64r32.d-64r32. d-d-64r32.d-8
+
+Ch1 (GT)v13o2
+Ch1 e-4.e-64r32.e-64r32. d-8d-64r32.d-64r32. d-64r32.d-64r32.d-8
+Ch1 g-8g-64r32.g-64r32. g-8g-64r32.g-64r32. d-8d-64r32.d-64r32. d-64r32.d-64r32.d-64r32.d-64r32.
+Ch1 e-4.e-64r32.e-64r32. d-8d-64r32.d-64r32. d-64r32.d-64r32.d-8
+Ch1 g-8g-64r32.g-64r32. g-8g-64r32.g-64r32. d-8d-64r32.d-64r32. d-64r32.d-64r32.d-64r32.d-64r32.
+
+Ch2 (CG5)v14o4
+Ch2 e-g-b-g- a-fd-<b-> e-g-b-g- a-fd-e-
+Ch2 g-b->e-<a- b-g-fg- g-e-<b-> fd-<a-> e-<b->
+Ch2 (Brass)g-b->e-<b- >d-<a-fd- g-b->e-<b- >d-<a-fg-
+Ch2 b->e-g-d- e-<b-a-b- b-g-g- a-ff g-e-
+
+Ch3 r8(CG5)v7o4
+Ch3 e-g-b-g- a-fd-<b-> e-g-b-g- a-fd-e-
+Ch3 g-b->e-<a- b-g-fg- g-e-<b-> fd-<a-> v14(Brass)
+Ch3 e-g-b-g- a-fd-<b-> e-g-b-g- a-fd-e-
+Ch3 g-b->e-<a- b-g-fg- g-e-e- fd-d- e-<b-
+
+Ch4 (HH)c4 (H)c8(H3)cc (H)c8(H3)cc (H)c4
+Ch5 (B)cccc (H2)c4 (S)c4(B)cc(S)c8
+Ch4 (H)c4 c8(H3)cc (H)c4 c8(H3)cc
+Ch5 (B)c4 r4 (S)c4r8c8
+Ch4 (H3)cccc (H)c4 (H3)cccc (H)c4
+Ch5 (B)cccc (H2)c4 (S)c4(B)cc(S)c8
+Ch4 (H3)cccc (H)c4 c4 (H2)c8(H)c8
+Ch5 (B)cccc c8.(S2)c32c32 (S)cccc c8c8
+
 Ch0 r1
