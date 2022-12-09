@@ -353,7 +353,46 @@ Ch4 (H)c4 c8(H3)cc (H)c4 c8(H3)cc
 Ch5 (B)c4 r4 (S)c4r8c8
 Ch4 (H3)cccc (H)c4 (H3)cccc (H)c4
 Ch5 (B)cccc (H2)c4 (S)c4(B)cc(S)c8
-Ch4 (H3)cccc (H)c4 c4 (H2)c8(H)c8
+Ch4 (H3)cccc (H)c4 c4 (H2)c8(H)c8 p-0
 Ch5 (B)cccc c8.(S2)c32c32 (S)cccc c8c8
+
+#-----------------------------------------------------------------------------
+# Part 8 - C2 (Coda) in A minor
+#-----------------------------------------------------------------------------
+Ch0 o2 f8>c8< fa>c<a f8>c<a ca>c<a
+Ch0 gg64r32.>g8< gb>dg dg<b>d <gb>d<b
+Ch0 aa>a<a aa>a<a aa>a<a aa>a<a
+Ch0 aa64r32.a8 a>e<a>c< aa64r32.a8 aa>a<a
+Ch0 ff64r32.>c8< ff>c<f gg>d<g g>d<g>d<
+Ch0 aa>e<a a>e<a>e c>c< < a>a< e>e< c>c<
+Ch0 a4.a64r32.a64r32. ff64r32.>f<f ggg+g+
+Ch0 aa>e<a a>e<a>c eace <a4
+
+Ch1 (Brass)v16o5 d32d+32e8. erer d4 drdr32d32 d+32e16.<br> g8<b>r32g32 g+32a16.<b>r32a32 b-32b16. e64f64f+64g64 g+64a64a+64b64
+Ch2 (Sq)v14o4 g32g+32a8. arar b4 brbr e4g4a4b8br
+Ch1 >c2.r<b-32b32>c8 d8c8<b8g8 e4r8d8
+Ch2 >a2.r8a8 b8a8g8e8 c4r8<(Brass)b8
+Ch1 e4erer d4drdr e8g8d8ed32d+32 e8g8a8b8
+Ch2 a4arar b4brbr r8b8r8b8 b4.b8
+Ch1 e8.>c8.<b8 d8.b8.a8 e2r8c8c8d8
+Ch2 >c8.a8.g8 <b8.>g8.e8 c2r8<a8a8b8
+
+Ch3 (CG3)v12o4 e4erer d4drdr r8g8 r8.>c32c+32 d8<g8b8g8
+Ch4 (CG5)v12o4 a4arar b4brbr g8>e8<b8>g8 d8e8<b8>e8
+Ch3 c8a8r8a8 <a4>c4 >d8c8<b8g8 r8a4g8
+Ch4 r8e8r8e8 <e4a4  >b8a8 g8e8 r8e4e8<
+Ch3 e4 erer d4 drdr r8d8 r8d8 d4r8d8
+Ch4 a4 arar b4 brbr e8b8 g8b8 a4b4
+Ch3 e8.>e8.d8< d8.>d8.^8  <cr e8r8ee64r32. r8c8c8d8
+Ch4 >c8.a8.g8 <b8.>g8.^8   r8<a8r8aa64r32. r8a8a8b8
+
+Ch5 (HH)c4 (B)cc(S)c(H)c (B)c(H2)c(S)c(H)c (B)cc(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)cc(S)c(H)c (B)cc(S)c(H)c (B)cc(S)c(H)c
+Ch5 (HH)c4 (B)cc(S)c(H)c (B)c(H2)c(S)c(H)c (B)cc(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)cc(S)c(H)c (S)c32c32cc8 c8c8
+Ch5 (HH)c4 (B)cc(S)c(H)c (B)c(H2)c(S)c(H)c (B)cc(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)cc(S)c(H)c (B)cc(S)c(H)c (B)cc(S)c(H)c
+Ch5 (HH)c8.(S)c(B)cc(S)c(B)c (S)c(B)cc(S)c(B)cc(S)c(B)c
+Ch5 (B)c(H2)c(S)c(H)c (B)cc(S)c32c32c32c32 c8c8 (S2)cccc
 
 Ch0 r1
