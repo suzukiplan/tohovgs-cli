@@ -1,5 +1,5 @@
 {
-    "version": "2022.11.30",
+    "version": "2022.12.10",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1390,6 +1390,14 @@
                     "loop": 1,
                     "name": "デザイアドライブ",
                     "english": "Desire Drive"
+                },
+                {
+                    "appleId": "1581358525",
+                    "mml": "TH13-09",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "古きユアンシェン",
+                    "english": "Ancient Yuan-Sheng"
                 }
             ]
         }
