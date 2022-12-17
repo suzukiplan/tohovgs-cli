@@ -36,7 +36,7 @@ Ch4         r1024 l16
 Ch5         r1024 l16
 
 #-----------------------------------------------------------------------------
-# Part 1 - Introduction
+# Part 1 - Introduction in G# minor
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o2
 Ch0 g+4 g+64r32.rg+g+64r32. d+d+64r32.r8 f+4
@@ -128,6 +128,50 @@ Ch5 (B)c8(H3)c8 c8(H)c8 (B)c8(H2)c8 (B)c8(H)c8
 Ch5 (B)c8(H3)c8 c8(H)c8 (B)c8(H2)c8 (B)c8(H)c8
 Ch5 (B)c8(H3)c8 c8(H)c8 (B)c4 c8(H)c8 
 Ch5 (H)c4 (B)c8(S2)c8 cccc cc(S)c8
+
+#-----------------------------------------------------------------------------
+# Part 4 - C1 in B minor (+3)
+#-----------------------------------------------------------------------------
+Ch0 g4 g64r32.g64r32.g8 a8a64r32.r a8>c+8<
+Ch0 b4^16>ef+8 <br8. b64r32.b64r32.b8
+Ch0 g4 g64r32.g64r32.g8 a8a64r32.r a4
+Ch0 b2. bf+d<b>
+Ch0 g8g64r32.g64r32. gg64r32.g8 a8>e64r32.e64r32.< aa64r32.>c+8<
+Ch0 b4 b64r32.b64r32.>d8 d8r8 <b64r32.b64r32.b8
+Ch0 g8g64r32.g64r32. gg64r32.g8 a8a64r32.a64r32. a64r32.a64r32.a8
+Ch0 b8>br< b8>br< b4 bf+d<b
+
+Ch1 (CG3)v14o3
+Ch1 d8g8 b>c+d8 c+8<g+32a16. e8g8
+Ch1 d8f+8 a8b8 >d8<a8 baf+8
+Ch1 d8g8 b>c+d8 c+8<a8 e8f+32g16.
+Ch1 <b8>d8 f+8a8 b4 baf+8
+Ch1 d8dd b>c+d8 c32c+16.<g+32a16. e8g8
+Ch1 d8f+8 a8b8 >d8<a8 baf+8
+Ch1 d8dd b>c+d8 c32c+16.<g+32a16. e8f+32g16.
+Ch1 <b8>d8 f+8a8 b4 r4
+
+Ch2 r8(CG3)v10o3 
+Ch2 d8g8 b>c+d8 c+8<g+32a16. e8g8
+Ch2 d8f+8 a8b8 >d8<a8 baf+8
+Ch2 d8g8 b>c+d8 c+8<a8 e8f+32g16.
+Ch2 <b8>d8 f+8a8 b4 baf+8
+Ch2 d8dd b>c+d8 c32c+16.<g+32a16. e8g8
+Ch2 d8f+8 a8b8 >d8<a8 baf+8
+Ch2 d8dd b>c+d8 c32c+16.<g+32a16. e8f+32g16.
+Ch2 <b8>d8 f+8a8 b4 r8
+
+Ch3 (Pad2)v8o3 b2>c+2 d1< b2>c+2 d1< b2>c+2 d1< b2>c+2 d1
+Ch4 (Pad2)v8o3 g2 a2  b1  g2 a2  b1  g2 a2  b1  g2 a2  b1
+
+Ch5 (HH)c4 (H3)c8(H)c8 (B)c4 c8(H)c8
+Ch5 (B)c4 (H3)c8(H)c8 (B)c4 c8(H)c8
+Ch5 (B)c4 (H3)c8(H)c8 (B)c4 c8(H)c8
+Ch5 (B)c4 (H3)c8(H)c8 (B)c4 c8(H)c8
+Ch5 (B)c4 (H3)c8(H)c8 (B)c4 c8(H)c8
+Ch5 (B)c4 (H3)c8(H)c8 (B)c4 c8(H)c8
+Ch5 (B)c4 (H3)c8(H)c8 (B)c4 c8(S2)cc
+Ch5 (S)c8c8c8c8 cccc <gfed
 
 Ch0 r1
 
