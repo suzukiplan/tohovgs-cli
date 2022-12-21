@@ -274,8 +274,8 @@ Ch1 f+4r8a8^2
 Ch2 d4r8 e8^2
 Ch1 f+4rb32>c32c+4.d8r<c32c+32
 Ch2 d4rd32d+32e4.f+8r8
-Ch1 d4r8 e4r16.f32 f+1 ff+gg+
-Ch2 <b4r8> c+4r8 d1 dd+ef
+Ch1 d8r4 e8r8r16.f32 f+1 ff+gg+
+Ch2 <b8r4> c+8r4 d1 dd+ef
 
 Ch3 o3v10 dr>d8< f+8b8 >df+d<b a>dc+<b
 Ch3 r8>d<d f+ab4. f+def+
