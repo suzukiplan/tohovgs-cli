@@ -329,14 +329,14 @@ Ch2 g+4r8 f+4r8 e8r8
 Ch1 e32f32f+8.^2.^1
 Ch2 d1^1
 
-Ch3 o4 (Brass)v13 a4.b4 a32a+32b32>c32 c+4
+Ch3 o3 (Brass)v11 a4.b4 a32a+32b32>c32 c+4
 Ch3 <g+4a8g+4.e4
 Ch3 f+1
-Ch3 r4o5 (CG5)v11a8>e8< ab8a g+e+f+g+
-Ch3 o4(Brass)v13 a4.b4.a4
+Ch3 r4o5 (CG5) a8>e8< ab8a g+e+f+g+
+Ch3 o3(Brass) a4.b4.a4
 Ch3 g+4.f+4.e4
-Ch3 <b32>d32f+8.^2.
-Ch3 o5(CG3)v10 f+b v-- df+ v-- <b>d v-- <b>d v-- <f+>f+ v- <d>d< <b>b d>d
+Ch3 b32>d32f+8.^2.
+Ch3 o5(CG3) f+b v-- df+ v-- <b>d v-- <b>d v-- <f+>f+ v- <d>d< <b>b d>d
 
 Ch4 (CG3)v13o3
 Ch4 a8r8 b8ab a8f+8c+8f+8
