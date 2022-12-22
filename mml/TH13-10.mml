@@ -28,7 +28,7 @@ $H3a \s1 \e100  p-60  @3 %35 v14 o4
 $GT %77\s90\e2500@3
 
 #-----------------------------------------------------------------------------
-Ch0 t154 m8 r1024 l16
+Ch0 t154 m8 r1024 l16|
 Ch1         r1024 l16
 Ch2         r1024 l16
 Ch3         r1024 l16
@@ -409,7 +409,57 @@ Ch4 d8f+8a8b8 >d8<a8 baf+8
 Ch4 <gb>dg b>c+d8 c32c+16. <g+32a16. d+32e16. f+32g16.
 Ch4 <b8>d8 f+8a8 b4.
 
-Ch5 r1r1r1r1
-Ch5 r1r1r1r1
+Ch5 p-0(Pad2)v7o3
+Ch5 g2a2b1 g2a2f+1 g2a2b1 g2a2b1
 
-Ch0 r1
+#-----------------------------------------------------------------------------
+# Part 10 - C3 (Coda & Pre-introduction) in main key (-3)
+#-----------------------------------------------------------------------------
+Ch0 @2v13o2
+Ch0 e4 e64r32.e64r32.e8 f+8f+64r32.f+64r32. f+64r32.rf+8 g+4.g+g+64r32. g+r>g+r< g+64r32.g+64r32.g+8
+Ch0 e4 e64r32.e64r32.e8 f+8f+64r32.f+64r32. f+64r32.rf+8 g+4.g+g+64r32. g+r>g+r< g+64r32.g+64r32.g+8
+Ch0 e4 e64r32.e64r32.e8 f+8f+64r32.f+64r32. f+64r32.rf+8 g+4.g+g+64r32. g+r>g+r< g+64r32.g+64r32.g+8
+Ch0 e4 e64r32.e64r32.e8 f+8f+64r32.f+64r32. f+64r32.rf+8 g+4.g+g+64r32. g+r>g+r< g+64r32.g+64r32.g+8
+
+Ch1 (CG3)v14o3
+Ch1 e8b8 >eg+b8 a32a+16.f+8c+8e8<
+Ch1 d+8b8> d+8g+8 b8f+8 g+f+d+8<
+Ch1 e8b8 >eg+b8 a+8f+8 c32c+16.e8<
+Ch1 d+8b8 >d+8f+8 g+4 g+f+d+8<
+Ch1 e8b8 >eg+b8 a32a+16.f+8c+8e8<
+Ch1 d+8b8 >d+8g+8 b8f+8 g+f+d+8<
+Ch1 eb>d+e g+a+b8 a32a+16. f32f+16. c32c+16. e8<
+Ch1 d+8b8 >d+8f+8 g+2
+
+Ch2 (CG3)v8o2
+Ch2 b8>g+8 b>eg+8 f+8c+8<a+8>c+8<<
+Ch2 b8>g+8 b8>d+8 g+8d+8 ed+<b8<
+Ch2 b8>g+8 >c+eg+8 f+8c+8<a+8>c+8<<
+Ch2 b8>g+8 b8>d+8 d+4 <g+f+d+8<
+Ch2 b8>g+8 b>eg+8 f+8c+8<a+8>c+8<<
+Ch2 b8>g+8 b8>d+8 g+8d+8 ed+<b8<
+Ch2 b>g+b>c+ ef+g+8 f32f+16. c32c+16. <a32a+16.> c+8<<
+Ch2 b8>g+8 b8>d+8 d+2
+
+Ch3 (CG5)v11o2
+Ch3 b8>e8 g+a+b8 a+8 f32f+16. c+8e8<
+Ch3 b8>d+8f+8g+8 b8f+8 g+f+d+8<
+Ch3 eg+b>e g+a+b8 a+8f+8c+8 d+32e16.<
+Ch3 g+8b8 >d+8f+8 g+4 g+f+d+8<
+Ch3 b8>e8 g+a+b8 a32a+16. f32f+16. c32c+16. d+32e16.<
+Ch3 b8>d+8 f+8g+8 b8f+8 g+f+d+8<
+Ch3 eg+b>e g+a+b8 a32a+16. f32f+16. c32c+16. d+32e16.<
+Ch3 g+8b8 >d+8f+8 g+2
+
+Ch4 (Pad2)v10o3
+Ch4 e2f+2 g+1 e2f+2 g+1
+Ch4 e2f+2 g+1 e2f+2 d+1
+
+Ch5 (H3)cr8. r4 (H3)cr8. (B)c4
+Ch5 (H3)cr8. r4 (H)c4 (B)c4
+Ch5 (B)c4r4c4c4
+Ch5 (B)c4r4 (H)c4(B)c4
+Ch5 (B)c4.cc c4c4
+Ch5 (B)c4.(H3)cc (H)c4(B)c4
+Ch5 (B)c4r4 c4c4
+Ch5 (B)c4r4 (H)c4(B)c4
