@@ -1,5 +1,5 @@
 {
-    "version": "2022.12.10",
+    "version": "2022.12.22",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1398,6 +1398,14 @@
                     "loop": 1,
                     "name": "古きユアンシェン",
                     "english": "Ancient Yuan-Sheng"
+                },
+                {
+                    "appleId": "1581358526",
+                    "mml": "TH13-10",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "夢殿大祀廟",
+                    "english": "Grand Enshrined Mausoleum at Yumedono"
                 }
             ]
         }
