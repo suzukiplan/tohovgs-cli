@@ -1,0 +1,219 @@
+# 大神神話伝
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s893 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20 p-0
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG5a \s30 \e8000 @2 %40
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s66 \e9999 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @0 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+$GT %77\s90\e2500@3
+$TH %77\s30\e2500@3p-100 o5 v8
+$TM %77\s60\e2000@3p-200 o4 v11
+$TL %77\s90\e1500@3p-300 o3 v14
+
+#-----------------------------------------------------------------------------
+Ch0 t160 m8 r1024 l16
+Ch1         r1024 l16
+Ch2         r1024 l16
+Ch3         r1024 l16
+Ch4         r1024 l16
+Ch5         r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 - A (3/4 & change key per 4 bars: Em -> G#m → Gm → Bm)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 ee64r32. ee64r32. ee64r32. ee64r32. ee64r32. ee64r32.
+Ch0 ee64r32. ee64r32. ee64r32. ee64r32. ee64r32. ee64r32.
+Ch0 ee64r32. ee64r32. ee64r32. ee64r32. ee64r32. ee64r32.
+Ch0 ee64r32. ee64r32. ee64r32. ee64r32. ee64r32. ee64r32.
+Ch0 g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32.
+Ch0 g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32.
+Ch0 g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32.
+Ch0 g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32.
+Ch0 gg64r32. gg64r32. gg64r32. gg64r32. gg64r32. gg64r32.
+Ch0 gg64r32. gg64r32. gg64r32. gg64r32. gg64r32. gg64r32.
+Ch0 gg64r32. gg64r32. gg64r32. gg64r32. gg64r32. gg64r32.
+Ch0 gg64r32. gg64r32. gg64r32. gg64r32. gg64r32. gg64r32.
+Ch0 bb64r32. bb64r32. bb64r32. bb64r32. bb64r32. bb64r32.
+Ch0 bb64r32. bb64r32. bb64r32. bb64r32. bb64r32. bb64r32.
+Ch0 bb64r32. bb64r32. bb64r32. bb64r32. bb64r32. bb64r32.
+Ch0 f+f+64r32.b8 f+>f+d<b f+b>d<b
+
+Ch1 (CG3)v14o3
+Ch1 g8g64r32.r a8a64r32.r b8b64r32.r
+Ch1 g8g64r32.r a8a64r32.r b8b64r32.r
+Ch1 g8g64r32.r a8a64r32.r b8b64r32.r
+Ch1 g8g64r32.r a8a64r32.r b8b64r32.r
+Ch2 (CG3)v13o3e8(H3)cr (CG3)v13o3f+8(H3)cr (CG3)v13o3g8(H3)cr
+Ch2 (CG3)v13o3e8(H3)cr (CG3)v13o3f+8(H3)cr (CG3)v13o3g8(H3)cr
+Ch2 (CG3)v13o3e8(H3)cr (CG3)v13o3f+8(H3)cr (CG3)v13o3g8(H3)cr
+Ch2 (CG3)v13o3e8(H3)cr (CG3)v13o3f+8(H3)cr (CG3)v13o3g8(H3)cr
+
+Ch1 b8b64r32.r >c+8c+64r32.r d+8d+64r32.r<
+Ch1 b8b64r32.r >c+8c+64r32.r d+8d+64r32.r<
+Ch1 b8b64r32.r >c+8c+64r32.r d+8d+64r32.r<
+Ch1 b8b64r32.r >c+8c+64r32.r d+8d+64r32.r<
+Ch2 (CG3)v13o3g+8(H3)cr (CG3)v13o3a+8(H3)cr (CG3)v13o3b8(H3)cr
+Ch2 (CG3)v13o3g+8(H3)cr (CG3)v13o3a+8(H3)cr (CG3)v13o3b8(H3)cr
+Ch2 (CG3)v13o3g+8(H3)cr (CG3)v13o3a+8(H3)cr (CG3)v13o3b8(H3)cr
+Ch2 (CG3)v13o3g+8(H3)cr (CG3)v13o3a+8(H3)cr (CG3)v13o3b8(H3)cr
+
+Ch1 b-8b-64r32.r >c8c64r32.r d8d64r32.r<
+Ch1 b-8b-64r32.r >c8c64r32.r d8d64r32.r<
+Ch1 b-8b-64r32.r >c8c64r32.r d8d64r32.r<
+Ch1 b-8b-64r32.r >c8c64r32.r d8d64r32.r
+Ch2 (CG3)v13o3g8(H3)cr (CG3)v13o3a8(H3)cr (CG3)v13o3b-8(H3)cr
+Ch2 (CG3)v13o3g8(H3)cr (CG3)v13o3a8(H3)cr (CG3)v13o3b-8(H3)cr
+Ch2 (CG3)v13o3g8(H3)cr (CG3)v13o3a8(H3)cr (CG3)v13o3b-8(H3)cr
+Ch2 (CG3)v13o3g8(H3)cr (CG3)v13o3a8(H3)cr (CG3)v13o3b-8(H3)cr
+
+Ch1 d8d64r32.r e8e64r32.r f+8f+64r32.r
+Ch1 d8d64r32.r e8e64r32.r f+8f+64r32.r
+Ch1 d8d64r32.r e8e64r32.r f+8f+64r32.r
+Ch1 d8d64r32.r e8e64r32.r f+8f+64r32.r
+Ch2 (CG3)v13o3b8(H3)cr (CG3)v13o4c+8(H3)cr (CG3)v13o4d8(H3)cr
+Ch2 (CG3)v13o3b8(H3)cr (CG3)v13o4c+8(H3)cr (CG3)v13o4d8(H3)cr
+Ch2 (CG3)v13o3b8(H3)cr (CG3)v13o4c+8(H3)cr (CG3)v13o4d8(H3)cr
+Ch2 (CG3)v13o3b8(H3)cr (CG3)v13o4c+8(H3)cr (CG3)v13o4d8(H3)cr
+
+Ch3 (Pad)o3v13
+Ch3 e2.^2.^2.^2. g+2.^2. >g+2.^2.
+Ch3 g2.^2.^2.^2. b2.^2. (Pad2)a2. g2.
+
+Ch4 v12
+Ch4 (TL)er8(TM)e (TL)er(TM)er (TL)eere 
+Ch4 (TH)b>e<br (TL)eer(TM)e (TH)>er8.
+Ch4 (TL)erf+r (TM)b>e<br (TL)er(TM)e(TH)>e
+Ch4 (TL)erer eeee (TH)b>e<b(TL)e
+Ch4 k++++
+Ch4 (TL)er8(TM)e (TL)er(TM)er (TL)eere 
+Ch4 (TH)b>e<br (TL)eer(TM)e (TH)>er8.
+Ch4 (TL)erf+r (TM)b>e<br (TL)er(TM)e(TH)>e
+Ch4 (TL)erer eeee (TH)b>e<b(TL)e
+Ch4 k-
+Ch4 (TL)er8(TM)e (TL)er(TM)er (TL)eere 
+Ch4 (TH)b>e<br (TL)eer(TM)e (TH)>er8.
+Ch4 (TL)erf+r (TM)b>e<br (TL)er(TM)e(TH)>e
+Ch4 (TL)erer eeee (TH)b>e<b(TL)e
+Ch4 k++++
+Ch4 (TL)er8(TM)e (TL)er(TM)er (TL)eere 
+Ch4 (TH)b>e<br (TL)eer(TM)e (TH)>er8.
+Ch4 (TL)er8er8ee gggg
+Ch4 eee <bbb ggg eee
+Ch4 k-------
+
+Ch5 (B)c4 c8.c c4  c4c4c8c8  c4c8.cc4  c4ccccc4
+Ch5 c4 c8.c c4  c4c4c8c8  c4c8.cc4  c4ccccc4
+Ch5 c4 c8.c c4  c4c4c8c8  c4c8.cc4  c4ccccc4
+Ch5 c4 c8.c c4  c4c4c8c8  c4c8.cc4  c8(S)c8 (B)cc(S)c8 c8.c
+
+#-----------------------------------------------------------------------------
+# Part 2 - A' (3/4 & change key per 4 bars: Em -> G#m → Gm → Bm)
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 ee64r32. ee64r32. ee64r32. ee64r32. ee64r32. ee64r32.
+Ch0 ee64r32. ee64r32. ee64r32. ee64r32. ee64r32. ee64r32.
+Ch0 ee64r32. ee64r32. ee64r32. ee64r32. ee64r32. ee64r32.
+Ch0 ee64r32. ee64r32. ee64r32. ee64r32. ee64r32. ee64r32.
+Ch0 g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32.
+Ch0 g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32.
+Ch0 g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32.
+Ch0 g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32. g+g+64r32.
+Ch0 gg64r32. gg64r32. gg64r32. gg64r32. gg64r32. gg64r32.
+Ch0 gg64r32. gg64r32. gg64r32. gg64r32. gg64r32. gg64r32.
+Ch0 gg64r32. gg64r32. gg64r32. gg64r32. gg64r32. gg64r32.
+Ch0 gg64r32. gg64r32. gg64r32. gg64r32. gg64r32. gg64r32.
+Ch0 bb64r32. bb64r32. bb64r32. bb64r32. bb64r32. bb64r32.
+Ch0 bb64r32. bb64r32. bb64r32. bb64r32. bb64r32. bb64r32.
+Ch0 aa64r32. aa64r32. aa64r32. aa64r32. aa64r32. aa64r32.
+Ch0 gg64r32. gg64r32. gg64r32. gg64r32. gg64r32. gg64r32.
+
+Ch1 (CG3)v14o3
+Ch1 g8g64r32.r a8a64r32.r b8b64r32.r
+Ch1 g8g64r32.r a8a64r32.r b8b64r32.r
+Ch1 g8g64r32.r a8a64r32.r b8b64r32.r
+Ch1 g8g64r32.r a8a64r32.r b8b64r32.r
+Ch2 (CG3)v13o3e8(S)c8 (CG3)v13o3f+8(S)c8 (CG3)v13o3g8(S)c8
+Ch2 (CG3)v13o3e8(S)c8 (CG3)v13o3f+8(S)c8 (CG3)v13o3g8(S)c8
+Ch2 (CG3)v13o3e8(S)c8 (CG3)v13o3f+8(S)c8 (CG3)v13o3g8(S)c8
+Ch2 (CG3)v13o3e8(S)c8 (CG3)v13o3f+8(S)c8 (CG3)v13o3g8(S)c8
+
+Ch1 b8b64r32.r >c+8c+64r32.r d+8d+64r32.r<
+Ch1 b8b64r32.r >c+8c+64r32.r d+8d+64r32.r<
+Ch1 b8b64r32.r >c+8c+64r32.r d+8d+64r32.r<
+Ch1 b8b64r32.r >c+8c+64r32.r d+8d+64r32.r<
+Ch2 (CG3)v13o3g+8(S)c8 (CG3)v13o3a+8(S)c8 (CG3)v13o3b8(S)c8
+Ch2 (CG3)v13o3g+8(S)c8 (CG3)v13o3a+8(S)c8 (CG3)v13o3b8(S)c8
+Ch2 (CG3)v13o3g+8(S)c8 (CG3)v13o3a+8(S)c8 (CG3)v13o3b8(S)c8
+Ch2 (CG3)v13o3g+8(S)c8 (CG3)v13o3a+8(S)c8 (CG3)v13o3b8(S)c8
+
+Ch1 b-8b-64r32.r >c8c64r32.r d8d64r32.r<
+Ch1 b-8b-64r32.r >c8c64r32.r d8d64r32.r<
+Ch1 b-8b-64r32.r >c8c64r32.r d8d64r32.r<
+Ch1 b-8b-64r32.r >c8c64r32.r d8d64r32.r
+Ch2 (CG3)v13o3g8(S)c8 (CG3)v13o3a8(S)c8 (CG3)v13o3b-8(S)c8
+Ch2 (CG3)v13o3g8(S)c8 (CG3)v13o3a8(S)c8 (CG3)v13o3b-8(S)c8
+Ch2 (CG3)v13o3g8(S)c8 (CG3)v13o3a8(S)c8 (CG3)v13o3b-8(S)c8
+Ch2 (CG3)v13o3g8(S)c8 (CG3)v13o3a8(S)c8 (CG3)v13o3b-8(S)c8
+
+Ch1 d8d64r32.r e8e64r32.r f+8f+64r32.r
+Ch1 d8d64r32.r e8e64r32.r f+8f+64r32.r
+Ch1 d8d64r32.r e8e64r32.r f+8f+64r32.r
+Ch1 o5v13d8e8 c+8f+8 b8>d8
+Ch2 (CG3)v13o3b8(S)c8 (CG3)v13o4c+8(S)c8 (CG3)v13o4d8(S)c8
+Ch2 (CG3)v13o3b8(S)c8 (CG3)v13o4c+8(S)c8 (CG3)v13o4d8(S)c8
+Ch2 (CG3)v13o3b8(S)c8 (CG3)v13o4c+8(S)c8 (CG3)v13o4d8(S)c8
+Ch2 (CG3)v13o3 d8e8 c+8f+8 b8>d8
+
+Ch3 (Pad2)o3v13
+Ch3 e2.^2.^2.^2. g+2.^2. >g+2.^2.
+Ch3 g2.^2.^2.^2. b2.^2. a2. g2.
+
+Ch4 v12
+Ch4 (TL)er8(TM)e (TL)er(TM)er (TL)eere 
+Ch4 (TH)b>e<br (TL)eer(TM)e (TH)>er8.
+Ch4 (TL)erf+r (TM)b>e<br (TL)er(TM)e(TH)>e
+Ch4 (TL)erer eeee (TH)b>e<b(TL)e
+Ch4 k++++
+Ch4 (TL)er8(TM)e (TL)er(TM)er (TL)eere 
+Ch4 (TH)b>e<br (TL)eer(TM)e (TH)>er8.
+Ch4 (TL)erf+r (TM)b>e<br (TL)er(TM)e(TH)>e
+Ch4 (TL)erer eeee (TH)b>e<b(TL)e
+Ch4 k-
+Ch4 (TL)er8(TM)e (TL)er(TM)er (TL)eere 
+Ch4 (TH)b>e<br (TL)eer(TM)e (TH)>er8.
+Ch4 (TL)erf+r (TM)b>e<br (TL)er(TM)e(TH)>e
+Ch4 (TL)erer eeee (TH)b>e<b(TL)e
+Ch4 k++++
+Ch4 (TL)er8(TM)e (TL)er(TM)er (TL)eere 
+Ch4 (TH)b>e<br (TL)eer(TM)e (TH)>er8.
+Ch4 (TL)er8er8ee gggg
+Ch4 eee <bbb ggg eee
+Ch4 k-------
+
+Ch5 (B)c4 c8.c c4  c4c4c8c8  c4c8.cc4  c4ccccc4
+Ch5 c4 c8.c c4  c4c4c8c8  c4c8.cc4  c4ccccc4
+Ch5 c4 c8.c c4  c4c4c8c8  c4c8.cc4  c4ccccc4
+Ch5 c4 c8.c c4  c4c4c8c8  c4c8.cc4  (S)ccc8 (H)c8(S)cc c8c8
+
+Ch0 r1
