@@ -216,4 +216,42 @@ Ch5 c4 c8.c c4  c4c4c8c8  c4c8.cc4  c4ccccc4
 Ch5 c4 c8.c c4  c4c4c8c8  c4c8.cc4  c4ccccc4
 Ch5 c4 c8.c c4  c4c4c8c8  c4c8.cc4  (S)ccc8 (H)c8(S)cc c8c8
 
+#-----------------------------------------------------------------------------
+# Part 3 - B (repeat 3/4 x 2bars & 4/4 x 2bars in Em)
+#-----------------------------------------------------------------------------
+Ch0 eee8 ee64r32.>e<e ebeg  eee8 ee64r32.be ebge
+Ch0 g4.gg aa64r32.r8e4  e4.ee ee>e<e bege
+Ch0 eee8 ee64r32.>e<e ebeg  eee8 ee64r32.be ebge
+Ch0 g4.gg aa64r32.r8e4  e4.ee ee>e<e bege
+
+Ch1 (Brass)o5v14
+Ch1 e8f+8g8a8 e8r8  e8f+8g8a8 b8r8
+Ch1 a8b8g8.r f+8e8d8.r  e2.r4
+Ch1 e8f+8g8a8 e8r8  e8f+8g8a8 b8r8
+Ch1 a8b8g8.r f+8e8d8.r  e2r4 v14d4
+
+Ch2 (Sq)o4v11p-0
+Ch2 \s600e8f+8g8a8 e8r8  e8f+8g8a8 b8r8
+Ch2 a8b8g8.r f+8e8d8.r  \s11025e2.r4
+Ch2 \s600e8f+8g8a8 e8r8  e8f+8g8a8 b8r8
+Ch2 a8b8\s5000g4 \s600f+8e8\s8000d4  \s12345e2r4 d4
+
+Ch3 r8(CG3)v13o3 g8r8a8 r8b8  r8g8r8a8 r8b8
+Ch4 r8(CG3)v13o3 e8r8f+8r8g8  r8e8r8f+8r8g8
+Ch3 >(Brass)c4 r8d8 r8(CG3)d8 g8f+8  g8r8 f+8r8 e8r8 d8r8<
+Ch4  (Brass)g4 r8a8 r8(CG3)a8>e8d8<  b8r8 a8r8  g8r8 f+8r8
+Ch3 r8g8 r8a8 r8b8  r8g8 r8a8 r8b8
+Ch4 r8e8 r8f+8r8g8  r8e8 r8f+8r8g8
+Ch3 >(Brass)c4 r8d8 r8(CG3)d8 g8f+8  g8r8 f+8r8 e8r8 gf+d<b
+Ch4  (Brass)g4 r8a8 r8(CG3)a8>e8d8<  b8r8 a8r8  g8r8 r4
+
+Ch5 (B)c(H3)ccc (S)c8(H3)c32c32c32c32 (B)c8(H)c8
+Ch5 (B)c(H3)ccc (S)c8(H3)c32c32c32c32 (B)c8(H)c8
+Ch5 (HH)c4 (B)c8(H3)cc (HH)c4 (B)c8(S)c8
+Ch5 (H)c8(H3)cc (S)c8(H)c8 (B)c(H3)c(H)c8 (S)cccc
+Ch5 (B)c(H3)ccc (S)c8(H3)c32c32c32c32 (B)c8(H)c8
+Ch5 (B)c(H3)ccc (S)c8(H3)c32c32c32c32 (B)c8(H)c8
+Ch5 (S)c4 (B)c8(H3)c(S2)c32c32 (S)c4 (B)c8(S)c8
+Ch5 (H)c8(H3)cc (S)c8(H)c8 (S)c32c32c32c32c32c32c32c32 c4
+
 Ch0 r1
