@@ -104,6 +104,7 @@ MML の仕様は[こんな感じ](https://github.com/suzukiplan/vgs-mml-compiler
 
 - 楽曲（東方 Project）著作権: 楽曲の著作権は上海アリス幻樂団に帰属します
 - データ著作権: 楽曲データの著作権は Yoji Suzuki に帰属する東方 Project 二次創作物です
+  - 本楽曲の東方Projectの二次創作物への利用は [東方Projectの二次創作ガイドライン](https://touhou-project.news/guideline/) で認められている範囲でご自由にお使い頂けます（事前事後の連絡は基本不要ですがご連絡いただければ喜びます）
 - [vgs-bgm-decoder](https://github.com/suzukiplan/vgs-bgm-decoder): このプログラムの著作権は Yoji Suzuki に帰属します（2 箇条 BSD ライセンス）
 - [vgs-mml-compiler](https://github.com/suzukiplan/vgs-mml-compiler): このプログラムの著作権は Yoji Suzuki に帰属します（2 箇条 BSD ライセンス）
 - tohovgs-cli: 本プログラムの著作権は Yoji Suzuki に帰属します（MIT ライセンス）
