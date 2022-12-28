@@ -1,5 +1,5 @@
 {
-    "version": "2022.12.22",
+    "version": "2022.12.28",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1406,6 +1406,14 @@
                     "loop": 1,
                     "name": "夢殿大祀廟",
                     "english": "Grand Enshrined Mausoleum at Yumedono"
+                },
+                {
+                    "appleId": "1581358528",
+                    "mml": "TH13-11",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "大神神話伝",
+                    "english": "Story of Mythomiwa"
                 }
             ]
         }
