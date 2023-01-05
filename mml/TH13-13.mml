@@ -1,4 +1,4 @@
-# 聖徳伝説　～ True Administrater
+# 聖徳伝説　～ True Administrator
 $Brass \s66 \e9999 @1 %75
 $Brass2 \s893 \e6000 @1 %75
 $Brass3 \s300 \e22050 @1 %80
@@ -111,7 +111,7 @@ Ch0 b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32.
 Ch0 b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32.
 Ch0 b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. > c64r32.c64r32. cc64r32. cc64r32. cc64r32.
 
-Ch1 (GT)v13o3
+Ch1 (GT)v12o3
 Ch1 d4 drd64r32.r d64r32.d64r32.d64r32.r d64r32.rd64r32.d64r32.
 Ch1 d64r32.rd64r32.r d64r32.rd64r32.d64r32. d64r32.d64r32.d4 dd64r32.
 Ch1 d4 drd64r32.r d64r32.d64r32.d64r32.r d64r32.rd64r32.d64r32.
@@ -121,7 +121,7 @@ Ch1 b-64r32.rb-64r32.r b-64r32.rb-64r32.b-64r32. b-64r32.b-64r32.b-4 b-b-64r32.
 Ch1 b-4 b-rb-64r32.r b-64r32.b-64r32.b-64r32.r b-64r32.rb-64r32.b-64r32.
 Ch1 b-64r32.rb-64r32.r b-64r32.rb-64r32.b-64r32. > c64r32.c64r32.c4 cc64r32.
 
-Ch2 (GT)v10o3
+Ch2 (GT)v12o3
 Ch2 a4 ara64r32.r a64r32.a64r32.a64r32.r a64r32.ra64r32.a64r32.
 Ch2 a64r32.ra64r32.r a64r32.ra64r32.a64r32. a64r32.a64r32.a4 aa64r32.
 Ch2 a4 ara64r32.r a64r32.a64r32.a64r32.r a64r32.ra64r32.a64r32.
