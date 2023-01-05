@@ -74,7 +74,7 @@ Ch4 v+ d4.r8r2
 
 Ch2 (GT)v13o3
 Ch2 d1
-Ch2 <a4 a64r32.ra64r32.r a2>
+Ch2 <a4 a64r32.a64r32.a64r32.a64r32. a2>
 Ch2 c1
 Ch2 <b-4b-rb-64r32.b-64r32.> c+4c+rc+64r32.c+64r32.
 
@@ -97,6 +97,123 @@ Ch5 d8a8g8a8 >c8<a8g8a8
 Ch5 c8a8g8a8 >c8<a8g8a
 Ch5 (HH)c2 (S)c4 c8cc
 
+#-----------------------------------------------------------------------------
+# Part 2 - Introduction 2 (Loop point)
+#-----------------------------------------------------------------------------
+Ch0 t164
+Ch0 (Bass)o2v13
+Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
+Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
+Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
+Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
+Ch0 < b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32.
+Ch0 b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32.
+Ch0 b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32.
+Ch0 b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. > c64r32.c64r32. cc64r32. cc64r32. cc64r32.
+
+Ch1 (GT)v13o3
+Ch1 d4 drd64r32.r d64r32.d64r32.d64r32.r d64r32.rd64r32.d64r32.
+Ch1 d64r32.rd64r32.r d64r32.rd64r32.d64r32. d64r32.d64r32.d4 dd64r32.
+Ch1 d4 drd64r32.r d64r32.d64r32.d64r32.r d64r32.rd64r32.d64r32.
+Ch1 d64r32.rd64r32.r d64r32.rd64r32.d64r32. d64r32.d64r32.d4 dd64r32.
+Ch1 < b-4 b-rb-64r32.r b-64r32.b-64r32.b-64r32.r b-64r32.rb-64r32.b-64r32.
+Ch1 b-64r32.rb-64r32.r b-64r32.rb-64r32.b-64r32. b-64r32.b-64r32.b-4 b-b-64r32.
+Ch1 b-4 b-rb-64r32.r b-64r32.b-64r32.b-64r32.r b-64r32.rb-64r32.b-64r32.
+Ch1 b-64r32.rb-64r32.r b-64r32.rb-64r32.b-64r32. > c64r32.c64r32.c4 cc64r32.
+
+Ch2 (GT)v10o3
+Ch2 a4 ara64r32.r a64r32.a64r32.a64r32.r a64r32.ra64r32.a64r32.
+Ch2 a64r32.ra64r32.r a64r32.ra64r32.a64r32. a64r32.a64r32.a4 aa64r32.
+Ch2 a4 ara64r32.r a64r32.a64r32.a64r32.r a64r32.ra64r32.a64r32.
+Ch2 a64r32.ra64r32.r a64r32.ra64r32.a64r32. a64r32.a64r32.a4aa64r32.
+Ch2 f4 frf64r32.r f64r32.f64r32.f64r32.r f64r32.rf64r32.f64r32.
+Ch2 f64r32.rf64r32.r f64r32.rf64r32.f64r32. f64r32.f64r32.f4 ff64r32.
+Ch2 f4 frf64r32.r f64r32.f64r32.f64r32.r f64r32.rf64r32.f64r32.
+Ch2 f64r32.rf64r32.r f64r32.rf64r32.f64r32. g64r32.g64r32.g4 gg64r32.
+
+Ch3 (CG3)v14o4
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+
+Ch4 (CG5)v11o3
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+
+Ch5 (HH)c4 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (H)c4 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c(H3)c(H)c8
+Ch5 (HH)c4 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (H)c4 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c(H3)c(H)c8
+
+Ch0 t163
+Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
+Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
+Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
+Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
+Ch1 d4 drd64r32.r d64r32.d64r32.d64r32.r d64r32.rd64r32.d64r32.
+Ch1 d64r32.rd64r32.r d64r32.rd64r32.d64r32. d64r32.d64r32.d4 dd64r32.
+Ch1 d4 drd64r32.r d64r32.d64r32.d64r32.r d64r32.rd64r32.d64r32.
+Ch1 d64r32.rd64r32.r d64r32.rd64r32.d64r32. d64r32.d64r32.d4 dd64r32.
+Ch2 a4 ara64r32.r a64r32.a64r32.a64r32.r a64r32.ra64r32.a64r32.
+Ch2 a64r32.ra64r32.r a64r32.ra64r32.a64r32. a64r32.a64r32.a4 aa64r32.
+Ch2 a4 ara64r32.r a64r32.a64r32.a64r32.r a64r32.ra64r32.a64r32.
+Ch2 a64r32.ra64r32.r a64r32.ra64r32.a64r32. a64r32.a64r32.a4aa64r32.
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch5 (HH)c4 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (H)c4 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c(H3)c(H)c8
+
+Ch0 t162
+Ch0 < b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32.
+Ch0 b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32.
+Ch1 < b-4 b-rb-64r32.r b-64r32.b-64r32.b-64r32.r b-64r32.rb-64r32.b-64r32.
+Ch1 b-64r32.rb-64r32.r b-64r32.rb-64r32.b-64r32. b-64r32.b-64r32.b-4 b-b-64r32.
+Ch2 f4 frf64r32.r f64r32.f64r32.f64r32.r f64r32.rf64r32.f64r32.
+Ch2 f64r32.rf64r32.r f64r32.rf64r32.f64r32. f64r32.f64r32.f4 ff64r32.
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch5 (HH)c4 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H)c(B)c c(H3)c(H)c8 (S)c8(H)c8
+
+Ch0 t161
+Ch0 b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. b-b-64r32. r8 b-b-64r32.
+Ch1 b-4 b-rb-64r32.r b-64r32.b-64r32.b-64r32.r b-64r32.rb-64r32.b-64r32.
+Ch2 f4 frf64r32.r f64r32.f64r32.f64r32.r f64r32.rf64r32.f64r32.
+Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
+Ch4 dfa>d fd<af dfa>d fd<af
+Ch5 (B)c(S)ccc cccc c32c32c32c32c32c32c32c32 c8cc
+
+Ch0 b-b-64r32.b-64r32. b-b-64r32.b-64r32. b-b-64r32. r2
+Ch1 (CG5)v13o5 gr8gr8ar r8(Brass)v14o4 f+8a8e8
+Ch2 (CG5)v13o5 er8er8fr r2
+Ch3 (CG5)v13o4 gr8gr8ar r2
+Ch4 (CG5)v13o4 er8er8fr r2
+Ch5 (S)c8(S2)c32c32 (S)c8. c4(H3)cc cc(H)c8
 
 Ch0 r1
 
