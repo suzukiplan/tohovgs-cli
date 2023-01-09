@@ -1,5 +1,5 @@
 {
-    "version": "2022.12.28",
+    "version": "2023.01.09",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1414,6 +1414,14 @@
                     "loop": 1,
                     "name": "大神神話伝",
                     "english": "Story of Mythomiwa"
+                },
+                {
+                    "appleId": "1581358530",
+                    "mml": "TH13-13",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "聖徳伝説　～ True Administrator",
+                    "english": "Shotoku Legend　〜 True Administrator"
                 }
             ]
         }
