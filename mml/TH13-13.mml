@@ -443,7 +443,7 @@ Ch0 (Bass)o2v13
 Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
 Ch1 (GT)v12o3\s4444
 Ch1 d4 drd64r32.r d64r32.d64r32.d64r32.r d64r32.rd64r32.d64r32.
-Ch2 (GT)v12o3
+Ch2 (GT)v12o2
 Ch2 a4 ara64r32.r a64r32.a64r32.a64r32.r a64r32.ra64r32.a64r32.
 Ch3 (CG3)v14o4
 Ch3 d8 av-------dv+++++++ gv-------av+++++++ av-------gv+++++++ >cv-------<a>v+++++++< av------->c<v+++++++ gv-------av+++++++ a8
