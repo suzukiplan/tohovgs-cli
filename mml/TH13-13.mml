@@ -99,6 +99,7 @@ Ch5 (HH)c2 (S)c4 c8cc
 #-----------------------------------------------------------------------------
 # Part 2 - Introduction 2 (Loop point)
 #-----------------------------------------------------------------------------
+Ch1 |
 Ch0 t164
 Ch0 (Bass)o2v13
 Ch0 dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
@@ -899,5 +900,44 @@ Ch5 (H3)cr(H)c8 (S)c8(H)c8 (B)c(H3)c(H)c8 (S)c8(H3)cc
 Ch5 (B)c8(S)c8 (B)cc(S)c8 cccc c8cc
 Ch5 (S)c8.c8.c8 c4 c8c8
 
-Ch0 r1
+#-----------------------------------------------------------------------------
+# Part 9 - Coda (Pre-Introduction 2)
+#-----------------------------------------------------------------------------
+Ch0 o2 f1^4 r4 f64r32.rf4fr
+Ch0 f1^4 r4 f64r32.rf4fr
+Ch0 ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32.
+Ch0 ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32.
+Ch0 ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32.
+Ch0 ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32. ff64r32.
 
+Ch1 (GT)v12o3\s4444
+Ch2 (GT)v12o2
+Ch1 c64r32.c64r32.c8 c64r32.rc8 c64r32.c64r32.c8 c64r32.rc8  c64r32.c64r32.c8 c64r32.rc8 c64r32.rc4c64r32.c64r32.
+Ch2 f64r32.f64r32.f8 f64r32.rf8 f64r32.f64r32.f8 f64r32.rf8  f64r32.f64r32.f8 f64r32.rf8 f64r32.rf4f64r32.f64r32.
+Ch1 c64r32.c64r32.c8 c64r32.rc8 c64r32.c64r32.c8 c64r32.rc8  c64r32.c64r32.c8 c64r32.rc8 c64r32.rc4c64r32.c64r32.
+Ch2 f64r32.f64r32.f8 f64r32.rf8 f64r32.f64r32.f8 f64r32.rf8  f64r32.f64r32.f8 f64r32.rf8 f64r32.rf4f64r32.f64r32.
+#Ch1 c64r32.c64r32.c8 c64r32.rc8 c64r32.c64r32.c8 c64r32.rc8  c64r32.c64r32.c8 c64r32.rc8 c64r32.rc4c64r32.c64r32.
+Ch2 f64r32.f64r32.f8 f64r32.rf8 f64r32.f64r32.f8 f64r32.rf8  f64r32.f64r32.f8 f64r32.rf8 f64r32.rf4f64r32.f64r32.
+#Ch1 c64r32.c64r32.c8 c64r32.rc8 c64r32.c64r32.c8 c64r32.rc8  c64r32.c64r32.c8 c64r32.rc8 c64r32.rc4c64r32.c64r32.
+Ch2 f64r32.f64r32.f8 f64r32.rf8 f64r32.f64r32.f8 f64r32.rf8  f64r32.f64r32.f8 f64r32.rf8 f64r32.rf4f64r32.f64r32.
+
+Ch1 (CG3)v13o4
+Ch1 frff frff64r32. frff frff  ff64r32.ff ff64r32.ff fff8 frff
+Ch1 frff frff64r32. frff frff  ff64r32.ff ff64r32.ff cfga- gfcf
+
+Ch3 (CG5)v13o4
+Ch3 c4r4 c4r4  c4r4 c4r8cr
+Ch3 c4r4 c4r4  c4r4 c4r8cr
+Ch3 c4r4 c4r4  c4r4 c4r8cr
+Ch3 c4r4 c4r4  c4r4 c4
+
+Ch4 (CG5)v10o4
+Ch4 rfga- >c<a-gf rfga- >c<a-gf  rfga- >c<a-gf rfga- >c<a-gf
+Ch4 rfga- >c<a-gf rfga- >c<a-gf  rfga- >c<a-gf rfga- >c<a-gf
+Ch4 rfga- >c<a-gf rfga- >c<a-gf  rfga- >c<a-gf rfga- >c<a-gf
+Ch4 rfga- >c<a-gf rfga- >c<a-gf  rfga- >c<a-gf rfga- gfcf
+
+Ch5 (HH)c2r2 r2(B)c8(H)c4.
+Ch5 (HH)c2r2 r2(B)c8(H)c4.
+Ch5 (HH)c2(S)c4.(H3)cr  (B)cr(H3)cr (B)cr(H3)cr (H3)cc(H)c4.
+Ch5 (HH)c2(S)c4.(H3)cr  (B)c(H3)c(B)c(H3)c (H3)cc(H)c8 (S)c8c32c32c32c32 c32c32c32c32c32c32c32c32
