@@ -94,12 +94,6 @@ git pull
 
 MML の仕様は[こんな感じ](https://github.com/suzukiplan/vgs-mml-compiler/blob/master/MML-ja.md)です。
 
-## Omake
-
-- [playlist-wtc1.csv](playlist-wtc1.csv): 平均律クラヴィーア曲集 第 1 巻（J.S.Bach）**未完成**
-- [playlist-goldberg.csv](playlist-goldberg.csv): ゴールベルク変奏曲（J.S.Bach）**未完成**
-- [playlist-suzuki.csv](playlist-suzuki.csv): 私の自作曲
-
 ## License
 
 - 楽曲（東方 Project）著作権: 楽曲の著作権は上海アリス幻樂団に帰属します
