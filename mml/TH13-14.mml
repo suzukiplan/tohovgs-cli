@@ -1,0 +1,134 @@
+# 妖怪裏参道
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s893 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20 p-0
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG5a \s30 \e8000 @2 %40
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s66 \e9999 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @0 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$BB \s10 \e1000 p-999 @3 %55 v14 o2
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+$GT %77\s90\e2500@3
+$TH %77\s30\e2500@3p-100 o5 v8
+$TM %77\s60\e2000@3p-200 o4 v11
+$TL %77\s90\e1500@3p-300 o3 v14
+
+#-----------------------------------------------------------------------------
+Ch0 t167 m8 r1024 l16
+Ch1         r1024 l16
+Ch2         r1024 l16
+Ch3         r1024 l16
+Ch4         r1024 l16
+Ch5         r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 - Introduction (Main Motif Presentation)
+# Bars: 4
+# Key: F# minor
+# Chord:
+# | F#m(I) | G#m(II) | F#m(I) | C#m(V) |
+#-----------------------------------------------------------------------------
+Ch0 (CG5)v7o4 f+2>c+2 <g+2a4b4 a2g+4f+4 e4c+4e2
+Ch1 (Sq)@0v13o4 f+2>c+2 <g+2a4b4 a2g+4f+4 e4c+4e2
+Ch2 r8(Sq)@0v9o4 f+2>c+2 <g+2a4b4 a2g+4f+4 e4c+4e4.
+Ch3 r4(S)c4 r4 (BB)b32<b32>>v-g+32<g+32 v--g+32<g+32>v-e32<e32
+Ch3 r4(S)c4 r2
+Ch3 r4(S)c4 r4 (BB)b32<b32>>v-g+32<g+32 v--g+32<g+32>v-e32<e32
+Ch3 r4(S)c4 r4 (S2)c4
+Ch4 (H3)cccc c(H)c(H3)cc cccc (H)c8(H3)cc
+Ch4 cccc cccc cccc cccc
+Ch4 (H3)cccc c(H)c(H3)cc (H)c8(H3)cc cccc
+Ch4 cccc (H)c4 (H3)cccc cc(H)c8
+Ch5 (B)c4c4c4c4 c4c4c4c8c8 ccccc4c4c4 ccccc4c8c32c32c32c32 c32c32c32c32c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Part 2 - A1
+# Bars: 8
+# Key: D minor (-4/+8)
+# Chord:
+# | Dm(I), F(iii) | Am(V), Am(V), B♭(vi), C(vii) | x4
+# | Dm(I), F(iii) | Dm(I) |
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+
+Ch1 (Sq)v13o4
+Ch1 d2a2 e2f4g4 f2e4d4 c2<a2>
+Ch1 d2a2 e2f4g4 f2e4d4 c4<a4>c2
+
+Ch2 r8(Sq)v9o4
+Ch2 d2a2 e2f4g4 f2e4d4 c2<a2>
+Ch2 d2a2 e2f4g4 f2e4d4 c4<a4>c4.
+
+Ch3 (H3)cccc cc(H)c8 (H3)cccc (H)c8(H3)cc
+Ch3 (H3)cccc cc(H)c8 (H3)cccc c32c32c32c32c32c32c32c32
+Ch3 (H3)cccc cc(H)c8 (H3)cccc (H)c8(H3)cc
+Ch3 (H3)cccc c32c32c32c32c32c32c32c32 cccc (H3)c32c32(H)c(H3)c32c32(H)c
+Ch3 (H3)cccc cc(H)c8 (H3)cccc (H)c8(H3)cc
+Ch3 (H3)cccc cc(H)c8 (H3)cccc c32c32c32c32c32c32c32c32
+Ch3 (H3)cccc cc(H)c8 (H3)cccc (H)c8(H3)cc
+Ch3 (H3)cccc c32c32c32c32c32c32c32c32 cccc (H3)c32c32(H)c(H3)c32c32(H)c
+Ch4 r4(S)c4r4c4  r4c4r4c4  r4c4r4c4  r4c4r4c4
+Ch4 r4(S)c4r4c4  r4c4r4c4  r4c4r4c4  r4c4r4c4 p-0
+Ch5 (B)c4c4c8c8c4  c4c4c8c8c8c8  c4c4c8c8c4  c4c4c8cc c32c32c32c32c32c32c32c32
+Ch5 (B)c4c4c8c8c4  c4c4c8c8c8c8  c4c4c8c8c4  c4c4c8cc c32c32c32c32c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Part 3 - A2
+# Bars: 8
+# Key: D minor
+# Chord:
+# | Dm(I), F(iii) | Am(V), Am(V), B♭(vi), C(vii) | x3
+# | Dm(I), F(iii) | Dm(I) |
+#-----------------------------------------------------------------------------
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch1 (CG5)v10o4d2f4c8d8^2 <g8f8e8d8>  d2f4c8d4 v13d8e8f8g8f8e8d8
+Ch2 (Sq)v14    o5 a8.ra8>c8< r8g8 r8a8  r8(CG5)d8e8f8g8f8e8d8
+Ch3 (CG5)v12p-0o5 f8.rf8 g8  r8e8 r8f8 <r8     d8e8f8g8f8e8d8
+Ch4 (CG5)v12   o5 d8.rd8 e8  r8c8 r8d8<<r8     d8e8f8g8f8e8d8
+Ch2 (Sq) o5 a8.ra8>c8< r8g8 r8a8  r8    d8 e8f8  c4e4
+Ch3      o5 f8.rf8 g8  r8e8 r8f8 <r8(Sq)a8>c8d8 <g4>c4
+Ch4 (CG5)o5 d8.rd8 e8  r8c8 r8d8  r8<<  d8 e8f8  c4e4
+Ch5 (B)c(H3)ccc (S)c8(H)c8 (B)c(H3)c(S)c(H3)c (B)c8(S)c8
+Ch5 (B)c(H3)ccc (S)c8(H)c8 (B)c32c32c32c32c32c32c32c32 (S)c8(H3)cc
+Ch5 (B)c(H3)ccc (S)c8(H)c8 (B)c(H3)c(S)c(H3)c (B)c8(S)c8
+Ch5 (B)c(H3)ccc (S)c4 (B)c32c32c32c32c32c32c32c32 ccc8
+
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dd>dr cd<dr ff>fr efdf<  dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32. dd64r32.
+Ch1 (Brass)v14o6 d8.rd8e8 r8c8r8d8  r8<f8g8a8>c8<a8g8f8>
+Ch1 d8.rd8e8 r8c8r8d8  <r8\s5000%99d2<\s66%75a8>d8e8
+Ch2 (Brass)v14o5 a8.ra8>c8 r8<g8r8a8  r1
+Ch2 a8.ra8>c8 r8<g8r8a8  <r8\s5000%99a2\s66%75f8a8>c8
+Ch3 (CG5)v12o5 d8.rd8e8 r8c8r8d8  r8d8e8f8g8f8e8d8
+Ch4 (CG5)v12o4 a8.ra8>c8 r8<g8r8a8  r8d8e8f8g8f8e8d8
+Ch3 o5 d8.rd8e8 r8c8r8d8  r8d8e8f8v-g8f8e8d8
+Ch4 o4 a8.ra8>c8 r8<g8r8a8  r8d8e8f8v-g8f8e8d8
+Ch5 (B)ccc(H3)c (S)c8(H)c(B)c c(H3)c(S)c(H3)c (B)c8(S)c8
+Ch5 (B)ccc(H3)c (S)c8(B)cc (B)c8c8 (S)c8(B)c32c32c32c32
+Ch5 (B)ccc(H3)c (S)c8(H)c(B)c c(H3)c(S)c(H3)c (B)c8(S)c8
+Ch5 (S)c8c8(H3)cc(S)c8 c8cc c32c32c32c32c32c32c32c32
+
+Ch0 r1
