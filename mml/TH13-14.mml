@@ -73,7 +73,7 @@ Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
 Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
 Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
 
-Ch1 (Sq)v13o4
+Ch1 (CG5)v13o4
 Ch1 d2a2 e2f4g4 f2e4d4 c2<a2>
 Ch1 d2a2 e2f4g4 f2e4d4 c4<a4>c2
 
@@ -176,34 +176,34 @@ Ch2 c+4 r8c+r c+4 r8c+r   c+2g+2
 Ch1 a2^8r8g+4 f+1
 Ch2 f+2^8r8e4 c+1
 
-Ch3 (CG5)v13
-Ch4 r8(CG5)v12
+Ch3 (CG3)v13
+Ch4 r8(CG3)v13
 Ch3 o4f+da8 b8g+r32g+32 a8c+r g+8<br>
 Ch4 o4  f+8 r4 f+8r8 e8r8
-Ch3 c+8ar g+ra8 <g+8a8b8>c+8
-Ch4 r8f+r erf+8 r<b8>c+8re8
-Ch3 o4f+da8 b8g+r32g+32 a8c+r g+8r8>
-Ch4 o4r8f+8 f+<b>r8 f+<a>r8 e<g+ (Brass)o5c+32e32f+32g+32
-Ch3 <c+ag+a f+g+ef+ >c+4<aef+<b
+Ch3 (CG5)c+8ar g+ra8 <g+8a8b8>c+8
+Ch4 r8(CG5)f+r erf+8 r<b8>c+8re8
+Ch3 (CG3)o4f+da8 b8g+r32g+32 a8c+r g+8r8>
+Ch4 o4r8(CG3)f+8 f+<b>r8 f+<a>r8 e<g+ (Brass)o5c+32e32f+32g+32
+Ch3 <(CG5)c+ag+a f+g+ef+ >c+4<aef+<b
 Ch4 a2(CG5)<abf+g+ ec+<bg+
-Ch3 o4f+da8 b8g+r32g+32 a8c+r g+8<br>>
-Ch4 o4r8f+8 r4 f+8r8 e8r8
-Ch3 r8c+8<b8>c+8 <g+8a8>c+8e8
-Ch4 r8c+8<b8>c+8 <g+>e<a>f+ c+ae>c+
+Ch3 (CG3)o4f+da8 b8g+r32g+32 a8c+r g+8<br>>
+Ch4 (CG3)o4r8f+8 r4 f+8r8 e8r8
+Ch3 r8(CG5)c+8<b8>c+8 <g+8a8>c+8e8
+Ch4 r8(CG5)c+8<b8>c+8 <g+>e<a>f+ c+ae>c+
 Ch3 <f+2 r4 <b>c+e8  f+2.                 f+ef+8
 Ch4 <c+2 r4<<b>c+e8 >c+2(Sq)\s9000a4<(CG5)f+ef+8
-Ch3 o4f+da8 b8g+r32g+32 a8c+r g+8<br>
-Ch4 o4r8f+8 r4 f+8r8 e8r8
-Ch3 c+8ar g+ra8 <g+8a8b8>c+8
-Ch4 r8f+r erf+8 r<b8>c+8re8
-Ch3 o4f+da8 b8g+r32g+32 a8c+r g+8r8>
-Ch4 o4r8f+8 f+<b>r8 f+<a>r8 e<g+ (Brass)o5c+32e32f+32g+32
-Ch3 <c+ag+a f+g+ef+ >c+4<aef+<b
+Ch3 (CG3)o4f+da8 b8g+r32g+32 a8c+r g+8<br>
+Ch4 (CG3)o4r8f+8 r4 f+8r8 e8r8
+Ch3 (CG5)c+8ar g+ra8 <g+8a8b8>c+8
+Ch4 r8(CG5)f+r erf+8 r<b8>c+8re8
+Ch3 (CG3)o4f+da8 b8g+r32g+32 a8c+r g+8r8>
+Ch4 (CG3)o4r8f+8 f+<b>r8 f+<a>r8 e<g+ (Brass)o5c+32e32f+32g+32
+Ch3 <(CG5)c+ag+a f+g+ef+ >c+4<aef+<b
 Ch4 a2(CG5)<abf+g+ ec+<bg+
-Ch3 o4f+da8 b8g+r32g+32 a8c+r g+8<br>>
-Ch4 o4r8f+8 r4 f+8r8 e8r8
-Ch3 r8c+8<b8>c+8 <g+8a8>c+8e8
-Ch4 r8c+8<b8>c+8 <g+>e<a>f+ c+ae>c+
+Ch3 (CG3)o4f+da8 b8g+r32g+32 a8c+r g+8<br>>
+Ch4 (CG3)o4r8f+8 r4 f+8r8 e8r8
+Ch3 r8(CG5)c+8<b8>c+8 <g+8a8>c+8e8
+Ch4 r8(CG5)c+8<b8>c+8 <g+>e<a>f+ c+ae>c+
 Ch3 <f+2 r4 <b>c+e8 (Pad)f+1
 Ch4 <c+2 r4 <g+ab8> (Sq)c+1
 
