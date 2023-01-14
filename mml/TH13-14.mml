@@ -265,5 +265,48 @@ Ch5 (B)c8c8 (S)c4 (B)c8c8 (S)c8(B)c8
 Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
 Ch5 (B)c(H3)ccc (H)c4 (B)c8cc c32c32c32c32c32c32c32c32
 
+#-----------------------------------------------------------------------------
+# Part 6 - A1''
+# Bars: 8
+# Key: B minor (-3)
+# Chord:
+# | Bm(I), D(iii) | F#m(V), F#m(V), G(vi), A(vii) | x4
+#-----------------------------------------------------------------------------
+Ch0 k---
+Ch1 k---
+Ch2 k---
+Ch3 k---
+
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+
+Ch1 r4 (CG5)o4v13 d4.r8a4  e4.r8f4g4  f2e4d4  c4.r8<a4.r8>
+Ch1 d4.r8 a4.r8  e4.r8f4g4  f4.r8e4d4  c8.r<a8.r>c4.r8
+
+Ch2 r4 (CG5)o3v13 d4.r4.  e4.r8f4.r8  d4.r8r2  @1>f4.r8e4.r8
+Ch2 d4.r8 r2 @0<e4.r8 f4.r8  d4>@2d4c4<b-4 c8.rc8.rc4.r8
+
+Ch3 (CG3)v13o3
+Ch3 d<d>>d<d> cd<d<d> f<f>>f<f> df<f<f>  <a<a>>a<a> ga<a<a> b-<b->>b-<b-> c<c>>c<c><
+Ch3 d<d>>d<d> cd<d<d> f<f>>f<f> df<f<f>  <a<a>>a<a> ga<a<a> b-<b->>b-<b-> c<c>>c<c><
+Ch3 d<d>>d<d> cd<d<d> f<f>>f<f> df<f<f>  <a<a>>a<a> ga<a<a> b-<b->>b-<b-> c<c>>c<c><
+Ch3 d<d>>d<d> cd<d<d> f<f>>f<f> df<f<f>  <a<a>>a<a> ga<a<a> b-<b->>b-<b-> c<c>>c<c><
+
+Ch4 o2 b4r4 >d4r4< f+4.f+r f+4f+4
+Ch4 b4r4 >d4r4< f+4.f+r f+4f+4
+Ch4 b4r4 >d4r4< f+4.f+r f+4f+4
+Ch4 b4r4 >d4r4< f+4.f+r f+4f+4
+
+Ch5 (B)c(H3)ccc (S)c(H3)c(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H3)cc
+Ch5 (B)c(H3)c(B)c(H3)c (S)c(H3)c(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H3)c32c32c32c32
+Ch5 (B)c(H3)ccc (S)c(H3)c(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H3)cc
+Ch5 (B)c(H3)ccc (S)c(H3)c(H)c8 (B)c(H3)c(B)cc c32c32c32c32c32c32c32c32
+Ch5 (B)c(H3)ccc (S)c(H3)c(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H3)cc
+Ch5 (B)c(H3)c(B)c(H3)c (S)c(H3)c(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H3)c32c32c32c32
+Ch5 (B)c(H3)ccc (S)c(H3)c(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H3)cc
+Ch5 (B)c(H3)ccc (H)c4 (B)c8cc c32c32c32c32c32c32c32c32
+
 
 Ch0 r1
