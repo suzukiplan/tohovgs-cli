@@ -65,7 +65,6 @@ Ch5 (B)c4c4c4c4 c4c4c4c8c8 ccccc4c4c4 ccccc4c8c32c32c32c32 c32c32c32c32c32c32c32
 # Key: D minor (-4/+8)
 # Chord:
 # | Dm(I), F(iii) | Am(V), Am(V), B♭(vi), C(vii) | x4
-# | Dm(I), F(iii) | Dm(I) |
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o2
 Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
@@ -223,5 +222,48 @@ Ch5 (B)c(H2)c(S)c(H3)c (B)cc(S)c(H)c (B)c(H2)c(S)c(H3)c (H)c8(S)c(H3)c
 Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)cc(S)c(B)c32c32
 Ch5 (B)c(H2)c(S)c(H3)c (B)cc(S)c(H)c (B)c(H2)c(S)cc c32c32c32c32c32c32c32c32
 Ch5 (S)c4.(S2)c32c32c32c32 (S)c8cc <g32g32f32f32e32e32d32d32
+
+#-----------------------------------------------------------------------------
+# Part 5 - A1'
+# Bars: 8
+# Key: D minor (-4/+8)
+# Chord:
+# | Dm(I), F(iii) | Am(V), Am(V), B♭(vi), C(vii) | x4
+#-----------------------------------------------------------------------------
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+Ch0 dr>dr cd<dr fr>fr df<fr  <ar>ar ga<ar b-r>b-r cr>cr<
+
+Ch1 r4 (CG5)o4v13 d4.r8a4  e4.r8f4g4  f2e4d4  c4.r8<a4.r8>
+Ch1 d4.r8 a4.r8  e4.r8f4g4  f4.r8e4d4  c8.r<a8.r>c4.r8
+
+Ch2 r4 (CG5)o3v13 d4.r4.  e4.r8f4.r8  d4.r8r2  @1>f4.r8e4.r8
+Ch2 d4.r8 r2 @0<e4.r8 f4.r8  d4>@2d4c4<b-4 c8.rc8.rc4.r8
+
+Ch3 (CG3)v13o3
+Ch3 d<d>>d<d> cd<d<d> f<f>>f<f> df<f<f>  <a<a>>a<a> ga<a<a> b-<b->>b-<b-> c<c>>c<c><
+Ch3 d<d>>d<d> cd<d<d> f<f>>f<f> df<f<f>  <a<a>>a<a> ga<a<a> b-<b->>b-<b-> c<c>>c<c><
+Ch3 d<d>>d<d> cd<d<d> f<f>>f<f> df<f<f>  <a<a>>a<a> ga<a<a> b-<b->>b-<b-> c<c>>c<c><
+Ch3 d<d>>d<d> cd<d<d> f<f>>f<f> df<f<f>  <a<a>>a<a> ga<a<a> b-<b->>b-<b-> c<c>>c<c><
+
+Ch4 (H3)cccc cc(H)c8 (H3)cccc (H)c8(H3)cc
+Ch4 (H3)cccc cc(H)c8 (H3)cccc c32c32c32c32c32c32c32c32
+Ch4 (H3)cccc cc(H)c8 (H3)cccc (H)c8(H3)cc
+Ch4 (H3)cccc (H)c4 (H3)cccc c32c32c32c32(H)c8
+Ch4 (H3)cccc cc(H)c8 (H3)cccc (H)c8(H3)cc
+Ch4 (H3)cccc cc(H)c8 (H3)cccc c32c32c32c32c32c32c32c32
+Ch4 (H3)cccc cc(H)c8 (H3)cccc (H)c8(H3)cc
+Ch4 p-0(GT)v14o3 c4.c64r32.r p-1234c4.p-0r8
+
+Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)c8c8 (S)c4 (B)c8c8 (S)c8(B)c8
+Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)c4 (S)c4 (B)c8cc c32c32c32c32c32c32c32c32
+Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)c8c8 (S)c4 (B)c8c8 (S)c8(B)c8
+Ch5 (B)c4 (S)c4 (B)c8c8 (S)c4
+Ch5 (B)c(H3)ccc (H)c4 (B)c8cc c32c32c32c32c32c32c32c32
+
 
 Ch0 r1
