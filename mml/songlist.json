@@ -1,5 +1,5 @@
 {
-    "version": "2023.01.09",
+    "version": "2023.01.16",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1422,6 +1422,14 @@
                     "loop": 1,
                     "name": "聖徳伝説　～ True Administrator",
                     "english": "Shotoku Legend　〜 True Administrator"
+                },
+                {
+                    "appleId": "1581358531",
+                    "mml": "TH13-14",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "妖怪裏参道",
+                    "english": "Yokai Backstreet"
                 }
             ]
         }
