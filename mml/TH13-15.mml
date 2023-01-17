@@ -1,0 +1,81 @@
+# 佐渡の二ッ岩
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s893 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20 p-0
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG5a \s30 \e8000 @2 %40
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s66 \e9999 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @0 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$BB \s10 \e1000 p-999 @3 %55 v14 o2
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+$GT %77\s90\e2500@3
+$TH %77\s30\e2500@3p-100 o5 v8
+$TM %77\s60\e2000@3p-200 o4 v11
+$TL %77\s90\e1500@3p-300 o3 v14
+
+#-----------------------------------------------------------------------------
+Ch0 t161 m8 r1024 l16
+Ch1         r1024 l16
+Ch2         r1024 l16
+Ch3         r1024 l16
+Ch4         r1024 l16
+Ch5         r1024 l16
+
+#-----------------------------------------------------------------------------
+# Part 1 - A1
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 e-4e-4 a-4a-4  e-4e-4 a-4a-4  g-4g-4 >c-4c-4< g-4g-4 f4e4
+Ch0 e-4e-4 a-4a-4  e-4e-4 a-4a-4  g-4g-4 >c-4c-4< g-4g-4 r8>g-8f8e8
+
+Ch1 (CG3)v13o3
+Ch1 e-e-b-e- e-e-b-e- a-a->e-<a- a-a->e-<a-  e-e-b-e- e-e-b-e- a-a->e-<a- a-a->e-<a-
+Ch1 g-g->d-<g- g-g->d-<g- >c-c-g-c- c-c-g-c-<  g-g->d-<g- g-g->d-<g- ff>c<f eebe
+Ch1 e-e-b-e- e-e-b-e- a-a->e-<a- a-a->e-<a-  e-e-b-e- e-e-b-e- a-a->e-<a- a-a->e-<a-
+Ch1 g-g->d-<g- g-g->d-<g- >c-c-g-c- c-c-g-c-<  g-g->d-<g- g-g->d-<g- g-64r32.g-64r32.>g-g-ffee
+
+Ch2 (CG5)v13o3
+Ch2 e-8b-r e-8b-r a-8>e-r< a-8>e-r<  e-8b-r e-8b-r a-8>e-r< a-8>e-r<
+Ch2 g-8>d-r< g-8>d-r c-8g-r c-8g-r<  g-8>d-r< g-8>d-r< f8>cr< e8br
+Ch2 e-8b-r e-8b-r a-8>e-r< a-8>e-r<  e-8b-r e-8b-r a-8>e-r< a-8>e-r<
+Ch2 g-8>d-r< g-8>d-r c-8g-r c-8g-r<  g-8>d-r< g-8>d-r v13(CG3)
+
+Ch3 r8(CG5)v8o3
+Ch3 e-8b-r e-8b-r a-8>e-r< a-8>e-r<  e-8b-r e-8b-r a-8>e-r< a-8>e-r<
+Ch3 g-8>d-r< g-8>d-r c-8g-r c-8g-r<  g-8>d-r< g-8>d-r< f8>cr< e8br
+Ch3 e-8b-r e-8b-r a-8>e-r< a-8>e-r<  e-8b-r e-8b-r a-8>e-r< a-8>e-r<
+Ch3 g-8>d-r< g-8>d-r c-8g-r c-8g-r<  g-8>d-r< g-8>d-r v13(CG3)
+
+Ch4 (CG3)v13o3
+Ch4 e-g-b->e- g-e-<b-g- >e-c-<a-e- c-e-a->c-<  e-g-b->e- g-e-<b-g- >e-c-<a-e- c-e-a->c-<
+Ch4 g-b->d-<b- g-b->d-<b- >c-e-g-e- c-e-g-e-<  g-b->d-<b- g-b->d-<b- fa>c<a ea-ba-
+Ch4 e-g-b->e- g-e-<b-g- >e-c-<a-e- c-e-a->c-<  e-g-b->e- g-e-<b-g- >e-c-<a-e- c-e-a->c-<
+Ch4 g-b->d-<b- g-b->d-<b- >c-e-g-e- c-e-g-e-<  g-b->d-<b- g-b->d-<b-
+
+Ch2 o4r8 g->d-< f>c< eb
+Ch3 o4   d-g- cf <b>e
+Ch4 o3r8 g->d-< f>c< eb
+
+Ch5 (B)c4c4cc8.c4  cc8cc4 c8c8c4  c4c4cc8.c4  ccccc4c8c8c4
+Ch5 c4c4cc8.c4  ccccc4c8c8c4  c4c4cc8.c4
+Ch5 c32c32c32c32(S)c8 (B)cc(S)c4 ccccc8
+
+Ch0 r1
