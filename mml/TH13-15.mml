@@ -125,4 +125,101 @@ Ch5 (B)cc(S2)c(H3)c (B)c(H3)c(S2)c(H3)c (H)c8(S2)c(H3)c (B)c32c32c32c32c32c32c32
 Ch5 (B)cc(S2)c(H3)c (B)c(H3)c(S2)c(H3)c (H)c8(S2)c(H3)c (B)c(H3)c(S2)c8
 Ch5 (B)cc(S2)c(B)c c32c32c32c32(S2)c(B)c32c32 (H)c4 (S2)ccc8
 
+#-----------------------------------------------------------------------------
+# Part 3 - Variation 1.1
+#-----------------------------------------------------------------------------
+Ch0 e-e-b-e- e-e-b-e- e-e-b-e- e-e-b-e-
+Ch0 c-c-g-c- c-c-g-c- c-c-g-c- c-c-g-c-
+Ch0 d-d-a-d- d-d-a-d- d-d-a-d- d-d-a-d-
+Ch0 e-e-b-e- e-e-b-e- ff>c<f eebe
+Ch0 e-e-b-e- e-e-b-e- e-e-b-e- e-e-b-e-
+Ch0 c-c-g-c- c-c-g-c- c-c-g-c- c-c-g-c-
+Ch0 d-d-a-d- d-d-a-d- d-d-a-d- d-d-a-d-
+Ch0 e-e-b-e- e-e-b-e- ff>c<f ee<be
+
+Ch1 (Brass)v14o5
+Ch1 e-8b-a- b-ra-8 b-4>d-4<  a-2.g-8a-8  b-8e-8r8b-4.a-8fr  f8g-8f8d-8<b-4.r8>
+Ch1 e-8b-a- b-ra-8 b-4>d-4  e-4.<b-r b-4a-8b-8  a-8.g-8.fr d-8.f8.a-r  g-2r8<b-8>d-8e8
+
+Ch2 r8(Brass)v9o5
+Ch2 e-8b-a- b-ra-8 b-4>d-4<  a-2.g-8a-8  b-8e-8r8b-4.a-8fr  f8g-8f8d-8<b-4.r8>
+Ch2 e-8b-a- b-ra-8 b-4>d-4  e-4.<b-r b-4a-8b-8  a-8.g-8.fr d-8.f8.a-r  g-2r8<b-8>d-8e8
+
+Ch3 (CG3)v13o4
+Ch3 e-8b-a- b-4 a-8b-8e-8d-8
+Ch3 e-8b-a- b-8a-r a-8b-8d-4
+Ch3 b-8e-d- e-ra-8 b-8>d-8<e-rd-8
+Ch3 e-8g-a- b-4 a-8b-r a-re-8
+Ch3 e-8b-a- b-4 a-8b-8e-8d-8
+Ch3 e-8b-a- b-8a-r a-8b-8d-4
+Ch3 e-8b-a- b-ra-r a-8b-8e-8d-8
+Ch3 e-8g-a- b-ra-8 a-8b-8e-d-a-b-
+
+Ch4 r8(CG3)v8o4
+Ch4 e-8b-a- b-4 a-8b-8e-8d-8
+Ch4 e-8b-a- b-8a-r a-8b-8d-4
+Ch4 b-8e-d- e-ra-8 b-8>d-8<e-rd-8
+Ch4 e-8g-a- b-4 a-8b-r a-re-8
+Ch4 e-8b-a- b-4 a-8b-8e-8d-8
+Ch4 e-8b-a- b-8a-r a-8b-8d-4
+Ch4 e-8b-a- b-ra-r a-8b-8e-8d-8
+Ch4 e-8g-a- b-ra-8 a-8b-8e-d-
+
+Ch5 (HH)c4 (B)c(H3)ccc (B)c(HH)c8(H3)c32c32 (B)c(H3)c32c32(H)c8
+Ch5 (B)cccc c(H3)ccc (B)c(HH)c8(H3)c32c32 (B)c(H3)c32c32(H)c8
+Ch5 (B)c(H3)ccc (B)c(H3)ccc (B)c(HH)c8(H3)c32c32 (B)c(H3)c32c32c32c32c32c32
+Ch5 (B)cccc c(H3)ccc (B)c(H3)c(B)c(H3)c (B)c(H3)c32c32c32c32c32c32
+Ch5 (B)c(H3)ccc (B)c(H3)ccc (B)c(HH)c8(H3)c32c32 (B)c(H3)c32c32(H)c8
+Ch5 (B)cccc c(H3)ccc (B)c(H3)c(B)c(H3)c (B)c(H3)c32c32c32c32c32c32
+Ch5 (B)c(H3)ccc (B)c(H3)ccc (B)cc(H3)cc (B)c(H3)c32c32c32c32c32c32
+Ch5 (B)cccc c(H3)ccc (B)c32c32c32c32(S2)c(H)c (S2)cccc
+
+#-----------------------------------------------------------------------------
+# Part 4 - Variation 1.2
+#-----------------------------------------------------------------------------
+Ch0 e-e-b-e- e-e-b-e- e-e-b-e- e-e-b-e-
+Ch0 c-c-g-c- c-c-g-c- c-c-g-c- c-c-g-c-
+Ch0 d-d-a-d- d-d-a-d- d-d-a-d- d-d-a-d-
+Ch0 e-e-b-e- e-e-b-e- ff>c<f eebe
+Ch0 e-e-b-e- e-e-b-e- e-e-b-e- e-e-b-e-
+Ch0 c-c-g-c- c-c-g-c- c-c-g-c- c-c-g-c-
+Ch0 d-d-a-d- d-d-a-d- d-d-a-d- d-d-a-d-
+Ch0 e-e-b-e- e-e-b-e- ff>c<f eebe
+
+Ch1 e-8b-a- b-ra-8 b-4>d-4<  a-2.g-8a-8  b-8e-8r8b-4.a-8fr  f8g-8f8d-8<b-4.r8>
+Ch1 e-8b-a- b-ra-8 b-4>d-4  e-2 r8e-8f8g-8 f4r8 d-4r8 <b-8> e-1r8
+
+Ch2 e-8b-a- b-ra-8 b-4>d-4<  a-2.g-8a-8  b-8e-8r8b-4.a-8fr  f8g-8f8d-8<b-4.r8>
+Ch2 e-8b-a- b-ra-8 b-4>d-4  e-2 r8e-8f8g-8 f4r8 d-4r8 <b-8> e-1
+
+Ch3 e-8b-a- b-4 a-8b-8e-8d-8
+Ch3 e-8b-a- b-8a-r a-8b-8d-4
+Ch3 b-8e-d- e-ra-8 b-8>d-8<e-rd-8
+Ch3 e-8g-a- b-4 a-8b-r a-re-8
+Ch3 e-8b-a- b-4 a-8b-8e-8d-8
+Ch3 e-8b-a- b-8a-r a-8b-8d-4
+Ch3 e-8b-a- b-ra-r a-8b-8e-8d-8
+Ch3 e-8g-a- b-ra-8 a-8b-8e-d-a-b-
+
+Ch4 (Pad2)v12o4 e-2b-2
+Ch4 (Sq)@0 a-8>e-d- e-rg-8 a-b-g-a- c-d-e-f
+Ch4 e-4.a-g- e-rg-8 a-8d-r
+Ch4 e-8b-a- b-ra-8 e-8b-a- a-rb-8
+Ch4 e-8b-a- b-r>d-8 e-2
+Ch4 r8e-8f8g-8f8 (Brass)o6v13 c-8d-8e-8
+Ch4 d-4r8 <b-4r8 g-8 b-1r8
+
+Ch5 (B)cc(S)c(B)c c(H3)c(S)c(H)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H)c
+Ch5 (B)cc(S)c(B)c c(H3)c(S)c(H)c (B)c(H3)c(S)c(H3)c (B)c32c32c32c32(S)c(B)c32c32
+Ch5 (B)cc(S)c(B)c c(H3)c(S)c(H)c (H)c8(S)c(H3)c32c32 (B)c(H3)c(HH)c8
+Ch5 (B)cc(S)c(B)c c(H3)c(S)c(H)c (B)c(H3)c(S)c(H3)c (B)c32c32c32c32(S)c(B)c32c32
+Ch5 (B)cc(S)c(B)c c(H3)c(S)c(H)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H)c
+Ch5 (B)cc(S)c(B)c c(H3)c(S)c(H)c (B)c(H3)c(S)c(H3)c (B)c32c32c32c32(S)c(B)c32c32
+Ch5 (B)cc(S)c(B)c c(H3)c(S)c(H)c (H)c8(S)c(H3)c32c32 (B)c(H3)c(HH)c8
+Ch5 (B)cc(S)c(B)c c(H3)c(S)c(H)c (B)c(H3)c(S)c(H3)c (B)c32c32c32c32(S)c(B)c32c32
+
+#-----------------------------------------------------------------------------
+# Part 5 - Variation 2 (Part 2')
+#-----------------------------------------------------------------------------
+
 Ch0 r1
