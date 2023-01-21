@@ -1,5 +1,5 @@
 {
-    "version": "2023.01.16",
+    "version": "2023.01.21",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1430,6 +1430,14 @@
                     "loop": 1,
                     "name": "妖怪裏参道",
                     "english": "Yokai Backstreet"
+                },
+                {
+                    "appleId": "1581358532",
+                    "mml": "TH13-15",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "佐渡の二ッ岩",
+                    "english": "Futatsuiwa from Sado"
                 }
             ]
         }
