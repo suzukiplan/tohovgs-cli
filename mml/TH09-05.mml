@@ -65,7 +65,7 @@ Ch4 r2
 Ch5 r8(CG5)v11@0o4%45
 Ch5 a2.r4  a4.g4.g8a8  d1  a2.r8a32>c32<a32>c32<
 Ch5 aa1 a8.r8g4r8 g8^32a16. d1 r32a16.^4 (H2)v----cv+cv+cv+cv+cv+cv+cv+c
-Ch5 (H)c2
+Ch5 \s1000  \e12000 p-128 @3 %62 v10 o2 c2
 
 #-----------------------------------------------------------------------------
 # Part 2-1
@@ -82,12 +82,12 @@ Ch3 (CG3)v7o4 a1 a4>f4e4c8<a8^1  a4>f4e4c8d8^1<
 Ch3 a4>f4e4c8<a8^1 (CG5)v14<a4>e8.f8ef8 >d<afd
 
 Ch4 (CG3)@3o4
-Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
-Ch4 v6 av-av-av-av- av-r8.  r4 r4
+Ch4 v12 a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v-  a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- r4
+Ch4 v6 a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- a32<a32>v-r8.  r4 r4
 Ch4 v10 av-av-av-av- av-av-av-av-  av-av-r8 r4
+Ch4 v12 a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v-  a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- r4
 Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
-Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
-Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
+Ch4 v12 a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v-  a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- r4
 Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
 Ch4 v10 av-av-av-av- av-av-av-av-  av-av-r8 r4
 
