@@ -40,7 +40,7 @@ Ch4         r1024 l16
 Ch5         r1024 l16
 
 #-----------------------------------------------------------------------------
-# Part 1 - Introduction
+# Part 1
 #-----------------------------------------------------------------------------
 Ch0 (Bass)v13o4@0
 Ch0 d1^1 <b-1^2.>c8d8 d1 d4.r8e4r8.r32.a64 f1 %99a2v--p-1024a2p-0r2
@@ -66,6 +66,39 @@ Ch5 r8(CG5)v11@0o4%45
 Ch5 a2.r4  a4.g4.g8a8  d1  a2.r8a32>c32<a32>c32<
 Ch5 aa1 a8.r8g4r8 g8^32a16. d1 r32a16.^4 (H2)v----cv+cv+cv+cv+cv+cv+cv+c
 Ch5 (H)c2
+
+#-----------------------------------------------------------------------------
+# Part 2-1
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 c32c+32d8.^2. d1 d1 d4a4g4e8f4 d8e8<a8^2>
+Ch0 d1 d1 d4a4g8.g64r32.>d<afd
+
+Ch1 (CG5)v14o4 a1 a4>f4e4c8<a8^1  a4>f4e4c8d8^1<
+Ch2 (CG5)v14o3 a1 a4>f4e4c8 d8^1 <a4>f4g4e8f4 d8e8<a8^2
+Ch1 a4>f4e4c8<a8^1 a4>e8.f8ef8 (Brass)v14o5 f32f+32g32g+32a32a+32b32>c32
+Ch2 a4>f4e4c8 d8^1 f4>c8.d8cd8 (Brass)v14o5 c32c+32d32d+32e32 f32f+32g32
+Ch3 (CG3)v7o4 a1 a4>f4e4c8<a8^1  a4>f4e4c8d8^1<
+Ch3 a4>f4e4c8<a8^1 (CG5)v14<a4>e8.f8ef8 >d<afd
+
+Ch4 (CG3)@3o4
+Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
+Ch4 v6 av-av-av-av- av-r8.  r4 r4
+Ch4 v10 av-av-av-av- av-av-av-av-  av-av-r8 r4
+Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
+Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
+Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
+Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
+Ch4 v10 av-av-av-av- av-av-av-av-  av-av-r8 r4
+
+Ch5 (H3)cc(H)c8 (H3)cc(H)c8 (H3)cc(H)c8 (H3)cc(H)c8
+Ch5 (H3)cc(H)c8 (H3)cc(H)c8 (H3)cc(H)c8 (H3)cc(H)c8
+Ch5 (B)c8(H)c8 (H3)cc(H)c8 (H3)cc(H)c8 (H3)cc(H)c8
+Ch5 (H3)cc(H)c8 (H3)cc(H)c8 (H3)cc(H)c8 (H3)cc(H)c8
+Ch5 (B)c8(H)c8 (H3)cc(H)c8 (H3)cc(H)c8 (B)c8(H)c8
+Ch5 (H3)cc(H)c8 (B)c8(H)c8 (H3)cc(H)c8 (B)c8(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(B)c(H3)c (B)c(H3)c(B)c(H3)c (B)c8(S)c8 c32c32c32c32c32c32c32c32
 
 #Ch0 p-0(Sq)v10o4c1
 #Ch1 p-0(Sq)v10o4e1
