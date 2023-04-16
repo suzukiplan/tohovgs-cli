@@ -84,11 +84,11 @@ Ch3 a4>f4e4c8<a8^1 (CG5)v14<a4>e8.f8ef8 >d<afd
 Ch4 (CG3)@3o4
 Ch4 v12 a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v-  a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- r4
 Ch4 v6 a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- a32<a32>v-r8.  r4 r4
-Ch4 v10 av-av-av-av- av-av-av-av-  av-av-r8 r4
+Ch4 @1v9 av-av-av-av- av-av-av-av-  ar8. r4
 Ch4 v12 a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v-  a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- r4
-Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
+Ch4 @3v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
 Ch4 v12 a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v-  a32<a32>v-a32<a32>v-a32<a32>v-a32<a32>v- r4
-Ch4 v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
+Ch4 @1v12 av-av-av-av- av-av-av-av-  av-av-av-av- r4
 Ch4 v10 av-av-av-av- av-av-av-av-  av-av-r8 r4
 
 Ch5 (H3)cc(H)c8 (H3)cc(H)c8 (H3)cc(H)c8 (H3)cc(H)c8
@@ -99,6 +99,47 @@ Ch5 (B)c8(H)c8 (H3)cc(H)c8 (H3)cc(H)c8 (B)c8(H)c8
 Ch5 (H3)cc(H)c8 (B)c8(H)c8 (H3)cc(H)c8 (B)c8(H)c8
 Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
 Ch5 (B)c(H3)c(B)c(H3)c (B)c(H3)c(B)c(H3)c (B)c8(S)c8 c32c32c32c32c32c32c32c32
+
+#-----------------------------------------------------------------------------
+# Part 2-2
+#-----------------------------------------------------------------------------
+Ch0 d8.d  d64r32.d64r32.d8  d64r32.d64r32.d8  <aa64r32.>c8
+Ch0 d8.d  d64r32.d64r32.d8  d64r32.d64r32.d8  <b->c<a>c<
+Ch0 b-8.b-  b-64r32.b-64r32.b-8  b-8.b-  b-64r32.b-64r32.b-8
+Ch0 b-8.b-  b-64r32.b-64r32.b-8  b-8.b-  b-64r32.b-64r32.b-8>
+Ch0 d8.d  d64r32.d64r32.d8  dd64r32.d8  cc64r32.c8
+Ch0 d8.d  d64r32.d64r32.d8  dd64r32.d8  eacd<
+Ch0 b-8.b-  b-64r32.b-64r32.b-8  b-b-64r32.b-8  b-b-64r32.b-8
+Ch0 b-8b-64r32.b-64r32.  b-64r32.b-64r32.b->b-<  afge  fed<b-
+
+Ch1 c+32\e81920d32^8.^2.^1^1^1r1r1r1
+Ch2 g+32\e81920a32^8.^2.^1^1^1r1r1r1
+Ch1 (CG5)v14o4 a4>e8.f8efr a32a-32g32g-32 f32e32e-32d32
+Ch2 (CG3)v14o3 c4>c4g8.^32b-32>c4
+
+Ch3 (CG3)@0v13o4
+Ch3 d64r32.dga a64r32.dfd a64r32.ag>c d<def
+Ch3 d64r32.dga a64r32.dfd a64r32.ag>c d<def
+Ch3 d64r32.dfe b-<b->f<b-> d64r32.dfe b-<b->f<b->
+Ch3 d64r32.dfe b-<b->f<b-> d64r32.dfe b-<b->f<b->>
+Ch3 rcd<a >c<gb-f da>fe cd<af>
+Ch3 rcd<a >c<gb-f >defc ec<af<
+Ch3 fg>fg dfab- efcd <fgdc
+Ch3 >d<b->ef gefd <afge fed<b-
+
+Ch4 r1 (CG5)v14o4 av--av--av--a> v14fv--fv--fv--f v14ev--ev--ev--e v14cv--c<v14av-a v-av-av-av-a v-av-av-av-a v-av-av-av-a r4
+Ch4 v14av--av--av--a> v14fv--fv--fv--f v14ev--ev--ev--e v14cv--c v14dv-d v-dv-dv-dv-d v-dv-dv-dv-d v-dv-dv-dv-d r4<
+Ch4 v14av--av--av--a> v14fv--fv--fv--f v14ev--ev--ev--e v14cv--c<v14av-a v-av-av-av-a v-av-av-av-a v-av-av-av-a r4
+Ch4 o3 a4>e8.f8efr a32a-32g32g-32 f32e32e-32d32
+
+Ch5 (HH)c4 (B)cc(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)cc
+Ch5 (B)cc(S)c(H3)c (B)cc(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H2)c
+Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c (H)c8(S)cc
+Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)cc
+Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c (B)cc(S)c(H2)c
+Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)cc
 
 #Ch0 p-0(Sq)v10o4c1
 #Ch1 p-0(Sq)v10o4e1
