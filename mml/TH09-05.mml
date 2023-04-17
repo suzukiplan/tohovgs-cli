@@ -141,6 +141,28 @@ Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)cc
 Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c (B)cc(S)c(H2)c
 Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H3)c (B)cc(S)c(H3)c (B)c(H3)c(S)cc
 
+#-----------------------------------------------------------------------------
+# Part 2-2'
+#-----------------------------------------------------------------------------
+Ch0 o2 d1 d2d2 d4d64r32.r d4d64r32.r d4d64r32.r d4.d4d4
+
+Ch1 r2.o5(CG5)@0v9 defd
+Ch1 v+ <a>g>c<f dfef v+ <a>eaf ec<ga
+Ch1 v+  a>g>c<f efdf v+ ece<g> d<fe>c
+Ch1 v+  dfed cd<a>c
+Ch1 >@2v-d32c+32c32<b32 v-a+32a32g+32g32 v-f+32f32e32d+32 v-d32c+32c32c-32
+
+Ch2 r8
+Ch2 r2.o5(CG5)@0v5 defd
+Ch2 v+ <a>g>c<f dfef v+ <a>eaf ec<ga
+Ch2 v+  a>g>c<f efdf v+ ece<g> d<fe>c
+Ch2 v+  dfed cd<a>c
+Ch2 r8 @2v14o4a8>f8
+
+Ch3 (Brass)v14o4%95 c32c+32d8.^2.^1^1^1
+Ch4 (Brass)v14o3%95 f32f+32g8.^2.^1^1^1
+Ch5 (B)c2c2 c2c4c4 c4c4c4c4 c4c4 c(H3)ccc (B)c(H3)ccc
+
 #Ch0 p-0(Sq)v10o4c1
 #Ch1 p-0(Sq)v10o4e1
 #Ch2 p-0(Sq)v10o4g1
