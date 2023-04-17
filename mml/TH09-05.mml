@@ -117,7 +117,7 @@ Ch2 g+32\e81920a32^8.^2.^1^1^1r1r1r1
 Ch1 (CG5)v14o4 a4>e8.f8efr a32a-32g32g-32 f32e32e-32d32
 Ch2 (Brass)v13o3 c4>c4g4>c32v-<c32>v-c32v-<c32>v-c32v-<c32>v-c32v-<c32>
 
-Ch3 (CG5)v12o3
+Ch3 (CG3)v12o3
 Ch3 d64r32.dga a64r32.dfd a64r32.ag>c d<def
 Ch3 d64r32.dga a64r32.dfd a64r32.ag>c d<def
 Ch3 d64r32.dfe b-<b->f<b-> d64r32.dfe b-<b->f<b->
@@ -159,8 +159,8 @@ Ch2 v+  a>g>c<f efdf v+ ece<g> d<fe>c
 Ch2 v+  dfed cd<a>c
 Ch2 r8 @2v14o4a8>f8
 
-Ch3 (Brass)v14o4%95 c32c+32d8.^2.^1^1^1
-Ch4 (Brass)v14o3%95 f32f+32g8.^2.^1^1^1
+Ch3 @1v14o4%55\s3\e81920 c32c+32d8.^2.^1^1^1
+Ch4 @1v14o3%55\s3\e81920 f32f+32g8.^2.^1^1^1
 Ch5 (B)c2c2 c2c4c4 c4c4c4c4 c4c4 c(H3)ccc (B)c(H3)ccc
 
 #Ch0 p-0(Sq)v10o4c1
