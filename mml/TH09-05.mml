@@ -10,8 +10,9 @@ $CG3 \s30 \e8000 @1 %20 p-0
 $CG4 \s30 \e15000 @2 %20
 $CG5 \s30 \e8000 @2 %20
 $CG5a \s30 \e8000 @2 %40
-$CG6 \s30 \e80 @2 %20
+$CG6 \s30 \e80 @2 %77
 $CG7 \s100 \e5000 @0 %90
+$Sq0 \s600 \e11025 @0 %70
 $Sq \s66 \e9999 @2 %75
 $Sq2 \s600 \e11025 @2 %70
 $Sq3 \s30 \e8000 @0 %80
@@ -162,6 +163,44 @@ Ch2 r8 @2v14o4a8>f8
 Ch3 @1v14o4%55\s3\e81920 c32c+32d8.^2.^1^1^1
 Ch4 @1v14o3%55\s3\e81920 f32f+32g8.^2.^1^1^1
 Ch5 (B)c2c2 c2c4c4 c4c4c4c4 c4c4 c(H3)ccc (B)c(H3)ccc
+
+#-----------------------------------------------------------------------------
+# Part 3-1
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 d8aa64r32. dd64r32.a8 d8aa64r32. dd64r32.a8
+Ch0 c8gg64r32. cc64r32.g8 c8gg64r32. cc64r32.g8
+Ch0 c-8gg64r32. c-c-64r32.g8 c-8gg64r32. c-c-64r32.g8
+Ch0 <b-8>ff64r32. <b-8>ff64r32. c8gg64r32. c8gg64r32.
+Ch0 d8aa64r32. dd64r32.a8 d8aa64r32. dd64r32.a8
+Ch0 c8gg64r32. cc64r32.g8 c8gg64r32. cc64r32.g8
+Ch0 <b-8>ff64r32. <b-b->f8 <b-8b-64r32.b-64r32. b-8b-64r32.b-64r32.>
+Ch0 c8c64r32.r c8c64r32.r c8c64r32.r c8c64r32.r
+
+Ch1 (CG5)v14o5
+Ch1 e2r8<a8>d8f8 e2r8d8e8f8 g2r8d8e8f4 d8<a8>e8 cc<g4a8^ 2r8a8>c8<f8
+Ch1 g2r8e8f8g8 a2r8a8>e8f8 g8<a8>f8<a8>e4r4
+
+Ch2 r8(CG5)v10o5
+Ch2 e2r8<a8>d8f8 e2r8d8e8f8 g2r8d8e8f4 d8<a8>e8 cc<g4a8^ 2r8a8>c8<f8
+Ch2 g2r8e8f8g8 a2r8a8>e8f8 g8<a8>f8<a8>e8 v14(Sq0)o5f8g8
+
+Ch3 (CG6)v8o4
+Ch3 d8dr d8dr d8dr d8dr  c8cr c8cr c8cr c8cr  c-8c-r c-8c-r c-8c-r c-8c-r  <b-8b-r b-8b-r> c8cr c8cr
+Ch3 d8dr d8dr d8dr d8dr  c8cr c8cr c8cr c8cr  <b-8b-r b-8b-r b-8b-r b-8b-r>  c8cr c8cr c8cr c8cr
+
+Ch4 (Pad2)v12o3
+Ch4 d1 c1 c-1 <b-2>c2
+Ch4 d1 c1 <b-1> c1
+
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(B)cc
+Ch5 (B)c(H3)c(H)c8 (B)cc(H)c(S)c32c32 c(H3)c(H)c8 (S)cccc
 
 #Ch0 p-0(Sq)v10o4c1
 #Ch1 p-0(Sq)v10o4e1
