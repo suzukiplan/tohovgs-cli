@@ -214,8 +214,13 @@ Ch0 c8gg64r32. cc64r32.g8 c8gg64r32. cc64r32.g8
 Ch0 <b-8>ff64r32. <b-b->f8 <b-8b-64r32.b-64r32. b-8b-64r32.b-64r32.>
 Ch0 c8c64r32.r c8c64r32.r c8c64r32.r c8c64r32.r
 
-Ch1 e2r8<a8>d8f8 e2r8d8e8f8 g2r8d8e8f4 d8<a8>e8 cc<g4a8^ 2r8a8>c8<f8
-Ch1 g2r8e8f8g8 a2r8a8>e8f8 g8<a8>f8<a8>e8<a8>c4
+Ch1 v3@1<e32>e32v+<e32>e32v+<e32>e32v+<e32>e32v+<e32>e32v+<e32>e32v-<e32>v-e32v-<e32>v-e32v-<e32>v-e32v+<e32>v+e32
+Ch1 (CG5)v8<a8>d<v-----a>v9fv-----d v11e2r8v12d8ev-----dv+++++fv-----ev+++++
+Ch1 g2r8v13d8ev-----dv+++++f4 v14d8<a>v-----dv+++++<>ev-----dv+++++ cc<g4a8^ 2r8
+Ch1 a8>cv-----<a>v+++++<f>v-----cv+++++<
+Ch1 g2r8e8fv-----ev+++++gv-----fv+++++
+Ch1 a2r8a8>e<v-----av+++++>fv-----ev+++++
+Ch1 gv-------fv+++++++<a>v-------gv+++++++<>f<v-------av++++++><a>v------fv+++++<>e<v------av+++++><a>v------ev+++++<>c4
 
 Ch2 a64b-64a16.^4. r8<a8>d8f8
 Ch2 e64f64e16.^4. r8<a8>d8f8
