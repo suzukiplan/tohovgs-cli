@@ -183,7 +183,7 @@ Ch1 g2r8e8f8g8 a2r8a8>e8f8 g8<a8>f8<a8>e4r4
 
 Ch2 r8(CG5)v10o5
 Ch2 e2r8<a8>d8f8 e2r8d8e8f8 g2r8d8e8f4 d8<a8>e8 cc<g4a8^ 2r8a8>c8<f8
-Ch2 g2r8e8f8g8 a2r8a8>e8f8 g8<a8>f8<a8>e8 v14(Sq0)o5f8g8
+Ch2 g2r8e8f8g8 a2r8a8>e8f8 g8<a8>f8<a8>e8 v16(Sq0)o5f8g8
 
 Ch3 (CG6)v8o4
 Ch3 d8dr d8dr d8dr d8dr  c8cr c8cr c8cr c8cr  c-8c-r c-8c-r c-8c-r c-8c-r  <b-8b-r b-8b-r> c8cr c8cr
@@ -225,11 +225,11 @@ Ch1 gv-------fv+++++++ <a8> f8 <a8> e8<a8>c4
 Ch2 a64b-64a16.^4. r8<a8>d8f8
 Ch2 e64f64e16.^4. r8<a8>d8f8
 Ch2 f+32g16.^4. r8<a8>d8f8
-Ch2 g64a64g16.^4. f64g64f16.^8 e64f64e16.^8
-Ch2 d2.f4
+Ch2 v-g64a64\s2000g16.^4. v-\s33f64g64f16.^8 v-e64f64e16.^8
+Ch2 \s8000d2.\s2000f4\s33
 Ch2 e64f64e16.^4. r8c8d8e8
 Ch2 f64g64f16.^4. r8f8e8d8
-Ch2 a64b-64a16.^8 g64a64g16.^8 f64f+64f64e64f8. e64f64e16.^8
+Ch2 v++a64b-64a16.^8 v-g64a64g16.^8 v-f64f+64f64e64f8. v-e64f64e16.^8
 
 Ch3 d8dr d8dr d8dr d8dr  c8cr c8cr c8cr c8cr  c-8c-r c-8c-r c-8c-r c-8c-r  <b-8b-r b-8b-r> c8cr c8cr
 Ch3 d8dr d8dr d8dr d8dr  c8cr c8cr c8cr c8cr  <b-8b-r b-8b-r b-8b-r b-8b-r>  c8cr c8cr c8cr c8cr
