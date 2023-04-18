@@ -246,6 +246,46 @@ Ch5 (B)cc(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)cc(S)c(H)c
 Ch5 (B)c(H2)c(S)c(H)c (B)cc(S)c(H)c (B)cc(S)c(H2)c (B)c(H)c(S)c(B)c
 Ch5 (B)c(H3)c(S)c8 (B)c(H3)c(S)c8 cccc c8cc
 
+#-----------------------------------------------------------------------------
+# Part 4
+#-----------------------------------------------------------------------------
+Ch0 <b-8b-64r32.r b-8.b-64r32.> c8c64r32.r c8.c64r32.
+Ch0 d8<a8>d8a8 f8d8<a8>d8
+Ch0 <b-8b-64r32.r b-8.b-64r32.> c8c64r32.r c8.c64r32.
+Ch0 d8a8>d8<a8 >d8f8d8<a8
+Ch0 <b-8b-64r32.r b-8.b-64r32.> c8c64r32.r c8.c64r32.
+Ch0 d8<a8>d8a8 f8d8<a8>d8
+Ch0 <b-8b-64r32.r b-8.b-64r32.> c8c64r32.r c8.c64r32.
+Ch0 <a8>ee64r32. <a8>ee64r32. <a8>e8a8<aa64r32.
+
+Ch1 (CG3)v16o4
+Ch1 d4.r8 d4.r8  d8e8f8g8 a4g8a16.b32> c4^16rd8 <a8>c16.r32<g8a16.r32 f8g16.r32 e8f16.r32 >d2<
+Ch1 d4.r8 d4.r8  d8e8f8g8 a4g8a16.b32> c4r8d8<a16.r32> f8e32f32ec8 r32(Brass)v14c32c+8.^4 r4e4
+
+Ch2 (Bass)@0v12o2
+Ch2 b-8>f8< b-8>f8 c8g8 c8g8  a8f8d8g8 f8d8<a4
+Ch2 b-8>f8< b-8>f8 c8g8 c8g8  d8a8>d8<a8 >(CG3)v11f2
+Ch2 (Bass)@0v12o2
+Ch2 b-8>f8< b-8>f8 c8g8 c8g8  a8f8d8g8 f8d8<a4
+Ch2 b-8>f8< b-8>f8 c8g8 c8g8  (Brass)v13o4a2r4>c+4
+
+Ch3 r8(CG3)v12o4
+Ch3 d4.r8 d4.r8  d8e8f8g8 a4g8a16.b32> c4^16rd8 <a8>c16.r32<g8a16.r32 f8g16.r32 e8f16.r32 >d8
+Ch3 (Brass)v14o5%99f4\s1
+Ch3 f+32g32g+32a32 a+32b32>c32c+32 %50\e44100d2.^1^1^2.(Brass)v13o4a4
+
+Ch4 r1r1r1r2.
+Ch4 (Brass)v13o5%99d4^16\s1
+Ch4 d+32e32f32f+32 g32g+32 %50\e44100a2.^1^1^2.(Brass)v13o4e4
+
+Ch5 (B)c8(S)c8c8(H)c(H3)c (B)c(H3)c(S)c(H)c (S)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)cc(S2)c(H3)c (B)c8(H3)cc c32c32c(H)c8
+Ch5 (B)c8(S)c8c8(H)c(H3)c (B)c(H3)c(S)c(H)c (S)c(H3)c(H)c8
+Ch5 (B)cc(S)c8 (B)cc(S)c8 (B)c8(S)c8c8cc
+Ch5 (B)c8(S)c8c8(H)c(H3)c (B)c(H3)c(S)c(H)c (S)c(H3)c(H)c8
+Ch5 (B)c(H2)c(S)c(H)c (B)cc(S)c(H3)c (B)c(H3)ccc c32c32c32c32(H)c8
+Ch5 (B)c(H3)c(S)c8 (H3)ccrc (B)c(H3)c(S)c8 c32(S2)c32ccc
+Ch5 (HH)c4 (B)cc(H)c8 (S)c32(S2)c32(S)c32(S2)c32(S)c32(S2)c32(S)c32(S2)c32 (S)c32(S2)c32(S)c32(S2)c32(S)c32(S2)c32(S)c32(S2)c32
 
 #Ch0 p-0(Sq)v10o4c1
 #Ch1 p-0(Sq)v10o4e1
