@@ -185,7 +185,7 @@ Ch2 r8(CG5)v10o5
 Ch2 e2r8<a8>d8f8 e2r8d8e8f8 g2r8d8e8f4 d8<a8>e8 cc<g4a8^ 2r8a8>c8<f8
 Ch2 g2r8e8f8g8 a2r8a8>e8f8 g8<a8>f8<a8>e8 v16(Sq0)o5f8g8
 
-Ch3 (CG6)v8o4
+Ch3 (CG6)@0v12o4
 Ch3 d8dr d8dr d8dr d8dr  c8cr c8cr c8cr c8cr  c-8c-r c-8c-r c-8c-r c-8c-r  <b-8b-r b-8b-r> c8cr c8cr
 Ch3 d8dr d8dr d8dr d8dr  c8cr c8cr c8cr c8cr  <b-8b-r b-8b-r b-8b-r b-8b-r>  c8cr c8cr c8cr c8cr
 
@@ -275,8 +275,8 @@ Ch3 (Brass)v14o5%99f4\s1
 Ch3 f+32g32g+32a32 a+32b32>c32c+32 %50\e44100d2.^1^1^2.(Brass)v13o4a4
 
 Ch4 r1r1r1r2.
-Ch4 (Brass)v13o5%99d4^16\s1
-Ch4 d+32e32f32f+32 g32g+32 %50\e44100a2.^1^1^2.(Brass)v13o4e4
+Ch4 (Brass)v13o5%99d4\s1
+Ch4 c+32d32d+32e32 f32f+32g32g+32 %50\e44100a2.^1^1^2.(Brass)v13o4e4
 
 Ch5 (B)c8(S)c8c8(H)c(H3)c (B)c(H3)c(S)c(H)c (S)c(H3)c(H)c8
 Ch5 (B)c(H3)c(H)c8 (B)cc(S2)c(H3)c (B)c8(H3)cc c32c32c(H)c8
