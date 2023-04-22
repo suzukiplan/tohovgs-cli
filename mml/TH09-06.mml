@@ -40,12 +40,12 @@ Ch3         r1024 l16
 Ch4         r1024 l16
 Ch5         r1024 l16
 
-Ch0 r2.
-Ch1 r2.
-Ch2 r2.
-Ch3 r2.
-Ch4 r2.
-Ch5 r4(B)ccc8 (S)c8(H)c8
+Ch0 r2
+Ch1 r2
+Ch2 r2
+Ch3 r2
+Ch4 r2
+Ch5 (B)ccc8 (S)c8(H)c8
 
 #-----------------------------------------------------------------------------
 # Part 1
@@ -131,5 +131,33 @@ Ch5 (HH)c4 (H)c8(H3)cc (S)v--------cv+++cv+++cv+++c
 Ch5 (B)c(H3)c(S)c8 (S2)c(B)cc (S)c(B)cc (S)c(B)c
 Ch5 (HH)c4 (S)c8(S2)cc (B)c(H3)c(S2)c(H3)c
 Ch5 (S)c8(S2)cc (S)c8(S2)cc (S)cccc
+
+#-----------------------------------------------------------------------------
+# Part 2-1
+#  step | 3/4 |x8
+#   key | Fm  |x8
+# chord | Fm(I) | C7sus4(V) | Fm(I) | Cm+11(V) |
+#       | E♭7(VII) | E♭(VII) | D♭(VI) | D♭(VI),〃,〃,E♭(VII) |
+#-----------------------------------------------------------------------------
+Ch0 o2 f4f4f4 f4f4f4 f4f4f4 f4f4f4  d-4d-4d-4 d-4d-4d-4 d-4d-4d-4 d-4d-4e-4
+
+Ch1 (CG5)v14o5 a-4.r8a-4 g4.r8g4 f4.r8f4  e-4.r8e-4 e-1.f2.^2 g4
+Ch2 (CG5)v14o5 c4.r8c4 <b-4.r8b-4 a-4.r8a-4  g4.r8g4 g1.a-2.^2 b-4
+
+Ch3 (CG3)v12o4 crf8 crff crf8  crf8 crff crf8  crf8 crff crf8  crf8 crf8 crf8
+Ch4 r8(CG3)v10o4 c8 r8cc r8c8  r8c8 r8cc r8c8  r8c8 r8cc r8c8  r8c8 r8c8 r8c8
+Ch3 <a-r>d-8 <a-r>d-d- <a-r>d-8  <a-r>d-8 <a-r>d-d- <a-r>d-8  <a-r>d-8 <a-r>d-d- <a-r>d-8
+Ch4 <r8a-8 r8a-a- r8a-8  r8a-8 r8a-a- r8a-8  r8a-8 r8a-a- r8a-8
+Ch3 <a-r>d-8 <a-r>d-8 <b-r>e-8
+Ch4 r8a-8 r8a-8 r8b-4
+
+Ch5 (HH)c4 (H)c8(S2)cc c(H3)c(S2)c(H3)c
+Ch5 (B)c8(S)c8 c(H3)cc(S)c (B)c(H3)c(S)c8
+Ch5 (HH)c4 (H)c8(S2)cc (B)c(H3)c(S2)c8
+Ch5 (B)c(H3)ccc (S)c4 ccc8
+Ch5 (HH)c4 (H)c8(S2)cc <g8d8
+Ch5 (B)c8(S)c8 c(H3)cc(S)c (B)c(S)ccc
+Ch5 (HH)c4 (H)c8(S2)cc (B)c8(S)c32c32c32c32
+Ch5 (B)c(S)cc8 c8cc c32c32c32c32c32c32c32c32
 
 Ch0 r1
