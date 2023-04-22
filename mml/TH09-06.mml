@@ -231,6 +231,62 @@ Ch5 (B)c8(S)c8 c(H3)cc(S)c (B)c(S)ccc
 Ch5 (HH)c4 (H)c8(S2)cc (B)c8(S)c32c32c32c32
 Ch5 (B)c(S)cc8 c8cc c32c32c32c32c32c32c32c32
 
+#-----------------------------------------------------------------------------
+# Part 3-2 (note: key +1)
+#  step | 3/4 |x8
+#   key | D#m(-3) | - | - | - | - | - | Em(+1) | D#m(-1) |
+# chord | D#m(I) | C#/B(II) | C#+9(II) | D#m7/A#(I) |
+#       | B(VI) | C#(VII) | D(VII) | Fdim(II) |
+#-----------------------------------------------------------------------------
+Ch0 k+
+Ch1 k+
+Ch2 k+
+Ch3 k+
+Ch4 k+
+
+Ch0 dd64r32.d8 fdad d64r32.df<a
+Ch0 b-b-64r32.b-8 b-b-64r32.b-b- b-64r32.b->b-<b-
+Ch0 >cc64r32.>c8< cc>c<c c64r32.c>c<c
+Ch0 <aa64r32.>a8< aa>a<a a64r32.a>a<a
+Ch0 b-b-64r32.>b-8< b-b->b-<b- b-64r32.b->b-<b-
+Ch0 >cc64r32.>c8< cc>c8< cc64r32.>c8<
+Ch0 c+c+64r32.>c+8< c+c+>c+8< c+c+64r32.>c+8<
+Ch0 ee>e8< ee>e<e >e<e>c<c
+
+Ch1 o4 r4(CG5) frgr a4  g8r8 a8r8 >c4  d4<a8>d8 e4  f4e8r8c+4  d2.
+Ch1 efgefgcdefgf  b-a-fg f>d-c<g a-b->d-e-  e<a-gb- egfe <b-geg
+Ch2 o3 r4(CG3) frgr a4  g8r8 a8r8 >c4  d4<a8>d8 e4  f4e8r8c+4  d2.
+Ch2 efgefgcdefgf  b-a-fg f>d-c<g a-b->d-e-  e<a-gb- egfe <b-geg
+
+Ch3 o3 ff>dd< ff>dd< ff>dd
+Ch4 o3 r8 ff  r8 ff  r8 ff>
+
+Ch3     d<b->de gec<a b->def  eg>c<g cfgf cgfg  cgfg bgfe fgfg  drf8 efef >d<fef
+Ch4 rv7 d<b->de gec<a b->def  eg>c<g cfgf cgfg  cgfg bgfe fgfg  drf8 efef >d<fef
+
+Ch3 o3    gr>c8< gr>cc< gr>c8<
+Ch4 o3r   v10g8  r8 gg  r8 g8
+Ch3 g+r>c+8< g+r>c+c+< g+r>c+8
+Ch4 r8  g+8  r8  g+g+  r8  g+8>
+Ch3 ergg ergg ergg
+Ch4 r8ee r8ee r8ee
+
+Ch5 (HH)c4 (B)cc(S)c(H)c (B)cc(S)c(H)c
+Ch5 (B)c(H3)c(S)c(H)c (B)cc(S)c(H3)c (B)c(S)cc(H3)c
+Ch5 (B)cc(S)c(H3)c (B)cc(S)c(S2)c (B)c(H3)c(S)c(H)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H)c (B)cc(S)c(S2)c
+Ch5 (HH)c4 (B)cc(S)c(H)c (B)cc(S)c(H)c
+Ch5 (B)c(H3)c(S)c(H)c (B)cc(S)c(H3)c (B)c(H2)c(S)cc
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c
+Ch5 (B)c(H3)c(S)c(H)c (B)c(H3)c(S)c(H)c (S2)cccc
+
+Ch0 k-
+Ch1 k-
+Ch2 k-
+Ch3 k-
+Ch4 k-
+
+
 #Ch0 r1p-0v10(Sq)o4c1
 #Ch1 r1p-0v10(Sq)o4e1
 #Ch2 r1p-0v10(Sq)o4g1
