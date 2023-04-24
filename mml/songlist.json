@@ -1,5 +1,5 @@
 {
-    "version": "2023.04.20",
+    "version": "2023.04.24",
     "albums": [
         {
             "appleId": "1438613504",
@@ -751,6 +751,14 @@
                     "loop": 1,
                     "name": "東方妖々夢　〜 Ancient Temple",
                     "english": "Mystic Oriental Dream　〜 Ancient Temple"
+                },
+                {
+                    "appleId": "1581516127",
+                    "mml": "TH09-06",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "狂気の瞳　〜 Invisible Full Moon",
+                    "english": "Lunatic Eyes　〜 Invisible Full Moon"
                 },
                 {
                     "appleId": "1581516128",
