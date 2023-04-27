@@ -54,7 +54,7 @@ Ch5 r4
 #        | Bm(I) on F# | D(III)      | C#m(II) on E  | G(VI), A(VII) |
 #-----------------------------------------------------------------------------
 Ch0 r1r1r1r2.
-Ch0 (Bass)v13o2 f+aef+< b2.^8 >d1 e1 g2g64r32.ra2
+Ch0 (Bass)v13o2 f+aef+< b2.^8 >d1 e1 g2g64r32.r%99a4%90p-255a4p-0
 
 Ch1 (CG5)v14o4
 Ch1 f+4>d4c+4<b8a4.  >e4d4c+8<g+4.  >f+4e4d8c+4  d8c+8<b8 a8e8a8f+4.
@@ -87,7 +87,7 @@ Ch5 g+8>c+8e8g+8>c+8<g+8<g4 >d8g8b8a4 (H3)c32c32c32c32
 #        | Bm(I) on F# | D(III)      | C#m(II) on E  | G(VI), A(VII) |
 #-----------------------------------------------------------------------------
 Ch0 b2.^8 a1 g+1 g8^2a2
-Ch0 <b2.^8 >d1 e1 g2g64r32.ra2
+Ch0 <b2.^8 >d1 e1 g2g64r32.r%99a4%90p-255a4p-0
 
 Ch1 (CG5)v14o4
 Ch1 f+4>d4c+4<b8a4.  >e4d4c+8<g+4.  >f+4e4d8c+4  d8c+8<b8 a8e8a8f+4.
