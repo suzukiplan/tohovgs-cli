@@ -167,6 +167,64 @@ Ch5 (B)c(H3)c(S)c(H2)c (B)cc(S)c8 (S)c(B)cc(H3)c (B)c8(S)c8
 Ch5 (B)cc(S)c(B)c c(H3)c32c32(S2)v-------c32v++c32v++c32v++c32 (S)c(B)c(S)c8 (H3)ccr8
 Ch5 (B)cc(S)c8 (B)cc(S)c8 c8c8 (S2)c32c32c32c32(S)c8
 
+#-----------------------------------------------------------------------------
+#  part: A4
+#   key: Bm
+# chord: | Bm(I)       | D(III) on A | C#m(II) on G# | G(VI), A(VII) |
+#        | Bm(I) on F# | D(III)      | C#m(II) on E  | G(VI), A(VII) | D, Dm |
+#-----------------------------------------------------------------------------
+Ch0 o1
+Ch0 bb64r32.b8> bf+df+ bf+d8 <bb64r32.a8
+Ch0 aa64r32.>a8< a>af+d af+df+ <aa64r32.g+8
+Ch0 g+g+>g+8< g+>c+eg+ >c+ec+<g+ ee64r32.<g8
+Ch0 gg64r32.>g8< gb>d<b aa64r32.>a8< a>a<a>e
+Ch0 <bb64r32.b8 bb>b<b> df+bf+ bf+d64r32.d8
+Ch0 dd8 df+ad f+daf+ ddd8
+Ch0 eee8 eg+>c+<g+ e>ec+<g+ ee64r32.g4
+Ch0 gg gg>d<g aa>e<a aec+<a
+Ch0 r1
+
+Ch1 o5
+Ch1  f+4>d4c+4<b8  a4.>e4d4c+8  <g+4.>f+4e4d8  c+4d8c+8<b8 a8e8a8
+Ch1 f+4.>d4c+4<b8  a4.>e4d4c+8  <g+4.>f+4e4a8  b8^1
+
+Ch2 @1o3 v10\s22\e8000%50 b8r8 >v14\s300%75\e8000f+2^8
+Ch3 @1o3 v10\s22\e8000%50f+8r8 >v14\s300%75\e8000 d2^8
+Ch2   o3 v10\s22\e8000%50 a4r8 >v14\s300%75\e8000 a2^8
+Ch3   o3 v10\s22\e8000%50 e4r8 >v14\s300%75\e8000 e2^8
+Ch2   o4 v10\s22\e8000%50 e4r8  v14\s300%75\e8000g+2^8
+Ch3   o3 v10\s22\e8000%50g+4r8 >v14\s300%75\e8000 e2^8
+Ch2 (Brass)v12o4 e4f+8e8d8 c+8e8 <b>c+<a>d8.r8
+Ch3 (Brass)v12o4 c+4d8c+8<b8 a8e8a8f+4r8
+Ch2                             v14\s300%75\e8000f+2^8
+Ch3                            >v14\s300%75\e8000 d2^8
+Ch2   o4 v10\s22\e8000%50c+4r8  v14\s300%75\e8000 a2^8
+Ch3   o3 v10\s22\e8000%50 a4r8 >v14\s300%75\e8000 e2^8
+Ch2   o4 v10\s22\e8000%50 e4r8  v14\s300%75\e8000g+2
+Ch3   o3 v10\s22\e8000%50g+4r8 >v14\s300%75\e8000 e2
+Ch2 (Brass)v12 a8b8^1
+Ch3 r4.(Brass)v12o4 f+8>d8e8 d<aed <aed<a
+Ch3 r1
+
+
+Ch1 (CG5)o4v10 f+v-ev-f+v-ev-f+v-ev-f+r8. (Brass)v14o4 a8>f8e8
+Ch2 r(CG5)o4v7 f+v-ev-f+v-ev-f+v-ev-f+r8  (Brass)v13o4 f8>d8c8
+
+Ch4 (Pad2)v12o3
+Ch4 b2.^8 a1 g+1 g8^2a2
+Ch4 f+2.^8 d1 e1 g8^2a2
+Ch4 r1
+
+Ch5 (HH)c8(S2)c8 (H3)cc(S2)c(B)c (S)c(B)c(S2)c(H3)c (B)c(H3)c(S2)c8
+Ch5 (B)c(H3)c(S2)c(H)c (B)cc(S2)c8 c(B)c(S2)c(H3)c (B)c(H3)c(S2)c(H2)c
+Ch5 (B)c(H2)c(S2)c(B)c (H3)c32c32c32c32(S2)c(S2)c (B)cc(S2)c(H3)c (S2)c32c32c32c32 c8
+Ch5 (B)cc(S2)c(H3)c (B)cc(S2)c(H3)c (B)c(H2)c(S2)c(B)c cc(S2)c8
+Ch5 (B)c(H2)c(S2)c(B)c (H3)c32c32c32c32(S2)c8 (S)c(B)c(S2)c(H3)c (B)c(H3)c(S2)c(H)c
+Ch5 (B)c(H3)c(S2)c(H2)c (B)cc(S2)c8 (S)c(B)c(S2)c(H3)c (B)c8(S2)c8
+Ch5 (B)cc(S2)c(B)c c(H3)c32c32(S2)c8 (S)c(B)c(S2)c8 (H3)cc(S2)c8
+Ch5 (B)cc(S2)c8 (B)cc(S2)c8 (S)c8(S2)c8 (S2)c32c32c32c32c32c32c32c32
+Ch5 (S)c4r4 c8c8c8c8
+
 #Ch0 r1p-0(Sq)v10o4 c1
 #Ch1 r1p-0(Sq)v10o4 e1
 #Ch2 r1p-0(Sq)v10o4 g1
