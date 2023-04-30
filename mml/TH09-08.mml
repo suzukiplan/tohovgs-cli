@@ -344,8 +344,8 @@ Ch2 f+4.r8 f+4.r8 f+8e+8d+8c+8 d+2 d+8e+8a+8 d+8e+8a+8 f+8c+8 \s8000 d+1
 Ch3 (CG5)v12o4 d+ra+ra+r8. d+ra+ra+r8. >f+a+g+>c+<f+a+g+>c+< d+d+d+8 c+8<g+8
 Ch3 (Brass)v13@2o5 b8r8>c+8r8 d+8r8e+8.r< g+32f+32g+f+r e+8c+r d+8<a+r> c+8<g+r>
 Ch3 (CG5)v12o4 d+ra+ra+r8. d+ra+ra+r8. >f+a+g+>c+<f+a+g+>c+< d+d+d+8 c+8<g+8
-Ch3 v12o4 d+ra+ra+r8. d+ra+ra+r8. d+ra+ra+r8.
-Ch3 >a+32a32  g+32g32 v- f+32f32  e32d+32 v- d32c+32  c32<b32 v- a+32a32  g+32g32
+Ch3 v12o4 d+ra+ra+r8. d+ra+r (Sq)o5a+8>c+8 %99d+2
+Ch3 (CG5)a+32a32  g+32g32 v- f+32f32  e32d+32 v- d32c+32  c32<b32 v- a+32a32  g+32g32
 
 Ch4 o3 d+2e+2f+2g+2 f+2g+2a+1
 Ch4 o3 d+2e+2f+2g+2 d+2e+2d+1
