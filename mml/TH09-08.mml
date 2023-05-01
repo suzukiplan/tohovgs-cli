@@ -383,7 +383,8 @@ Ch4 (Pad2)v10o3
 Ch4 b2.^8 a1 g+1 g8^2a2
 Ch4 f+2.^8 d1 e1 g8^2a2
 
-Ch5 r1r1r1r1 r1r1r1r2.
+Ch5 r1r1r1r2
+Ch5 o2(Pad2)p-0v7 a2 f+2.^8 d1 e1 g8^2r4 
 Ch5 (H3)c32c32c32c32c32c32c32c32
 
 #Ch0 r1p-0(Sq)v10o4 c1
