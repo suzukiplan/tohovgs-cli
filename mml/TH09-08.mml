@@ -394,5 +394,51 @@ Ch5 (H3)c32c32c32c32c32c32c32c32
 #Ch4 r1p-0(Sq)v10o5 e1
 #Ch5 r1p-0(Sq)v10o5 g1
 
+#-----------------------------------------------------------------------------
+#  part: C2
+#   key: Bm
+# chord: | Bm(I)       | D(III) on A | C#m(II) on G# | G(VI), A(VII) |
+#        | Bm(I) on F# | D(III)      | C#m(II) on E  | G(VI), A(VII) |
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o2
+Ch0 b2.^8 a1 g+1 g8^2a2
+Ch0 <b2.^8 >d1 e1 g8^2 a2
+
+Ch1 @1o3 v10\s22\e8000%50 b8r8 >v14\s300%75\e8000f+2^8
+Ch2 @1o3 v10\s22\e8000%50f+8r8 >v14\s300%75\e8000 d2^8
+Ch1   o3 v10\s22\e8000%50 a4r8 >v14\s300%75\e8000 a2^8
+Ch2   o3 v10\s22\e8000%50 e4r8 >v14\s300%75\e8000 e2^8
+Ch1   o4 v10\s22\e8000%50 e4r8  v14\s300%75\e8000g+2^8
+Ch2   o3 v10\s22\e8000%50g+4r8 >v14\s300%75\e8000 e2^8
+Ch1 (Brass)v12o4 e4f+8e8d8 c+8e8 <b>c+<a>d8.r8
+Ch2 (Brass)v12o4 c+4d8c+8<b8 a8e8a8f+4r8
+Ch1                             v14\s300%75\e8000f+2^8
+Ch2                            >v14\s300%75\e8000 d2^8
+Ch1   o4 v10\s22\e8000%50c+4r8  v14\s300%75\e8000 a2^8
+Ch2   o3 v10\s22\e8000%50 a4r8 >v14\s300%75\e8000 e2^8
+Ch1   o4 v10\s22\e8000%50 e4r8  v14\s300%75\e8000g+2
+Ch2   o3 v10\s22\e8000%50g+4r8 >v14\s300%75\e8000 e2
+Ch1 (Brass)v12 a8b8^1
+Ch2 r8(Brass)v12o4 \s5000f+8^1
+
+Ch3 (CG3)v11o3
+Ch3 <b8>f+8>c+8d8c+8<f+8d8<a4  >f+8a8>c+8<a8e8c+8<g+4
+Ch3 >e8g+8>c+8e8d8c+8<g4  d8g8b8 a4f+aef+8.
+Ch3 <f+8>d8e8f+8d8c+8d4  <a8>c+8d8a8>c+8<a8<e4
+Ch3 g+8>c+8e8g+8>c+8<g+8<g4 >d8g8b8a4f+ec+e
+
+Ch4 (Brass)\s1200v11o3
+Ch4 f+4>d4c+4<b8a4.  >e4d4c+8<g+4.  >f+4e4d8c+4  d8c+8<b8 a8e8a8f+4.
+Ch4    >d4c+4<b8a4.  >e4d4c+8<g+4.  >f+4e4a8\s12000b4^1
+
+Ch5 (H3)cc(H2)c8 r8c8 (H)c8(H3)cc cc(H)c8.
+Ch5 (H3)ccc ccr8 ccrc cc(H)c8.
+Ch5 (H3)ccc c32c32c32c32r8 ccc32c32c32c32 cr(H)c8
+Ch5 (H3)ccrc ccc32c32c32c32 (H2)c8(H3)cr c32c32c32c32(H)c8
+Ch5 (B)c(H3)crc (B)c(H3)c32c32(H2)c8 (B)c8(H3)cc (B)c(H3)crc
+Ch5 (B)c(H3)crc (B)c(H3)crc (B)c(H3)crc (B)c(H3)c(H2)c(H3)c
+Ch5 (B)c(H3)crc (B)c(H3)c32c32(H2)c8 (B)c(H3)crc (B)c(H3)crc
+Ch5 (B)c(H3)crc (B)c(H3)crc (B)c(H3)c32c32(H2)c8 (S2)c8c8
+
 Ch0 r1
 
