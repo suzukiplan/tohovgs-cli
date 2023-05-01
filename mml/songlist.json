@@ -1,5 +1,5 @@
 {
-    "version": "2023.04.24",
+    "version": "2023.05.01",
     "albums": [
         {
             "appleId": "1438613504",
@@ -767,6 +767,14 @@
                     "loop": 1,
                     "name": "おてんば恋娘の冒険",
                     "english": "Adventure of the Lovestruck Tomboy"
+                },
+                {
+                    "appleId": "1581516129",
+                    "mml": "TH09-08",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "幽霊楽団　〜 Phantom Ensemble",
+                    "english": "Phantom Ensemble"
                 },
                 {
                     "appleId": "1581516131",
