@@ -248,4 +248,46 @@ Ch5 (B)cc(S2)c(H)c (B)c(H3)c(S2)c(H2)c (B)cc(S2)c(H)c (B)c(H3)c(S2)c(H2)c
 Ch5 (B)c(H3)c(S2)c(H2)c (B)c(H3)c(S2)c(H2)c (B)cc(S2)c(H)c (B)c(H3)c(S2)c(H2)c
 Ch5 (B)cc(S2)c(H)c (B)c(H3)c(S2)c(H2)c (B)cc(S2)c(H)c (S2)c32c32c32c32c32c32c32c32
 
+#-----------------------------------------------------------------------------
+# A3'
+#-----------------------------------------------------------------------------
+Ch0 <a>cec <a>aec eg+>e<b g+e<bg+ >ceae c>c<ae <a>eae ce>c<e
+Ch0 <a>cec <a>aec eg+>e<b g+e<bg+ >ceae c>c<ae <a>eae ce>c<e
+Ch0 <a1^1>
+
+Ch1 < c8c8c8c8 <b8b8b8b8> d8d8d8d8 c8c8<b8b8>
+Ch4 < a8a8a8a8  a8a8a8a8  a8a8a8a8 d8d8 a8a8
+Ch1 c8c8c8c8 <b8b8b8b8> d8d8d8d8 c8c8c8c8 r1r1
+Ch4 a8a8a8a8  a8a8a8a8  a8a8a8a8 a8a8a8a8 r1r1
+
+Ch2 a1^2.g+4 %99a1^1^1^2%75p-666a2
+Ch3 \s8000 c2<b2>d2<b2>c2<b2>d2<b2>%99c1.%75\s30p-666c2
+
+Ch5 (HH)c2 (B)c(H3)c(H)c4.
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)ccc
+Ch5 (HH)c4 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)ccc
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)ccc (B)c(H3)c(H)c8 (S2)c(H3)c(S2)cc
+Ch5 (HH)c4 (B)c(H3)c(H)c8 (B)c(H3)crc (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c(S2)c32c32 c32c32c32c32c32c32c32c32 c8cc
+
+Ch0 k---
+Ch1 k---
+Ch2 k---
+Ch3 k---
+Ch0 cc64r32.c8 cc64r32.c8 cc64r32.c8 cc64r32.c8
+Ch0 cc64r32.c8 cc64r32.c8 c8e-<g> ge-cc64r32.
+Ch1 r8(GT)v14o3         c4 c64r32.c64r32. r8       c8 r8   c8
+Ch2 (GT)v14o2  gg64r32. g4 g64r32.g64r32. gg64r32. g8 e-e- g8
+Ch1 <g64r32.g64r32.> c8 <g8 g64r32.g64r32.>  r8      c8 r8c8
+Ch2  e-64r32.e-64r32.r8  e-8e-64r32.e-64r32. gg64r32.g8 gge-8
+Ch3 (GT)v12o2  c64r32.c64r32.c8 c64r32.c64r32.c8 c64r32.c64r32.c8 c64r32.c64r32.c8 
+Ch3 c64r32.c64r32.c8 c64r32.c64r32.c8 c64r32.c64r32.c8 c64r32.c64r32.c8
+Ch4 r1r1
+Ch5 (HH)c4 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8 (B)c8(S)c8 c32c32ccc
+Ch0 k+++
+Ch1 k+++
+Ch2 k+++
+Ch3 k+++
+
 Ch0 r1
