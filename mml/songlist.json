@@ -1,5 +1,5 @@
 {
-    "version": "2023.05.01",
+    "version": "2023.05.15",
     "albums": [
         {
             "appleId": "1438613504",
@@ -775,6 +775,14 @@
                     "loop": 1,
                     "name": "幽霊楽団　〜 Phantom Ensemble",
                     "english": "Phantom Ensemble"
+                },
+                {
+                    "appleId": "1581516130",
+                    "mml": "TH09-09",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "もう歌しか聞こえない　～ Flower Mix",
+                    "english": "Unwittingly，Distracted with her Song　～ Flower Mix"
                 },
                 {
                     "appleId": "1581516131",
