@@ -1,5 +1,5 @@
 {
-    "version": "2023.05.15",
+    "version": "2023.05.24",
     "albums": [
         {
             "appleId": "1438613504",
@@ -799,6 +799,14 @@
                     "loop": 1,
                     "name": "風神少女 (ShortVersion)",
                     "english": "Fujin Maiden (ShortVersion)"
+                },
+                {
+                    "appleId": "1581516133",
+                    "mml": "TH09-12",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "ポイズンボディ　～ Forsaken Doll",
+                    "english": "Poison Body　～ Forsaken Doll"
                 },
                 {
                     "appleId": "1581516136",
