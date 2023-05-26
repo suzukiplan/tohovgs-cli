@@ -143,4 +143,46 @@ Ch5 (HH)c4 (B)c(H3)c(S2)c8 (B)c8(S2)c8
 Ch5 (HH)c4 (B)c8(S2)c8 (B)c(H3)c(S)cc
 Ch5 ccc8 ccc8 (S2)c8(S)c8
 
+#-----------------------------------------------------------------------------
+# B1 <Cadenza Part 1>
+#  time: 3/4
+#   key: E♭m
+#  bars: 8 bars
+# Chord: [ C♭(vi) + E♭m(I) | D♭(vii) + E♭m(I) | E♭m(I) | 〃 ] x 2
+#-----------------------------------------------------------------------------
+Ch0 o2v13
+Ch0 (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<<
+Ch0 (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch0 (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<<
+Ch0 (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch1 o4(CG3)
+Ch1 r8v12g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r
+Ch1 r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r
+
+Ch2 r1.
+Ch3 r1.
+Ch4 r1.
+Ch2 r8(CG5)v14o4 b-8>e-16.f32g-8f8d-r  <a-16.a32b-8^2
+Ch3 r8(CG5)v13o4 g-8b->d-32d32e-8d-8<a-r  f8g-4e-rf8d-r  
+Ch4 r4(CG5)v12o4 g-8b-8b-8fr  r8<b-8^2
+Ch2 e-8r8<b-8>d-r8.e-4.<b-8>d-r e-4
+Ch3 <b-8r4b-r8.b-4.r8b-rb-4
+Ch4 g-8r2g-4.r4g-4
+Ch2 >e-fg-8 a-rg-r rf8. e-re-8 <b-8>d-8e-8r8
+Ch3 >b-8b-r b-a-b-8 rb-8. b-rb-8 g-8a-8b-8a-8
+Ch4 r8>g-8 g-8e-8 rf8. g-rg-8 re-8f8g-8r
+
+Ch5 (HH)c4 (S)c8(H2)c8 (B)c(H3)c(H)c8
+Ch5 (S)c8(H2)c8 (H3)cc(H)c8 (S)c8(B)c(H3)c
+Ch5 (B)c8(H3)cc (S)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (S)c8(H3)cc (B)c(H3)c(H)c8 (S)c8(B)c(H3)c
+Ch5 (HH)c4 (S)c8(H2)c8 (B)c(H3)c(H)c8
+Ch5 (S)c8(H2)c8 (H3)cc(H)c8 (S)c8(B)c(H3)c
+Ch5 (B)c8(H3)cc (S)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (S)c8(H3)cc (B)c(H3)c(H)c8 (S)c8(B)c(H3)c
+
 Ch0 r1
