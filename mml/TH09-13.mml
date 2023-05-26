@@ -86,37 +86,37 @@ Ch5 (HH)c4(S2)c4(B)c4 (S)c4(B)c4(S2)c4 (HH)c4(S2)c8c8(B)c8(S)c8 (S2)cc(S)c8(S2)c
 # Chord: [ C(vi) on G | D(vii) on A | Em(I) on B | 〃 ] x 4
 #-----------------------------------------------------------------------------
 Ch0 g8g64r32.r g8g64r32.r g8g64r32.r
-Ch1 (CG5)c8>(CG3)cr< (CG5)c8>(CG3)gr< (CG5)c8>(CG3)er<
+Ch1 (CG5)v13c8>(CG3)v6cr< (CG5)v13c8>(CG3)v8gr< (CG5)v13c8>(CG3)v7er<
 Ch0 a8a64r32.r a8a64r32.r a8a64r32.r
-Ch1 (CG5)d8>(CG3)dr< (CG5)d8(CG3)ar (CG5)d8(CG3)f+r
+Ch1 (CG5)v13d8>(CG3)v7dr< (CG5)v13d8(CG3)v9ar (CG5)v13d8(CG3)v8f+r
 Ch0 b8b64r32.r b8b64r32.r b8b64r32.r
-Ch1 (CG5)e8>(CG3)er<(CG5) e8>(CG3)er< (CG5)e8>(CG3)er<
+Ch1 (CG5)v13e8>(CG3)v7er<(CG5) v13e8>(CG3)v8er< (CG5)v13e8>(CG3)v9er<
 Ch0 b8b64r32.r b8b64r32.r b8b64r32.r
-Ch1 (CG5)e8>(CG3)er< (CG5)e8>(CG3)er< (CG5)e8>(CG3)er<
+Ch1 (CG5)v13e8>(CG3)v10er< (CG5)v13e8>(CG3)v9er< (CG5)v13e8>(CG3)v7er<
 Ch0 g8g64r32.r g8g64r32.r g8g64r32.r
-Ch1 (CG5)c8>(CG3)cr< (CG5)c8>(CG3)gr< (CG5)c8>(CG3)er<
+Ch1 (CG5)v13c8>(CG3)v6cr< (CG5)v13c8>(CG3)v8gr< (CG5)v13c8>(CG3)v7er<
 Ch0 a8a64r32.r a8a64r32.r a8a64r32.r
-Ch1 (CG5)d8>(CG3)dr< (CG5)d8(CG3)ar (CG5)d8(CG3)f+r
+Ch1 (CG5)v13d8>(CG3)v7dr< (CG5)v13d8(CG3)v9ar (CG5)v13d8(CG3)v8f+r
 Ch0 b8b64r32.r b8b64r32.r b8b64r32.r
-Ch1 (CG5)e8>(CG3)er<(CG5) e8>(CG3)er< (CG5)e8>(CG3)er<
+Ch1 (CG5)v13e8>(CG3)v7er<(CG5) v13e8>(CG3)v8er< (CG5)v13e8>(CG3)v9er<
 Ch0 b8b64r32.r b8b64r32.r b8b64r32.r
-Ch1 (CG5)e8>(CG3)er< (CG5)e8>(CG3)er< (CG5)e8>(CG3)er<
+Ch1 (CG5)v13e8>(CG3)v10er< (CG5)v13e8>(CG3)v9er< (CG5)v13e8>(CG3)v7er<
 Ch0 g8g64r32.r g8g64r32.r g8g64r32.r
-Ch1 (CG5)c8>(CG3)cr< (CG5)c8>(CG3)gr< (CG5)c8>(CG3)er<
+Ch1 (CG5)v13c8>(CG3)v6cr< (CG5)v13c8>(CG3)v8gr< (CG5)v13c8>(CG3)v7er<
 Ch0 a8a64r32.r a8a64r32.r a8a64r32.r
-Ch1 (CG5)d8>(CG3)dr< (CG5)d8(CG3)ar (CG5)d8(CG3)f+r
+Ch1 (CG5)v13d8>(CG3)v7dr< (CG5)v13d8(CG3)v9ar (CG5)v13d8(CG3)v8f+r
 Ch0 b8b64r32.r b8b64r32.r b8b64r32.r
-Ch1 (CG5)e8>(CG3)er<(CG5) e8>(CG3)er< (CG5)e8>(CG3)er<
+Ch1 (CG5)v13e8>(CG3)v7er<(CG5) v13e8>(CG3)v8er< (CG5)v13e8>(CG3)v9er<
 Ch0 b8b64r32.r b8b64r32.r b8b64r32.r
-Ch1 (CG5)e8>(CG3)er< (CG5)e8>(CG3)er< (CG5)e8>(CG3)er<
+Ch1 (CG5)v13e8>(CG3)v10er< (CG5)v13e8>(CG3)v9er< (CG5)v13e8>(CG3)v7er<
 Ch0 g8g64r32.r g8g64r32.r g8g64r32.r
-Ch1 (CG5)c8>(CG3)cr< (CG5)c8>(CG3)gr< (CG5)c8>(CG3)er<
+Ch1 (CG5)v13c8>(CG3)v6cr< (CG5)v13c8>(CG3)v8gr< (CG5)v13c8>(CG3)v7er<
 Ch0 a8a64r32.r a8a64r32.r a8a64r32.r
-Ch1 (CG5)d8>(CG3)dr< (CG5)d8(CG3)ar (CG5)d8(CG3)f+r
+Ch1 (CG5)v13d8>(CG3)v7dr< (CG5)v13d8(CG3)v9ar (CG5)v13d8(CG3)v8f+r
 Ch0 b8b64r32.r b8b64r32.r b8b64r32.r
-Ch1 (CG5)e8>(CG3)er<(CG5) e8>(CG3)er< (CG5)e8>(CG3)er<
+Ch1 (CG5)v13e8>(CG3)v7er<(CG5) v13e8>(CG3)v8er< (CG5)v13e8>(CG3)v9er<
 Ch0 b8b64r32.r b8b64r32.r b8b64r32.r
-Ch1 (CG5)e8>(CG3)er< (CG5)e8>(CG3)er< (CG5)e8>(CG3)er<
+Ch1 (CG5)v13e8>(CG3)v10er< (CG5)v13e8>(CG3)v11er< (CG5)v13e8>(CG3)v12er<
 
 Ch2 (Brass)v14o5 a2.g2.<r8(CG3)e8a8>d8<b8f+8d8e4 (CG5)b8>f+8g8 (Brass)a2.g2.g1r8<(CG5)b8>f+8g8
 Ch3 (Brass)v13o4 b2.b2.r1. b2.b2.b1r2
