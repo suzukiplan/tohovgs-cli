@@ -185,4 +185,54 @@ Ch5 (S)c8(H2)c8 (H3)cc(H)c8 (S)c8(B)c(H3)c
 Ch5 (B)c8(H3)cc (S)c(H3)c(H)c8 (B)c(H3)c(H)c8
 Ch5 (S)c8(H3)cc (B)c(H3)c(H)c8 (S)c8(B)c(H3)c
 
+#-----------------------------------------------------------------------------
+# B2 <Cadenza Part 2>
+#  time: 3/4
+#   key: E♭m
+#  bars: 8 bars
+# Chord: [ C♭(vi) + E♭m(I) | D♭(vii) + E♭m(I) | E♭m(I) | 〃 ] x 2
+#-----------------------------------------------------------------------------
+Ch0 (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<<
+Ch0 (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch0 (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<<
+Ch0 (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch1 r8v12g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r
+Ch1 r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r
+
+Ch2 o4g-8r8 b-8r8 >d-<a-g-f  g-8r8 b-8r8 >f4
+Ch3 o4e-8r16.f32 g-8r8 a-r8.  e-8r8 g-8r8 >d-4
+Ch4 o3g-8fg- e-r8. >d-<e-g-d-  g-8fg- e-rg-8 e-rg-r
+
+Ch2 <g-8r8b-8r8>f4  g-2<b->d-<a->f
+Ch3 <e-8r8g-8r8>d-4  e-2r4
+Ch4 b-8.a-g-r8.>a-fg-d-  b-4b-g-a-e-rd-rf
+
+Ch2 e-8g-fg-4g-e-fd-  e-8g-fg-4g-e-<b-g-
+Ch3 <g-8b-rb-4r4  g-8b-r b-4r4
+Ch4 r8g-rg-4r4  r8g-r g-4r4
+
+Ch2 g-8r8b-4>d-4 e-2e-e-fg-
+Ch3 e-8rfg-4a-4 b-2r4
+Ch4 <b-8r8>e-4f4 g-2r4
+
+Ch5 (HH)c4 (S)c8(H2)c8 (B)c(H3)c(H)c8
+Ch5 (S)c8(H2)c8 (H3)cc(H)c8 (S)c8(B)c(H3)c
+Ch5 (B)c8(H3)cc (S)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (S)c8(H3)cc (B)c(H3)c(H)c8 (S)c8(B)c(H3)c
+Ch5 (HH)c4 (S)c8(H2)c8 (B)c(H3)c(H)c8
+Ch5 (S)c8(H2)c8 (H3)cc(H)c8 (S)c8(B)c(H3)c
+Ch5 (B)c8(H3)cc (S)c(H3)c(H)c8 (B)c(H3)c(H)c8
+Ch5 (S)ccc8 (S2)ccc8 (S)c8(S2)c8
+
+#Ch0 r1p-0(Sq)v13o4 c1
+#Ch1 r1p-0(Sq)v13o4 e1
+#Ch2 r1p-0(Sq)v13o4 g1
+#Ch3 r1p-0(Sq)v13o5 c1
+#Ch4 r1p-0(Sq)v13o5 e1
+#Ch5 r1p-0(Sq)v13o5 g1
+
 Ch0 r1
