@@ -228,6 +228,46 @@ Ch5 (HH)c4 (H3)cc(H)c8 (S)c8(B)c(H3)c
 Ch5 (HH)c4 (S)c(H3)c(H)c8 (B)c(H3)c(H)c8
 Ch5 (S)ccc8 (S2)ccc8 (S)c8(S2)c8
 
+#-----------------------------------------------------------------------------
+# B3 <Cadenza Part 3>
+#  time: 3/4
+#   key: E♭m
+#  bars: 8 bars
+# Chord: [ C♭(vi) + E♭m(I) | D♭(vii) + E♭m(I) | E♭m(I) | 〃 ] x 2
+#-----------------------------------------------------------------------------
+Ch0 (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<<
+Ch0 (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch0 (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<< (Bass)c-8 >>(CG3)e-r<<
+Ch0 (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<< (Bass)d-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch0 (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<< (Bass)e-8 >>(CG3)e-r<<
+Ch1 r8v12g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r
+Ch1 r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r  r8g-r r8g-r r8g-r
+
+Ch2 o5 b-e-a-d- g-<b->f<a-> e-<g->d-<a-  b-fa-d- e-8<b->d- e-8 <g64a-64a64a-64 b64>c64d-64d64
+Ch3 r8v7 o5 b-e-a-d- g-<b->f<a-> e-<g->d-<a- b-fa-d- e-8<b->d- e-8 <
+Ch4 r4ro4 g-8f8e-8f  g-4<a-fg-a-b-8r8
+Ch2 e-2<b->fg-d-  <e-fa-b- >e-<b->f<b- >g-<b->a-<b->
+Ch3 v13b-2r4.v7    e-fa-b- >e-<b->f<b- >g-<b->a-<b->
+Ch4 g-2r4  r4re-8f8g-8a-
+Ch2 b-a-b-g- b-fb-e- b-<b->e-f  re-8d- e-g-a->d- e-16.d-16.e-8
+Ch3 b-a-b-g- b-fb-e- b-<b->e-f  re-8d- e-g-a->d- e-16.d-16.e-8
+Ch4 r2.  rb-a-b- g-b-fb- e-b-d-b-
+Ch2 f8g-8a-8f g-e-<b->g-  fd-<a->f e-d-e-d- e-8 r8
+Ch3 f8g-8a-8f g-e-<b->g-  fd-<a->f e-d-e-d- e-8 
+Ch4 >b-b-rb- rb-rb- r4  r4 g-fg-fg-8 g32a-32a32b-32
+
+Ch5 (HH)c4 (B)c(H3)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H)c
+Ch5 (B)c(H3)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H)c
+Ch5 (HH)c4 (B)c(H3)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H)c
+Ch5 (B)c(H3)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H)c
+
 #Ch0 r1p-0(Sq)v13o4 c1
 #Ch1 r1p-0(Sq)v13o4 e1
 #Ch2 r1p-0(Sq)v13o4 g1
