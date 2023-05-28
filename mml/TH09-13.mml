@@ -45,7 +45,7 @@ Ch5         r1024 l16
 # Introduction
 #  time: 3/4
 #   key: Em
-#  bars: 1
+#  bars: 0.5
 # Chord: | Em(I) |
 #-----------------------------------------------------------------------------
 Ch0 r8r8r8
@@ -477,7 +477,7 @@ Ch3 (Brass)v13o4 a-2.a-2. r8a-8>e-8f8a-8f8e-8<b-8g2 a-2.a-4g2a-1^4r4
 Ch4 (Brass)v12o4 c2.c2. r8c8g8a-8>c8<a-8g8e-8<b-2> c2.c4<b-2>c1^4r4
 Ch2 c2.c2. r8c8g8a-8>c8<a-8g8e-8<b-2> c2.c4e-2 f1.
 Ch3 a-2.a-2. r8a-8>e-8f8a-8f8e-8<b-8g2 a-2.a-4>c2 c1.
-Ch4 c2.c2. r8c8g8a-8>c8<a-8g8e-8<b-2> c2.c4e-2 f1.
+Ch4 c2.c2. r8c8g8a-8>c8<a-8g8e-8<b-2> c2.c4a-2 a-1.
 
 Ch5 (HH)c4. (S2)c(H3)c (B)c(H3)c(S)c(H3)c
 Ch5 (HH)c4 (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
