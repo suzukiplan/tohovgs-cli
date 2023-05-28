@@ -346,20 +346,85 @@ Ch2 (CG5)v12o5  bead g<b>f+<a> e<g>d<a bf+ad e8<b>de8 <g+64a64a+64b64>c64c+64d64
 Ch2 o3 ef+ab >e<b>f+<b> g<b>a<b> 
 Ch3 r8(CG5)v6o5 bead g<b>f+<a> e<g>d<a bf+ad e8<b>de8 v12 <b2 gaga
 Ch3 r8v6o3 ef+ab >e<b>f+<b> g<b>a<b> 
-Ch4 (Sq)v12o5 \s8000a2.g2. o3(CG5)v12g2 ef+ef+ r4.(Sq)v12o4b8>f+8g8
+Ch4 (Sq)v12o5 \s8000a2.g2. o3(CG5)v12g2 ef+ef+ r4.(CG5)v13o4b8>f+8g8
 Ch2 babg bf+be b<b>ef+    re8d ega>d e16.d16.e8 f+8g8a8f+ ge<b>g f+d<a>f+ eded e8<b>d     
 Ch3 babg bf+be b<b>e<      v12bab gbf+b ebdb >bbrb rbrb r8v6> ge<b>g f+d v12<gf+gf+g8r8
-Ch4 (Sq)v12o5 \s8000a2.g2.(CG5)o4e8f+8g8a8g8f+8 d8f+8r8 (Sq)v12o4b8>f+8g8
+Ch4 (Sq)v12o5 \s8000a2.g2.(CG5)o4e8f+8g8a8g8f+8 d8f+8r8 (CG5)v13o4b8>f+8g8
 
 Ch1 b2.b2. r8b8>f+8g8b8g8f+8d8<a4.r8 b2.b4>d2 e1.
 Ch2 (CG5)v12o5  bead g<b>f+<a> e<g>d<a bf+ad e8<b>de8 <g+64a64a+64b64>c64c+64d64d+64 e2 <b>f+gd
 Ch2 o3 ef+ab >e<b>f+<b> g<b>a<b> 
 Ch3 r8(CG5)v6o5 bead g<b>f+<a> e<g>d<a bf+ad e8<b>de8 v12 <b2 gaga
 Ch3 r8v6o3 ef+ab >e<b>f+<b> g<b>a<b> 
-Ch4 (Sq)v12o5 \s8000a2.g2. o3(CG5)v12g2 ef+ef+ r4.(Sq)v12o4b8>f+8g8
+Ch4 (Sq)v12o5 \s8000a2.g2. o3(CG5)v12g2 ef+ef+ r4.(CG5)v13o4b8>f+8g8
 Ch2 babg bf+be b<b>ef+    re8d ega>d e16.d16.e8 f+8g8a8f+ ge<b>g f+d<a>f+ eded e4
 Ch3 babg bf+be b<b>e<   v12bab gbf+b ebdb >bbrb rbrb r8v6> ge<b>g f+d v12<gf+gf+g4
-Ch4 (Sq)v12o5 \s8000a2.g2.(CG5)o4e8f+8g8a8g8f+8 d8f+8r8 (Sq)v12o4b8>f+8g8
+Ch4 (Sq)v12o5 \s8000a2.g2.(CG5)o4e8f+8g8a8g8f+8 d8f+8r8 (CG5)v13o4b8>f+8g8
+
+Ch5 (HH)c4. (S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (HH)c4. (S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (HH)c4. (S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (HH)c4 (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (HH)c4 (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (HH)c4. (S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (HH)c4 (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
+Ch5 (HH)c4 (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S2)c32c32c32c32
+Ch5 ccc8 ccc8 c8c8
+
+#-----------------------------------------------------------------------------
+# C2 <Repeat>
+#  time: 3/4
+#   key: Em
+#  bars: 16
+# Chord: [ C(vi) | D(vii) | Em(I) | 〃 ] x 4
+#-----------------------------------------------------------------------------
+Ch0 (Bass)c8c64r32.c64r32. c8c64r32.c64r32. c8c64r32.c64r32.
+Ch0 d8d64r32.d64r32. d8d64r32.d64r32. d8d64r32.d64r32.
+Ch0 e8e64r32.e64r32. e8e64r32.e64r32. e8e64r32.e64r32.
+Ch0 e8e64r32.e64r32. e8e64r32.e64r32. e8e64r32.e64r32.
+Ch0 c8c64r32.c64r32. c8c64r32.c64r32. c8c64r32.c64r32.
+Ch0 d8d64r32.d64r32. d8d64r32.d64r32. d8d64r32.d64r32.
+Ch0 e8e64r32.e64r32. e8e64r32.e64r32. e8e64r32.e64r32.
+Ch0 e8e64r32.e64r32. e8e64r32.e64r32. e8e64r32.e64r32.
+Ch0 c8c64r32.c64r32. c8c64r32.c64r32. c8c64r32.c64r32.
+Ch0 d8d64r32.d64r32. d8d64r32.d64r32. d8d64r32.d64r32.
+Ch0 e8e64r32.e64r32. e8e64r32.e64r32. e8e64r32.e64r32.
+Ch0 e8e64r32.e64r32. e8e64r32.e64r32. e8e64r32.e64r32.
+Ch0 c8c64r32.c64r32. c8c64r32.c64r32. c8c64r32.c64r32.
+Ch0 d8d64r32.d64r32. d8d64r32.d64r32. d8d64r32.d64r32.
+Ch0 e8e64r32.e64r32. e8e64r32.e64r32. e8e64r32.e64r32.
+Ch0 e8e64r32.e64r32. e8e64r32.e64r32. e8e64r32.e64r32.
+
+Ch1 (Brass)\s1200v16o4 b2.b2. r8b8>f+8g8b8g8f+8d8<a4.r8 b2.b4 a2 b2.^2r4
+Ch2 (CG5)v12o5  bead g<b>f+<a> e<g>d<a bf+ad e8<b>de8 <g+64a64a+64b64>c64c+64d64d+64 e2 <b>f+gd
+Ch2 o3 ef+ab >e<b>f+<b> g<b>a<b> 
+Ch3 r8(CG5)v6o5 bead g<b>f+<a> e<g>d<a bf+ad e8<b>de8 v12 <b2 gaga
+Ch3 r8v6o3 ef+ab >e<b>f+<b> g<b>a<b> 
+Ch4 (Sq)v12o5 \s8000a2.g2. o3(CG5)v12g2 ef+ef+ r4.(CG5)v13o4b8>f+8g8
+Ch2 babg bf+be b<b>ef+    re8d ega>d e16.d16.e8 f+8g8a8f+ ge<b>g f+d<a>f+ eded e8<b>d     
+Ch3 babg bf+be b<b>e<      v12bab gbf+b ebdb >bbrb rbrb r8v6> ge<b>g f+d v12<gf+gf+g8r8
+Ch4 (Sq)v12o5 \s8000a2.g2.(CG5)o4e8f+8g8a8g8f+8 d8f+8r8 (CG5)v13o4b8>f+8g8
+
+Ch1 b2.b2. r8b8>f+8g8b8g8f+8d8<a4.r8 b2.b4>d2 e1^8
+Ch2 (CG5)v12o5  bead g<b>f+<a> e<g>d<a bf+ad e8<b>de8 <g+64a64a+64b64>c64c+64d64d+64 e2 <b>f+gd
+Ch2 o3 ef+ab >e<b>f+<b> g<b>a<b> 
+Ch3 r8(CG5)v6o5 bead g<b>f+<a> e<g>d<a bf+ad e8<b>de8 v12 <b2 gaga
+Ch3 r8v6o3 ef+ab >e<b>f+<b> g<b>a<b> 
+Ch4 (Sq)v12o5 \s8000a2.g2. o3(CG5)v12g2 ef+ef+ r4.(CG5)v13o4b8>f+8g8
+Ch2 babg bf+be b<b>ef+    re8d ega>d e16.d16.e8 f+8g8a8f+ ge<b>g f+<bgr gf+gr r4
+Ch3 babg bf+be b<b>e<   v12bab gbf+b ebdb >bbrb rbrb r8v6> ge<b>g r4
+Ch4 (Sq)v12o5 \s8000a2.g2.(CG5)o4e8f+8g8a8g8f+8 d8f+8r8
+
+Ch1 (Brass)v14o4 f8g8a-8
+Ch3 (Brass)v13o3 a-8>e8f8
+Ch4 (Brass)v12o3 c8g8a-8
 
 Ch5 (HH)c4. (S2)c(H3)c (B)c(H3)c(S)c(H3)c
 Ch5 (B)c(H3)c(S)c(H3)c (B)c(H3)c(S2)c(H3)c (B)c(H3)c(S)c(H3)c
