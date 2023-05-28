@@ -1,5 +1,5 @@
 {
-    "version": "2023.05.24",
+    "version": "2023.05.28",
     "albums": [
         {
             "appleId": "1438613504",
@@ -807,6 +807,14 @@
                     "loop": 1,
                     "name": "ポイズンボディ　～ Forsaken Doll",
                     "english": "Poison Body　～ Forsaken Doll"
+                },
+                {
+                    "appleId": "1581516134",
+                    "mml": "TH09-13",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "今昔幻想郷　～ Flower Land",
+                    "english": "Konjaku Gensokyo　～ Flower Land"
                 },
                 {
                     "appleId": "1581516136",
