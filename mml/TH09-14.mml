@@ -42,7 +42,7 @@ Ch4         r1024 l16
 Ch5         r1024 l16   
 
 #-----------------------------------------------------------------------------
-# A0 <Introduction & Presentation of the main motif>
+# A0 <Introduction>
 #  time: 3/4
 #   key: Em
 #  bars: 8
@@ -58,5 +58,59 @@ Ch5 (HH)c4 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
 Ch5 (H)c4 (H3)cc(H)c8 (B)c(H3)c(H)c(B)c
 Ch5 (HH)c4 (B)c(H3)c(H)c8 (B)c(H3)c(H)c8
 Ch5 (S)c4 (B)c8c8 (S)cccc
+
+#-----------------------------------------------------------------------------
+# A1
+#  time: 3/4
+#   key: Em
+#  bars: 16
+# Chord: { Em(I) | Em(I) | C(vi) | D(vii) } x 4
+#-----------------------------------------------------------------------------
+Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
+Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
+Ch0 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8
+Ch0 (Bass)o2d8 (CG3)o5f+8 (Bass)o2d8 (CG3)o5f+8 (Bass)o2d8 (CG3)o5f+8
+Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
+Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
+Ch0 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8
+Ch0 (Bass)o2d8 (CG3)o5f+8 (Bass)o2d8 (CG3)o5f+8 (Bass)o2d8 (CG3)o5f+8
+Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
+Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
+Ch0 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8
+Ch0 (Bass)o2d8 (CG3)o5f+8 (Bass)o2d8 (CG3)o5f+8 (Bass)o2d8 (CG3)o5f+8
+Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
+Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
+Ch0 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8
+Ch0 (Bass)o2d8d64r32.d64r32. d8d64r32.d64r32. da<a>d
+
+Ch1 (CG5)v14o5 b4a4>d4 <b4a4g4 f+8g8a4g4 f+4d4<a4> b4a4>d4 <b4>e4f+4 g8f+8e4d4 e4<a8g8f+8d8
+Ch2 (CG5)v13o5 e4e4e4 e4e4e4 e8e8f+4e4 d4<a4f+4> e4e4e4 e4b4b4 b8a8g4f+4 g4f+8e8d8<a8>
+Ch1 o5 b4a4>d4 <b4a4g4 f+8g8a4g4 f+4d4<a4> b4a4>d4 <b4>e4f+4 g8f+8e4d4 r32e2^8.^32
+Ch2 o5 e4e4e4 e4e4e4 e8e8f+4e4 d4<a4f+4> e4e4e4 e4b4b4 b8a8g4f+4 g2.
+
+Ch3 (CG3)v12o4 aged egb>d egb>d  <baed <baed <baed  <b>deg b>deg b>deg  ar<a8> f+r<f+8> dr<d8
+Ch3 aged egb>d egb>d  <baed <baed <baed  <b>deg b>deg b>deg  af+d<a gf+d<a gf+d<a
+Ch3 o4 aged egb>d egb>d  <baed <baed <baed  <b>deg b>deg b>deg  ar<a8> f+r<f+8> dr<d8
+Ch3 aged egb>d egb>d  <baed <baed <baed  <b>deg b>deg b>deg  af+d<a gf+d<a gf+d<a
+
+Ch4 (Pad2)v10o4 g1.c2.d2. g1.c2.d2.
+Ch4 (Pad2)v10o4 g1.c2.d2. g1.c2.d2.
+
+Ch5 (HH)c4 (S)c(H3)c(H)c8 (B)c(H2)c(B)c(H2)c
+Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
+Ch5 (S)c8(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c(H3)c(H)c8 (B)c(H2)c(B)c(H2)c
+Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
+Ch5 (S)c8(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c(H3)c(H)c8 (B)c(H2)c(B)c(H2)c
+Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
+Ch5 (S)c8(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c(H3)c(H)c8 (B)c(H2)c(B)c(H2)c
+Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
+Ch5 (S2)c8cc (S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32 (S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32
 
 Ch0 r1
