@@ -67,6 +67,7 @@ Ch5 (S)c4 (B)c8c8 (S)cccc
 #  bars: 16
 # Chord: { Em(I) | Em(I) | C(vi) | D(vii) } x 4
 #-----------------------------------------------------------------------------
+Ch5 |
 Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
 Ch0 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8 (Bass)o2e8 (CG3)o5g8
 Ch0 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8 (Bass)o2c8 (CG3)o5g8
@@ -384,11 +385,46 @@ Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
 Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
 Ch5 (B)c(H3)c(S2)cc (S)<g32g32f32f32e32e32d32d32 (B)c(S)c32c32c8 c8c8
 
-#Ch0 r1p-0(Sq)v13o4 c1
-#Ch1 r1p-0(Sq)v13o4 e1
-#Ch2 r1p-0(Sq)v13o4 g1
-#Ch3 r1p-0(Sq)v13o5 c1
-#Ch4 r1p-0(Sq)v13o5 e1
-#Ch5 r1p-0(Sq)v13o5 g1
+#-----------------------------------------------------------------------------
+# C3 <Coda>
+#  time: 1~16 = 4/4, 17 = 3/4
+#   key: 1~16 = A#m, 17 = Em
+#  bars: 17
+# Chord: { F#(vii) | G#(viii) | A#m(I) | A#m(I) } x 4 | Em |
+#-----------------------------------------------------------------------------
+Ch0 fa>c<a fa>c<a fa>c<a fa>c<a  gb>d<b gb>d<b gb>d<b gb>d<b
+Ch0 a>cec< a>cec< a>cec< a>cec<  a>cec< a>cec< a>cec< a>e<ea
+Ch0 fa>c<a fa>c<a fa>c<a fa>c<a  gb>d<b gb>d<b gb>d<b gb>d<b
+Ch0 a>cec< a>cec< a>cec< a>cec<  a>cec< a>cec< a>cec< a>e<ea
+Ch0 fa>c<a fa>c<a fa>c<a fa>c<a  gb>d<b gb>d<b gb>d<b gb>d<b
+Ch0 a>cec< a>cec< a>cec< a>cec<  a>cec< a>cec< a>cec< a>e<ea
+Ch0 fa>c<a fa>c<a fa>c<a fa>c<a  gb>d<b gb>d<b gb>d<b gb>d<b
+Ch0 a>cec< a>cec< a>cec< a>cec<  a>cec< a>cec< a>cec< a>e<ea
+Ch0 r2k-o2bagf+
+Ch1 r8a8r8a8r8a8r8a8 r8b8r8b8r8b8r8b8 >r8c8r8c8r8c8r8c8 r8c8r8c8r8c8r8c8<
+Ch1 r8a8r8a8r8a8r8a8 r8b8r8b8r8b8r8b8 >r8c8r8c8r8c8r8c8 r8c8r8c8r8c8r8c8<
+Ch1 r8a8r8a8r8a8r8a8 r8b8r8b8r8b8r8b8 >r8c8r8c8r8c8r8c8 r8c8r8c8r8c8r8c8<
+Ch1 r8a8r8a8r8a8r8a8 r8b8r8b8r8b8r8b8 >r8c8r8c8r8c8r8c8 r8c8r8c8r8c8r8c8<
+Ch2 <a2b2 >c2d4<b4 g8e8g8rd d8er dc<b8 a2.>e4 a2b2 >c2d4e4 <a2.^8>c4<brarb8a8b8agfe
+Ch2 a2b2 >c2d4<b4 g8e8g8rd d8er dc<b8 a2.>e4 a2b2 >c2d4e8 f32f+32g32g+32 a1^1
+Ch3 (Sq)v--a2b2 >c2d4<b4 g8e8g8rd d8er dc<b8 a2.>e4 a2b2 >c2d4e4 <a2.^8>c4<brarb8a8b8agfe
+Ch3 a2b2 >c2d4<b4 g8e8g8rd d8er dc<b8 a2.>e4 a2b2 >c2d4e4 a1^1
+Ch4 f1g1a1^1 f1g1a1^1 f1g1a1^1 f1g1a1^1
 
-Ch0 r1
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H3)c(S2)cc (S)<g32g32f32f32e32e32d32d32 (B)c(S)c32c32c8 c8c8
+Ch5 r4.(S2)c8ccc8
