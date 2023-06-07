@@ -298,6 +298,92 @@ Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
 Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
 Ch5 (S2)c8cc (S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32 (S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32
 
+#-----------------------------------------------------------------------------
+# B2
+#  time: 4/4
+#   key: 1~7: Fm, 8: Em
+#  bars: 8
+# Chord: { C#(vi), D#(vii) | Fm } x 3
+#        | C#(vi), D#(vii) | C |
+#-----------------------------------------------------------------------------
+Ch0 k+
+Ch1 k+
+Ch2 k+
+Ch3 k+
+Ch4 k+
+Ch0 (Bass)o2ce(CG3)o4g(Bass)o2c ce(CG3)o4g(Bass)o2c df+(CG3)o4a(Bass)o2d df+(CG3)o4a(Bass)o2d
+Ch0 eg(CG3)o4b(Bass)o2g be(CG3)o4b(Bass)o2e eg(CG3)o4b(Bass)o2b gb(CG3)o4b(Bass)o2e
+Ch0 cc(CG3)o4g(Bass)o2c cc(CG3)o4g(Bass)o2c dd(CG3)o4a(Bass)o2d dd(CG3)o4a(Bass)o2d
+Ch0 (Bass)o2ee(CG3)o4b(Bass)o2e ee(CG3)o4b(Bass)o2e ee(CG3)o4b(Bass)o2e e>be<e
+Ch1 r8(CG3)o4v13cr8.cr8.dr8.dr r8er8.er8.er8.er
+Ch1 r4(Brass)v13o5d4<b8>d4 <b4. r8g32g+32a32a+32 b4.r8
+Ch2 (Brass)v14o5 e4.r8 d4.r8 <b4>d4e4.c32c+32d32d+32 e4f+4g4a8 e4d8<b8>d8 e4.r8
+Ch3 (Brass)v13o4 e4.r8 d4.r8 <b4>d4e4.c32c+32d32d+32 e4f+4g4a8 e4d8<b8>d8 e4.r8
+Ch4 (Pad2)o3v12 g2a2b1 g2a2b1
+Ch5 (B)c8(S)c8 (B)c(H3)c(H)c8 r8(H3)c8 (B)c8(S)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(S)c8 (B)c(H3)c(H)c8 (S)cccc
+Ch5 (B)c8(S)c8 (B)c(H3)c(H)c8 (H3)cc(H)c8 (B)c8(S)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(S)c8 (B)c(H3)c(H)c8 (S)cccc
+
+Ch0 c4 c64r32.c64r32.c8 dd>d<d d>d<a>d<
+Ch0 ee>e<e e>e<e>e< e8>e<e eg>e<e
+Ch0 c4.c64r32.c64r32. d8d64r32.d dd64r32.dd
+Ch0 d+d+bd+ d+d+bd+ d+d+>d+<d+ >d+<bf+d+
+Ch1 r8(CG3)o4cr8.cr8. dr8drd <r8br8.br8.br8.br>
+Ch1 r8cr8.cr8.dr8.dr8. d+r8.d+r8.f+r8.f+r
+Ch2 <b2a8b8agf+8 f+8g8f+ed8^2 e4f+4g4a8f+8 f+2.>e8g8
+Ch3 <b2a8b8agf+8 f+8g8f+ed8^2 e4f+4g4a8f+8 f+2. e8g8
+Ch4 g2a2b1 g2a2b1
+Ch5 (B)c8(S)c8 (S2)c(H3)c(H)c8 r8(H3)c8 (B)c8(S)c8
+Ch5 (B)c(H3)c(H)c8 (B)c(H3)c(S)c(S2)c (B)c(H3)c(H)c8 (S)cccc
+Ch5 (B)c8(S)c8 (B)c(H3)c(H)c8 (B)c(S)c(H3)c(S)c (B)c(H3)c(S)c8
+Ch5 v------------ c32c32v+ c32c32v+ c32c32v+ c32c32v+
+Ch5 c32c32v+ c32c32v+ c32c32v+ c32c32v+
+Ch5 c32c32v+ c32c32 c32c32v+ c32c32
+Ch5 c32c32v+ c32c32 c32c32v+ c32c32
+
+#-----------------------------------------------------------------------------
+# C2
+#  time: 4/4
+#   key: A#m
+#  bars: 16
+# Chord: { F#(vii) | G#(viii) | A#m(I) | A#m(I) } x 4
+#-----------------------------------------------------------------------------
+Ch0 fa>c<a fa>c<a fa>c<a fa>c<a  gb>d<b gb>d<b gb>d<b gb>d<b
+Ch0 a>cec< a>cec< a>cec< a>cec<  a>cec< a>cec< a>cec< a>e<ea
+Ch0 fa>c<a fa>c<a fa>c<a fa>c<a  gb>d<b gb>d<b gb>d<b gb>d<b
+Ch0 a>cec< a>cec< a>cec< a>cec<  a>cec< a>cec< a>cec< a>e<ea
+Ch0 fa>c<a fa>c<a fa>c<a fa>c<a  gb>d<b gb>d<b gb>d<b gb>d<b
+Ch0 a>cec< a>cec< a>cec< a>cec<  a>cec< a>cec< a>cec< a>e<ea
+Ch0 fa>c<a fa>c<a fa>c<a fa>c<a  gb>d<b gb>d<b gb>d<b gb>d<b
+Ch0 a>cec< a>cec< a>cec< a>cec<  a>cec< a>cec< a>cec< a>e<ea
+Ch1 r8a8r8a8r8a8r8a8 r8b8r8b8r8b8r8b8 >r8c8r8c8r8c8r8c8 r8c8r8c8r8c8r8c8<
+Ch1 r8a8r8a8r8a8r8a8 r8b8r8b8r8b8r8b8 >r8c8r8c8r8c8r8c8 r8c8r8c8r8c8r8c8<
+Ch1 r8a8r8a8r8a8r8a8 r8b8r8b8r8b8r8b8 >r8c8r8c8r8c8r8c8 r8c8r8c8r8c8r8c8<
+Ch1 r8a8r8a8r8a8r8a8 r8b8r8b8r8b8r8b8 >r8c8r8c8r8c8r8c8 r8c8r8c8r8c8r8c8<
+Ch2 a2b2 >c2d4<b4 g8e8g8rd d8er dc<b8 a2.>e4 a2b2 >c2d4e4 <a1^2.e4
+Ch2 a2b2 >c2d4<b4 g8e8g8rd d8er dc<b8 a2.>e4 a2b2 >c2d4e8 f32f+32g32g+32 a1^1
+Ch3 a2b2 >c2d4<b4 g8e8g8rd d8er dc<b8 a2.>e4 a2b2 >c2d4e4 <a1^2.e4
+Ch3 a2b2 >c2d4<b4 g8e8g8rd d8er dc<b8 a2.>e4 a2b2 >c2d4e4 a1^1
+Ch4 f1g1a1^1 f1g1a1^1 f1g1a1^1 f1g1a1^1
+
+Ch5 (HH)c4 (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H3)c(S)c(H3)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H2)c(S)c(H)c (B)c(H2)c(S)c(H)c (B)c(S)c(S2)c(S)c (B)c(H2)c(S)c(H)c
+Ch5 (B)c(H3)c(S2)cc (S)<g32g32f32f32e32e32d32d32 (B)c(S)c32c32c8 c8c8
+
 #Ch0 r1p-0(Sq)v13o4 c1
 #Ch1 r1p-0(Sq)v13o4 e1
 #Ch2 r1p-0(Sq)v13o4 g1
