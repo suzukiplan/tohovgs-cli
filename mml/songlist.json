@@ -1,5 +1,5 @@
 {
-    "version": "2023.05.28",
+    "version": "2023.06.08",
     "albums": [
         {
             "appleId": "1438613504",
@@ -815,6 +815,14 @@
                     "loop": 1,
                     "name": "今昔幻想郷　～ Flower Land",
                     "english": "Konjaku Gensokyo　～ Flower Land"
+                },
+                {
+                    "appleId": "1581516135",
+                    "mml": "TH09-14",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "彼岸帰航　〜 Riverside View",
+                    "english": "Higan Homeward Voyage　〜 Riverside View"
                 },
                 {
                     "appleId": "1581516136",
