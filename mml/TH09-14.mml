@@ -248,6 +248,56 @@ Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
 Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
 Ch5 (S2)c8cc (S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32 (S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32
 
+#-----------------------------------------------------------------------------
+# A3
+#  time: 3/4
+#   key: Em
+#  bars: 16
+# Chord: { Em(I) | Em(I) | C(vi) | D(vii) } x 4
+#-----------------------------------------------------------------------------
+Ch0 e8>ee64r32.< e8>ee64r32.< e8>ee64r32.<  e8>ee64r32.< e8>ee64r32.< e8>ee64r32.<
+Ch0 c8>cc64r32.< c8>cc64r32.< c8>cc64r32.<  d8>dd64r32.< d8>dd64r32.< d8>dd64r32.<
+Ch0 e8>ee64r32.< e8>ee64r32.< e8>ee64r32.<  e8>ee64r32.< e8>ee64r32.< e8>ee64r32.<
+Ch0 c8>cc64r32.< c8>cc64r32.< c8>cc64r32.<  d8>dd64r32.< d8>dd64r32.< d8>dd64r32.<
+Ch0 e8>ee64r32.< e8>ee64r32.< e8>ee64r32.<  e8>ee64r32.< e8>ee64r32.< e8>ee64r32.<
+Ch0 c8>cc64r32.< c8>cc64r32.< c8>cc64r32.<  d8>dd64r32.< d8>dd64r32.< d8>dd64r32.<
+Ch0 e8>ee64r32.< e8>ee64r32.< e8>ee64r32.<  e8>ee64r32.< e8>ee64r32.< e8>ee64r32.<
+Ch0 c8>cc64r32.< c8>cc64r32.< c8>cc64r32.<  d8>dd64r32.< d8>dd64r32.< d8>dd64r32.<
+
+Ch1 (CG5)v12o4 b4a4>d4 <b4a4g4 f+8g8a4g4 f+4d4<a4> b4a4>d4 <b4>e4f+4 g8f+8e4d4 e4<a8g8f+8d8
+Ch1 o4 b4a4>d4 <b4a4g4 f+8g8a4g4 f+4d4<a4> b4a4>d4 <b4>e4f+4 g8f+8e4d4 (Sq)<g32>e2^8.^32
+
+Ch2 b8.ra4>d4< b8.ra4g4 f+8g8a4g4 f+8g8f+rdr<a4>
+Ch3 g8.rf+4b4 g8.rf+4e4 d8e8f+4e4 d8e8dr<brf+4>
+Ch2 b8.ra4>d4< b8.ra8.rg8.r f+8g8a4b4 f+2.
+Ch3 g8.rf+4b4 g8.rf+8.re8.r d8e8f+4g4 d2.
+Ch2 b8.ra4>d4< b8.ra4g4 f+8g8a4g4 f+8g8f+rdr<a4>
+Ch3 g8.rf+4b4 g8.rf+4e4 d8e8f+4e4 d8e8dr<brf+4>
+Ch2 b8.ra4>d4< b8.r>e4f+4 g8f+8e4d4 e2.
+Ch3 g8.rf+4b4 g8.rb4b4 b8a8g4f+4 g2.
+
+Ch4 (CG5)v12o4 aged egb>d egb>d  <baed <baed <baed  <b>deg b>deg b>deg  ar<a8> f+r<f+8> dr<d8
+Ch4 aged egb>d egb>d  <baed <baed <baed  <b>deg b>deg b>deg  af+d<a gf+d<a gf+d<a
+Ch4 o4 aged egb>d egb>d  <baed <baed <baed  <b>deg b>deg b>deg  ar<a8> f+r<f+8> dr<d8
+Ch4 aged egb>d egb>d  <baed <baed <baed  <b>deg b>deg b>deg  af+d<a gf+d<a gf+d<a
+
+Ch5 (HH)c4 (S)c(H3)c(H)c8 (B)c(H2)c(B)c(H2)c
+Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
+Ch5 (S)c8(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c(H3)c(H)c8 (B)c(H2)c(B)c(H2)c
+Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
+Ch5 (S)c8(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c(H3)c(H)c8 (B)c(H2)c(B)c(H2)c
+Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
+Ch5 (S)c8(H)c8 (B)c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (HH)c4 (S)c(H3)c(H)c8 (B)c(H2)c(B)c(H2)c
+Ch5 (S)c(H3)c(B)c(H)c (B)c(H2)c(B)c(H2)c (S)c(H3)c(H)c8
+Ch5 (B)c(H3)c(H)c8 (S)c(H)c(B)c(H3)c (B)c(H3)c(H)c8
+Ch5 (S2)c8cc (S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32 (S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32(S)c32(S2)v-----c32
+
 #Ch0 r1p-0(Sq)v13o4 c1
 #Ch1 r1p-0(Sq)v13o4 e1
 #Ch2 r1p-0(Sq)v13o4 g1
