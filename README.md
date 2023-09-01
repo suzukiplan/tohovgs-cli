@@ -3,7 +3,7 @@
 ## About
 
 - コマンドライン上で動作する 東方 BGM on VGS です
-- 今の所 macOS 専用 です
+- 今の所 macOS と Linux にのみ対応しています
 - このリポジトリの　[./mml](./mml)　ディレクトリが、東方 BGM on VGS の楽曲配信サーバのデータソースになっているので、最新の楽曲配信の情報はコチラのリポジトリをチェックしていただくのが一番手っ取り早いです
   - 現在の仕込み状況は [Open 中の Pull Request](https://github.com/suzukiplan/tohovgs-cli/pulls) で確認できます
   - 配信済み楽曲の情報は [Closed Pull Request](https://github.com/suzukiplan/tohovgs-cli/pulls?q=is%3Apr+is%3Aclosed) で確認できます
@@ -12,6 +12,8 @@
   - 独自のプログラムから楽曲配信サーバにアクセスしたい場合は [gh-pages](https://suzukiplan.github.io/tohovgs-cli/mml/songlist.json) からアクセスする方法もあり、それなら私の通信料負担は発生しないので助かります
 
 ## How to setup
+
+### macOS
 
 XCODE をインストール & セットアップ済みの macOS の Terminal で以下のコマンドを実行すれば起動できます。（2 回目以降は `make` のみ実行すれば OK）
 
@@ -38,6 +40,15 @@ Playing mml/BSLOT026.mml 東方妖々夢　〜 Ancient Temple ... OK
 Playing mml/BSLOT045.mml 永夜の報い　〜 Imperishable Night. ... OK
 Playing mml/BSLOT101.mml 緑眼のジェラシー ... OK
 ：
+```
+
+### Linux
+
+Need install ALSA before build and execute.
+
+```
+sudo apt-get install libasound2
+sudo apt-get install libasound2-dev
 ```
 
 ## How to update

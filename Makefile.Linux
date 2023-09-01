@@ -1,0 +1,19 @@
+SOURCE=src/miniz.c\
+	src/BufferQueue.cpp\
+	src/sound-linux.cpp\
+	src/tohovgs.cpp\
+	src/vgs2tone.c\
+	src/vgsdec.c\
+	src/vgsmml.c
+
+all: build
+	./tohovgs -s -i playlist.csv
+
+build: tohovgs
+
+install: tohovgs
+	rm -f /usr/local/bin/tohovgs
+	ln -s `pwd`/tohovgs /usr/local/bin/tohovgs
+
+tohovgs: $(SOURCE)
+	g++ -std=c++11 -Os -o tohovgs $(SOURCE) -lasound
