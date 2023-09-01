@@ -122,7 +122,7 @@ struct VgsBgmData* __stdcall vgsmml_compile_from_file(const char* path, struct V
     }
 
     /* get text buffer */
-    if (NULL == (data = malloc(size + 1))) {
+    if (NULL == (data = (char*)malloc(size + 1))) {
         strcpy(err->message, "no memory");
         err->code = VGSMML_ERR_NO_MEMORY;
         fclose(fp);

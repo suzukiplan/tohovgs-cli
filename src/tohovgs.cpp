@@ -27,12 +27,16 @@ SOFTWARE.
 #include "sound-ios.h"
 #include "vgsdec.h"
 #include "vgsmml.h"
-#include <IOKit/hid/IOHIDManager.h>
 #include <ctype.h>
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <unistd.h>
+
+#ifdef __APPLE__
+#include <IOKit/hid/IOHIDManager.h>
+#endif
 
 struct PlayList {
     char path[1024];
@@ -176,7 +180,12 @@ static struct PlayList* shuffle()
 
 static volatile bool playThreadFlag;
 static volatile int playThreadLoop;
+#ifdef __APPLE__
 static volatile CFRunLoopRef playThreadRL;
+#else
+static volatile bool haltPlaying;
+#endif
+
 void* playThread(void* arg)
 {
     short sbuf[441];
@@ -195,12 +204,16 @@ void* playThread(void* arg)
             }
             if (0 == vgsdec_get_value(fs_vgsdec, VGSDEC_REG_PLAYING)) {
                 // HALT playing
-                playThreadFlag = false;
+#ifdef __APPLE__
                 CFRunLoopStop(playThreadRL);
+#else
+                haltPlaying = true;
+#endif
                 break;
             }
         }
     }
+    playThreadFlag = false;
     return NULL;
 }
 
@@ -222,7 +235,11 @@ static void play(struct PlayList* list)
     pthread_t tid;
     playThreadFlag = true;
     playThreadLoop = list->loop;
+#ifdef __APPLE__
     playThreadRL = CFRunLoopGetCurrent();
+#else
+    haltPlaying = false;
+#endif
     if (fs_initialJump) {
         vgsdec_set_value(fs_vgsdec, VGSDEC_REG_TIME, fs_initialJump * 22050);
     }
@@ -231,7 +248,13 @@ static void play(struct PlayList* list)
     memset(&param, 0, sizeof(param));
     param.sched_priority = 46;
     pthread_setschedparam(tid, SCHED_OTHER, &param);
+#ifdef __APPLE__
     CFRunLoopRun(); // Wait for HALT playing
+#else
+    while (!haltPlaying) {
+        usleep(1000);
+    }
+#endif
     playThreadFlag = false;
     pthread_join(tid, NULL);
 }
