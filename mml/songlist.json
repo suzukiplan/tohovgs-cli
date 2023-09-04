@@ -781,8 +781,8 @@
                     "mml": "TH09-09",
                     "ver": 0,
                     "loop": 1,
-                    "name": "もう歌しか聞こえない　～ Flower Mix",
-                    "english": "Unwittingly，Distracted with her Song　～ Flower Mix"
+                    "name": "もう歌しか聞こえない　〜 Flower Mix",
+                    "english": "Unwittingly，Distracted with her Song　〜 Flower Mix"
                 },
                 {
                     "appleId": "1581516131",
@@ -805,16 +805,16 @@
                     "mml": "TH09-12",
                     "ver": 0,
                     "loop": 1,
-                    "name": "ポイズンボディ　～ Forsaken Doll",
-                    "english": "Poison Body　～ Forsaken Doll"
+                    "name": "ポイズンボディ　〜 Forsaken Doll",
+                    "english": "Poison Body　〜 Forsaken Doll"
                 },
                 {
                     "appleId": "1581516134",
                     "mml": "TH09-13",
                     "ver": 0,
                     "loop": 1,
-                    "name": "今昔幻想郷　～ Flower Land",
-                    "english": "Konjaku Gensokyo　～ Flower Land"
+                    "name": "今昔幻想郷　〜 Flower Land",
+                    "english": "Konjaku Gensokyo　〜 Flower Land"
                 },
                 {
                     "appleId": "1581516135",
@@ -1019,8 +1019,8 @@
                     "mml": "TH11-03",
                     "ver": 0,
                     "loop": 1,
-                    "name": "封じられた妖怪　～ Lost Place",
-                    "english": "Sealed Yokai　～ Lost Place"
+                    "name": "封じられた妖怪　〜 Lost Place",
+                    "english": "Sealed Yokai　〜 Lost Place"
                 },
                 {
                     "appleId": "1581358331",
@@ -1099,8 +1099,8 @@
                     "mml": "TH11-13",
                     "ver": 0,
                     "loop": 1,
-                    "name": "霊知の太陽信仰　～ Nuclear Fusion",
-                    "english": "Heliolithic of Mystic Wisdom　～ Nuclear Fusion"
+                    "name": "霊知の太陽信仰　〜 Nuclear Fusion",
+                    "english": "Heliolithic of Mystic Wisdom　〜 Nuclear Fusion"
                 },
                 {
                     "appleId": "1581358341",
@@ -1131,8 +1131,8 @@
                     "mml": "TH11-17",
                     "ver": 0,
                     "loop": 1,
-                    "name": "エネルギー黎明 ～ Future Dream...",
-                    "english": "Energy Dawn ～ Future Dream..."
+                    "name": "エネルギー黎明 〜 Future Dream...",
+                    "english": "Energy Dawn 〜 Future Dream..."
                 }
             ]
         },
@@ -1140,7 +1140,7 @@
             "appleId": "1581358392",
             "albumId": "th12",
             "name": "東方星蓮船",
-            "formalName": "東方星蓮船　～ Undefined Fantastic Object.",
+            "formalName": "東方星蓮船　〜 Undefined Fantastic Object.",
             "copyright": "(c)2009 上海アリス幻樂団",
             "compatColor": 35,
             "defaultLocked": true,
@@ -1337,8 +1337,8 @@
                     "mml": "TH12_8-06",
                     "ver": 0,
                     "loop": 1,
-                    "name": "妖精大戦争　～ Faily Wars",
-                    "english": "Fairy Wars　～ Faily Wars"
+                    "name": "妖精大戦争　〜 Faily Wars",
+                    "english": "Fairy Wars　〜 Faily Wars"
                 },
                 {
                     "appleId": "1581358620",
@@ -1378,7 +1378,7 @@
             "appleId": "1581358516",
             "albumId": "TH13",
             "name": "東方神霊廟",
-            "formalName": "東方神霊廟　～ Ten Desires.",
+            "formalName": "東方神霊廟　〜 Ten Desires.",
             "copyright": "(c)2011 上海アリス幻樂団",
             "compatColor": 35,
             "defaultLocked": true,
@@ -1476,7 +1476,7 @@
                     "mml": "TH13-13",
                     "ver": 0,
                     "loop": 1,
-                    "name": "聖徳伝説　～ True Administrator",
+                    "name": "聖徳伝説　〜 True Administrator",
                     "english": "Shotoku Legend　〜 True Administrator"
                 },
                 {
