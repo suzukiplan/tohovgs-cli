@@ -1,5 +1,5 @@
 {
-    "version": "2023.06.08",
+    "version": "2023.11.13",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1494,6 +1494,25 @@
                     "loop": 1,
                     "name": "佐渡の二ッ岩",
                     "english": "Futatsuiwa from Sado"
+                }
+            ]
+        },
+        {
+            "appleId": "1581358500",
+            "albumId": "TH14",
+            "name": "東方輝針城",
+            "formalName": "東方輝針城　〜 Double Dealing Character.",
+            "copyright": "(c)2013 上海アリス幻樂団",
+            "compatColor": 7,
+            "defaultLocked": true,
+            "songs": [
+                {
+                    "appleId": "1581358501",
+                    "mml": "TH14-01",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "不思議なお祓い棒",
+                    "english": "Mysterious Purified Stick"
                 }
             ]
         }
