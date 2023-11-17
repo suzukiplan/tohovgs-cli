@@ -1,5 +1,5 @@
 {
-    "version": "2023.11.13",
+    "version": "2023.11.17",
     "albums": [
         {
             "appleId": "1438613504",
@@ -1513,6 +1513,14 @@
                     "loop": 1,
                     "name": "不思議なお祓い棒",
                     "english": "Mysterious Purified Stick"
+                },
+                {
+                    "appleId": "1581358502",
+                    "mml": "TH14-02",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "ミストレイク",
+                    "english": "Mist Lake"
                 }
             ]
         }
