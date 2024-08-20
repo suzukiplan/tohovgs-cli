@@ -1,6 +1,25 @@
 {
-    "version": "2023.11.17",
+    "version": "2024.08.20",
     "albums": [
+        {
+            "appleId": "1437763647",
+            "albumId": "th01",
+            "name": "東方靈異伝",
+            "formalName": "東方靈異伝　〜 Highly Responsive to Prayers",
+            "copyright": "(c)1996 ZUN Soft",
+            "compatColor": 7,
+            "defaultLocked": true,
+            "songs": [
+                {
+                    "appleId": null,
+                    "mml": "TH01-16",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "風の神社",
+                    "english": "Wind Shinto Shrine"
+                }
+            ]
+        },
         {
             "appleId": "1438613504",
             "albumId": "th04",
