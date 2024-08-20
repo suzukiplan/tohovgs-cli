@@ -3,6 +3,9 @@
 # - 2列目: ループ回数（0: 非ループ曲 or 無限ループ, 1以上: ループ回数）
 # - 3列目: 曲タイトル
 
+# 東方靈異伝
+mml/TH01-16.mml, 1, 風の神社
+
 # 東方幻想郷
 mml/TH04-01.mml, 1, 幻想郷　〜 Lotus Land Story
 mml/TH04-02.mml, 1, Witching Dream
