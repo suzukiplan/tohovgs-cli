@@ -1,0 +1,302 @@
+# The Positive and Negative
+# https://music.apple.com/jp/album/the-positive-and-negative/1437763647?i=1437763650
+$Brass \s66 \e9999 @1 %75
+$Brass2 \s893 \e6000 @1 %75
+$Brass3 \s300 \e22050 @1 %80
+$Brass0 \s66 \e9999 @0 %75
+$Bass  \s100 \e200 @2 %90
+$BassKE  \s100 \e8000 @2 %99
+$BassKSE \s1 \e8000 @2 %99
+$BassKS  \s1 \e200 @2 %90
+$Bass2 \s100 \e200 @0 %90
+$EP \s30 \e19000 @0 %44
+$CG3 \s30 \e8000 @1 %20 p-0
+$CG4 \s30 \e15000 @2 %20
+$CG5 \s30 \e8000 @2 %20
+$CG5a \s30 \e8000 @2 %40
+$CG6 \s30 \e80 @2 %20
+$CG7 \s100 \e5000 @0 %90
+$Sq \s666 \e9999 @2 %75
+$Sq2 \s600 \e11025 @2 %70
+$Sq3 \s30 \e8000 @0 %80
+$Pad \s33333 \e22050 @2 %77
+$Pad2 \s11050 \e22050 @1 %80
+$B  \s10 \e1000 p-128 @0 %10 v35 o3
+$BB \s10 \e1000 p-999 @3 %55 v14 o2
+$S  \s1  \e1000 p-128 @3 %20 v20 o4
+$S2 \s1  \e1000 p-96  @3 %10 v18 o4
+$H  \s1  \e1000 p-64  @3 %75 v10 o2
+$HH \s1  \e1000 p-64  @3 %75 v15 o2
+$H2 \s1  \e1000 p-80  @3 %50 v10 o2
+$H3 \s1  \e10   p-80  @3 %25 v11 o3
+$H3a \s1 \e100  p-60  @3 %35 v14 o4
+$GT %77\s90\e2500@3
+$TH %77\s30\e2500@3p-100 o5 v8
+$TM %77\s60\e2000@3p-200 o4 v11
+$TL %77\s90\e1500@3p-300 o3 v14
+
+#-----------------------------------------------------------------------------
+Ch0 t181 m8 r1024 l16 |
+Ch1         r1024 l16
+Ch2         r1024 l16
+Ch3         r1024 l16
+Ch4         r1024 l16
+Ch5         r1024 l16
+
+#-----------------------------------------------------------------------------
+# I in Gm
+# | Gm | F | E♭ | F | x2
+# | E♭ | F |
+# | nc | x0.5
+#-----------------------------------------------------------------------------
+Ch0 (Bass)v13o3
+Ch0 gg>d<g g>d<g>d< gg>d<g g>d<g>d<
+Ch0 ff>c<f f>c<f>c< ff>c<f f>c<f>c<
+Ch0 e-e-b-e- e-b-e-b- e-e-b-e- e-b-e-b-
+Ch0 ff>c<f f>c<f>c< ff>c<f f>c<f>c<
+Ch0 gg>d<g g>d<g>d< gg>d<g g>d<g>d<
+Ch0 ff>c<f f>c<f>c< ff>c<f f>c<f>c<
+Ch0 e-e-b-e- e-b-e-b- e-e-b-e- e-b-e-b-
+Ch0 ff>c<f f>c<f>c< ff>c<f f>c<f>c<
+Ch0 e-e-b-e- e-b->e-<b- >e-<b-e-b- e-b->e-<b-
+Ch0 ff>f<f >c<fcf ff>f<f f>f<f>f<
+Ch0 r2
+
+Ch1 (Brass)v13o2
+Ch1 g1f1e-1f1 g1f1e-1f1 e-1f1
+Ch1 r2
+
+Ch2 (CG5)v14o4
+Ch2 g8g8>g8<g8 g8g8>g8<g8
+Ch2 g8g8>g8<g8 g8g8>g8<g8
+Ch2 g8g8>g8<g8 g8g8>g8<g8
+Ch2 g8g8>g8<g8 g8g8>g8<g8
+Ch2 g8g8>g8<g8 g8g8>g8<g8
+Ch2 g8g8>g8<g8 g8g8>g8<g8
+Ch2 g8g8>g8<g8 g8g8>g8<g8
+Ch2 g8g8>g8<g8 g8g8>g8<g8
+Ch2 e-8e-8b-8e-8 a8g8f8g8
+Ch2 f8f8>c8<f8 a8b-8a8b-8
+Ch2 r2
+
+Ch3 (CG3)v14o4
+Ch3 d8d8>d8<d8 d8d8>d8<d8
+Ch3 d8d8>d8<d8 d8d8>d8<d8
+Ch3 d8d8>d8<d8 d8d8>d8<d8
+Ch3 d8d8>d8<d8 d8d8>d8<d8
+Ch3 d8d8>d8<d8 d8d8>d8<d8
+Ch3 d8d8>d8<d8 d8d8>d8<d8
+Ch3 d8d8>d8<d8 d8d8>d8<d8
+Ch3 d8d8>d8<d8 d8d8>d8<d8
+Ch3 <b-8b-8>e-8<b-8 >f8e-8c8e-8
+Ch3 c8c8f8c8 f8g8f8g8
+Ch3 r2
+
+Ch4 r1 (CG3)@0o6v5
+Ch4 gaga v+ gaga v+ gaga v+ gaga v+
+Ch4 gaga v+ gaga v+ gaga v+ gaga v-
+Ch4 gaga v- gaga v- gaga v- gaga
+Ch4 r1
+Ch4 gaga v+ gaga v+ gaga v+ gaga v+
+Ch4 gaga v+ gaga v+ gaga v+ gaga v-
+Ch4 gaga v- gaga v- gaga v- gaga
+Ch4 (Pad)o5v15 e-1 (Sq)v12 f1 r2
+
+Ch5 (HH)c4 (HH)c(H3)c(H2)c(H)c (H3)c(H2)c(H)c(H2)c (HH)c(H3)c(H2)c(H)c
+Ch5 (H3)c(H2)c(H)c(H2)c (HH)c(H3)c(H2)c(H)c (H3)c(H2)c(H)c(H2)c (HH)c(H3)c(H2)c(H)c
+Ch5 (H3)c(H2)c(H)c(H2)c (HH)c(H3)c(H2)c(H)c (H3)c(H2)c(H)c(H2)c (HH)c(H3)c(H2)c(H)c
+Ch5 (H3)c(H2)c(H)c(H2)c (HH)c(H3)c(H2)c(H)c (H3)c(H2)c(H)c(H2)c (B)c8(H)c8
+Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc
+Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc
+Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc
+Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c(S)c8.c4
+Ch5 (HH)c2 (S)c(B)cc (S)c(B)cc (S)c(B)c
+Ch5 (HH)c4 (H3)cccc (S)c8.c c32c32ccc
+Ch5 r4(H3)cc(H)c8
+
+#-----------------------------------------------------------------------------
+# A1 in A♭m
+# | A♭m | G♭ | F♭ | G♭ | x2
+#-----------------------------------------------------------------------------
+Ch0 t180
+Ch0 e-1d-1c-1d-1
+Ch0 e-1d-1c-1d-1
+
+Ch1 a-a->e-<a- a->e-<a->e-< a-a->e-<a- a->e-<a->e-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 f-f->c-<f- f->c-<f->c-< f-f->c-<f- f->c-<f->c-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 a-a->e-<a- a->e-<a->e-< a-a->e-<a- a->e-<a->e-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 f-f->c-<f- f->c-<f->c-< f-f->c-<f- f->c-<f->c-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+
+Ch2 o5
+Ch2 e-8e-8e-8e-8 a-8e-8>c-8<e-8  b-8e-8a-8e-8 g-8e-8a-8e-8
+Ch2 e-8e-8e-8e-8 a-8e-8>c-8<e-8  b-8e-8a-8e-8 g-8e-8a-8e-8
+Ch2 e-8e-8e-8e-8 a-8e-8>c-8<e-8  b-8e-8a-8e-8 g-8e-8>d-8<e-8
+Ch2 e-8e-8e-8e-8 a-8e-8>c-8<e-8  b-8e-8a-8e-8 g-8b-8>c-8d-8
+
+Ch3 o5
+Ch3 c-8c-8c-8c-8 e-8c-8a-8c-8  g-8c-8e-8c-8 e-8c-8e-8c-8
+Ch3 c-8c-8c-8c-8 e-8c-8a-8c-8  g-8c-8e-8c-8 e-8c-8e-8c-8
+Ch3 c-8c-8c-8c-8 e-8c-8a-8c-8  g-8c-8e-8c-8 e-8c-8b-8c-8
+Ch3 c-8c-8c-8c-8 e-8c-8a-8c-8  g-8c-8e-8c-8 e-8g-8a-8b-8
+
+Ch4 (CG3)v12o3
+Ch4 a-e->e-c- >c-<c-e-c- a-c-e-c- >c-<c-e-<e-  g-c-e-c- >e-<a->c-<e- a-<a->>c-<c- >e-c-<a-e-
+Ch4 a-e->e-c- >c-<c-e-c- a-c-e-c- >c-<c-e-<e-  g-c-e-c- >e-<a->c-<e- a-<a->>c-<c- >e-c-<a-e-
+Ch4 a-e->e-c- >c-<c-e-c- a-c-e-c- >c-<c-e-<e-  g-c-e-c- >e-<a->c-<e- a-<a->>c-<c- >e-c-<a-e-
+Ch4 a-e->e-c- >c-<c-e-c- a-c-e-c- >c-<c-e-<e-  g-c-e-c- >e-<a->c-<e- a-<a->>c-<c- >e-c-<a-e-
+
+Ch5 (HH)c4 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)cc c8c8
+Ch5 (HH)c4 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (S)cccc cccc
+
+#-----------------------------------------------------------------------------
+# A2 in A♭m
+# | A♭m | G♭ | F♭ | G♭ | x2
+#-----------------------------------------------------------------------------
+Ch0 t181
+Ch0 e-1d-1c-1d-1
+Ch0 e-1d-1c-1d-1
+
+Ch1 a-a->e-<a- a->e-<a->e-< a-a->e-<a- a->e-<a->e-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 f-f->c-<f- f->c-<f->c-< f-f->c-<f- f->c-<f->c-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 a-a->e-<a- a->e-<a->e-< a-a->e-<a- a->e-<a->e-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 f-f->c-<f- f->c-<f->c-< f-f->c-<f- f->c-<f->c-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+
+Ch2 o6
+Ch2 c-8c-8c-8c-8 e-8c-8a-8c-8  b-8c-8a-8c-8 g-8c-8a-8c-8
+Ch2 c-8c-8c-8c-8 e-8c-8a-8c-8  b-8c-8a-8c-8 g-8c-8a-8c-8
+Ch2 c-8c-8c-8c-8 e-8c-8a-8c-8  b-8c-8a-8c-8 g-8a-8>c-8<a-8
+Ch2 c-8c-8c-8c-8 e-8c-8a-8c-8  b-8c-8a-8c-8 g-8a-8b-8>c-8
+
+Ch3 o5
+Ch3 e-8e-8e-8e-8 a-8e-8>c-8<e-8  >g-8<e-8>e-8<e-8 >d-8<e-8>e-8<e-8
+Ch3 e-8e-8e-8e-8 a-8e-8>c-8<e-8  >g-8<e-8>e-8<e-8 >d-8<e-8>e-8<e-8
+Ch3 e-8e-8e-8e-8 a-8e-8>c-8<e-8  >g-8<e-8>e-8<e-8 >d-8c-8a-8c-8<
+Ch3 e-8e-8e-8e-8 a-8e-8>c-8<e-8  >g-8<e-8>e-8<e-8 >e-8c-8g-8e-8
+
+Ch4 (CG3)v12o3
+Ch4 a-e->e-c- >c-<c-e-c- a-c-e-c- >c-<c-e-<e-  g-c-e-c- >e-<a->c-<e- a-<a->>c-<c- >e-c-<a-e-
+Ch4 a-e->e-c- >c-<c-e-c- a-c-e-c- >c-<c-e-<e-  g-c-e-c- >e-<a->c-<e- a-<a->>c-<c- >e-c-<a-e-
+Ch4 a-e->e-c- >c-<c-e-c- a-c-e-c- >c-<c-e-<e-  g-c-e-c- >e-<a->c-<e- a-<a->>c-<c- >e-c-<a-e-
+Ch4 a-e->e-c- >c-<c-e-c- a-c-e-c- >c-<c-e-<e-  g-c-e-c- >e-<a->c-<e- a-<a->>c-<c- >e-c-<a-e-
+
+Ch5 (HH)c4 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)cc c8c8
+Ch5 (HH)c4 (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (B)cc(S)c(H2)c (B)c(H3)c(S)c(H2)c
+Ch5 (B)cc(S)c(H3)c (B)c(H3)c(S)c(H2)c (S)cccc cccc
+
+#-----------------------------------------------------------------------------
+# B1 in A♭m
+# | A♭m | G♭ | F♭ | G♭ | x2
+#-----------------------------------------------------------------------------
+Ch0 t178
+Ch0 e-1d-1
+Ch1 a-a->e-<a- a->e-<a->e-< a-a->e-<a- a->e-<a->e-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch2 (Brass)v14o5 e-2.g-8a-8 e-2.rd-e-d-
+Ch3 (Sq)v14o4 e-2.g-8a-8 e-2.rd-e-d-
+Ch4 (CG3)v13o4 e-8e-8e-8e-8a-8e-8>c-8<e-8  b-8e-8a-8e-8g-8e-8a-8e-8
+Ch5 (HH)c2r2 c2r2
+
+Ch0 t180
+Ch0 c-1
+Ch1 f-f->c-<f- f->c-<f->c-< f-f->c-<f- f->c-<f->c-<
+Ch2 e-2.a-8b-8
+Ch3 e-2.a-8b-8
+Ch4 e-8e-8e-8e-8a-8e-8>c-8<e-8
+Ch5 c2r2
+
+Ch0 t182
+Ch0 d-1
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch2 >c-2.<b-4
+Ch3 >c-2.<b-4
+Ch4 b-8e-8a-8e-8g-8e-8a-8e-8
+Ch5 c2r4 (B)c(H3)c(H)c8
+
+Ch0 t182
+Ch0 e-1d-1c-1d-1
+Ch1 a-a->e-<a- a->e-<a->e-< a-a->e-<a- a->e-<a->e-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 f-f->c-<f- f->c-<f->c-< f-f->c-<f- f->c-<f->c-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch2 >c-8<b-8a-2.  >c-8<b-8a-2.  >c-8<b-8a-2>d-4 c-4r8<b-4.g-4
+Ch3 >c-8<b-8a-2.  >c-8<b-8a-2.  >c-8<b-8a-2>d-4 c-4r8<b-4.g-4
+Ch4 e-8e-8e-8e-8a-8e-8>c-8<e-8  b-8e-8a-8e-8g-8e-8a-8e-8
+Ch4 e-8e-8e-8e-8a-8e-8>c-8<e-8  b-8e-8a-8e-8g-8e-8a-8e-8
+Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc
+Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc
+Ch5 (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc (B)c8(H3)cc
+Ch5 (B)c8(H3)cc (B)c8(H3)cc (S)cccc <g32g32f32f32e32e32d32d32
+
+#-----------------------------------------------------------------------------
+# B2 in A♭m
+# | A♭m | G♭ | F♭ | G♭ | x2
+#-----------------------------------------------------------------------------
+Ch0 t181
+Ch0 e-1d-1c-1d-1
+Ch0 e-1d-1c-1d-1
+
+Ch1 a-a->e-<a- a->e-<a->e-< a-a->e-<a- a->e-<a->e-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 f-f->c-<f- f->c-<f->c-< f-f->c-<f- f->c-<f->c-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 a-a->e-<a- a->e-<a->e-< a-a->e-<a- a->e-<a->e-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+Ch1 f-f->c-<f- f->c-<f->c-< f-f->c-<f- f->c-<f->c-<
+Ch1 g-g->d-<g- g->d-<g->d-< g-g->d-<g- g->d-<g->d-<
+
+Ch2 e-8a-8>c-8<b-8 >d-8c-8<b-8>c-8
+Ch2 c-8<b-8a-8e-8 d-8c-8<b-8g-8
+Ch2 >d-8c-8<b-8>c-8 c-8<b-8a-8e-8
+Ch2 >c-8<b-8a-8e-8 >d-8c-8<b-8>c-8
+Ch2 <<a-8b-8>c-8<b-8 >c-8e-8a-8b-8
+Ch2 >c-8d-8e-8c-8 d-8e-8a-8b-8
+Ch2 b-8>c-8c-8c-8 c-4<b-4>
+Ch2 c-8c-8c-8c-8 c-8c-8c-8c-8
+
+Ch3 e-8a-8>c-8<b-8 >d-8c-8<b-8>c-8
+Ch3 c-8<b-8a-8e-8 d-8c-8<b-8g-8
+Ch3 >d-8c-8<b-8>c-8 c-8<b-8a-8e-8
+Ch3 >c-8<b-8a-8e-8 >d-8c-8<b-8>c-8
+Ch3 <<a-8b-8>c-8<b-8 >c-8e-8a-8b-8
+Ch3 >c-8d-8e-8c-8 d-8e-8a-8b-8
+Ch3 b-8>c-8c-8c-8 c-4<b-4>
+Ch3 c-8c-8c-8c-8 c-8c-8c-8c-8
+
+Ch4 v14@0o5
+Ch4 e-c-e-a- >c-<c-e-<e- >e-c-e-a- >d-<d-e-<e->
+Ch4 e-c-e-a- >c-<c-e-<e- >e-c-e-a- >d-<d-e-<e->
+Ch4 e-c-e-a- >c-<c-e-<e- >e-c-e-a- >d-<d-e-<e->
+Ch4 e-c-e-a- >c-<c-e-<e- >e-c-e-a- >d-<d-e-<e->
+Ch4 (CG5)
+Ch4 e-c-e-a- >c-<c-e-<e- >e-c-e-a- >d-<d-e-<e->
+Ch4 e-c-e-a- >c-<c-e-<e- >e-c-e-a- >d-<d-e-<e->
+Ch4 o5(Brass) g-8g-8g-8g-8 g-4g-4
+Ch4 g-8a-8a-8a-8 a-8a-8a-8a-8
+
+Ch5 (HH)c4 (S)c8(H3)cc (B)c(H3)c(H)c8 (S)c8(H2)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H3)c(B)c c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (B)c8(H3)cc (S)c8(H3)c(B)c c(H3)c(H)c8 (S)c8(H2)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H3)c(B)c c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (B)c8(H3)cc (S)c8(H3)c(B)c c(H3)c(H)c8 (S)c8(H2)c8
+Ch5 (B)c(H3)c(H)c8 (S)c8(H3)c(B)c c(H3)c(B)c(H3)c (S)c8(H)c8
+Ch5 (B)c8(S)c8c8c c32c32c4 <gfed
+Ch5 (B)c(H3)c(H)c8 (S)c8(H3)c(B)c (S)c(B)cc(S)c(B)cc(S)c(B)c
