@@ -1,5 +1,5 @@
 {
-    "version": "2024.09.02",
+    "version": "2024.09.08",
     "albums": [
         {
             "appleId": "1437763647",
@@ -25,6 +25,14 @@
                     "loop": 1,
                     "name": "永遠の巫女",
                     "english": "Miko of Eternity"
+                },
+                {
+                    "appleId": "1437763650",
+                    "mml": "TH01-03",
+                    "ver": 0,
+                    "loop": 1,
+                    "name": "The Positive and Negative",
+                    "english": null
                 },
                 {
                     "appleId": null,
