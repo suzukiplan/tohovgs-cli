@@ -1,0 +1,28 @@
+{
+  "version": "2025.07.04",
+  "albums": [
+    {
+      "albumId": "th06",
+      "name": "東方紅魔郷",
+      "formalName": "東方紅魔郷　〜 the Embodiment of Scarlet Devil.",
+      "copyright1": "(C)2002 上海アリス幻樂団, Composed by ZUN",
+      "copyright2": "(C)2025 SUZUKI PLAN, Arranged by Y.Suzuki",
+      "songs": [
+        {
+          "file": "th06_01.vgz",
+          "ver": 0,
+          "loop": 1,
+          "name": "赤より紅い夢",
+          "english": "A Dream that is more Scarlet than Red"
+        },
+        {
+          "file": "th06_02.vgz",
+          "ver": 0,
+          "loop": 1,
+          "name": "ほおずきみたいに紅い魂",
+          "english": "A Soul Red like Ground Cherry"
+        }
+      ]
+    }
+  ]
+}
