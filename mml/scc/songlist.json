@@ -1,5 +1,5 @@
 {
-  "version": "2025.07.04",
+  "version": "2025.07.10",
   "albums": [
     {
       "albumId": "th06",
@@ -13,6 +13,7 @@
           "ver": 0,
           "loop": 1,
           "name": "赤より紅い夢",
+          "color": "FF003366",
           "english": "A Dream that is more Scarlet than Red"
         },
         {
@@ -20,6 +21,7 @@
           "ver": 0,
           "loop": 1,
           "name": "ほおずきみたいに紅い魂",
+          "color": "FF003366",
           "english": "A Soul Red like Ground Cherry"
         }
       ]
