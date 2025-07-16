@@ -1,5 +1,5 @@
 {
-  "version": "2025.07.13",
+  "version": "2025.07.16",
   "albums": [
     {
       "albumId": "th06",
@@ -14,21 +14,28 @@
           "ver": 0,
           "loop": 1,
           "name": "赤より紅い夢",
-          "english": "A Dream that is more Scarlet than Red"
+          "english": "A dream that is scarlet than red"
         },
         {
           "file": "th06_02.vgz",
           "ver": 0,
           "loop": 1,
           "name": "ほおずきみたいに紅い魂",
-          "english": "A Soul Red like Ground Cherry"
+          "english": "A red soul, like the ground cherry"
         },
         {
           "file": "th06_03.vgz",
           "ver": 0,
           "loop": 1,
           "name": "妖魔夜行",
-          "english": "Mystics Night"
+          "english": "Mystics night"
+        },
+        {
+          "file": "th06_04.vgz",
+          "ver": 0,
+          "loop": 1,
+          "name": "ルーネイトエルフ",
+          "english": "Lunate elf"
         }
       ]
     }
