@@ -1,5 +1,5 @@
 {
-  "version": "2025.07.24",
+  "version": "2025.07.28",
   "albums": [
     {
       "albumId": "th06",
@@ -50,6 +50,13 @@
           "loop": 1,
           "name": "上海紅茶館　〜 Chinese Tea",
           "english": "Shanghai Teahouse　〜 Chinese Tea"
+        },
+        {
+          "file": "th06_07.vgz",
+          "ver": 20250728,
+          "loop": 1,
+          "name": "明治十七年の上海アリス",
+          "english": "Shanghai Alice in 1884"
         }
       ]
     }
