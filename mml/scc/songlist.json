@@ -1,5 +1,5 @@
 {
-  "version": "2025.07.28",
+  "version": "2025.08.01",
   "albums": [
     {
       "albumId": "th06",
@@ -57,6 +57,13 @@
           "loop": 1,
           "name": "明治十七年の上海アリス",
           "english": "Shanghai Alice in 1884"
+        },
+        {
+          "file": "th06_08.vgz",
+          "ver": 20250801,
+          "loop": 1,
+          "name": "ヴワル魔法図書館",
+          "english": "Voile, the Magic Library"
         }
       ]
     }
