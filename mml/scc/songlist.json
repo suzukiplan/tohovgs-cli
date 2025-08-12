@@ -1,5 +1,5 @@
 {
-  "version": "2025.08.01",
+  "version": "2025.08.12",
   "albums": [
     {
       "albumId": "th06",
@@ -64,6 +64,13 @@
           "loop": 1,
           "name": "ヴワル魔法図書館",
           "english": "Voile, the Magic Library"
+        },
+        {
+          "file": "th06_09.vgz",
+          "ver": 20250812,
+          "loop": 1,
+          "name": "ラクトガール　〜 少女密室",
+          "english": "Locked Girl　〜 the Girl's Secret Room"
         }
       ]
     }
