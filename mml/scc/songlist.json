@@ -1,5 +1,5 @@
 {
-  "version": "2025.08.12",
+  "version": "2025.08.30",
   "albums": [
     {
       "albumId": "th06",
@@ -71,6 +71,13 @@
           "loop": 1,
           "name": "ラクトガール　〜 少女密室",
           "english": "Locked Girl　〜 the Girl's Secret Room"
+        },
+        {
+          "file": "th06_10.vgz",
+          "ver": 20250830,
+          "loop": 1,
+          "name": "メイドと血の懐中時計",
+          "english": "the Maid and the Pocket Watch of Blood"
         }
       ]
     }
